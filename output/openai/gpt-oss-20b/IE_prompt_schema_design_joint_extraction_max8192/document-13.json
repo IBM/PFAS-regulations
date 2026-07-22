@@ -1,0 +1,241 @@
+{
+  "title": {
+    "value": "Senate Bill 543",
+    "provenance": "## Senate Bill 543"
+  },
+  "location": {
+    "value": "State of Oregon",
+    "provenance": "Be It Enacted by the People of the State of Oregon:"
+  },
+  "reference": {
+    "value": "Senate Bill 543",
+    "provenance": "## Senate Bill 543"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2025-01-01",
+    "provenance": "Prohibitions become operative January 1, 2025."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Food vendor"
+        ],
+        "provenance": "A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer."
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Sell",
+          "Offer for sale",
+          "Serve",
+          "Dispense"
+        ],
+        "provenance": "A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer."
+      },
+      "products": {
+        "value": [
+          "polystyrene foam container"
+        ],
+        "provenance": "A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer."
+      },
+      "exceptions": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A food vendor may not provide to a consumer a foodware container that is intended for a single use unless the foodware container: (a) Is made from fiber-based materials; (b) Has been certified as compostable under section 5 of this 2023 Act; or (c) Is included on the uniform statewide collection list established under ORS 459A.914."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Food vendor"
+        ],
+        "provenance": "A food vendor may not provide to a consumer a foodware container that is intended for a single use unless the foodware container: (a) Is made from fiber-based materials; (b) Has been certified as compostable under section 5 of this 2023 Act; or (c) Is included on the uniform statewide collection list established under ORS 459A.914."
+      },
+      "action": {
+        "value": [
+          "Provide"
+        ],
+        "provenance": "A food vendor may not provide to a consumer a foodware container that is intended for a single use unless the foodware container: (a) Is made from fiber-based materials; (b) Has been certified as compostable under section 5 of this 2023 Act; or (c) Is included on the uniform statewide collection list established under ORS 459A.914."
+      },
+      "products": {
+        "value": [
+          "single-use foodware container"
+        ],
+        "provenance": "A food vendor may not provide to a consumer a foodware container that is intended for a single use unless the foodware container: (a) Is made from fiber-based materials; (b) Has been certified as compostable under section 5 of this 2023 Act; or (c) Is included on the uniform statewide collection list established under ORS 459A.914."
+      },
+      "exceptions": {
+        "value": [
+          "Is made from fiber-based materials",
+          "Has been certified as compostable under section 5 of this 2023 Act",
+          "Is included on the uniform statewide collection list established under ORS 459A.914"
+        ],
+        "provenance": "A food vendor may not provide to a consumer a foodware container that is intended for a single use unless the foodware container: (a) Is made from fiber-based materials; (b) Has been certified as compostable under section 5 of this 2023 Act; or (c) Is included on the uniform statewide collection list established under ORS 459A.914."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A person may not sell, offer for sale or distribute in or into this state polystyrene foam containers or polystyrene foam packaging peanuts."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A person may not sell, offer for sale or distribute in or into this state polystyrene foam containers or polystyrene foam packaging peanuts."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "A person may not sell, offer for sale or distribute in or into this state polystyrene foam containers or polystyrene foam packaging peanuts."
+      },
+      "products": {
+        "value": [
+          "polystyrene foam container",
+          "polystyrene foam packaging peanuts"
+        ],
+        "provenance": "A person may not sell, offer for sale or distribute in or into this state polystyrene foam containers or polystyrene foam packaging peanuts."
+      },
+      "exceptions": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "products": {
+        "value": [
+          "foodware container containing perfluoroalkyl or polyfluoroalkyl substances"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "exceptions": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "The Department of Environmental Quality shall establish a certification program for compostable products."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "The Department of Environmental Quality shall establish a certification program for compostable products."
+      },
+      "action": {
+        "value": [
+          "Certify that products sold or offered for sale in this state are compostable"
+        ],
+        "provenance": "The Department of Environmental Quality shall establish a certification program for compostable products."
+      },
+      "products": {
+        "value": [
+          "compostable products"
+        ],
+        "provenance": "The Department of Environmental Quality shall establish a certification program for compostable products."
+      },
+      "exceptions": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

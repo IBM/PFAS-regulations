@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "PFAS Consumer Protection Law",
+    "provenance": "Section 1. This Act may be referred to as the PFAS Consumer Protection Law."
+  },
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "reference": {
+    "value": "SB0088",
+    "provenance": "SB0088\n\nIntroduced 1/20/2023, by Sen. Laura Fine"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Introduced 1/20/2023, by Sen. Laura Fine"
+  },
+  "date": {
+    "value": "2023-01-20",
+    "provenance": "Introduced 1/20/2023, by Sen. Laura Fine"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "\"PFAS chemical\" means any of the perfluoroalkyl substances or polyfluoroalkyl substances included in the United States Environmental Protection Agency's expanded ToxCast chemical inventory."
+  }
+}

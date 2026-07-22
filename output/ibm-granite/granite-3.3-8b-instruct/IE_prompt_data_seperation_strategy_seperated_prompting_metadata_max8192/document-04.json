@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An Act To enact R.S. 40:1615, relative to fire fighting foam; to provide for the discharge of Class B fire fighting foam containing fluorinated organic chemicals; to provide for exceptions; to provide for definitions; to provide for applicability; to provide for an effective date; and to provide for related matters.",
+    "provenance": "AN ACT To enact R.S. 40:1615, relative to fire fighting foam; to provide for the discharge of Class B fire fighting foam containing fluorinated organic chemicals; to provide for exceptions; to provide for definitions; to provide for applicability; to provide for an effective date; and to provide for related matters."
+  },
+  "location": {
+    "value": "Louisiana",
+    "provenance": "2021 Regular Session, House Bill No. 389, Prefiled pursuant to Article III, Section 2(A)(4)(b)(i) of the Constitution of Louisiana."
+  },
+  "reference": {
+    "value": "H.B. 389",
+    "provenance": "House Bill No. 389"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "This Act shall become effective upon signature by the governor or, if not signed by the governor, upon expiration of the time for bills to become law without signature by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "The document does not explicitly provide an effective date, only stating 'On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals' and 'This Act shall become effective upon signature of governor or lapse of time for gubernatorial action.'"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "PFAS chemicals means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, including perfluoroalkyl and polyfluoroalkyl substances, and designed to be fully functional in Class B fire fighting foam formulations."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits person from selling or distributing foodware containers containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute",
+          "Offer for sale"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "products": {
+        "value": [
+          "Foodware containers containing perfluoroalkyl or polyfluoroalkyl substances"
+        ],
+        "provenance": "Prohibits person from selling or distributing foodware containers containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "No exceptions mentioned in the document."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use' in the document."
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "No mention of 'intentionally added' in the document."
+      }
+    }
+  ]
+}

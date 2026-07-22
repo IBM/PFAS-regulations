@@ -1,0 +1,85 @@
+{
+  "title": {
+    "value": "ASSEMBLY BILL NO. 97"
+  },
+  "location": {
+    "value": "Nevada"
+  },
+  "reference": {
+    "value": "A.B. 97"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2021-02-08"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User",
+          "Person",
+          "State agency",
+          "Local government"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Discharge",
+          "Use",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam",
+          "children's product",
+          "upholstered residential furniture",
+          "residential textile",
+          "business textile",
+          "mattress"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "preempted by federal law",
+          "for military purposes",
+          "for testing or firefighting training purposes with proper containment and disposal measures",
+          "flame-retardant organohalogenated chemical that is a polymeric substance or has a determination of safety",
+          "sale or offer for sale of previously owned products",
+          "electronic components",
+          "products with federal or national flammability standards",
+          "thread or fiber for stitching mattress components",
+          "components of adult mattresses other than foam"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

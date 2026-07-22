@@ -1,0 +1,46 @@
+
+
+New Hampshire-2024-HB465-Introduced
+2023 SESSION
+23-0506
+08/05
+HOUSE BILL 465-FN
+AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.
+SPONSORS: Rep. Ebel, Merr. 7; Rep. Rung, Hills. 12; Rep. N. Murphy, Hills. 12; Rep. Grote, Rock. 24; Rep. Malloy, Rock. 24; Rep. Mooney, Hills. 12; Rep. Dunn, Rock. 16; Rep. B. Boyd, Hills. 12; Rep. Merner, Coos 1; Sen. Watters, Dist 4; Sen. Chandley, Dist 11; Sen. Ricciardi, Dist 9; Sen. Perkins Kwoka, Dist 21; Sen. Prentiss, Dist 5
+COMMITTEE: Commerce and Consumer Affairs
+-----------------------------------------------------------------
+ANALYSIS
+This bill restricts the use of per and polyfluoroalkyl substances in rugs, carpets, and aftermarket stain and water resistant treatments sold in New Hampshire.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Explanation: Matter added to current law appears in bold italics.
+Matter removed from current law appears [in brackets and struckthrough.]
+Matter which is either (a) all new or (b) repealed and reenacted appears in regular type.
+23-0506
+08/05
+STATE OF NEW HAMPSHIRE
+In the Year of Our Lord Two Thousand Twenty Three
+AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+1  New Section; Consumer Protection; Per and Polyfluoroalkyl Substance Use Restricted.  Amend RSA 149-M by inserting after
+section 63 the following new section:
+149-M:64  Consumer Products; Per and Polyfluoroalkyl Substance Use Restricted.
+I.  In this section:
+(a) 'Aftermarket stain and water resistant treatments' means treatments for textile and leather consumer products used in residential settings that have been treated during the manufacturing process for stain, oil, and water resistance but excludes products marketed or sold exclusively for use at industrial facilities during the manufacture of a carpet, rug, clothing, or shoe.
+(b)  'Department' means the department of environmental services.
+New Hampshire-2024-HB465-Introduced(c)  'Intentionally added' means the addition of a chemical in a product that serves an intended function in the product component.
+(d)  'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.
+(e)  'Rug or carpet' means a thick fabric used to cover floors.
+II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount.
+(b)  This paragraph shall not apply to the sale or resale of used products.
+III.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount.
+(b)  This paragraph shall not apply to the sale or resale of used products.
+AS INTRODUCED
+AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.
+FISCAL IMPACT:
+[ X ] State
+[ X ] County
+[ X ] Local
+[ ] None
+METHODOLOGY:
+This bill restricts the use of per and polyfluoroalkyl substances in rugs, carpets, and after market stain and water resistant treatments sold in New Hampshire.
+Because the Department of Environmental Services is responsible for enforcing this statute, as well as promulgating the administrative rules, the Department assumes it would also be responsible for administering this ban. The ban would require the Department to regulate the manufacturing and retail sectors for carpeting, which represents a new responsibility that is outside the scope of it's current solid waste regulatory programs. The Department provided the following information and assumptions concerning the fiscal impact of the bill:

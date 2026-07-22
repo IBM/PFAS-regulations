@@ -1,0 +1,51 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Existing law prohibits, beginning January 1, 2023, any person from distributing, selling, or offering for sale in the state any food packaging that contains regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS, and requires a manufacturer to use the least toxic alternative when replacing regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS in food packaging to comply with this requirement."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+      },
+      "products": {
+        "value": [
+          "textile articles"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+      },
+      "exceptions": {
+        "value": [
+          "Outdoor apparel for severe wet conditions until January 1, 2028"
+        ],
+        "provenance": "Paragraph (1) does not apply to outdoor apparel for severe wet conditions until January 1, 2028."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product, including the PFAS components of intentionally added chemicals and PFAS that are intentional breakdown products of an added chemical that also have a functional or technical effect in the product."
+      }
+    }
+  ]
+}

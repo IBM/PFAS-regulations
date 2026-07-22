@@ -1,0 +1,68 @@
+{
+  "title": {
+    "value": "PFAS Consumer Protection Law",
+    "provenance": "Section 1. This Act may be referred to as the PFAS Consumer Protection Law."
+  },
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "reference": {
+    "value": "SB0088",
+    "provenance": "SB0088"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Provides that the amendatory Act may be referred to as the Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law."
+  },
+  "date": {
+    "value": "2023-01-20",
+    "provenance": "Introduced 1/20/2023, by Sen. Laura Fine"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "not specified"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "On and after January 1, 2025"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Importer"
+      ],
+      "action": [
+        "Sell",
+        "Offer for sale",
+        "Distribute for sale",
+        "Distribute for use"
+      ],
+      "products": [
+        "Carpets or rugs",
+        "Fabric treatments",
+        "Food packaging",
+        "Juvenile products",
+        "Oil and gas products",
+        "Cosmetics",
+        "Indoor textile furnishings",
+        "Indoor upholstered furniture"
+      ],
+      "exceptions": [
+        "Cookware that contains an intentionally added PFAS chemical in the handle of the product or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages and meets specific requirements"
+      ],
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

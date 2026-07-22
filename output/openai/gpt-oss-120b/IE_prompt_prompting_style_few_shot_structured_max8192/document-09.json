@@ -1,0 +1,124 @@
+{
+  "title": {
+    "value": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.",
+    "provenance": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products."
+  },
+  "location": {
+    "value": "New Hampshire",
+    "provenance": "STATE OF NEW HAMPSHIRE"
+  },
+  "reference": {
+    "value": "HOUSE BILL 465-FN",
+    "provenance": "HOUSE BILL 465-FN"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "HOUSE BILL 465-FN"
+  },
+  "date": {
+    "value": "2023-08-05",
+    "provenance": "08/05"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount."
+      },
+      "date": {
+        "value": "2025-07-01",
+        "provenance": "This act shall take effect July 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "A manufacturer, supplier, or distributor shall not ..."
+      },
+      "action": {
+        "value": [
+          "manufacture",
+          "sell",
+          "offer for sale",
+          "distribute for sale",
+          "distribute for use"
+        ],
+        "provenance": "shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use"
+      },
+      "products": {
+        "value": [
+          "rug or carpet"
+        ],
+        "provenance": "'rug or carpet' means a thick fabric used to cover floors."
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of used products"
+        ],
+        "provenance": "(b)  This paragraph shall not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Intentionally added' means the addition of a chemical in a product that serves an intended function in the product component."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "III.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount."
+      },
+      "date": {
+        "value": "2025-07-01",
+        "provenance": "This act shall take effect July 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "A manufacturer, supplier, or distributor shall not ..."
+      },
+      "action": {
+        "value": [
+          "manufacture",
+          "sell",
+          "offer for sale",
+          "distribute for sale",
+          "distribute for use"
+        ],
+        "provenance": "shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use"
+      },
+      "products": {
+        "value": [
+          "aftermarket stain and water resistant treatments for rugs or carpets"
+        ],
+        "provenance": "'Aftermarket stain and water resistant treatments' means treatments for textile and leather consumer products used in residential settings ..."
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of used products"
+        ],
+        "provenance": "(b)  This paragraph shall not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Intentionally added' means the addition of a chemical in a product that serves an intended function in the product component."
+      }
+    }
+  ]
+}

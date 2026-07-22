@@ -1,0 +1,115 @@
+{
+    "title": {
+        "value": "AN ACT concerning Environment – Playground Surfacing Materials – Prohibitions",
+        "provenance": "AN ACT concerning Environment – Playground Surfacing Materials – Prohibitions"
+    },
+    "location": {
+        "value": "Maryland",
+        "provenance": "SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND"
+    },
+    "reference": {
+        "value": "HOUSE BILL 1147",
+        "provenance": "HOUSE BILL 1147"
+    },
+    "status": {
+        "value": "Bill",
+        "provenance": "A BILL ENTITLED"
+    },
+    "date": {
+        "value": "2024-02-07",
+        "provenance": "Introduced and read first time: February 7, 2024"
+    },
+    "pfas_definition": {
+        "value": "single_fluorinated_carbon",
+        "provenance": "FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; "
+    },
+    "regulations": [
+        {
+            "type": {
+                "value": "Ban/Restrict",
+                "provenance": "(A) ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (1) MORE THAN 90 PARTS PER MILLION OF LEAD; (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND (3) MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH. "
+            },
+            "date": {
+                "value": "2024-10-01",
+                "provenance": "SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2024."
+            },
+            "who": {
+                "value": [
+                    "person"
+                ],
+                "provenance": "(A) ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (1) MORE THAN 90 PARTS PER MILLION OF LEAD; (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND (3) MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH. "
+            },
+            "action": {
+                "value": [
+                    "Use",
+                    "supply",
+                    "sell",
+                    "solicit",
+                    "offer for sale"
+                ],
+                "provenance": "(A) ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (1) MORE THAN 90 PARTS PER MILLION OF LEAD; (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND (3) MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH. "
+            },
+            "products": {
+                "value": [
+                    "playground surfacing materials"
+                ],
+                "provenance": "(A) ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (1) MORE THAN 90 PARTS PER MILLION OF LEAD; (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND (3) MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH. "
+            },
+            "exceptions": {
+                "value": null,
+                "provenance": null
+            },
+            "currently_unavoidable": {
+                "value": false,
+                "provenance": null
+            },
+            "intentionally_added": {
+                "value": false,
+                "provenance": null
+            }
+        },
+        {
+            "type": {
+                "value": "Label",
+                "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE TO ATTEST THAT THE PLAYGROUND SURFACING MATERIALS ARE IN COMPLIANCE WITH THE REQUIREMENTS OF THIS SUBTITLE."
+            },
+            "date": {
+                "value": "2024-10-01",
+                "provenance": "SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2024."
+            },
+            "who": {
+                "value": [
+                    "manufacturer"
+                ],
+                "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE TO ATTEST THAT THE PLAYGROUND SURFACING MATERIALS ARE IN COMPLIANCE WITH THE REQUIREMENTS OF THIS SUBTITLE."
+            },
+            "action": {
+                "value": [
+                    "manufactures",
+                    "sells",
+                    "offers for sale",
+                    "distributes for use"
+                ],
+                "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE TO ATTEST THAT THE PLAYGROUND SURFACING MATERIALS ARE IN COMPLIANCE WITH THE REQUIREMENTS OF THIS SUBTITLE."
+            },
+            "products": {
+                "value": [
+                    "playground surfacing materials"
+                ],
+                "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE TO ATTEST THAT THE PLAYGROUND SURFACING MATERIALS ARE IN COMPLIANCE WITH THE REQUIREMENTS OF THIS SUBTITLE."
+            },
+            "exceptions": {
+                "value": null,
+                "provenance": null
+            },
+            "currently_unavoidable": {
+                "value": false,
+                "provenance": null
+            },
+            "intentionally_added": {
+                "value": false,
+                "provenance": null
+            }
+        }
+    ]
+}

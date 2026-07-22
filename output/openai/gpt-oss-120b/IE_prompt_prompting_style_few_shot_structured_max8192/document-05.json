@@ -1,0 +1,75 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 652",
+    "provenance": "Assembly Bill No. 652"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "AB 652",
+    "provenance": "AB 652, Friedman.  Product  safety:  juvenile  products:  chemicals: perfluoroalkyl and polyfluoroalkyl substances."
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Assembly Bill No. 652"
+  },
+  "date": {
+    "value": "2021-10-05",
+    "provenance": "[Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a  class  of  fluorinated  organic  chemicals  containing  at  least  one  fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ],
+        "provenance": "a person, including, but not limited to, a manufacturer"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "products": {
+        "value": [
+          "juvenile product"
+        ],
+        "provenance": "any new, not previously owned, juvenile product that contains regulated PFAS chemicals"
+      },
+      "exceptions": {
+        "value": [
+          "children's electronic product",
+          "medical device",
+          "internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product",
+          "adult mattress"
+        ],
+        "provenance": "A children's electronic product...; A medical device.; An internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product.; An adult mattress."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(1) PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product, including, but not limited to, the PFAS components of intentionally added chemicals..."
+      }
+    }
+  ]
+}

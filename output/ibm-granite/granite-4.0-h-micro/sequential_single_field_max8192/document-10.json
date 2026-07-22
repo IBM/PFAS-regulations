@@ -1,0 +1,48 @@
+{
+  "title": {
+    "value": "Toxic Packaging Reduction Act",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "location": {
+    "value": "Rhode Island",
+    "provenance": "State of Rhode Island"
+  },
+  "reference": {
+    "value": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "sections": {
+    "1": {
+      "value": "No package or packaging component shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state, which includes, in the package itself or in any packaging component, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements.",
+      "provenance": "(a) No package or packaging component shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state, which includes, in the package itself or in any packaging component, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements."
+    },
+    "2": {
+      "value": "No product shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state in a package which includes, in the package itself or in any of its packaging components, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements.",
+      "provenance": "(b) No product shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state in a package which includes, in the package itself or in any of its packaging components, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements."
+    },
+    "3": {
+      "value": "The sum on the concentration levels of lead, cadmium, mercury and hexavalent chromium present in any package or packaging component shall not exceed 100 parts per million by weight (0.01%).",
+      "provenance": "(c) The sum on the concentration levels of lead, cadmium, mercury and hexavalent chromium present in any package or packaging component shall not exceed 100 parts per million by weight (0.01%)."
+    },
+    "4": {
+      "value": "Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state.",
+      "provenance": "(d) Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+    },
+    "5": {
+      "value": "The provisions of \u00a7 23-18.13-3(g)(3) shall sunset on July 1, 2027.",
+      "provenance": "(e) No substitute material used to replace a chemical regulated by this chapter in a package or packaging component may be used in a quantity or manner that creates a hazard as great as or greater than the hazard created by the chemical regulated by this act. The certificate of compliance required by \u00a7 23-18.13-6 shall require an assurance to this effect. (f) Interstate clearinghouse. The department is authorized to participate in the establishment and implementation of a regional or national, multi-state clearinghouse to assist in carrying out the requirements of this chapter and to help coordinate reviews of the regulatory applicability, certificates of compliance, education and outreach activities, and any other related functions. The clearinghouse may also maintain reports on the effectiveness of the program, certificates of analysis and compliance for product packaging. SECTION 2. Chapter 23-18.13 of the General Laws entitled \"Toxic Packaging Reduction Act\" is hereby amended by adding thereto the following section: 23-18.13-13. Sunset. The provisions of \u00a7 23-18.13-3(g)(3) shall sunset on July 1, 2027. SECTION 3. This act shall take effect upon passage."
+    }
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "date": {
+    "value": "January 1, 2024",
+    "provenance": "(d) Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+  },
+  "pfas_definition": {
+    "value": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.",
+    "provenance": "23-18.13-4(g)(1) The use of PFAS in the formulation of a package or packaging component where its continued presence is desired in the final package or packaging component to provide a specific characteristic, appearance, or quality."
+  }
+}

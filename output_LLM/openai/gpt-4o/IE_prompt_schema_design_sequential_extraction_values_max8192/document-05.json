@@ -1,0 +1,61 @@
+{
+  "title": {
+    "value": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety."
+  },
+  "location": {
+    "value": "State of California"
+  },
+  "reference": {
+    "value": "AB 652"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2021-10-05"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2023-07-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "Juvenile product"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "A children's electronic product, including, but not limited to, a personal computer, audio and video equipment, calculator, wireless phone, game console, handheld device incorporating a video screen, or any associated peripheral such as a mouse, keyboard, power supply unit, or power cord.",
+          "A medical device.",
+          "An internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product.",
+          "An adult mattress."
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

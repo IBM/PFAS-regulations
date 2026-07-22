@@ -1,0 +1,95 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS",
+    "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS."
+  },
+  "location": {
+    "value": "Connecticut",
+    "provenance": "State of Connecticut"
+  },
+  "reference": {
+    "value": "Public Act No. 24-59",
+    "provenance": "Public Act No. 24-59"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved June 5, 2024"
+  },
+  "date": {
+    "value": "2024-06-05",
+    "provenance": "Approved June 5, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Subd. 5. Prohibitions"
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "On and after January 1, 2026"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller",
+          "User"
+        ],
+        "provenance": "No person shall manufacture, sell, offer for sale or distribute for sale in this state any ... unless the manufacturer provides prior notification ..."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "No person shall manufacture, sell, offer for sale or distribute for sale in this state any ... if the product contains intentionally added PFAS"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishing",
+          "ski wax",
+          "upholstered furniture",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "No person shall manufacture, sell, offer for sale or distribute for sale in this state any ... apparel; carpet or rug; cleaning product; cookware; cosmetic product; dental floss; fabric treatment; children's product; menstruation product; textile furnishing; ski wax; upholstered furniture or outdoor apparel for severe wet conditions if such product contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "product for which federal law governs or requires the presence of PFAS in the product in a manner that preempts state authority",
+          "product regulated under section 22a-903a or 22a-255i of the general statutes",
+          "sale or resale of a used product",
+          "prosthetic, orthotic device or product that is a medical device or drug or that is otherwise used in a medical setting or in medical applications regulated by the United States Food and Drug Administration",
+          "product made with not less than eighty-five per cent recycled content",
+          "product manufactured prior to any prohibition imposed by the provisions of this section",
+          "replacement parts for any product manufactured prior to any prohibition imposed by the provisions of this section"
+        ],
+        "provenance": "Notwithstanding any provision of this section, if a cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS that is attributable to impurities of natural or synthetic ingredients, the manufacturing process, storage or migration from packaging, such unavoidable trace quantity shall not cause the cosmetic product to be in violation of this section. For purposes of this subsection, \"ingredient\" has the same meaning as provided in 21 CFR 700.3 and does not include any incidental ingredient as defined in 21 CFR 700.3."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added PFAS"
+      }
+    }
+  ]
+}

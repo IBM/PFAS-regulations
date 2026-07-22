@@ -1,0 +1,90 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ],
+        "provenance": "a person, including, but not limited to, a manufacturer"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "shall not sell or distribute in commerce"
+      },
+      "products": {
+        "value": [
+          "Juvenile product"
+        ],
+        "provenance": "any new, not previously owned, juvenile product"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": ""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": ""
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Regulated perfluoroalkyl and polyfluoroalkyl substances' or 'regulated PFAS' means either of the following: (1) PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product..."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A manufacturer shall use the least toxic alternative when replacing PFAS chemicals in a juvenile product in accordance with this chapter."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A manufacturer"
+      },
+      "action": {
+        "value": [
+          "Use least toxic alternative"
+        ],
+        "provenance": "shall use the least toxic alternative when replacing PFAS chemicals"
+      },
+      "products": {
+        "value": [
+          "Juvenile product"
+        ],
+        "provenance": "in a juvenile product"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": ""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": ""
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Regulated perfluoroalkyl and polyfluoroalkyl substances' or 'regulated PFAS' means either of the following: (1) PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product..."
+      }
+    }
+  ]
+}

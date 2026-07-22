@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "SECTION 3. A person may not sell, offer for sale or distribute in or into this state polystyrene foam containers or polystyrene foam packaging peanuts."
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2023",
+    "provenance": "sections 1 to 4 of this 2023 Act"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

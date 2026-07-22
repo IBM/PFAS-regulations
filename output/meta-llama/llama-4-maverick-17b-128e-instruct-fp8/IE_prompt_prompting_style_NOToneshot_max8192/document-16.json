@@ -1,0 +1,91 @@
+{
+  "title": {
+    "value": "House Bill 3512",
+    "provenance": "House Bill 3512"
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "State of Oregon"
+  },
+  "reference": {
+    "value": "HB 3512",
+    "provenance": "HB 3512"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2027-01-01",
+    "provenance": "SECTION 5. Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(16) 'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, also commonly known as PFAS."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 2. (1) A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "SECTION 5. Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "SECTION 2. (1) A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "SECTION 2. (1) A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "products": {
+        "value": [
+          "Aqueous film-forming foam",
+          "Artificial turf",
+          "Cleaning products",
+          "Carpets or rugs",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments",
+          "Packaging",
+          "Juvenile products",
+          "Menstrual products",
+          "Refrigerators",
+          "Textile articles",
+          "Ski wax"
+        ],
+        "provenance": "(7) 'Covered product' means any of the following products, including any of the products' components: (a) Aqueous film-forming foam; (b) Artificial turf; (c) Cleaning products; (d) Carpets or rugs; (e) Cookware; (f) Cosmetics; (g) Dental floss; (h) Fabric treatments; (i) Packaging; (j) Juvenile products; (k) Menstrual products; (L) Refrigerators; (m) Textile articles; or (n) Ski wax."
+      },
+      "exceptions": {
+        "value": [
+          "Used covered products",
+          "Consumer electronic product",
+          "Medical device",
+          "Mattress designed for use by an adult"
+        ],
+        "provenance": "(3) This section does not apply to the sale or resale of used covered products. (11)(b) 'Juvenile product' does not include: (A) A consumer electronic product, including but not limited to a personal computer, audio and video equipment, calculator, wireless phone, game console, handheld device incorporating a video screen or any associated peripheral such as a mouse, keyboard, power supply unit or power cord. (B) A medical device. (C) A mattress designed for use by an adult."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "SECTION 2. (1) A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      }
+    }
+  ]
+}

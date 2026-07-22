@@ -1,0 +1,22 @@
+
+/321Definitions. For the purposes of this part:
+"Class B firefighting foam" means foams designed to suppress flammable liquid fires.
+"Food packaging" means a package or packaging component that is applied to or in direct contact with any food or beverage and is comprised, in substantial part, of paper, paperboard, or other materials originally derived from plant fibers.
+"Intentionally introduced" means deliberately utilized PFAS in the formulation of a package or packaging component where the continued presence of the PFAS is desired in the final package or packaging component to provide a specific characteristic, appearance, or quality.
+"Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.
+/321Food packaging; prohibited items. (a)  Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS
+chemicals have been intentionally introduced in any amount.(b)  The prohibition under this section shall apply to wraps and liners, plates, food boats, and pizza boxes.
+/321Class B firefighting foam; prohibited items. (a) Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire.
+(b)  Beginning July 1, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for training or testing purposes in the State any class B firefighting foam that contains intentionally introduced PFAS chemicals.
+(c)  This section shall not apply to the manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS chemicals is required by federal law or regulations; provided that if applicable federal law or regulations are amended after the effective date of this Act to allow the use of alternative firefighting agents that do not contain PFAS chemicals, the department may adopt rules that restrict PFAS chemicals for the manufacture, sale, and distribution of firefighting foam for uses that are addressed by the federal law or regulation.
+/321-     Manufacturers of class B firefighting foam; prohibitions; certificate of compliance; penalty. (a) A manufacturer of class B firefighting foam prohibited by this part shall notify, in writing and no later than January 1, 2023, persons that sell the manufacturer's products in the State about the
+requirements of this part.
+(b)  A manufacturer that produces, sells, or distributes a class B firefighting foam prohibited by this part shall recall the product and reimburse the retailer or any other purchaser for the product.
+(c)  The department may request a certificate of compliance from a manufacturer of class B firefighting foam that attests that a manufacturer's product or products meets the requirements of this part.
+(d)  Any manufacturer of class B firefighting foam violating this part or any rule adopted pursuant to this part shall be subject to an administrative fine not to exceed:
+(1)  $5,000 for a first violation; and
+(2)  $10,000 for any subsequent violation.
+/321Rules. The department may adopt rules pursuant to chapter 91 necessary to implement this part."
+Description:
+Bans the manufacture, sale, or distribution for sale or use of wraps and liners, plates, food boats, pizza boxes, and firefighting foams that contain perfluoroalkyl and polyfluoroalkyl substances, in certain circumstances.  (CD1)
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

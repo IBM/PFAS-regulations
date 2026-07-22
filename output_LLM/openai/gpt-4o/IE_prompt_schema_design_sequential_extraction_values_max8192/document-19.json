@@ -1,0 +1,190 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS"
+  },
+  "location": {
+    "value": "General Assembly"
+  },
+  "reference": {
+    "value": "Substitute Senate Bill No. 292"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2024-06-05"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2026-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "outdoor apparel for severe wet conditions",
+          "turnout gear"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2026-07-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishing",
+          "ski wax",
+          "upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2028-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "turnout gear",
+          "carpets or rugs",
+          "cleaning products",
+          "cookware",
+          "cosmetic products",
+          "dental floss",
+          "fabric treatments",
+          "children's products",
+          "menstruation products",
+          "textile furnishings",
+          "ski wax",
+          "upholstered furniture",
+          "outdoor apparel for severe wet conditions"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-10-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "biosolids",
+          "wastewater sludge"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "title": {
+    "value": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.",
+    "provenance": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products."
+  },
+  "location": {
+    "value": "New Hampshire",
+    "provenance": "This bill restricts the use of per and polyfluoroalkyl substances in rugs, carpets, and aftermarket stain and water resistant treatments sold in New Hampshire."
+  },
+  "reference": {
+    "value": "HB 465-FN",
+    "provenance": "HB 465-FN - AS INTRODUCED"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "This bill restricts the use of per and polyfluoroalkyl substances in rugs, carpets, and aftermarket stain and water resistant treatments sold in New Hampshire. "
+  },
+  "date": {
+    "value": "2023-08-05",
+    "provenance": "2023 SESSION 23-0506 08/05"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "“Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom. "
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill restricts the use of per and polyfluoroalkyl substances in rugs, carpets, and after market stain and water resistant treatments sold in New Hampshire."
+      },
+      "date": {
+        "value": "2025-07-01",
+        "provenance": "Effective Date. This act shall take effect July 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Supplier"
+        ],
+        "provenance": "A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount. A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount. A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount."
+      },
+      "products": {
+        "value": [
+          "Rug",
+          "Carpet"
+        ],
+        "provenance": "A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount. A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount."
+      },
+      "exceptions": {
+        "value": [
+          "products used only at industrial facilities",
+          "sale or resale of used products"
+        ],
+        "provenance": "excludes products marketed or sold exclusively for use at industrial facilities during the manufacture of a carpet, rug, clothing, or shoe. This paragraph shall not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount."
+      }
+    }
+  ]
+}

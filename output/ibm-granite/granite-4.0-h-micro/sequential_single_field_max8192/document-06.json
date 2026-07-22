@@ -1,0 +1,50 @@
+{
+  "title": {
+    "value": "AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "BY adding to - Article - Environment Section 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, That the Laws of Maryland read as follows: ... SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2024."
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "Annotated Code of Maryland"
+  },
+  "reference": {
+    "value": "An Act concerning Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, That the Laws of Maryland read as follows: ... 6-16A-01. [ Brackets indicate matter deleted from existing law. ]"
+  },
+  "6-16A-01": {
+    "value": "FOR the purpose of prohibiting, on or after a certain date, a person from using, supplying, selling, soliciting, or offering for sale playground surfacing materials that contain certain concentrations of certain chemicals for the construction or renovation of the ground surface of a playground in the State; prohibiting a county, municipality, or unit of local government from adopting any ordinance, rule, or regulation related to the use of certain playground surfacing materials that is less stringent than the requirements of this Act; requiring a certain manufacturer to establish and provide to the Department of the Environment a certain certificate of compliance under certain circumstances; and generally relating to playground surfacing materials.",
+    "provenance": "A BILL ENTITLED AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions FOR the purpose of prohibiting, on or after a certain date, a person from using, supplying, selling, soliciting, or offering for sale playground surfacing materials that contain certain concentrations of certain chemicals for the construction or renovation of the ground surface of a playground in the State; prohibiting a county, municipality, or unit of local government from adopting any ordinance, rule, or regulation related to the use of certain playground surfacing materials that is less stringent than the requirements of this Act; requiring a certain manufacturer to establish and provide to the Department of the Environment a certain certificate of compliance under certain circumstances; and generally relating to playground surfacing materials."
+  },
+  "6-16A-02": {
+    "value": "EXCEPT AS PROVIDED IN THIS SECTION, THIS SUBTITLE DOES NOT LIMIT THE POWER OF A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT TO ADOPT ORDINANCES, RULES, OR REGULATIONS RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD.",
+    "provenance": "6-16A-02. (A) EXCEPT AS PROVIDED IN THIS SECTION, THIS SUBTITLE DOES NOT LIMIT THE POWER OF A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT TO ADOPT ORDINANCES, RULES, OR REGULATIONS RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD."
+  },
+  "6-16A-03": {
+    "value": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (1) MORE THAN 90 PARTS PER MILLION OF LEAD; (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND (3) MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH.",
+    "provenance": "6-16A-03. (A) ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (1) MORE THAN 90 PARTS PER MILLION OF LEAD; (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND (3) MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH."
+  },
+  "6-16A-04": {
+    "value": "THE DEPARTMENT MAY ADOPT REGULATIONS TO CARRY OUT THIS SUBTITLE.",
+    "provenance": "6-16A-04. THE DEPARTMENT MAY ADOPT REGULATIONS TO CARRY OUT THIS SUBTITLE."
+  },
+  "6-16A-05": {
+    "value": "EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, THE PROVISIONS OF \u00a7\u00a7 9-334 THROUGH 9-341 AND 9-343 THROUGH 9-344 OF THIS ARTICLE APPLY TO ENFORCE VIOLATIONS OF: (1) THIS SUBTITLE; (2) ANY REGULATION ADOPTED UNDER THIS SUBTITLE; OR (3) ANY ORDER ISSUED UNDER THIS SUBTITLE.",
+    "provenance": "6-16A-05. (A) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, THE PROVISIONS OF \u00a7\u00a7 9-334 THROUGH 9-341 AND 9-343 THROUGH 9-344 OF THIS ARTICLE APPLY TO ENFORCE VIOLATIONS OF: (1) THIS SUBTITLE; (2) ANY REGULATION ADOPTED UNDER THIS SUBTITLE; OR (3) ANY ORDER ISSUED UNDER THIS SUBTITLE."
+  },
+  "6-16A-05_Penalties": {
+    "value": "A PERSON WHO VIOLATES THIS SUBTITLE IS SUBJECT TO: (1) A CIVIL PENALTY UP TO $2,500 FOR EACH VIOLATION; OR (2) AN ADMINISTRATIVE PENALTY UP TO $2,500 FOR EACH VIOLATION, BUT NOT EXCEEDING $100,000 TOTAL.",
+    "provenance": "6-16A-05. (A) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, THE PROVISIONS OF \u00a7\u00a7 9-334 THROUGH 9-341 AND 9-343 THROUGH 9-344 OF THIS ARTICLE APPLY TO ENFORCE VIOLATIONS OF: (1) THIS SUBTITLE; (2) ANY REGULATION ADOPTED UNDER THIS SUBTITLE; OR (3) ANY ORDER ISSUED UNDER THIS SUBTITLE. (B) A PERSON WHO VIOLATES THIS SUBTITLE IS SUBJECT TO: (1) A CIVIL PENALTY UP TO $2,500 FOR EACH VIOLATION; OR (2) AN ADMINISTRATIVE PENALTY UP TO $2,500 FOR EACH VIOLATION, BUT NOT EXCEEDING $100,000 TOTAL."
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "HOUSE BILL 1147"
+  },
+  "date": {
+    "value": "October 1, 2024",
+    "provenance": "6-16A-03. (A) ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "SECTION 6-16A-03(A)(2) PFAS SUBSTANCES"
+  }
+}

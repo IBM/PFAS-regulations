@@ -1,0 +1,58 @@
+{
+  "title": {
+    "value": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+  },
+  "location": {
+    "value": "State of New York"
+  },
+  "reference": {
+    "value": "4525--A"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2025-02-04"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-02-04"
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays",
+          "anti-fogging wipes"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Seller may not be held in violation if they can show in good faith reliance on a written assurance (certificate of compliance) from the manufacturer that the product meets the requirements of this section"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

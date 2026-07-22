@@ -1,0 +1,58 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits food vendor from using polystyrene foam container in sales of prepared food. Prohibits food  vendor  from  providing  single-use  foodware  containers  to  consumer  unless  foodware  containers meet  certain  criteria. Prohibits  person  from  selling  or  distributing  polystyrene  foam  containers  or  polystyrene  foam packaging peanuts. Prohibits  person  from  selling  or  distributing  foodware  containers  containing  perfluoroalkyl  or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Provisions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "food vendor",
+          "person",
+          "city, county or metropolitan service district",
+          "retailer",
+          "producer or renovator",
+          "stewardship organization",
+          "food vendor"
+        ],
+        "provenance": "A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer. A food vendor may not provide to a consumer a foodware container that is intended for a single use unless the foodware container: Is made from fiber-based materials; Has been certified as compostable under section 5 of this 2023 Act; Is included on the uniform statewide collection list established under ORS 459A.914. A person may not sell, offer for sale or distribute in or into this state polystyrene foam containers or polystyrene foam packaging peanuts. A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances. The Department of Environmental Quality shall establish a certification program for compostable products. Any person who violates ORS 459.205, 459.270, 459.272, 459.386 to 459.405, 459.705 to 459.790, 459A.005 to 459A.620, 459A.310 to 459A.335, 459A.860 to 459A.975 or 646A.080, or any rule or order of the Environmental Quality Commission pertaining to the disposal, collection, storage or reuse or recycling of solid wastes, as defined by ORS 459.005, or any rule or order pertaining to the disposal, storage or transportation of waste tires, as defined by ORS 459.705, or any rule or order pertaining to the sale of novelty items that contain encapsulated liquid mercury, incurs a civil penalty not to exceed $25,000 per day for each day of the violation. Any person who violates the provisions of ORS 459.420 to 459.426 incurs a civil penalty not to exceed $500 for each violation. Any city, county or metropolitan service district that fails to provide the opportunity to recycle as required under ORS 459A.005 incurs a civil penalty not to exceed $500 for each violation. Any person who violates the provisions of ORS 459.247 (1)(f) incurs a civil penalty not to exceed $500 for each violation. Any retailer that violates the provisions of ORS 459A.825 (1) or (2)(b) or section 3, chapter 102, Oregon Laws 2022, incurs a civil penalty not to exceed $100 per day for each day of the violation. Any producer or renovator that violates the provisions of ORS 459A.825 (1) or section 3, chapter 102, Oregon Laws 2022, incurs a civil penalty not to exceed $1,000 per day for each day of the violation. Any stewardship organization that violates the provisions of ORS 459A.825 (2)(a), 459A.827,459A.830 to 459A.837 or 459A.842 or sections 1 to 14, chapter 102, Oregon Laws 2022, incurs a civil penalty not to exceed $1,000 per day for each day of the violation."
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "Prohibits food vendor from using polystyrene foam container in sales of prepared food. Prohibits food vendor from providing single-use foodware containers to consumer unless foodware containers meet certain criteria. Prohibits person from selling or distributing polystyrene foam containers or polystyrene foam packaging peanuts. Prohibits person from selling or distributing foodware containers containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "products": {
+        "value": [
+          "polystyrene foam container",
+          "polystyrene foam packaging peanuts",
+          "foodware container containing perfluoroalkyl or polyfluoroalkyl substances"
+        ],
+        "provenance": "Prohibits food vendor from using polystyrene foam container in sales of prepared food. Prohibits food vendor from providing single-use foodware containers to consumer unless foodware containers meet certain criteria. Prohibits person from selling or distributing polystyrene foam containers or polystyrene foam packaging peanuts. Prohibits person from selling or distributing foodware containers containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "exceptions": {
+        "value": [
+          "polystyrene foam container made for more than one use and enclosed by a solid shell",
+          "tray or container used solely to store, ship or otherwise transport an ingredient or food product that is not prepared food",
+          "polystyrene plastic material used solely for packing or protecting other items during storage, shipping or other transportation"
+        ],
+        "provenance": "Polystyrene foam container does not include: A cooler or other container that is made of a polystyrene foam, that is intended for more than one use and that is enclosed by a solid shell; A tray or container used solely to store, ship or otherwise transport an ingredient or food product that is not prepared food; Polystyrene plastic material, other than polystyrene foam packaging peanuts, that is used solely for packing or protecting other items during storage, shipping or other transportation."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of currently unavoidable use of PFAS in the regulation."
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "No mention of PFAS being intentionally added to the products."
+      }
+    }
+  ]
+}

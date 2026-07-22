@@ -1,0 +1,172 @@
+{
+  "title": {
+    "value": "PFAS Consumer Protection Law"
+  },
+  "location": {
+    "value": "State of Illinois"
+  },
+  "reference": {
+    "value": "SB0088"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2023-01-20"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Carpets or rugs",
+          "Fabric treatments",
+          "Food packaging",
+          "Juvenile products",
+          "Oil and gas products",
+          "Apparel"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "PFAS manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Cookware"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Cookware that meets all of the following requirements: (1) The surface area of the cookware is not large enough for a product label that meets the requirements of subsection (f) to be affixed to the item. (2) The cookware does not have any of the following: (A) An exterior container or wrapper upon which a product label can appear or be affixed. (B) A tag or label to which information about the cookware may be attached."
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2026-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Cosmetics",
+          "Indoor textile furnishings",
+          "Indoor upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute for sale",
+          "Offer for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Outdoor textile furnishings",
+          "Outdoor upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

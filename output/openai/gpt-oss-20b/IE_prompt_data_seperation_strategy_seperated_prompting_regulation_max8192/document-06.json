@@ -1,0 +1,138 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Solicit",
+          "Offer for sale"
+        ],
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "products": {
+        "value": [
+          "Playground surfacing materials"
+        ],
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE TO ATTEST THAT THE PLAYGROUND SURFACING MATERIALS ARE IN COMPLIANCE WITH THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE TO ATTEST THAT THE PLAYGROUND SURFACING MATERIALS ARE IN COMPLIANCE WITH THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE TO ATTEST THAT THE PLAYGROUND SURFACING MATERIALS ARE IN COMPLIANCE WITH THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "action": {
+        "value": [
+          "Establish a certificate of compliance"
+        ],
+        "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE TO ATTEST THAT THE PLAYGROUND SURFACING MATERIALS ARE IN COMPLIANCE WITH THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "products": {
+        "value": [
+          "Playground surfacing materials"
+        ],
+        "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE TO ATTEST THAT THE PLAYGROUND SURFACING MATERIALS ARE IN COMPLIANCE WITH THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "who": {
+        "value": [
+          "County",
+          "Municipality",
+          "Unit of local government"
+        ],
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "action": {
+        "value": [
+          "Adopt ordinance",
+          "Adopt rule",
+          "Adopt regulation"
+        ],
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "products": {
+        "value": [
+          "Playground surfacing materials"
+        ],
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

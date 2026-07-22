@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "Senate Bill 543",
+    "provenance": "## Senate Bill 543"
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "Be It Enacted by the People of the State of Oregon:"
+  },
+  "reference": {
+    "value": "Senate Bill 543",
+    "provenance": "## Senate Bill 543"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "## A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2023-01-01",
+    "provenance": "SECTION 1. As used in sections 1 to 4 of this 2023 Act:"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(3) 'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 4. A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "SECTION 9. (1) Sections 1 to 4 of this 2023 Act and the amendments to ORS 459.995 by section 8 of this 2023 Act become operative on January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "SECTION 4. A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "SECTION 4. A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "products": {
+        "value": [
+          "foodware container"
+        ],
+        "provenance": "(2) 'Foodware container' includes bowls, plates, cups, lids, clamshells or other containers or any other items used for serving or containing prepared food, including takeout food and leftovers from partially consumed meals prepared by food vendors."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

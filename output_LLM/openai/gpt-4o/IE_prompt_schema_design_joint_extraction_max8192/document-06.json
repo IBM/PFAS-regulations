@@ -1,0 +1,71 @@
+{
+  "title": {
+    "value": "HOUSE BILL 1147",
+    "provenance": "HOUSE BILL 1147"
+  },
+  "location": {
+    "value": "State",
+    "provenance": "PLAYGROUND IN THE STATE."
+  },
+  "reference": {
+    "value": "4lr1508",
+    "provenance": "4lr1508"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Introduced and read first time: February 7, 2024"
+  },
+  "date": {
+    "value": "2024-02-07",
+    "provenance": "Introduced and read first time: February 7, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE"
+      },
+      "products": {
+        "value": [
+          "PLAYGROUND SURFACING MATERIALS"
+        ],
+        "provenance": "PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "EXCEPT AS PROVIDED IN THIS SECTION, THIS SUBTITLE DOES NOT LIMIT THE POWER OF A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT TO ADOPT ORDINANCES, RULES, OR REGULATIONS RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

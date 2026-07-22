@@ -1,0 +1,75 @@
+{
+  "title": {
+    "value": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health",
+    "provenance": "Assembly Bill No. 1817, CHAPTER 762"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "State of California"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 1817",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor September 29, 2022"
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) defined as: Any substance that contains at least one fully fluorinated methyl (CF3-) or methylene (-CF2-) carbon atom (without any H/Cl/Br/I attached to it). A substance that only contains the following structural elements is excluded from the scope of the proposed restriction: CF3-X or X-CF2-X\u2019, where X = -OR or -NRR\u2019 and X\u2019 = methyl (-CH3), methylene (-CH2-), an aromatic group, a carbonyl group (-C(O)-), -OR\u2019\u2019, -SR\u2019\u2019 or \u2013NR\u2019\u2019R\u2019\u2019\u2019, and where R/R\u2019/R\u2019\u2019/R\u2019\u2019\u2019 is a hydrogen (-H), methyl (-CH3), methylene (-CH2-), an aromatic group or a carbonyl group (-C(O)-)."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "commencing January 1, 2025, prohibits manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS"
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles"
+      },
+      "action": {
+        "value": [
+          "manufacture",
+          "distribute",
+          "sell",
+          "offer for sale"
+        ],
+        "provenance": "prohibits manufacturing, distributing, selling, or offering for sale in the state any new, not previously used, textile articles"
+      },
+      "products": {
+        "value": [
+          "textile articles"
+        ],
+        "provenance": "commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles"
+      },
+      "exceptions": {
+        "value": [
+          "outdoor apparel for severe wet conditions until January 1, 2028"
+        ],
+        "provenance": "Paragraph (1) does not apply to outdoor apparel for severe wet conditions until January 1, 2028"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use'"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS means either of the following: (1) PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product"
+      }
+    }
+  ]
+}

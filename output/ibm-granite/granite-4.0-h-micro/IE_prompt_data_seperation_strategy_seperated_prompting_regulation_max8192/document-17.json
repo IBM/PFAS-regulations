@@ -1,0 +1,55 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Sec. 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "date": {
+        "value": "2021-02-08",
+        "provenance": "FEBRUARY 8, 2021"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Wholesaler"
+        ],
+        "provenance": "Sec. 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "Sec. 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use"
+      },
+      "products": {
+        "value": [
+          "children's product",
+          "upholstered residential furniture",
+          "residential textile",
+          "business textile",
+          "mattress"
+        ],
+        "provenance": "Sec. 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress"
+      },
+      "exceptions": {
+        "value": [
+          "The provisions of this section do not apply to: (a) The extent preempted by federal law; (b) Any flame-retardant organohalogenated chemical that: (1) Is a polymeric substance in accordance with the criteria set forth in 40 C.F.R. \u00a7 723.250, or is chemically reacted to form a polymer with the materials it is intended to protect; (2) Has a determination of safety pursuant to 15 U.S.C. \u00a7 2604(a)(3)(C) or 15 U.S.C. \u00a7 2605(b)(4); (c) The sale or offer for sale of any previously owned product containing a flame-retardant organohalogenated chemical; (d) An electronic component of a children's product, mattress, upholstered residential furniture or residential textile or any associated casing; (e) A children's product, mattress, upholstered residential furniture or residential textile for which there is a federal or national flammability standard; (f) Thread or fiber for stitching mattress components together; (g) Components of an adult mattress other than foam."
+        ],
+        "provenance": "Sec. 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Sec. 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      }
+    }
+  ]
+}

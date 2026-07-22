@@ -1,0 +1,48 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes"
+      },
+      "date": {
+        "value": "2020-07-15",
+        "provenance": "Beginning on July 15, 2020"
+      },
+      "who": {
+        "value": [
+          "User"
+        ],
+        "provenance": "class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes"
+      },
+      "action": {
+        "value": [
+          "Use"
+        ],
+        "provenance": "class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes"
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ],
+        "provenance": "class B firefighting foam that contains intentionally added PFAS chemicals"
+      },
+      "exceptions": {
+        "value": [
+          "unless otherwise required by law, regulation, or ordinance, and the testing facility has implemented best industry practices to prevent uncontrolled releases of class B firefighting foam in the environment",
+          "The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals",
+          "The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations"
+        ],
+        "provenance": "unless otherwise required by law, regulation, or ordinance, and the testing facility has implemented best industry practices to prevent uncontrolled releases of class B firefighting foam in the environment. The restrictions in subsection (2) of this Act shall not apply to:(a) The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals; or (b) The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "class B firefighting foam that contains intentionally added PFAS chemicals"
+      }
+    }
+  ]
+}

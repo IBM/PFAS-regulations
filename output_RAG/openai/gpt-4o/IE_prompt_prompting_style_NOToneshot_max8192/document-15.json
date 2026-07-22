@@ -1,0 +1,114 @@
+{
+  "title": {
+    "value": "Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law",
+    "provenance": "Provides that the amendatory Act may be referred to as the Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law."
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "\"PFAS chemical\" means any of the perfluoroalkyl substances or polyfluoroalkyl substances included in the United States Environmental Protection Agency's expanded ToxCast chemical inventory."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "shall list the presence of PFAS chemicals on the cookware's product label."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "On and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals"
+      },
+      "products": {
+        "value": [
+          "cookware"
+        ],
+        "provenance": "a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages"
+      },
+      "exceptions": {
+        "value": [
+          "The cookware does not have any of the following: (A) An exterior container or wrapper upon which a product label can appear or be affixed. (B) A tag or label to which information about the cookware may be attached."
+        ],
+        "provenance": "The cookware does not have any of the following: (A) An exterior container or wrapper upon which a product label can appear or be affixed. (B) A tag or label to which information about the cookware may be attached."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "products": {
+        "value": [
+          "specified products"
+        ],
+        "provenance": "no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "specified products that contain intentionally added PFAS chemicals."
+      }
+    }
+  ]
+}

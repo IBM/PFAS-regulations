@@ -1,0 +1,62 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 2771",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health."
+  },
+  "reference": {
+    "value": "AB 2771",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom",
+    "provenance": "108982. For purposes of this chapter, the following terms have the following definitions: (b) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "108981.5. Beginning  January  1,  2025,  no  person  or  entity  shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Beginning  January  1,  2025"
+      },
+      "who": [
+        "Manufacturer",
+        "Seller",
+        "Distributor"
+      ],
+      "action": [
+        "Manufacture",
+        "Sell",
+        "Distribute"
+      ],
+      "products": [
+        "cosmetic product"
+      ],
+      "exceptions": [
+        "not specified"
+      ],
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "108982. For purposes of this chapter, the following terms have the following definitions: (a) 'Intentionally added PFAS' means either of the following: (1) PFAS chemicals that a manufacturer has intentionally added to a product and that have a functional or technical effect on the product."
+      }
+    }
+  ]
+}

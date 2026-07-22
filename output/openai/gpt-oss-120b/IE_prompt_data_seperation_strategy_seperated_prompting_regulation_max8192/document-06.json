@@ -1,0 +1,133 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "FOR THE PURPOSE OF PROHIBITING, on or after a certain date, a person from using, supplying, selling, soliciting, or offering for sale playground surfacing materials..."
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS..."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Supplier",
+          "Seller",
+          "User"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE..."
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE..."
+      },
+      "products": {
+        "value": [
+          "playground surfacing materials"
+        ],
+        "provenance": "PLAYGROUND SURFACING MATERIALS THAT CONTAIN..."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "That this Act shall take effect 24 October 1, 2024."
+      },
+      "who": {
+        "value": [
+          "Local government"
+        ],
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT..."
+      },
+      "action": {
+        "value": [
+          "All"
+        ],
+        "provenance": "MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION..."
+      },
+      "products": {
+        "value": [
+          "playground surfacing materials"
+        ],
+        "provenance": "RELATED TO PLAYGROUND SURFACING MATERIALS..."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE..."
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "That this Act shall take effect 24 October 1, 2024."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A MANUFACTURER THAT MANUFACTURES..."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for use"
+        ],
+        "provenance": "MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE..."
+      },
+      "products": {
+        "value": [
+          "playground surfacing materials"
+        ],
+        "provenance": "IN THE STATE PLAYGROUND SURFACING MATERIALS..."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

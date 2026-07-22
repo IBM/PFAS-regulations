@@ -1,0 +1,74 @@
+{
+  "title": {
+    "value": "toxic-free cosmetics act",
+    "provenance": "NEW SECTION. Sec. 7. This chapter may be known and cited as the toxic-free cosmetics act."
+  },
+  "location": {
+    "value": "State of Washington",
+    "provenance": "State of Washington 68th Legislature 2023 Regular Session"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT Relating to the use of toxic chemicals in cosmetic products; amending RCW 43.21B.110 and 43.21B.300; adding a new chapter to Title 70A RCW; and prescribing penalties."
+  },
+  "date": {
+    "value": "2023",
+    "provenance": "State of Washington 68th Legislature 2023 Regular Session"
+  },
+  "pfas_definition": {
+    "value": "not specified",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances has the same meaning as defined in RCW 70A.350.010."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "beginning January 1, 2025, no person may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state any cosmetic product that contains any of the following intentionally added chemicals or chemical classes: (b) Perfluoroalkyl and polyfluoroalkyl substances;"
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "beginning January 1, 2025, no person may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state any cosmetic product that contains any of the following intentionally added chemicals or chemical classes:"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "beginning January 1, 2025, no person may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state any cosmetic product that contains any of the following intentionally added chemicals or chemical classes:"
+      },
+      "action": {
+        "value": [
+          "manufacture",
+          "sell",
+          "offer for sale",
+          "distribute for sale",
+          "distribute for use"
+        ],
+        "provenance": "beginning January 1, 2025, no person may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state any cosmetic product that contains any of the following intentionally added chemicals or chemical classes:"
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ],
+        "provenance": "beginning January 1, 2025, no person may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state any cosmetic product that contains any of the following intentionally added chemicals or chemical classes:"
+      },
+      "exceptions": {
+        "value": [
+          "prescription drugs approved by the United States food and drug administration"
+        ],
+        "provenance": "For the purposes of this section, cosmetic products do not include prescription drugs approved by the United States food and drug administration."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "beginning January 1, 2025, no person may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state any cosmetic product that contains any of the following intentionally added chemicals or chemical classes:"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": {
+    "value": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety. Juvenile Products"
+  },
+  "location": {
+    "value": "California, USA"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 652"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2021-10-05"
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2023-07-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "juvenile product"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "children's electronic product",
+          "medical device",
+          "internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product",
+          "adult mattress"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "Maryland"
+  },
+  "reference": {
+    "value": "House Bill 1147",
+    "provenance": "House Bill 1147"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A bill"
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "ON OR AFTER OCTOBER 1, 2024"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "PFAS MEANS PER- AND POLYFLUOROALKYL SUBSTANCES."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Solicit",
+          "Offer for sale"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN"
+      },
+      "products": {
+        "value": [
+          "playground surfacing materials"
+        ],
+        "provenance": "PLAYGROUND SURFACING MATERIALS THAT CONTAIN"
+      },
+      "exceptions": {
+        "value": null,
+        "provenance": "none"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "none"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS MEANS PER- AND POLYFLUOROALKYL SUBSTANCES."
+      }
+    }
+  ]
+}

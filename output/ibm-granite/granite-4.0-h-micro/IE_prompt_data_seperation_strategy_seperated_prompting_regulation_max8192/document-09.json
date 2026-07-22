@@ -1,0 +1,52 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products."
+      },
+      "date": {
+        "value": "2025-07-01",
+        "provenance": "The effective date of the regulation is July 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount."
+      },
+      "products": {
+        "value": [
+          "rug",
+          "carpet",
+          "aftermarket stain and water resistant treatments"
+        ],
+        "provenance": "A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount. A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount."
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of used products"
+        ],
+        "provenance": "This paragraph shall not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The regulation does not mention that the PFAS is currently unavoidable in the product."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added means the addition of a chemical in a product that serves an intended function in the product component."
+      }
+    }
+  ]
+}

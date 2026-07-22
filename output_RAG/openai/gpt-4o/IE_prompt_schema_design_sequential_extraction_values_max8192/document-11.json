@@ -1,0 +1,103 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION"
+  },
+  "location": {
+    "value": "State of Hawaii"
+  },
+  "reference": {
+    "value": "HB1644 CD1"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2022-07-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-12-31"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "wraps and liners",
+          "plates",
+          "food boats",
+          "pizza boxes"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-07-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "State agency",
+          "Local government"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "unless the use is necessary for effective suppression of a petroleum fire",
+          "where the inclusion of PFAS chemicals is required by federal law or regulations"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

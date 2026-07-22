@@ -1,0 +1,151 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "\"no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state.\""
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "\"Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state.\""
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "\"by its manufacturer or distributor in the state.\""
+      },
+      "action": {
+        "value": [
+          "Offer for sale",
+          "Offer for promotional purposes"
+        ],
+        "provenance": "\"shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state.\""
+      },
+      "products": {
+        "value": [
+          "food package"
+        ],
+        "provenance": "\"no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state.\""
+      },
+      "exceptions": {
+        "value": [
+          "incidental presence of PFAS",
+          "use of post\u2011consumer recycled materials as feedstock for new packaging materials",
+          "use of substitute material"
+        ],
+        "provenance": "\"intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements.\"; \"The use of post\u2011consumer recycled materials as feedstock for the manufacture of new packaging materials where some portion of the recycled materials may contain amounts of the regulated metals is not considered intentional introduction for the purposes of this chapter where the new package or packaging component is in compliance with \u00a7 23\u201118.13\u20114(c).\"; \"Substitute material means a material used to replace lead, cadmium, mercury, hexavalent chromium, PFAS or other regulated chemical in a package or packaging component.\""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "\"intentionally introduced\""
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "\"No package or packaging component shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state, which includes, in the package itself or in any packaging component, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements.\""
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "\"Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state.\""
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "\"by its manufacturer or distributor in the state.\""
+      },
+      "action": {
+        "value": [
+          "Offer for sale",
+          "Offer for promotional purposes"
+        ],
+        "provenance": "\"shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state.\""
+      },
+      "products": {
+        "value": [
+          "package",
+          "packaging component",
+          "ink",
+          "dye",
+          "pigment",
+          "adhesive",
+          "stabilizer",
+          "additive",
+          "lead",
+          "cadmium",
+          "mercury",
+          "hexavalent chromium"
+        ],
+        "provenance": "\"No package or packaging component shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state, which includes, in the package itself or in any packaging component, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements.\""
+      },
+      "exceptions": {
+        "value": [
+          "incidental presence of regulated metals",
+          "use of post\u2011consumer recycled materials as feedstock for new packaging materials",
+          "use of substitute material"
+        ],
+        "provenance": "\"intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements.\"; \"The use of post\u2011consumer recycled materials as feedstock for the manufacture of new packaging materials where some portion of the recycled materials may contain amounts of the regulated metals is not considered intentional introduction for the purposes of this chapter where the new package or packaging component is in compliance with \u00a7 23\u201118.13\u20114(c).\"; \"Substitute material means a material used to replace lead, cadmium, mercury, hexavalent chromium, PFAS or other regulated chemical in a package or packaging component.\""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "\"intentionally introduced\""
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "\"The sum on the concentration levels of lead, cadmium, mercury and hexavalent chromium present in any package or packaging component shall not exceed 100 parts per million by weight (0.01%).\""
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "\"Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state.\""
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "\"by its manufacturer or distributor in the state.\""
+      },
+      "action": {
+        "value": [
+          "Limit concentration to 100 ppm"
+        ],
+        "provenance": "\"shall not exceed 100 parts per million by weight (0.01%).\""
+      },
+      "products": {
+        "value": [
+          "lead",
+          "cadmium",
+          "mercury",
+          "hexavalent chromium"
+        ],
+        "provenance": "\"The sum on the concentration levels of lead, cadmium, mercury and hexavalent chromium present in any package or packaging component shall not exceed 100 parts per million by weight (0.01%).\""
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

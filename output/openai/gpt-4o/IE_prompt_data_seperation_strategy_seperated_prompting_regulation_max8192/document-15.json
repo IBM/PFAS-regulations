@@ -1,0 +1,190 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "On and after January 1, 2025, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in any of the following product categories if the product contains an intentionally added PFAS chemical."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person shall sell, offer for sale, distribute for sale, or distribute for use in the State"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "no person shall sell, offer for sale, distribute for sale, or distribute for use in the State"
+      },
+      "products": {
+        "value": [
+          "Carpets or rugs",
+          "Fabric treatments",
+          "Food packaging",
+          "Juvenile products",
+          "Oil and gas products",
+          "Apparel"
+        ],
+        "provenance": "any product in any of the following product categories if the product contains an intentionally added PFAS chemical: (1) Carpets or rugs. (2) Fabric treatments. (3) Food packaging. (4) Juvenile products. (5) Oil and gas products. (6) Apparel."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "if the product contains an intentionally added PFAS chemical"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical."
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person shall sell, offer for sale, distribute for sale, or distribute for use in the State"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "no person shall sell, offer for sale, distribute for sale, or distribute for use in the State"
+      },
+      "products": {
+        "value": [
+          "Cosmetics",
+          "Indoor textile furnishings",
+          "Indoor upholstered furniture"
+        ],
+        "provenance": "any of the following products that contain an intentionally added PFAS chemical: (1) Cosmetics. (2) Indoor textile furnishings. (3) Indoor upholstered furniture."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "that contain an intentionally added PFAS chemical"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person shall sell, distribute for sale, offer for sale, or distribute for use in the State"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "no person shall sell, distribute for sale, offer for sale, or distribute for use in the State"
+      },
+      "products": {
+        "value": [
+          "Outdoor textile furnishings",
+          "Outdoor upholstered furniture"
+        ],
+        "provenance": "any of the following products that contain an intentionally added PFAS chemical: (1) Outdoor textile furnishings. (2) Outdoor upholstered furniture."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "that contain an intentionally added PFAS chemical"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "a PFAS manufacturer of cookware sold in this State"
+      },
+      "action": {
+        "value": [
+          "Label"
+        ],
+        "provenance": "shall list the presence of PFAS chemicals on the cookware's product label"
+      },
+      "products": {
+        "value": [
+          "Cookware"
+        ],
+        "provenance": "a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical"
+      },
+      "exceptions": {
+        "value": [
+          "The surface area of the cookware is not large enough for a product label that meets the requirements of subsection (f) to be affixed to the item.",
+          "The cookware does not have any of the following: (A) An exterior container or wrapper upon which a product label can appear or be affixed. (B) A tag or label to which information about the cookware may be attached."
+        ],
+        "provenance": "Cookware is exempt from this Section if it meets all of the following requirements: (1) The surface area of the cookware is not large enough for a product label that meets the requirements of subsection (f) to be affixed to the item. (2) The cookware does not have any of the following: (A) An exterior container or wrapper upon which a product label can appear or be affixed. (B) A tag or label to which information about the cookware may be attached."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains an intentionally added PFAS chemical"
+      }
+    }
+  ]
+}

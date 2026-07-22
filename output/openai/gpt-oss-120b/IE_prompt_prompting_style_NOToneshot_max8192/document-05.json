@@ -1,0 +1,75 @@
+{
+  "title": {
+    "value": "AB 652, Friedman. Product safety: juvenile products: chemicals: perfluoroalkyl and polyfluoroalkyl substances.",
+    "provenance": "AB 652, Friedman.  Product  safety:  juvenile  products:  chemicals: perfluoroalkyl and polyfluoroalkyl substances."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 652",
+    "provenance": "Assembly Bill No. 652"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "AB 652"
+  },
+  "date": {
+    "value": "2021-10-05",
+    "provenance": "[Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a  class  of  fluorinated  organic  chemicals  containing  at  least  one  fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ],
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "products": {
+        "value": [
+          "juvenile product"
+        ],
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "exceptions": {
+        "value": [
+          "children's electronic product (e.g., personal computer, audio and video equipment, calculator, wireless phone, game console, handheld device incorporating a video screen, or associated peripheral such as mouse, keyboard, power supply unit, or power cord)",
+          "medical device",
+          "internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product",
+          "adult mattress"
+        ],
+        "provenance": "A juvenile product does not include any of the following: (A)  A  children's  electronic  product,  including,  but not limited to,  a personal computer, audio and video equipment, calculator, wireless phone, game  console,  handheld  device  incorporating  a  video  screen,  or any associated peripheral such as a mouse, keyboard, power supply unit, or power cord. (B)  A medical device. (C)  An internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product. (D)  An adult mattress."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    }
+  ]
+}

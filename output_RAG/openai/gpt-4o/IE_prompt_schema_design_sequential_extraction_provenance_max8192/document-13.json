@@ -1,0 +1,70 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "SECTION 8. ORS 459.995, as amended by section 15, chapter 102, Oregon Laws 2022, is amended to read:"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject to consideration by the Legislative Assembly."
+  },
+  "date": {
+    "value": "2023",
+    "provenance": "SECTION 5. (1) The Department of Environmental Quality shall establish a certification program for compostable products. Subject to subsection (2) of this section, a person that meets the criteria established by the department may apply for authorization under the program to certify that products sold or offered for sale in this state are compostable."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits person from selling or distributing foodware containers containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "Prohibits person from selling or distributing foodware containers containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "products": {
+        "value": [
+          "foodware container containing perfluoroalkyl or polyfluoroalkyl substances"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

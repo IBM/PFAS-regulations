@@ -1,0 +1,76 @@
+{
+  "title": {
+    "value": "House Bill 1147",
+    "provenance": "House Bill 1147"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "General Assembly of Maryland"
+  },
+  "reference": {
+    "value": "4lr1508",
+    "provenance": "4lr1508"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL ENTITLED"
+  },
+  "date": {
+    "value": "2024-02-07",
+    "provenance": "Introduced and read first time: February 7, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'PFAS' means per- and polyfluoroalkyl substances."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "6-16A-03. (A)"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (B) A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Solicit",
+          "Offer for sale",
+          "Distribute for use"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (B) A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS"
+      },
+      "products": {
+        "value": [
+          "playground surfacing materials"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    }
+  ]
+}

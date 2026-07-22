@@ -1,0 +1,118 @@
+{
+  "title": {
+    "value": "Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law",
+    "provenance": "Provides that the amendatory Act may be referred to as the Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law."
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Provides that the amendatory Act may be referred to as the Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "\"PFAS chemical\" means any of the perfluoroalkyl substances or polyfluoroalkyl substances included in the United States Environmental Protection Agency's expanded ToxCast chemical inventory."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor",
+          "Person"
+        ],
+        "provenance": "Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "action": {
+        "value": [
+          "sell",
+          "offer for sale",
+          "distribute for sale",
+          "distribute for use"
+        ],
+        "provenance": "Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "products": {
+        "value": [
+          "cookware"
+        ],
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "exceptions": {
+        "value": [
+          "specified cookware"
+        ],
+        "provenance": "Contains exemptions from the requirements for specified cookware."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "action": {
+        "value": [
+          "label"
+        ],
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "products": {
+        "value": [
+          "cookware"
+        ],
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "exceptions": {
+        "value": [
+          "specified cookware"
+        ],
+        "provenance": "Contains exemptions from the requirements for specified cookware."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      }
+    }
+  ]
+}

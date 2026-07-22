@@ -1,0 +1,73 @@
+{
+  "title": {
+    "value": "An Act concerning safety",
+    "provenance": "AN ACT concerning safety. Section 5. The Environmental Protection Act is amended by adding Section 22.62 as follows: (415 ILCS 5/22.62 new) Sec. 22.62. TRI-PFAS; incineration."
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "People of the State of Illinois, represented in the General Assembly"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "not explicitly provided in the document"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "This Act takes effect upon becoming law."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "no explicit date provided, but Section 99 states 'This Act takes effect upon becoming law.'"
+  },
+  "pfas_definition": {
+    "value": "TRI-PFAS",
+    "provenance": "\u201cTRI-PFAS\u201d means Toxic Release Inventory Polyfluoroalkyl and Perfluoroalkyl Substances developed in the USEPA's under Section 313 of the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "no explicit date provided for the restriction"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS."
+      },
+      "action": {
+        "value": [
+          "Dispose of"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS."
+      },
+      "products": {
+        "value": [
+          "TRI-PFAS"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill",
+          "landfill gas in a landfill gas recovery facility that is located at a sanitary landfill",
+          "waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable",
+          "sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility"
+        ],
+        "provenance": "Nothing in this Section applies to the incineration of (i) landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill, (ii) landfill gas in a landfill gas recovery facility that is located at a sanitary landfill, (iii) waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable, or (iv) sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable' use in the document."
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "The restriction applies to the disposal of TRI-PFAS, implying that their presence is not intentionally added for the purpose of disposal."
+      }
+    }
+  ]
+}

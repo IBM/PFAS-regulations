@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "Toxic Packaging Reduction Act",
+    "provenance": "Chapter 23-18.13 entitled \"Toxic Packaging Reduction Act\" are hereby amended to read as follows:"
+  },
+  "location": {
+    "value": "Rhode Island",
+    "provenance": "This act would prohibit the sale or promotional distribution of any food package in Rhode Island which contains perfluoroalkyl and polyfluoroalkyl substances (PFAS), effective January 1, 2024"
+  },
+  "reference": {
+    "value": "LC004634/SUB A",
+    "provenance": "LC004634/SUB A"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "This act would prohibit the sale or promotional distribution of any food package in Rhode Island which contains perfluoroalkyl and polyfluoroalkyl substances (PFAS), effective January 1, 2024 and furthermore, the the provisions of \u00a7 23-18.13-3(g)(3) regarding the use of post-consumer recycled materials as feedstock for new packaging materials would sunset on July 1, 2027."
+  },
+  "date": {
+    "value": "2022-02-11",
+    "provenance": "Introduced By: Representatives Cortvriend, Speakman, Carson, Morales, Marszalkowski,  McGaw, Ruggiero,  Fogarty, Donovan, and Kislak Date Introduced: February 11, 2022"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

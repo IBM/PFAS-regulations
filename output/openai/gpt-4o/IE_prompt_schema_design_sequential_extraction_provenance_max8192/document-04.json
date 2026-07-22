@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "HOUSE BILL NO. 389",
+    "provenance": "HOUSE BILL NO. 389"
+  },
+  "location": {
+    "value": "Louisiana",
+    "provenance": "Prefiled pursuant to Article III, Section 2(A)(4)(b)(i) of the Constitution of Louisiana."
+  },
+  "reference": {
+    "value": "HLS 21RS-536",
+    "provenance": "HLS 21RS-536"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "HOUSE BILL NO. 389"
+  },
+  "date": {
+    "value": "2021-01-01",
+    "provenance": "2021 Regular Session"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"PFAS chemicals\" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, including perfluoroalkyl and polyfluoroalkyl substances, and designed to be fully functional in Class B fire fighting foam formulations."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits the use of Class B fire fighting foam that contains certain fluorinated organic chemicals except in certain circumstances after Jan. 1, 2022."
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals unless discharged under either of the following conditions:"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "\"Person\" means an individual, association, joint venture, partnership, corporation, limited liability company, political subdivision, municipality, or public or private organization of any character, including any agency, department, board, bureau, office, commission, district, corporation, and quasi-public corporation of the federal, state, municipal, or local government."
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ],
+        "provenance": "Prohibits the use of Class B fire fighting foam that contains certain fluorinated organic chemicals except in certain circumstances after Jan. 1, 2022."
+      },
+      "products": {
+        "value": [
+          "Class B fire fighting foam"
+        ],
+        "provenance": "\"Class B fire fighting foam\" means any foam designed to extinguish flammable liquid fires."
+      },
+      "exceptions": {
+        "value": [
+          "Discharge or use in fire prevention or in response to an emergency fire fighting operation",
+          "Discharge or use for training or testing purposes at a facility with containment, treatment, and disposal measures"
+        ],
+        "provenance": "Proposed law prohibits the discharge of Class B fire fighting foam that contains intentionally added PFAS chemicals except under one of the following conditions: (1) The discharge or use is during prior prevention or in response to an emergency fire fighting operation. (2) The discharge or use is during training at a facility with containment, treatment, and disposal measures that prevent uncontrolled release of the Class B fire fighting foam into the environment."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Proposed law prohibits the discharge of Class B fire fighting foam that contains intentionally added PFAS chemicals except under one of the following conditions:"
+      }
+    }
+  ]
+}

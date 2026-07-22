@@ -1,0 +1,149 @@
+{
+  "title": {
+    "value": "HOUSE BILL NO. 5657"
+  },
+  "location": {
+    "value": "Michigan"
+  },
+  "reference": {
+    "value": "HOUSE BILL NO. 5657"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2024-04-24"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Apparel",
+          "Carpets, rugs, or another similar fabric",
+          "Cleaning products",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments or other similar substances",
+          "Juvenile products",
+          "Menstruation products",
+          "Textile furnishings",
+          "Ski wax or other similar lubricant",
+          "Upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Personal protective equipment",
+          "Items for use by the United States military",
+          "Used products",
+          "Class B firefighting foam subject to regulation under 14 CFR 139.317 or another federal law"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Local government",
+          "State agency",
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Manufacture",
+          "Sell",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class A or class B firefighting foam that contains intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Class B firefighting foam subject to regulation under 14 CFR 139.317 or another federal law"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Person that sells firefighter personal protective equipment"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell"
+        ]
+      },
+      "products": {
+        "value": [
+          "Firefighter personal protective equipment that contains intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

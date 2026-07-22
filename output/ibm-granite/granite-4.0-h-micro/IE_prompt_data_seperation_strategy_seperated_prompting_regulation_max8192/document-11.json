@@ -1,0 +1,59 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibit the manufacture, sale, or distribution for sale or use of wraps and liners, plates, food boats, and pizza boxes that contain PFAS; and Prohibit the manufacture, sale, distribution, and use of class B firefighting foams that contain PFAS, with certain exceptions."
+      },
+      "date": {
+        "value": "2022-07-01",
+        "provenance": "Beginning July 1, 2024, it shall be unlawful..."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User"
+        ],
+        "provenance": "A manufacturer of class B firefighting foam prohibited by this part shall notify, in writing...; A manufacturer that produces, sells, or distributes a class B firefighting foam prohibited by this part shall recall the product..."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Distribute",
+          "Use"
+        ],
+        "provenance": "Prohibit the manufacture, sale, distribution, and use..."
+      },
+      "products": {
+        "value": [
+          "wraps and liners",
+          "plates",
+          "food boats",
+          "pizza boxes",
+          "class B firefighting foams"
+        ],
+        "provenance": "Prohibition applies to wraps and liners, plates, food boats, pizza boxes, and class B firefighting foams"
+      },
+      "exceptions": {
+        "value": [
+          "use necessary for effective suppression of a petroleum fire",
+          "use required by federal law or regulations"
+        ],
+        "provenance": "Prohibition does not apply to use necessary for effective suppression of a petroleum fire; Prohibition does not apply to manufacture, sale, or distribution of class B firefighting foam where inclusion of PFAS chemicals is required by federal law or regulations"
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "PFAS have been detected in drinking water and have been found in food packaging, indicating that the PFAS is currently unavoidable in these products"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally introduced PFAS chemicals have been used in the formulation of food packaging and class B firefighting foams"
+      }
+    }
+  ]
+}

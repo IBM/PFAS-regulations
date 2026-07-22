@@ -1,0 +1,80 @@
+{
+  "title": {
+    "value": "House Bill 3512"
+  },
+  "location": {
+    "value": "Oregon"
+  },
+  "reference": {
+    "value": "HB 3512"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2025-01-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Aqueous film-forming foam",
+          "Artificial turf",
+          "Cleaning products",
+          "Carpets or rugs",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments",
+          "Packaging",
+          "Juvenile products",
+          "Menstrual products",
+          "Refrigerators",
+          "Textile articles",
+          "Ski wax",
+          "Outdoor apparel for severe wet conditions"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Used covered products",
+          "Personal protective equipment",
+          "Clothing items for exclusive use by members of the United States military",
+          "Medical devices",
+          "Mattress designed for use by an adult"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": {
+    "value": "HOUSE BILL 1147"
+  },
+  "location": {
+    "value": "Maryland"
+  },
+  "reference": {
+    "value": "4lr1508"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2024-10-01"
+  },
+  "pfas_definition": {
+    "value": "not specified"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-10-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Playground surfacing materials"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "title": {
+    "value": "AB 1817, Ting. Product safety: textile articles: perfluoroalkyl and polyfluoroalkyl substances (PFAS).",
+    "provenance": "AB  1817,  Ting.  Product  safety:  textile  articles:  perfluoroalkyl  and polyfluoroalkyl substances (PFAS)."
+  },
+  "location": {
+    "value": "State of California",
+    "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+  },
+  "reference": {
+    "value": "AB 1817",
+    "provenance": "AB  1817,  Ting.  Product  safety:  textile  articles:  perfluoroalkyl  and polyfluoroalkyl substances (PFAS)."
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+      },
+      "products": {
+        "value": [
+          "new, not previously owned, textile articles"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+      },
+      "exceptions": {
+        "value": [
+          "outdoor apparel for severe wet conditions until January 1, 2028"
+        ],
+        "provenance": "Paragraph  (1)  does  not  apply  to  outdoor  apparel  for  severe  wet conditions until January 1, 2028."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS' means either of the following:(1)  PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product, including the PFAS components of intentionally added chemicals and PFAS that are intentional breakdown products of an added chemical that also have a functional or technical effect in the product."
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "However, commencing January 1, 2025, no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals,' including for online listings of products for sale."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "However, commencing January 1, 2025, no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals,' including for online listings of products for sale."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "However, commencing January 1, 2025, no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals,' including for online listings of products for sale."
+      },
+      "action": {
+        "value": [
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "However, commencing January 1, 2025, no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals,' including for online listings of products for sale."
+      },
+      "products": {
+        "value": [
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "However, commencing January 1, 2025, no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals,' including for online listings of products for sale."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS' means either of the following:(1)  PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product, including the PFAS components of intentionally added chemicals and PFAS that are intentional breakdown products of an added chemical that also have a functional or technical effect in the product."
+      }
+    }
+  ]
+}

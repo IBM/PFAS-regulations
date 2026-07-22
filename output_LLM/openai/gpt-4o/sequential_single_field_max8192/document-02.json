@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "The Environmental Protection Act",
+    "provenance": "Section 5. The Environmental Protection Act is amended by adding Section 22.62 as follows:"
+  },
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "reference": {
+    "value": "415 ILCS 5/22.62",
+    "provenance": "(415 ILCS 5/22.62 new)"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly: Section 5. The Environmental Protection Act is amended by adding Section 22.62 as follows: (415 ILCS 5/22.62 new)"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "Section 99. Effective date. This Act takes effect upon becoming law."
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "\"TRI-PFAS\" of means perfluoroalkyl set forth rules, developed in the USEPA's under Section the and Toxic 313 of the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants."
+  }
+}

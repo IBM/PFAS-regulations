@@ -1,0 +1,49 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill would prohibit, beginning January 1, 2025, a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances PFAS, as defined."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Beginning January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Entity"
+        ],
+        "provenance": "no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Deliver",
+          "Hold",
+          "Offer for sale"
+        ],
+        "provenance": "manufacture, sell, deliver, hold, or offer for sale in commerce"
+      },
+      "products": {
+        "value": [
+          "Cosmetic product"
+        ],
+        "provenance": "cosmetic product"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "intentionally added PFAS means either of the following: PFAS chemicals that a manufacturer has intentionally added to a product"
+      }
+    }
+  ]
+}

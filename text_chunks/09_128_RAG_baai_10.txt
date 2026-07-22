@@ -1,0 +1,34 @@
+
+2023 SESSION
+23-0506
+08/05
+HOUSE BILL 465-FN
+AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.
+ANALYSIS
+This bill restricts the use of per and polyfluoroalkyl substances in rugs, carpets, and aftermarket stain and water resistant treatments sold in New Hampshire.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Explanation: Matter added to current law appears in bold italics.
+STATE OF NEW HAMPSHIRE
+In the Year of Our Lord Two Thousand Twenty Three
+AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+1  New Section; Consumer Protection; Per and Polyfluoroalkyl Substance Use Restricted.  Amend RSA 149-M by inserting after
+section 63 the following new section:
+149-M:64  Consumer Products; Per and Polyfluoroalkyl Substance Use Restricted.(c)  'Intentionally added' means the addition of a chemical in a product that serves an intended function in the product component.
+(d)  'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.
+(e)  'Rug or carpet' means a thick fabric used to cover floors.II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount.
+(b)  This paragraph shall not apply to the sale or resale of used products.III.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount.
+(b)  This paragraph shall not apply to the sale or resale of used products.(b)  Notify persons who are selling a product of the manufacturer's in this state that the sale is prohibited because the product does not comply with this chapter and submit to the department a list of the names and addresses of those persons notified.
+V. The commissioner of the department of environmental services shall, under RSA 541-A, adopt any rules necessary for the implementation, administration, and enforcement of this section.
+2  Effective Date.  This act shall take effect July 1, 2025.
+LBA 23-0506 1/6/23
+AS INTRODUCED
+AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.
+FISCAL IMPACT:
+[ X ] State
+[ X ] County
+[ X ] Local
+[ ] None
+METHODOLOGY:
+This bill restricts the use of per and polyfluoroalkyl substances in rugs, carpets, and after market stain and water resistant treatments sold in New Hampshire.
+Because the Department of Environmental Services is responsible for enforcing this statute, as well as promulgating the administrative rules, the Department assumes it would also be responsible for administering this ban. The ban would require the Department to regulate the manufacturing and retail sectors for carpeting, which represents a new responsibility that is outside the scope of it's current solid waste regulatory programs. The Department provided the following information and assumptions concerning the fiscal impact of the bill:· The process for creating the position would need to be completed prior to FY 2025 and, because there is no provision for revenue, the general fund would be the funding source. The position would need to be filled by the beginning of FY 2025 in order to engage in rulemaking, develop educational materials, research existing manufacturers and distributors, conduct outreach to affected entities, and fulfill any other preliminary administrative tasks. Starting in FY 2026, the position would be primarily responsible for enforcement, complaint response and compliance assistance.

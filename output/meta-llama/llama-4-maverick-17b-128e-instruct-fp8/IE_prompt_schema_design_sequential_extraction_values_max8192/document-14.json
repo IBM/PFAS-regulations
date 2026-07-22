@@ -1,0 +1,74 @@
+{
+  "title": {
+    "value": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health."
+  },
+  "location": {
+    "value": "California"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 1817, CHAPTER 762"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2022-09-29"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "textile articles",
+          "outdoor apparel for severe wet conditions"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "outdoor apparel for severe wet conditions until January 1, 2028",
+          "personal protective equipment",
+          "clothing items for exclusive use by the United States military",
+          "carpets and rugs",
+          "treatments containing PFAS for use on converted textiles or leathers",
+          "vehicles",
+          "vessels",
+          "filtration media and filter products used in industrial applications",
+          "textile articles used in or for laboratory analysis and testing",
+          "aircraft",
+          "stadium shades or other architectural fabric structures",
+          "single-use paper hygiene products",
+          "single-use absorbent hygiene products"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

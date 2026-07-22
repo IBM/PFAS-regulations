@@ -1,0 +1,129 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION",
+    "provenance": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION."
+  },
+  "location": {
+    "value": "Hawaii",
+    "provenance": "STATE OF HAWAII"
+  },
+  "reference": {
+    "value": "H.B. NO. H.D. 1",
+    "provenance": "H.B. NO. H.D. 1"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2022-07-01",
+    "provenance": "SECTION 3. This Act shall take effect on July 1, 2022."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Bans the manufacture, sale, or distribution for sale or use of wraps and liners, plates, food boats, pizza boxes, and firefighting foams that contain perfluoroalkyl and polyfluoroalkyl substances, in certain circumstances."
+      },
+      "date": {
+        "value": "2024-12-31",
+        "provenance": "Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State"
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State"
+      },
+      "products": {
+        "value": [
+          "wraps and liners",
+          "plates",
+          "food boats",
+          "pizza boxes"
+        ],
+        "provenance": "The prohibition under this section shall apply to wraps and liners, plates, food boats, and pizza boxes."
+      },
+      "exceptions": {
+        "value": [
+          "federal law"
+        ],
+        "provenance": "This section shall not apply to the manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS chemicals is required by federal law or regulations;"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "\"Intentionally introduced\" means deliberately utilized PFAS in the formulation of a package or packaging component where the continued presence of the PFAS is desired in the final package or packaging component to provide a specific characteristic, appearance, or quality."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Bans the manufacture, sale, or distribution for sale or use of wraps and liners, plates, food boats, pizza boxes, and firefighting foams that contain perfluoroalkyl and polyfluoroalkyl substances, in certain circumstances."
+      },
+      "date": {
+        "value": "2024-07-01",
+        "provenance": "Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals,"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "State agency",
+          "Local government"
+        ],
+        "provenance": "Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency"
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Manufacture",
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ],
+        "provenance": "class B firefighting foam that contains intentionally introduced PFAS chemicals"
+      },
+      "exceptions": {
+        "value": [
+          "federal law",
+          "petroleum fire"
+        ],
+        "provenance": "This section shall not apply to the manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS chemicals is required by federal law or regulations; provided that if applicable federal law or regulations are amended after the effective date of this Act to allow the use of alternative firefighting agents that do not contain PFAS chemicals, the department may adopt rules that restrict PFAS chemicals for the manufacture, sale, and distribution of firefighting foam for uses that are addressed by the federal law or regulation."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "\"Intentionally introduced\" means deliberately utilized PFAS in the formulation of a package or packaging component where the continued presence of the PFAS is desired in the final package or packaging component to provide a specific characteristic, appearance, or quality."
+      }
+    }
+  ]
+}

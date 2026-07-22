@@ -1,0 +1,24 @@
+{
+  "title": "An Act To enact R.S. 40:1615, relative to fire fighting foam; to provide for the discharge of Class B fire fighting foam containing fluorinated organic chemicals; to provide for exceptions; to provide for definitions; to provide for applicability; to provide for an effective date; and to provide for related matters.",
+  "provenance": "An Act To enact R.S. 40:1615, relative to fire fighting foam; to provide for the discharge of Class B fire fighting foam containing fluorinated organic chemicals; to provide for exceptions; to provide for definitions; to provide for applicability; to provide for an effective date; and to provide for related matters.",
+  "location": {
+    "value": "Louisiana",
+    "provenance": "House Bill No. 389, enacted by the Legislature of Louisiana"
+  },
+  "reference": {
+    "value": "HLS 21RS-536",
+    "provenance": "HLS 21RS-536"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "HOUSE BILL NO. 389"
+  },
+  "date": {
+    "value": "2022-01-01",
+    "provenance": "B.  On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals unless discharged under either of the following conditions:"
+  },
+  "pfas_definition": {
+    "value": "a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, including perfluoroalkyl and polyfluoroalkyl substances, and designed to be fully functional in Class B fire fighting foam formulations.",
+    "provenance": "A. As used in this Part, the following terms have the meaning ascribed to them in this Section, unless the context clearly indicates otherwise: (3) \"PFAS chemicals\" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, including perfluoroalkyl and polyfluoroalkyl substances, and designed to be fully functional in Class B fire fighting foam formulations."
+  }
+}

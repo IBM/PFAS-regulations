@@ -1,0 +1,136 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS",
+    "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS"
+  },
+  "location": {
+    "value": "Connecticut",
+    "provenance": "This act was passed in the General Assembly of Connecticut"
+  },
+  "reference": {
+    "value": "Substitute Senate Bill No. 292",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "This act was enacted by the Senate and House of Representatives in General Assembly"
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "Effective October 1, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "PFAS is defined as all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "No person shall manufacture, sell, offer for sale or distribute for sale in this state any of the following products if the product contains intentionally added PFAS"
+      },
+      "date": {
+        "value": "2026-07-01",
+        "provenance": "On and after July 1, 2026"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "No person shall manufacture, sell, offer for sale or distribute for sale in this state any of the following products if the product contains intentionally added PFAS"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "No person shall manufacture, sell, offer for sale or distribute for sale in this state any of the following products if the product contains intentionally added PFAS"
+      },
+      "products": {
+        "value": [
+          "Apparel",
+          "Carpet or rug",
+          "Cleaning product",
+          "Cookware",
+          "Cosmetic product",
+          "Dental floss",
+          "Fabric treatment",
+          "Children's product",
+          "Menstruation product",
+          "Textile furnishing",
+          "Ski wax",
+          "Upholstered furniture"
+        ],
+        "provenance": "No person shall manufacture, sell, offer for sale or distribute for sale in this state any of the following products if the product contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "federal law"
+        ],
+        "provenance": "Nothing in this subsection shall be construed to require or replace such disclosure, notice or labeling that is otherwise prohibited or prescribed by federal law"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added PFAS means PFAS deliberately added during the manufacture of a product where the continued presence of PFAS is desired in the final product or one of the product's components to perform a specific function"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "No person shall distribute, sell or offer for sale in this state any new or not-previously-used outdoor apparel for severe wet conditions that contains PFAS unless such product is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals'"
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "On and after January 1, 2026"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "No person shall distribute, sell or offer for sale in this state any new or not-previously-used outdoor apparel for severe wet conditions that contains PFAS unless such product is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals'"
+      },
+      "action": {
+        "value": [
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "No person shall distribute, sell or offer for sale in this state any new or not-previously-used outdoor apparel for severe wet conditions that contains PFAS unless such product is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals'"
+      },
+      "products": {
+        "value": [
+          "Outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "No person shall distribute, sell or offer for sale in this state any new or not-previously-used outdoor apparel for severe wet conditions that contains PFAS unless such product is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals'"
+      },
+      "exceptions": {
+        "value": [
+          "federal law"
+        ],
+        "provenance": "Nothing in this subsection shall be construed to require or replace such disclosure, notice or labeling that is otherwise prohibited or prescribed by federal law"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added PFAS means PFAS deliberately added during the manufacture of a product where the continued presence of PFAS is desired in the final product or one of the product's components to perform a specific function"
+      }
+    }
+  ]
+}

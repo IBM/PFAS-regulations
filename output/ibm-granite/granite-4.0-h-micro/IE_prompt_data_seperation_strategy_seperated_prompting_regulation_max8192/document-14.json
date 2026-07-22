@@ -1,0 +1,46 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "For purposes of this article, the following terms have the following definitions: (h) 'Textile articles' means textile goods of a type customarily and ordinarily used in households and businesses, and include, but are not limited to, apparel, accessories, handbags, backpacks, draperies, shower curtains, furnishings, upholstery, beddings, towels, napkins, and tablecloths."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "For purposes of this article, the following terms have the following definitions: (a) (1) Except as provided in paragraph (2), commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A manufacturer of a textile article shall provide persons that offer the product for sale or distribution in the state with a certificate of compliance stating that the textile article is in compliance with the requirements of this chapter and does not contain any regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "action": {
+        "value": [
+          "Manufacture"
+        ],
+        "provenance": "For purposes of this article, the following terms have the following definitions: (a) (1) Except as provided in paragraph (2), commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "products": {
+        "value": [
+          "Textile articles"
+        ],
+        "provenance": "For purposes of this article, the following terms have the following definitions: (a) 'Textile articles' means textile goods of a type customarily and ordinarily used in households and businesses, and include, but are not limited to, apparel, accessories, handbags, backpacks, draperies, shower curtains, furnishings, upholstery, beddings, towels, napkins, and tablecloths."
+      },
+      "exceptions": {
+        "value": [
+          "Outdoor apparel for severe wet conditions until January 1, 2028"
+        ],
+        "provenance": "For purposes of this article, the following terms have the following definitions: (a) (1) Except as provided in paragraph (2), commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS. (2) Paragraph (1) does not apply to outdoor apparel for severe wet conditions until January 1, 2028."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No provision in the document mentions that the PFAS in textile articles is currently unavoidable."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "For purposes of this article, the following terms have the following definitions: (h) 'Regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS' means either of the following: (1) PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product."
+      }
+    }
+  ]
+}

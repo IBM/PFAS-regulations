@@ -1,0 +1,52 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 652",
+    "provenance": "Assembly Bill No. 652"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety."
+  },
+  "reference": {
+    "value": "AB 652",
+    "provenance": "AB 652"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021."
+  },
+  "date": {
+    "value": "2023-07-01",
+    "provenance": "On and after July 1, 2023"
+  },
+  "pfas_definition": {
+    "value": "a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom",
+    "provenance": "Regulated perfluoroalkyl and polyfluoroalkyl substances or 'regulated PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023"
+      },
+      "who": [
+        "Manufacturer"
+      ],
+      "action": [
+        "Sell"
+      ],
+      "products": [
+        "juvenile product"
+      ],
+      "exceptions": [
+        "A children's electronic product, including, but not limited to, a personal computer, audio and video equipment, calculator, wireless phone, game console, handheld device incorporating a video screen, or any associated peripheral such as a mouse, keyboard, power supply unit, or power cord."
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": true
+    }
+  ]
+}

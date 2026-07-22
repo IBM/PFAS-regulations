@@ -1,0 +1,163 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS"
+  },
+  "location": {
+    "value": "Connecticut"
+  },
+  "reference": {
+    "value": "Substitute Senate Bill No. 292, Public Act No. 24-59"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2024-06-05"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2026-07-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishing",
+          "ski wax",
+          "upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "product for which federal law governs or requires the presence of PFAS",
+          "product regulated under section 22a-903a or 22a-255i of the general statutes",
+          "sale or resale of a used product",
+          "prosthetic, orthotic device or product that is a medical device or drug or that is otherwise used in a medical setting or in medical applications regulated by the United States Food and Drug Administration",
+          "product made with not less than eighty-five per cent recycled content",
+          "product manufactured prior to any prohibition imposed by the provisions of this section",
+          "replacement parts for any product manufactured prior to any prohibition imposed by the provisions of this section"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2026-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "outdoor apparel for severe wet conditions",
+          "turnout gear"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2028-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "turnout gear",
+          "carpets or rugs",
+          "cleaning products",
+          "cookware",
+          "cosmetic products",
+          "dental floss",
+          "fabric treatments",
+          "children's products",
+          "menstruation products",
+          "textile furnishings",
+          "ski wax",
+          "upholstered furniture",
+          "outdoor apparel for severe wet conditions"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

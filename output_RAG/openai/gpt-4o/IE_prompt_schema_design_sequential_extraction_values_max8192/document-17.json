@@ -1,0 +1,64 @@
+{
+  "title": {
+    "value": "An Act relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams"
+  },
+  "location": {
+    "value": "State of Nevada"
+  },
+  "reference": {
+    "value": "BDR 40-141"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "not specified"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "not specified"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State agency",
+          "Local government agency"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Testing the Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances unless the person testing the foam has ensured that any measures necessary for the proper containment, treatment and disposal of the foam are available at the testing location and such measures will prevent the release of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances to the surrounding environment",
+          "Firefighting training",
+          "Provisions preempted by or conflict with federal law, including any provision of federal law requiring the use of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances pursuant to 14 C.F.R. Part 139 or for military purposes"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

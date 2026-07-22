@@ -1,0 +1,42 @@
+{
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "The Environmental Protection Act is amended by adding Section 22.62 as follows: (415 ILCS 5/22.62 new)"
+  },
+  "reference": {
+    "value": "AN ACT concerning safety",
+    "provenance": "AN ACT concerning safety."
+  },
+  "Sec_22.62": {
+    "value": "TRI-PFAS; incineration.",
+    "provenance": "Sec. 22.62. TRI-PFAS; incineration."
+  },
+  "definition_Incineration": {
+    "value": "Incineration includes, burning, combustion, of an acid cement but pyrolysis, recovery is not limited gasification, furnace kiln, furnace, or lightweight boiler, not include control or to, the oxidizer, ore aggregate or process the use use roaster, kiln, heater. of a thermal or resource recovery using perfluoroalkyl chemical as a pollution device at a facility or polyfluoroalkyl containing substances.",
+    "provenance": "Sec. 22.62. TRI-PFAS; incineration. (a) As used in this Section: \"Incineration\" includes, burning, combustion, of an acid cement but pyrolysis, recovery is not limited gasification, furnace kiln, furnace, or lightweight boiler, not include control or to, the oxidizer, ore aggregate or process the use use roaster, kiln, heater. of a thermal or resource recovery using perfluoroalkyl chemicals industrial."
+  },
+  "definition_Toxic_Release_Inventory": {
+    "value": "Polyfluoroalkyl perfluoroalkyl substances or the list of substances released on the list forth rules developed in the USEPA's under Section 313 of the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants.",
+    "provenance": "Sec. 22.62. TRI-PFAS; incineration. (a) As used in this Section: \"Incorporation by reference\" means incorporation by reference in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants."
+  },
+  "prohibited_Disposal": {
+    "value": "No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS.",
+    "provenance": "Sec. 22.62. TRI-PFAS; incineration. (b) No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS."
+  },
+  "exemptions": {
+    "value": "Nothing in this Section applies to the incineration of (i) landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill, (ii) landfill gas in a landfill gas recovery facility that is located at a sanitary landfill, (iii) waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable, or (iv) sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility.",
+    "provenance": "Sec. 22.62. TRI-PFAS; incineration. (c) Nothing in this Section applies to the incineration of (i) landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill, (ii) landfill gas in a landfill gas recovery facility that is located at a sanitary landfill, (iii) waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable, or (iv) sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Sec. 22.62. TRI-PFAS; incineration."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "The date is not specified in the provided document."
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS. The Agency may propose, and the Board may adopt, any rules it deems necessary to carry out the provisions of this Section."
+  }
+}

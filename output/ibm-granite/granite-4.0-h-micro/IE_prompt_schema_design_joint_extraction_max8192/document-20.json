@@ -1,0 +1,73 @@
+{
+  "title": {
+    "value": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution",
+    "provenance": "S.P. 610 - L.D. 1537"
+  },
+  "location": {
+    "value": "State of Maine",
+    "provenance": "State of Maine"
+  },
+  "reference": {
+    "value": "S.P. 610 - L.D. 1537",
+    "provenance": "S.P. 610 - L.D. 1537"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved APRIL 16, 2024"
+  },
+  "date": {
+    "value": "2024-04-16",
+    "provenance": "Approved APRIL 16, 2024"
+  },
+  "pfas_definition": {
+    "value": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) defined as: Any substance that contains at least one fully fluorinated methyl (CF3-) or methylene (-CF2-) carbon atom (without any H/Cl/Br/I attached to it).",
+    "provenance": "Sec. 1. Definitions. As used in this section, unless the context otherwise indicates, the following terms have the following meanings. E. \"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Sec. 2. Department of Environmental Protection; report. The Department of Environmental Protection shall evaluate the feasibility of and develop recommendations as appropriate regarding the implementation of one or more product stewardship programs for any of the products containing intentionally added PFAS that are identified in the Maine Revised Statutes, Title 38, section 1614, subsection 4, paragraphs H to L or subsection 5, paragraph E, subparagraphs (1) and (2)."
+      },
+      "date": {
+        "value": "2024-04-16",
+        "provenance": "Approved APRIL 16, 2024"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier"
+      ],
+      "action": [
+        "Ban"
+      ],
+      "products": [
+        "Carpet or rug",
+        "Fabric treatment",
+        "Cleaning product",
+        "Cookware product",
+        "Cosmetic product",
+        "Juvenile product",
+        "Textile article"
+      ],
+      "exceptions": [
+        "Used product",
+        "Used product component",
+        "Firefighting or fire-suppressing foam or related product regulated under section 424-C",
+        "Prosthetic or orthotic device or any product that is a medical device, drug or biologic or that is otherwise used in a medical setting",
+        "Veterinary product intended for use in or on animals",
+        "Product developed or manufactured for the purposes of public health, environmental or water quality testing",
+        "Product required to meet standards or requirements of the United States Department of Transportation, Federal Aviation Administration, the National Aeronautics and Space Administration, the United States Department of Defense or the United States Department of Homeland Security",
+        "Nonconsumer electronics and nonconsumer laboratory equipment not ordinarily used for personal, family or household purposes",
+        "Equipment directly used in the manufacture or development of the products described in paragraphs E to L"
+      ],
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "Sec. 5, paragraph F. The department may by rule identify specific products or product categories containing intentionally added PFAS for which it has determined the use of PFAS in the product is a currently unavoidable use."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Sec. 5, paragraph E, subparagraphs (1) and (2). A person may not sell, offer for sale or distribute for sale in this State any product that contains intentionally added PFAS that is not already prohibited from sale, offer for sale or distribution for sale pursuant to paragraph A, B, B-1, B-2 or C, unless the department has determined by rule in accordance with paragraph F that the use of PFAS in the product is a currently unavoidable use."
+      }
+    }
+  ]
+}

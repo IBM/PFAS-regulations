@@ -1,0 +1,174 @@
+{
+  "title": {
+    "value": "Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law"
+  },
+  "location": {
+    "value": "State of Illinois"
+  },
+  "reference": {
+    "value": "SB0088"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2023-01-20"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Carpets or rugs",
+          "Fabric treatments",
+          "Food packaging",
+          "Juvenile products",
+          "Oil and gas products",
+          "Apparel"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Product sold or resold before the effective date of this amendatory Act of the 103rd General Assembly"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2026-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Cosmetics",
+          "Indoor textile furnishings",
+          "Indoor upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute for sale",
+          "Offer for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Outdoor textile furnishings",
+          "Outdoor upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make"
+        ]
+      },
+      "products": {
+        "value": [
+          "Cookware"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Cookware that meets the requirements of subsection (h)"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

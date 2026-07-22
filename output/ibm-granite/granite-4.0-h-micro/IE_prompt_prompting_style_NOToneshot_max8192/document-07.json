@@ -1,0 +1,121 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 2771",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health."
+  },
+  "reference": {
+    "value": "AB 2771",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor September 29, 2022."
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "Approved by Governor September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SEC. 2. Section 108981.5 is added to the Health and Safety Code, to read: 108981.5. Beginning  January  1,  2025,  no  person  or  entity  shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Beginning  January  1,  2025,"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Entity"
+        ],
+        "provenance": "no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product..."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Deliver",
+          "Hold",
+          "Offer for sale"
+        ],
+        "provenance": "no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product..."
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ],
+        "provenance": "cosmetic product"
+      },
+      "exceptions": {
+        "value": null,
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Beginning  January  1,  2025,  no  person  or  entity  shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SEC. 3.  Section 108982 is added to the Health and Safety Code, to read: 108982. For  purposes  of  this  chapter,  the  following  terms  have  the following definitions:"
+      },
+      "date": {
+        "value": "Not specified",
+        "provenance": null
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Entity"
+        ],
+        "provenance": "For purposes of this chapter, the following terms have the following definitions: 'Cosmetic product' means an article for retail sale or professional use intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body for cleansing, beautifying, promoting attractiveness, or altering the appearance. 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom. 'Intentionally added PFAS' means either of the following: (1) PFAS chemicals that a manufacturer has intentionally added to a product and that have a functional or technical effect on the product. (2) PFAS chemicals that are intentional breakdown products of an added chemical."
+      },
+      "action": {
+        "value": null,
+        "provenance": null
+      },
+      "products": {
+        "value": null,
+        "provenance": null
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of a used product",
+          "pesticide",
+          "fertilizer",
+          "agricultural liming material",
+          "plant amendment",
+          "soil amendment",
+          "prosthetic device",
+          "orthotic device",
+          "medical device",
+          "drug"
+        ],
+        "provenance": "For purposes of this chapter, the following terms have the following definitions: ... (d) The commissioner may not take action under paragraph (b) or (c) with respect to a pesticide, as defined under chapter 18B, a fertilizer, an agricultural liming material, a plant amendment, or a soil amendment as defined under chapter 18C, unless the commissioner of agriculture approves the action. This section does not apply to: (1) a product for which federal law governs the presence of PFAS in the product in a manner that preempts state authority; (2) a product regulated under section 325F.072 or 325F.075; or (3) the sale or resale of a used product."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "Beginning  January  1,  2025,  no  person  or  entity  shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added PFAS, unless the commissioner has determined by rule that the use of PFAS in the product is a currently unavoidable use."
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": {
+    "value": "Toxic-Free Cosmetics Act"
+  },
+  "location": {
+    "value": "State of Washington"
+  },
+  "reference": {
+    "value": "Title 70A RCW"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2023-01-01"
+  },
+  "pfas_definition": {
+    "value": "not specified"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "cosmetic products do not include prescription drugs approved by the United States food and drug administration",
+          "ingredients regulated as drugs by the United States food and drug administration are not subject to the restrictions"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

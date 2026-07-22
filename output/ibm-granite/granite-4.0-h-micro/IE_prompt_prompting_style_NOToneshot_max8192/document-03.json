@@ -1,0 +1,82 @@
+{
+  "title": {
+    "value": "An Act to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances",
+    "provenance": "An ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+  },
+  "location": {
+    "value": "State of New York",
+    "provenance": "State of New York"
+  },
+  "reference": {
+    "value": "4525--A",
+    "provenance": "4525--A"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Introduced by M. of A. GALLAGHER, STERN, GONZALEZ-ROJAS, JACOBSON, LEVENBERG, SIMON, SIMONE, ROSENTHAL, COLTON, REYES, SHIMSKY, RAGA, CLARK, SEAWRIGHT, FORREST, OTIS, BURDICK, MAMDANI, MEEKS -- read once and referred to the Committee on Environmental Conservation -- committee discharged, bill amended, ordered reprinted as amended and recommitted to said committee"
+  },
+  "date": {
+    "value": "2025-02-04",
+    "provenance": "February 4, 2025"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances or PFAS means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "EXPLANATION--Matter in italics (underscored) is new; matter in brackets [ ] is old law to be omitted."
+      },
+      "date": {
+        "value": "2025-12-31",
+        "provenance": "After December thirty-first, two thousand twenty-six,"
+      },
+      "who": {
+        "value": [
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "no person this state shall sell or offer for sale in containing perfluoroalkyl and"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person this state shall sell or offer for sale in containing perfluoroalkyl and"
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays",
+          "anti-fogging wipes"
+        ],
+        "provenance": "anti-fogging sprays or wipes"
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of a used product",
+          "pesticide",
+          "fertilizer",
+          "agricultural liming material",
+          "plant amendment",
+          "soil amendment",
+          "prosthetic device",
+          "orthotic device",
+          "medical device",
+          "drug"
+        ],
+        "provenance": "It shall be a violation of this section to provide a certificate of compliance as contemplated by subdivision three of this section when the applicable anti-fogging sprays or wipes do not satisfy the prohibitions on the presence of perfluoroalkyl and polyfluoroalkyl substances set forth in subdivision two of this section."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "no person this state shall sell or offer for sale in containing perfluoroalkyl and polyfluoroalkyl substances at or above a level that the department shall establish"
+      }
+    }
+  ]
+}

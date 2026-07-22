@@ -1,0 +1,93 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products."
+      },
+      "date": {
+        "value": "2025-07-01",
+        "provenance": "2  Effective Date.  This act shall take effect July 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount.\nIII.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount.\nIII.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount."
+      },
+      "products": {
+        "value": [
+          "rug or carpet",
+          "aftermarket stain and water resistant treatments for rugs or carpets"
+        ],
+        "provenance": "II.(a)  ... a rug or carpet ...\nIII.(a)  ... aftermarket stain and water resistant treatments for rugs or carpets ..."
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of used products"
+        ],
+        "provenance": "II.(b)  This paragraph shall not apply to the sale or resale of used products.\nIII.(b)  This paragraph shall not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Intentionally added' means the addition of a chemical in a product that serves an intended function in the product component."
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "IV.  The department may request a certificate of compliance from a manufacturer of rugs, carpets, or aftermarket stain and water resistant treatments."
+      },
+      "date": {
+        "value": "2025-07-01",
+        "provenance": "2  Effective Date.  This act shall take effect July 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "IV.  The department may request a certificate of compliance from a manufacturer of rugs, carpets, or aftermarket stain and water resistant treatments."
+      },
+      "action": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "products": {
+        "value": [
+          "rugs",
+          "carpets",
+          "aftermarket stain and water resistant treatments"
+        ],
+        "provenance": "IV.  The department may request a certificate of compliance from a manufacturer of rugs, carpets, or aftermarket stain and water resistant treatments."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

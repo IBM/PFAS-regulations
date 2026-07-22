@@ -1,0 +1,48 @@
+{
+  "title": "An Act Relating to PFAS",
+  "location": "Oregon",
+  "reference": "HB 3512",
+  "status": "Law/Statute",
+  "date": "2027-01-01",
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "The document defines 'Perfluoroalkyl or polyfluoroalkyl substance' as a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, also commonly known as PFAS."
+  },
+  "regulations": [
+    {
+      "type": "Ban/Restrict",
+      "date": "2027-01-01",
+      "who": [
+        "Manufacturer",
+        "Seller",
+        "Distributor"
+      ],
+      "action": [
+        "Manufacture",
+        "Sell",
+        "Distribute"
+      ],
+      "products": [
+        "Aqueous film-forming foam",
+        "Artificial turf",
+        "Cleaning products",
+        "Carpets or rugs",
+        "Cookware",
+        "Cosmetics",
+        "Dental floss",
+        "Fabric treatments",
+        "Packaging",
+        "Juvenile products",
+        "Menstrual products",
+        "Refrigerators",
+        "Textile articles",
+        "Ski wax"
+      ],
+      "exceptions": [
+        "Used covered products"
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": true
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION.",
+    "provenance": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION."
+  },
+  "location": {
+    "value": "State of Hawaii",
+    "provenance": "HOUSE OF REPRESENTATIVES THIRTY-FIRST LEGISLATURE, 2022 STATE OF HAWAII"
+  },
+  "reference": {
+    "value": "HB1644 CD1",
+    "provenance": "HB1644 CD1"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2022-07-01",
+    "provenance": "This Act shall take effect on July 1, 2022."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      },
+      "date": {
+        "value": "2024-12-31",
+        "provenance": "Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor",
+          "User"
+        ],
+        "provenance": "Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      },
+      "products": {
+        "value": [
+          "wraps and liners",
+          "plates",
+          "food boats",
+          "pizza boxes"
+        ],
+        "provenance": "(b) The prohibition under this section shall apply to wraps and liners, plates, food boats, and pizza boxes."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No exceptions listed."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS chemicals have been intentionally introduced in any amount."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "date": {
+        "value": "2024-07-01",
+        "provenance": "Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "State agency",
+          "Local government"
+        ],
+        "provenance": "Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ],
+        "provenance": "Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ],
+        "provenance": "Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "exceptions": {
+        "value": [
+          "use necessary for effective suppression of a petroleum fire"
+        ],
+        "provenance": "unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally introduced PFAS chemicals"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for training or testing purposes in the State any class B firefighting foam that contains intentionally introduced PFAS chemicals."
+      },
+      "date": {
+        "value": "2024-07-01",
+        "provenance": "Beginning July 1, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for training or testing purposes in the State any class B firefighting foam that contains intentionally introduced PFAS chemicals."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor",
+          "Person"
+        ],
+        "provenance": "Beginning July 1, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for training or testing purposes in the State any class B firefighting foam that contains intentionally introduced PFAS chemicals."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for training or testing"
+        ],
+        "provenance": "Beginning July 1, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for training or testing purposes in the State any class B firefighting foam that contains intentionally introduced PFAS chemicals."
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ],
+        "provenance": "Beginning July 1, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for training or testing purposes in the State any class B firefighting foam that contains intentionally introduced PFAS chemicals."
+      },
+      "exceptions": {
+        "value": [
+          "use necessary for effective suppression of a petroleum fire"
+        ],
+        "provenance": "unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally introduced PFAS chemicals"
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "A manufacturer of class B firefighting foam prohibited by this part shall notify, in writing and no later than January 1, 2023, persons that sell the manufacturer's products in the State about the requirements of this part."
+      },
+      "date": {
+        "value": "2023-01-01",
+        "provenance": "A manufacturer of class B firefighting foam prohibited by this part shall notify, in writing and no later than January 1, 2023, persons that sell the manufacturer's products in the State about the requirements of this part."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A manufacturer of class B firefighting foam prohibited by this part shall notify, in writing and no later than January 1, 2023, persons that sell the manufacturer's products in the State about the requirements of this part."
+      },
+      "action": {
+        "value": [
+          "Notify"
+        ],
+        "provenance": "A manufacturer of class B firefighting foam prohibited by this part shall notify, in writing and no later than January 1, 2023, persons that sell the manufacturer's products in the State about the requirements of this part."
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ],
+        "provenance": "A manufacturer of class B firefighting foam prohibited by this part shall notify, in writing and no later than January 1, 2023, persons that sell the manufacturer's products in the State about the requirements of this part."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No exceptions listed."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

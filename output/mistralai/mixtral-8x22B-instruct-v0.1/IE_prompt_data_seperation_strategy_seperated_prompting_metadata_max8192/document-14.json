@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 1817",
+    "provenance": "Assembly Bill No. 1817"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "AB 1817",
+    "provenance": "AB  1817,  Ting.  Product  safety:  textile  articles:  perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health."
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "[Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": " 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "Toxic Packaging Reduction Act",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "location": {
+    "value": "State of Rhode Island",
+    "provenance": "S TATE   OF     R H O D E     IS L A N D"
+  },
+  "reference": {
+    "value": "LC004634/SUB A",
+    "provenance": "LC004634/SUB A"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "A N   A C T"
+  },
+  "date": {
+    "value": "2022",
+    "provenance": "JANUARY SESSION, A.D. 2022"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(l) \"Perfluoroalkyl  and polyfluoroalkyl  substances\" or \"PFAS\" means all  members of the  class of fluorinated organic chemicals containing  at least one fully fluorinated  carbon atom."
+  }
+}

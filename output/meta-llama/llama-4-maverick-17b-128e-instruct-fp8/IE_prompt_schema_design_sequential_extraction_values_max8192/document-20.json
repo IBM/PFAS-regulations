@@ -1,0 +1,256 @@
+{
+  "title": {
+    "value": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution"
+  },
+  "location": {
+    "value": "State of Maine"
+  },
+  "reference": {
+    "value": "S.P. 610 - L.D. 1537"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2024-04-16"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2023-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Carpet or rug",
+          "Fabric treatment"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Used carpet or rug",
+          "Used fabric treatment"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2026-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Cleaning product",
+          "Cookware product",
+          "Cosmetic product",
+          "Dental floss",
+          "Juvenile product",
+          "Menstruation product",
+          "Textile article",
+          "Ski wax",
+          "Upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Outdoor apparel for severe wet conditions",
+          "Textile article that is included in or a component part of a watercraft, aircraft or motor vehicle, including an off-highway vehicle",
+          "Used products"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2029-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Artificial turf",
+          "Outdoor apparel for severe wet conditions"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Used artificial turf",
+          "Used outdoor apparel for severe wet conditions"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2032-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Product that contains intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Used product",
+          "Cooling, heating, ventilation, air conditioning and refrigeration equipment",
+          "Refrigerants, foams and aerosol propellants that are listed as acceptable by the United States Environmental Protection Agency"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2040-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Cooling, heating, ventilation, air conditioning or refrigeration equipment",
+          "Refrigerants, foams or aerosol propellants"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Used product",
+          "Parts and other servicing needs for cooling, heating, ventilation, air conditioning or refrigeration equipment"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Product that contains intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Manufacturer that employs 100 or fewer people"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

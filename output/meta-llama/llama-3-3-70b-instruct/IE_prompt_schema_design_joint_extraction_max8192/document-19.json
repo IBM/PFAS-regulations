@@ -1,0 +1,208 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS",
+    "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS."
+  },
+  "location": {
+    "value": "Connecticut",
+    "provenance": "Be it enacted by the Senate and House of Representatives in General Assembly convened:"
+  },
+  "reference": {
+    "value": "Public Act No. 24-59",
+    "provenance": "Public Act No. 24-59"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Public Act No. 24-59"
+  },
+  "date": {
+    "value": "2024-06-05",
+    "provenance": "Approved June 5, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(20) \"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "(b) (1) On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any (A) apparel; ... if such product contains intentionally added PFAS,"
+      },
+      "date": {
+        "value": "2026-07-01",
+        "provenance": "(b) (1) On and after July 1, 2026,"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "(b) (1) On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state"
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "(b) (1) On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishing",
+          "ski wax",
+          "upholstered furniture"
+        ],
+        "provenance": "(b) (1) On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any (A) apparel; (B) carpet or rug; (C) cleaning product; ... "
+      },
+      "exceptions": {
+        "value": [
+          "cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS",
+          "product for which federal law governs or requires the presence of PFAS",
+          "product regulated under section 22a-903a or 22a-255i",
+          "sale or resale of a used product",
+          "prosthetic, orthotic device or product that is a medical device or drug",
+          "product made with not less than eighty-five per cent recycled content",
+          "product manufactured prior to any prohibition imposed by the provisions of this section",
+          "replacement parts for any product manufactured prior to any prohibition imposed by the provisions of this section"
+        ],
+        "provenance": "(e) Notwithstanding any provision of this section, if a cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS ... (j) The provisions of this section shall not be construed to apply to: (1) Any product for which federal law governs or requires the presence of PFAS ... "
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "(e) Notwithstanding any provision of this section, if a cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(b) (1) On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any ... if such product contains intentionally added PFAS,"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "(c) (1) On and after January 1, 2026, no person shall distribute, sell or offer for sale in this state any new or not-previously-used outdoor apparel for severe wet conditions that contains PFAS unless such product is accompanied by a legible and easily discernable disclosure with the statement \"Made with PFAS chemicals\""
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "(c) (1) On and after January 1, 2026,"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "(c) (1) On and after January 1, 2026, no person shall distribute, sell or offer for sale in this state"
+      },
+      "action": {
+        "value": [
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "(c) (1) On and after January 1, 2026, no person shall distribute, sell or offer for sale in this state"
+      },
+      "products": {
+        "value": [
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "(c) (1) On and after January 1, 2026, no person shall distribute, sell or offer for sale in this state any new or not-previously-used outdoor apparel for severe wet conditions"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": ""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": ""
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(c) (1) On and after January 1, 2026, no person shall distribute, sell or offer for sale in this state any new or not-previously-used outdoor apparel for severe wet conditions that contains PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "(d) On and after January 1, 2028, no person shall manufacture, sell, offer for sale or distribute for sale in this state any of the following products if the product contains intentionally added PFAS:"
+      },
+      "date": {
+        "value": "2028-01-01",
+        "provenance": "(d) On and after January 1, 2028,"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "(d) On and after January 1, 2028, no person shall manufacture, sell, offer for sale or distribute for sale in this state"
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "(d) On and after January 1, 2028, no person shall manufacture, sell, offer for sale or distribute for sale in this state"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "turnout gear",
+          "carpets or rugs",
+          "cleaning products",
+          "cookware",
+          "cosmetic products",
+          "dental floss",
+          "fabric treatments",
+          "children's products",
+          "menstruation products",
+          "textile furnishings",
+          "ski wax",
+          "upholstered furniture",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "(d) On and after January 1, 2028, no person shall manufacture, sell, offer for sale or distribute for sale in this state any of the following products: (1) Apparel; (2) turnout gear; ... "
+      },
+      "exceptions": {
+        "value": [
+          "product for which federal law governs or requires the presence of PFAS",
+          "product regulated under section 22a-903a or 22a-255i",
+          "sale or resale of a used product",
+          "prosthetic, orthotic device or product that is a medical device or drug",
+          "product made with not less than eighty-five per cent recycled content",
+          "product manufactured prior to any prohibition imposed by the provisions of this section",
+          "replacement parts for any product manufactured prior to any prohibition imposed by the provisions of this section"
+        ],
+        "provenance": "(j) The provisions of this section shall not be construed to apply to: (1) Any product for which federal law governs or requires the presence of PFAS ... "
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": ""
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(d) On and after January 1, 2028, no person shall manufacture, sell, offer for sale or distribute for sale in this state any of the following products if the product contains intentionally added PFAS:"
+      }
+    }
+  ]
+}

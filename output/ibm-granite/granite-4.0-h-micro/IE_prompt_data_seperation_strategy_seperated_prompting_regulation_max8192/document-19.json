@@ -1,0 +1,66 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS."
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "Effective October 1, 2024"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User"
+        ],
+        "provenance": "On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any ... if such product contains intentionally added PFAS, unless the manufacturer of the product provides prior notification in writing to the department in accordance with the requirements of this subsection."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any ..."
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishing",
+          "ski wax",
+          "upholstered furniture",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "On and after January 1, 2026, no person shall distribute, sell or offer for sale in this state any new or not-previously-used outdoor apparel for severe wet conditions that contains PFAS ... On and after January 1, 2026, if a manufacturer or other person sells turnout gear that contains intentionally added PFAS, the manufacturer or person shall provide written notice to the purchaser ... On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any ..."
+      },
+      "exceptions": {
+        "value": [
+          "unavoidable trace quantity of PFAS attributable to impurities of natural or synthetic ingredients"
+        ],
+        "provenance": "Notwithstanding any provision of this section, if a cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS that is attributable to impurities of natural or synthetic ingredients, the manufacturing process, storage or migration from packaging, such unavoidable trace quantity shall not cause the cosmetic product to be in violation of this section."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "Notwithstanding any provision of this section, if a cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS that is attributable to impurities of natural or synthetic ingredients, the manufacturing process, storage or migration from packaging, such unavoidable trace quantity shall not cause the cosmetic product to be in violation of this section."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added PFAS"
+      }
+    }
+  ]
+}

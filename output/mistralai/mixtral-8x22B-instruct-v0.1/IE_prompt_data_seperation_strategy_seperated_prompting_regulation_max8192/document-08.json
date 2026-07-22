@@ -1,0 +1,50 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits sale, manufacture, distribution, and use of firefighting foam containing intentionally added perfluoroalkyl and polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2024-06-02",
+        "provenance": "Beginning two years after the effective date of this act"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Sell",
+          "Manufacture",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State"
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam containing intentionally added PFAS"
+        ],
+        "provenance": "no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "The sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law, or by a rule or regulation adopted pursuant thereto, including, but not limited to, 14 C.F.R. s.139.317"
+        ],
+        "provenance": "Subsection a. of this section shall not apply to the sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law, or by a rule or regulation adopted pursuant thereto, including, but not limited to, 14 C.F.R. s.139.317. If a federal requirement to include PFAS in class B firefighting foam is revoked, subsection a. of this section shall apply one year after the requirement is revoked."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "intentionally added PFAS' means PFAS added to a product or one of the product's components to provide a specific characteristic, appearance, or quality or to perform a specific function. 'Intentionally added PFAS' also includes any degradation byproducts of PFAS."
+      }
+    }
+  ]
+}

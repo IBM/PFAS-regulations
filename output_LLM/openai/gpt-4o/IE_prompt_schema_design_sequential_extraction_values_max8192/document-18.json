@@ -1,0 +1,60 @@
+{
+  "title": {
+    "value": "SUBSTITUTE HOUSE BILL 1047"
+  },
+  "location": {
+    "value": "State of Washington"
+  },
+  "reference": {
+    "value": "RCW 70A.350.010"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2023"
+  },
+  "pfas_definition": {
+    "value": "not specified"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Except as provided in subsection (3) of this section"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

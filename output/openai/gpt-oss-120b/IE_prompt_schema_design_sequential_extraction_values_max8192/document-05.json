@@ -1,0 +1,95 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 652, Friedman. Product safety: juvenile products: chemicals: perfluoroalkyl and polyfluoroalkyl substances."
+  },
+  "location": {
+    "value": "California"
+  },
+  "reference": {
+    "value": "AB 652"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2021-10-05"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2023-07-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "baby or toddler foam pillow",
+          "bassinet",
+          "bedside sleeper",
+          "booster seat",
+          "changing pad",
+          "child restraint system for use in motor vehicles and aircraft",
+          "co\u2011sleeper",
+          "crib mattress",
+          "floor playmat",
+          "highchair",
+          "highchair pad",
+          "infant bouncer",
+          "infant carrier",
+          "infant seat",
+          "infant sleep positioner",
+          "infant swing",
+          "infant travel bed",
+          "infant walker",
+          "nap cot",
+          "nursing pad",
+          "nursing pillow",
+          "playmat",
+          "playpen",
+          "play yard",
+          "polyurethane foam mat",
+          "pad",
+          "pillow",
+          "portable foam nap mat",
+          "portable infant sleeper",
+          "portable hook\u2011on chair",
+          "soft\u2011sided portable crib",
+          "stroller",
+          "toddler mattress"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Children's electronic product (e.g., personal computer, audio and video equipment, calculator, wireless phone, game console, handheld device with video screen, mouse, keyboard, power supply unit, power cord)",
+          "Medical device",
+          "Internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse",
+          "Adult mattress"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

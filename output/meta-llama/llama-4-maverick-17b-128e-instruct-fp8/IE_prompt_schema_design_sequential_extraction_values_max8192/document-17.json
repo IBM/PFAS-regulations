@@ -1,0 +1,113 @@
+{
+  "title": {
+    "value": "ASSEMBLY BILL NO. 97"
+  },
+  "location": {
+    "value": "Nevada"
+  },
+  "reference": {
+    "value": "A.B. 97"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2021-02-08"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State or local agency"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Testing with proper containment, treatment, and disposal measures",
+          "Federal law requiring the use of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2022-07-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Wholesaler",
+          "Retailer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Children's product",
+          "Upholstered residential furniture",
+          "Residential textile",
+          "Business textile",
+          "Mattress containing flame-retardant organohalogenated chemical"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Preempted by federal law",
+          "Polymeric substance",
+          "Determination of safety pursuant to 15 U.S.C. \u00a7 2604(a)(3)(C) or 15 U.S.C. \u00a7 2605(b)(4)",
+          "Previously owned product",
+          "Electronic component",
+          "Federal or national flammability standard",
+          "Thread or fiber for stitching mattress components together",
+          "Components of an adult mattress other than foam"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

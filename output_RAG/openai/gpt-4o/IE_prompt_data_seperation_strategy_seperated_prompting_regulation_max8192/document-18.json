@@ -1,0 +1,53 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "beginning January 1, 2025, no person may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state any cosmetic product that contains any of the following intentionally added chemicals or chemical classes"
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "beginning January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor",
+          "Person"
+        ],
+        "provenance": "no person may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "no person may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state"
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ],
+        "provenance": "any cosmetic product that contains any of the following intentionally added chemicals or chemical classes"
+      },
+      "exceptions": {
+        "value": [
+          "cosmetic products do not include prescription drugs approved by the United States food and drug administration"
+        ],
+        "provenance": "cosmetic products do not include prescription drugs approved by the United States food and drug administration"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "any of the following intentionally added chemicals or chemical classes"
+      }
+    }
+  ]
+}

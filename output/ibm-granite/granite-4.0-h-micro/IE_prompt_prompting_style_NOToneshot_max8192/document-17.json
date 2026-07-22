@@ -1,0 +1,127 @@
+{
+  "title": {
+    "value": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto.",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "location": {
+    "value": "Nevada",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "reference": {
+    "value": "A.B. 97",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "date": {
+    "value": "2021-02-08",
+    "provenance": "FEBRUARY 8, 2021"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "date": {
+        "value": "2022-07-01",
+        "provenance": "Sections 1 to 5, inclusive, and 15 to 26, inclusive, of this act become effective: (b) On July 1, 2022, for all other purposes."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Wholesaler"
+        ],
+        "provenance": "Section 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "Section 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "products": {
+        "value": [
+          "children's product",
+          "upholstered residential furniture",
+          "residential textile",
+          "business textile",
+          "mattress"
+        ],
+        "provenance": "Section 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "exceptions": {
+        "value": [
+          "previously owned product",
+          "children's product meeting ASTM F963",
+          "children's product, mattress, upholstered residential furniture or residential textile for which there is a federal or national flammability standard",
+          "thread or fiber for stitching mattress components together",
+          "components of an adult mattress other than foam"
+        ],
+        "provenance": "Section 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 25. A manufacturer shall not replace a flame-retardant organohalogenated chemical, the use of which is prohibited pursuant to section 24 of this act, with a chemical that has been identified by a state or federal agency on the basis of credible scientific evidence as being known or suspected to have a high degree of probability to: 1. Harm the normal development of a fetus or child or cause other developmental toxicity; 2. Cause cancer, genetic damage or reproductive harm; 3. Disrupt the endocrine system; or 4. Damage the nervous system, immune system or organs or cause other systemic toxicity."
+      },
+      "date": {
+        "value": "2022-07-01",
+        "provenance": "Sections 1 to 5, inclusive, and 15 to 26, inclusive, of this act become effective: (b) On July 1, 2022, for all other purposes."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "Section 25. A manufacturer shall not replace a flame-retardant organohalogenated chemical, the use of which is prohibited pursuant to section 24 of this act, with a chemical that has been identified by a state or federal agency on the basis of credible scientific evidence as being known or suspected to have a high degree of probability to: 1. Harm the normal development of a fetus or child or cause other developmental toxicity; 2. Cause cancer, genetic damage or reproductive harm; 3. Disrupt the endocrine system; or 4. Damage the nervous system, immune system or organs or cause other systemic toxicity."
+      },
+      "action": {
+        "value": [
+          "Replace"
+        ],
+        "provenance": "Section 25. A manufacturer shall not replace a flame-retardant organohalogenated chemical, the use of which is prohibited pursuant to section 24 of this act, with a chemical that has been identified by a state or federal agency on the basis of credible scientific evidence as being known or suspected to have a high degree of probability to: 1. Harm the normal development of a fetus or child or cause other developmental toxicity; 2. Cause cancer, genetic damage or reproductive harm; 3. Disrupt the endocrine system; or 4. Damage the nervous system, immune system or organs or cause other systemic toxicity."
+      },
+      "products": {
+        "value": null,
+        "provenance": null
+      },
+      "exceptions": {
+        "value": [
+          "previously owned product",
+          "children's product meeting ASTM F963",
+          "children's product, mattress, upholstered residential furniture or residential textile for which there is a federal or national flammability standard",
+          "thread or fiber for stitching mattress components together",
+          "components of an adult mattress other than foam"
+        ],
+        "provenance": "Section 24. 1.    Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    }
+  ]
+}

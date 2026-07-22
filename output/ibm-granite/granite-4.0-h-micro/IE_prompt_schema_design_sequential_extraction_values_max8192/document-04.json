@@ -1,0 +1,57 @@
+{
+  "title": {
+    "value": "An Act To enact R.S. 40:1615, relative to fire fighting foam; to provide for the discharge of Class B fire fighting foam containing fluorinated organic chemicals; to provide for exceptions; to provide for definitions; to provide for applicability; to provide for an effective date; and to provide for related matters."
+  },
+  "location": {
+    "value": "Louisiana"
+  },
+  "reference": {
+    "value": "HLS 21RS-536"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2022-01-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B fire fighting foam containing fluorinated organic chemicals"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Discharge or use during fire prevention or emergency fire fighting operation",
+          "Discharge or use for training purposes at a facility with containment, treatment, and disposal measures"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

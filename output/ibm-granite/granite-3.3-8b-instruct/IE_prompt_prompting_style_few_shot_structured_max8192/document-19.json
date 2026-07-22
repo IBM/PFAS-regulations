@@ -1,0 +1,244 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS",
+    "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS. Be it enacted by the Senate and House of Representatives in General Assembly convened:"
+  },
+  "location": {
+    "value": "Connecticut",
+    "provenance": "Connecticut"
+  },
+  "reference": {
+    "value": "Substitute Senate Bill No. 292, Public Act No. 24-59",
+    "provenance": "Substitute Senate Bill No. 292, Public Act No. 24-59"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Be it enacted by the Senate and House of Representatives in General Assembly convened:"
+  },
+  "date": {
+    "value": "2024-06-05",
+    "provenance": "Approved June 5, 2024"
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances or 'PFAS' means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "date": {
+        "value": "2026-07-01",
+        "provenance": "On and after July 1, 2026"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller"
+        ],
+        "provenance": "no person shall sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "manufacture",
+          "sell",
+          "offer for sale",
+          "distribute for sale"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishings",
+          "ski wax",
+          "upholstered furniture"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale any ... products if such product contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "federal law",
+          "medical devices",
+          "military use",
+          "products for which federal law governs or requires the presence of PFAS",
+          "products regulated under section 22a-903a or 22a-255i of the general statutes",
+          "the sale or resale of a used product",
+          "prosthetic, orthotic device or product that is a medical device or drug",
+          "products made with not less than eighty-five per cent recycled content",
+          "products manufactured prior to any prohibition imposed by the provisions of this section",
+          "replacement parts for any product manufactured prior to any prohibition imposed by the provisions of this section"
+        ],
+        "provenance": "The provisions of this section shall not be construed to apply to ... or (7) any product manufactured prior to any prohibition imposed by the provisions of this section."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use'"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added PFAS during the manufacture of a product"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "products listed in subdivision (1) of this subsection shall be labeled"
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "On and after January 1, 2026"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "The manufacturer shall apply any product and package labels"
+      },
+      "action": {
+        "value": [
+          "label"
+        ],
+        "provenance": "products listed in subdivision (1) of this subsection shall be labeled"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishings",
+          "ski wax",
+          "upholstered furniture"
+        ],
+        "provenance": "On and after January 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any ... if such product contains intentionally added PFAS, unless such product is labeled in accordance with this subsection."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No specific exceptions mentioned for labeling"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use'"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "no person shall distribute, sell or offer for sale"
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "On and after January 1, 2026"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "No person shall sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "distribute",
+          "sell",
+          "offer for sale"
+        ],
+        "provenance": "no person shall distribute, sell or offer for sale"
+      },
+      "products": {
+        "value": [
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "On and after January 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any ... that contains PFAS unless such product is accompanied by a legible and easily discernable disclosure"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No specific exceptions mentioned"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use'"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "date": {
+        "value": "2028-01-01",
+        "provenance": "On and after January 1, 2028"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller"
+        ],
+        "provenance": "no person shall sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "manufacture",
+          "sell",
+          "offer for sale",
+          "distribute for sale"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "turnout gear",
+          "carpets or rugs",
+          "cleaning products",
+          "cookware",
+          "cosmetic products",
+          "dental floss",
+          "fabric treatments",
+          "children's products",
+          "menstruation products",
+          "textile furnishings",
+          "ski wax",
+          "upholstered furniture",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "On and after January 1, 2028, no person shall manufacture, sell, offer for sale or distribute for sale in this state any ... if the product contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No specific exceptions mentioned"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use'"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added PFAS"
+      }
+    }
+  ]
+}

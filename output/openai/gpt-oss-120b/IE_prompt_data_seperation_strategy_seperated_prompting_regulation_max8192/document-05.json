@@ -1,0 +1,51 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ],
+        "provenance": "a person, including, but not limited to, a manufacturer"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "shall not sell or distribute in commerce"
+      },
+      "products": {
+        "value": [
+          "juvenile product"
+        ],
+        "provenance": "any new, not previously owned, juvenile product"
+      },
+      "exceptions": {
+        "value": [
+          "A children's electronic product, including, but not limited to, a personal computer, audio and video equipment, calculator, wireless phone, game console, handheld device incorporating a video screen, or any associated peripheral such as a mouse, keyboard, power supply unit, or power cord.",
+          "A medical device.",
+          "An internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product.",
+          "An adult mattress."
+        ],
+        "provenance": "'Juvenile product' does not include any of the following: (A) A children's electronic product, including, but not limited to, ...; (B) A medical device.; (C) An internal component of a juvenile product ...; (D) An adult mattress."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Regulated perfluoroalkyl and polyfluoroalkyl substances' ... (1) PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product ..."
+      }
+    }
+  ]
+}

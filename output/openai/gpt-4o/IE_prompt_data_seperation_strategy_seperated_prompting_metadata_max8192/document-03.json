@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances",
+    "provenance": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+  },
+  "location": {
+    "value": "State of New York",
+    "provenance": "The People of the State of New York, represented in Senate and Assembly, do enact as follows:"
+  },
+  "reference": {
+    "value": "4525--A",
+    "provenance": "4525--A"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "This act shall take effect immediately."
+  },
+  "date": {
+    "value": "2025-02-04",
+    "provenance": "February 4, 2025"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS substances\" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

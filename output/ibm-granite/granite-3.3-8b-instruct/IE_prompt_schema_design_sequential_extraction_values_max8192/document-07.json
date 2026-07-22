@@ -1,0 +1,62 @@
+{
+  "title": {
+    "value": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health."
+  },
+  "location": {
+    "value": "California"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 2771"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2022-09-29"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Deliver",
+          "Hold",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": {
+    "value": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution"
+  },
+  "location": {
+    "value": "State of Maine"
+  },
+  "reference": {
+    "value": "S.P. 610 - L.D. 1537"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2024-04-16"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2023-01-01"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Importer",
+        "Distributor",
+        "Seller"
+      ],
+      "action": [
+        "Sell",
+        "Offer for sale",
+        "Distribute for sale"
+      ],
+      "products": [
+        "carpet or rug",
+        "fabric treatment",
+        "cleaning product",
+        "cookware product",
+        "cosmetic product",
+        "juvenile product",
+        "artificial turf",
+        "outdoor apparel for severe wet conditions",
+        "ski wax",
+        "textile article"
+      ],
+      "exceptions": [
+        "used product",
+        "used product component",
+        "firefighting or fire-suppressing foam or related product regulated under section 424-C",
+        "prosthetic or orthotic device or any product that is a medical device, drug or biologic or that is otherwise used in a medical setting",
+        "veterinary product intended for use in or on animals",
+        "product developed or manufactured for the purposes of public health, environmental or water quality testing",
+        "product required to meet standards or requirements of the United States Department of Transportation, Federal Aviation Administration, the National Aeronautics and Space Administration, the United States Department of Defense or the United States Department of Homeland Security",
+        "nonconsumer electronics and nonconsumer laboratory equipment not ordinarily used for personal, family or household purposes",
+        "equipment directly used in the manufacture or development of the products described in paragraphs E to L"
+      ],
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

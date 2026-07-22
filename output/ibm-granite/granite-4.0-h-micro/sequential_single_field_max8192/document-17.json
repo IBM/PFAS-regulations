@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto.",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "location": {
+    "value": "State of Nevada",
+    "provenance": "The document is an Act relating to toxic chemicals enacted by the State of Nevada."
+  },
+  "reference": {
+    "value": "A.B. 97",
+    "provenance": "ASSEMBLY BILL NO. 97"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "date": {
+    "value": "April 19, 2021",
+    "provenance": "## (Reprinted with amendments adopted on April 19, 2021) FIRST REPRINT A.B. 97"
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "Sec. 8.7. 'Division' means the Division of Environmental Protection of the State Department of Conservation and Natural Resources. Sec. 8. 'Perfluoroalkyl and polyfluoroalkyl substances' means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  }
+}

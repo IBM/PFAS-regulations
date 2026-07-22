@@ -1,0 +1,70 @@
+{
+  "title": {
+    "value": "Toxic Packaging Reduction Act",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "location": {
+    "value": "Rhode Island",
+    "provenance": "State of Rhode Island"
+  },
+  "reference": {
+    "value": "A N   A C T",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Enacted by the General Assembly"
+  },
+  "date": {
+    "value": "2022-02-11",
+    "provenance": "Introduced By: Representatives Cortvriend, Speakman, Carson, Morales, Marszalkowski,  McGaw, Ruggiero,  Fogarty, Donovan, and Kislak Date Introduced: February 11, 2022"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "PFAS means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "No package or packaging component shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state, which includes, in the package itself or in any packaging component, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements."
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "No product shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state in a package which includes, in the package itself or in any of its packaging components, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "No package or packaging component shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state..."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "No package or packaging component shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state..."
+      },
+      "products": {
+        "value": [
+          "food package"
+        ],
+        "provenance": "No food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "exceptions": {
+        "value": null,
+        "provenance": "None specified in the document"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "None specified in the document"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+      }
+    }
+  ]
+}

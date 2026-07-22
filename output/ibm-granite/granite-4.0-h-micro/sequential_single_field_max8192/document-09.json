@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products",
+    "provenance": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products."
+  },
+  "location": {
+    "value": "State of New Hampshire",
+    "provenance": "New Hampshire-2024-HB465-Introduced"
+  },
+  "reference": {
+    "value": "NH-2024-HB465-Introduced",
+    "provenance": "New Hampshire-2024-HB465-Introduced"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products."
+  },
+  "date": {
+    "value": "2023-07-01",
+    "provenance": "3 IV. The department may request a certificate of compliance from a manufacturer of rugs, carpets, or aftermarket stain and water resistant treatments. Within 30 days after receipt of the department's request for a certificate of compliance, the manufacturer shall: (a) Provide the department with a certificate attesting that the manufacturer's product or products comply with the requirements of this chapter; or (b) Notify persons who are selling a product of the manufacturer's in this state that the sale is prohibited because the product does not comply with this chapter and submit to the department a list of the names and addresses of those persons notified. V. The commissioner of the department of environmental services shall, under RSA 541-A, adopt any rules necessary for the implementation, administration, and enforcement of this section. 2 Effective Date. This act shall take effect July 1, 2025."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount. A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount."
+  }
+}

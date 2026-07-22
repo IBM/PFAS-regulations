@@ -1,0 +1,74 @@
+{
+  "title": {
+    "value": "AN ACT concerning safety",
+    "provenance": "AN ACT concerning safety."
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": null
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT concerning safety."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": null
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "\u201cTRI-PFAS\u201d means perfluoroalkyl and polyfluoroalkyl substances set forth in the rules developed under Section 313 of the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65,"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration,"
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": null
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration,"
+      },
+      "action": {
+        "value": [
+          "Dispose"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration,"
+      },
+      "products": {
+        "value": [
+          "TRI-PFAS",
+          "aqueous film-forming foam"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "landfill gas from the decomposition of waste",
+          "landfill gas in a landfill gas recovery facility",
+          "waste at a permitted hospital, medical, and infectious waste incinerator",
+          "sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility"
+        ],
+        "provenance": "Nothing in this Section applies to the incineration of (i) landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill, (ii) landfill gas in a landfill gas recovery facility that is located at a sanitary landfill, (iii) waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable, or (iv) sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    }
+  ]
+}

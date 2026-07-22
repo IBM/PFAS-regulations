@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "## AN ACT concerning 1\n\n## Environment - Playground Surfacing Materials - Prohibitions 2"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "## By: Delegates Guyton, Lehman, Allen, Ebersole, Forbes, Holmes, Pasteur, Ruth, and Stein\n\nIntroduced and read first time: February 7, 2024 Assigned to: Environment and Transportation"
+  },
+  "reference": {
+    "value": "HOUSE BILL 1147",
+    "provenance": "## HOUSE BILL 1147\n\n4lr1508"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "## A BILL ENTITLED"
+  },
+  "date": {
+    "value": "2024-02-07",
+    "provenance": "Introduced and read first time: February 7, 2024 Assigned to: Environment and Transportation"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 29 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;"
+  }
+}

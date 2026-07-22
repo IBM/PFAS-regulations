@@ -1,0 +1,250 @@
+{
+  "title": {
+    "value": "Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act"
+  },
+  "location": {
+    "value": "California"
+  },
+  "reference": {
+    "value": "AB 2515"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2024-09-30"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Menstrual products"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Menstrual products"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2029-07-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Register"
+        ]
+      },
+      "products": {
+        "value": [
+          "Menstrual products"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "State agency"
+        ]
+      },
+      "action": {
+        "value": [
+          "Publish"
+        ]
+      },
+      "products": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2029-01-01"
+      },
+      "who": {
+        "value": [
+          "State agency"
+        ]
+      },
+      "action": {
+        "value": [
+          "Adopt regulations"
+        ]
+      },
+      "products": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Issue notice of violation"
+        ]
+      },
+      "products": {
+        "value": [
+          "Menstrual products"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION"
+  },
+  "location": {
+    "value": "State of Hawaii"
+  },
+  "reference": {
+    "value": "H.B. NO. H.D. 1, 1644, S.D. 1, C.D. 1"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2022-07-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-12-31"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "wraps and liners",
+          "plates",
+          "food boats",
+          "pizza boxes"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-07-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Seller",
+          "Distributor",
+          "User",
+          "State agency",
+          "Local government"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Discharge",
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "use is necessary for effective suppression of a petroleum fire",
+          "inclusion of PFAS chemicals is required by federal law or regulations"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

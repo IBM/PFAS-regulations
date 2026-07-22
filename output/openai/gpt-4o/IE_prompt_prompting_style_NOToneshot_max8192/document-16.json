@@ -1,0 +1,129 @@
+{
+  "title": {
+    "value": "House Bill 3512",
+    "provenance": "## House Bill 3512"
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "Be It Enacted by the People of the State of Oregon:"
+  },
+  "reference": {
+    "value": "HB 3512",
+    "provenance": "## HB 3512"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2025-01-01",
+    "provenance": "SECTION 1. As used in sections 1 to 4 of this 2025 Act:"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(16) 'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, also commonly known as PFAS."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits the distribution or sale of certain covered products that contain intentionally added perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Becomes operative on January 1, 2027."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "products": {
+        "value": [
+          "Aqueous film-forming foam",
+          "Artificial turf",
+          "Cleaning products",
+          "Carpets or rugs",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments",
+          "Packaging",
+          "Juvenile products",
+          "Menstrual products",
+          "Refrigerators",
+          "Textile articles",
+          "Ski wax"
+        ],
+        "provenance": "'Covered product' means any of the following products, including any of the products' components: (a) Aqueous film-forming foam; (b) Artificial turf; (c) Cleaning products; (d) Carpets or rugs; (e) Cookware; (f) Cosmetics; (g) Dental floss; (h) Fabric treatments; (i) Packaging; (j) Juvenile products; (k) Menstrual products; (L) Refrigerators; (m) Textile articles; or (n) Ski wax."
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of used covered products"
+        ],
+        "provenance": "This section does not apply to the sale or resale of used covered products."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Prohibits the distribution or sale of certain covered products that contain intentionally added perfluoroalkyl or polyfluoroalkyl substances."
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "Requires a manufacturer of covered products to provide a certificate of compliance to persons that sell or distribute covered products in this state."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Becomes operative on January 1, 2027."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A manufacturer of a covered product shall provide to a person that offers a covered product for sale in this state with a certificate of compliance."
+      },
+      "action": {
+        "value": [
+          "Distribute"
+        ],
+        "provenance": "A manufacturer of a covered product shall provide to a person that offers a covered product for sale in this state with a certificate of compliance."
+      },
+      "products": {
+        "value": [
+          "Covered products"
+        ],
+        "provenance": "A manufacturer of a covered product shall provide to a person that offers a covered product for sale in this state with a certificate of compliance."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "A manufacturer of a covered product shall provide to a person that offers a covered product for sale in this state with a certificate of compliance stating that the covered product does not contain any intentionally added perfluoroalkyl or polyfluoroalkyl substances."
+      }
+    }
+  ]
+}

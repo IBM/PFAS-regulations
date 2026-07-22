@@ -1,0 +1,24 @@
+{
+  "title": "PFAS Consumer Protection Law",
+  "provenance": "AN ACT concerning safety. Be it enacted by the People of the State of Illinois, represented in the General Assembly:",
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "SB0088, Introduced 1/20/2023, by Sen. Laura Fine, 30 ILCS 500/45-26, 415 ILCS 5/52.15 new"
+  },
+  "reference": {
+    "value": "SB0088",
+    "provenance": "SB0088"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Act concerning safety. Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "date": {
+    "value": "2023-01-01",
+    "provenance": "On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label."
+  },
+  "pfas_definition": {
+    "value": "List of hazardous chemicals as defined by the U.S. EPA Office of Pollution Prevention and Toxics (OPPT) in 2024.",
+    "provenance": "415 ILCS 5/52.15 new Sec. 52.15. Intentionally added PFAS chemicals; PFAS manufacturers. (a) The General Assembly finds: (4) PFAS chemicals continue to be used in products across a variety of industries and for many different purposes."
+  }
+}

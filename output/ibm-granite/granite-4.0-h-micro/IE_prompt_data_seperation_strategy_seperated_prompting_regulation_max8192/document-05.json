@@ -1,0 +1,45 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023"
+      },
+      "who": {
+        "value": [
+          "manufacturer"
+        ],
+        "provenance": "a person, including, but not limited to, a manufacturer"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "a person, including, but not limited to, a manufacturer shall not sell or distribute"
+      },
+      "products": {
+        "value": [
+          "juvenile product"
+        ],
+        "provenance": "any new, not previously owned, juvenile product"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Regulated perfluoroalkyl and polyfluoroalkyl substances means either of the following: PFAS that a manufacturer has intentionally added to a product"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": {
+    "value": "An Act To enact R.S. 40:1615, relative to fire fighting foam; to provide for the discharge of Class B fire fighting foam containing fluorinated organic chemicals; to provide for exceptions; to provide for definitions; to provide for applicability; to provide for an effective date; and to provide for related matters.",
+    "provenance": "Section 1. R.S. 40:1615 is hereby enacted to read as follows:"
+  },
+  "location": {
+    "value": "Louisiana",
+    "provenance": "Be it enacted by the Legislature of Louisiana:"
+  },
+  "reference": {
+    "value": "HLS 21RS-536",
+    "provenance": "HLS 21RS-536"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An Act"
+  },
+  "date": {
+    "value": "2022-01-01",
+    "provenance": "On and after January 1, 2022,"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "PFAS chemicals means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals"
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "On and after January 1, 2022,"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person"
+      },
+      "action": {
+        "value": [
+          "Discharge"
+        ],
+        "provenance": "discharge"
+      },
+      "products": {
+        "value": [
+          "Class B fire fighting foam containing fluorinated organic chemicals"
+        ],
+        "provenance": "Class B fire fighting foam that contains intentionally added PFAS chemicals"
+      },
+      "exceptions": {
+        "value": [
+          "Discharge or other use is during fire prevention or in response to an emergency fire fighting operation.",
+          "Discharge or other use is for training or testing purposes which occurs at a facility that has implemented containment, treatment, and disposal measures"
+        ],
+        "provenance": "unless discharged under either of the following conditions: (1) The discharge or use is during prior prevention or in response to an emergency fire fighting operation. (2) The discharge or other use is for training or testing purposes which occurs at a facility that has implemented containment, treatment, and disposal measures"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "intentionally added PFAS chemicals"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "title": {
+    "value": "Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act",
+    "provenance": "SEC. 1. This act shall be known, and may be cited, as the Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "California Law"
+  },
+  "reference": {
+    "value": "AB 2515",
+    "provenance": "Assembly Bill N o. 2515"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor September 30, 2024. Filed with Secretary of State September 30, 2024."
+  },
+  "date": {
+    "value": "2024-09-30",
+    "provenance": "Date Published: 09/30/2024 09:00 PM"
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Commencing January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "action": {
+        "value": [
+          "manufacture",
+          "distribute",
+          "sell",
+          "offer for sale"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "products": {
+        "value": [
+          "menstrual products"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "exceptions": {
+        "value": "not specified",
+        "provenance": "No exceptions are explicitly mentioned in the document."
+      },
+      "currently_unavoidable": {
+        "value": "False",
+        "provenance": "The regulation does not mention 'currently unavoidable use'."
+      },
+      "intentionally_added": {
+        "value": "True",
+        "provenance": "The regulation specifies 'intentionally added' PFAS."
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "The department shall publish on its internet website a list of accepted testing methods for testing for regulated PFAS in menstrual products."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "On or before January 1, 2027"
+      },
+      "who": {
+        "value": [
+          "Department"
+        ],
+        "provenance": "The department shall publish on its internet website a list of accepted testing methods for testing for regulated PFAS in menstrual products."
+      },
+      "action": {
+        "value": [
+          "publish"
+        ],
+        "provenance": "The department shall publish on its internet website a list of accepted testing methods for testing for regulated PFAS in menstrual products."
+      },
+      "products": {
+        "value": [
+          "menstrual products"
+        ],
+        "provenance": "The department shall publish on its internet website a list of accepted testing methods for testing for regulated PFAS in menstrual products."
+      },
+      "exceptions": {
+        "value": "not specified",
+        "provenance": "No exceptions are explicitly mentioned in the document."
+      },
+      "currently_unavoidable": {
+        "value": "False",
+        "provenance": "The regulation does not mention 'currently unavoidable use'."
+      },
+      "intentionally_added": {
+        "value": "not applicable",
+        "provenance": "This regulation pertains to reporting, not intentional addition."
+      }
+    }
+  ]
+}

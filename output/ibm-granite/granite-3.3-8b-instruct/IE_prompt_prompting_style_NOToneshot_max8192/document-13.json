@@ -1,0 +1,110 @@
+{
+  "title": {
+    "value": "Senate Bill 543",
+    "provenance": "The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject to consideration by the Legislative Assembly. It is an editor's brief statement of the essential features of the measure as introduced."
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "Sponsored by Senators SOLLMAN, DEMBROW, Representative DEXTER (Presession filed.)"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "not explicitly provided in the document"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A Bill For An Act"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "no specific date provided for the bill's introduction or drafting"
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "\u2018Perfluoroalkyl or polyfluoroalkyl substance\u2019 means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 2. (1) A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Food vendor"
+        ],
+        "provenance": "A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer."
+      },
+      "action": {
+        "value": [
+          "Use"
+        ],
+        "provenance": "A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer."
+      },
+      "products": {
+        "value": [
+          "polystyrene foam container"
+        ],
+        "provenance": "A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 4. A person may not sell, offer for sale, or distribute in or into this State a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this State a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this State a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "products": {
+        "value": [
+          "foodware container containing perfluoroalkyl or polyfluoroalkyl substances"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this State a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    }
+  ]
+}

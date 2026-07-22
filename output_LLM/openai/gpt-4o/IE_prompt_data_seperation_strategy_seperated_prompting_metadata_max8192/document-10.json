@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "Toxic Packaging Reduction Act",
+    "provenance": "SECTION 2. Chapter 23-18.13 of the General Laws entitled \"Toxic Packaging Reduction Act\" is hereby amended by adding thereto the following section:"
+  },
+  "location": {
+    "value": "Rhode Island",
+    "provenance": "This act would prohibit the sale or promotional distribution of any food package in Rhode Island which contains perfluoroalkyl and polyfluoroalkyl substances (PFAS), effective January 1, 2024"
+  },
+  "reference": {
+    "value": "LC004634/SUB A",
+    "provenance": "======== LC004634/SUB A ========"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "This act would take effect upon passage."
+  },
+  "date": {
+    "value": "2022-01-01",
+    "provenance": "JANUARY SESSION, A.D. 2022"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

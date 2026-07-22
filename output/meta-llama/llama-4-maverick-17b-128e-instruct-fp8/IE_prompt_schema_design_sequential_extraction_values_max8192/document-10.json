@@ -1,0 +1,58 @@
+{
+  "title": {
+    "value": "An Act Relating to Health and Safety -- Toxic Packaging Reduction Act"
+  },
+  "location": {
+    "value": "Rhode Island"
+  },
+  "reference": {
+    "value": "LC004634/SUB A"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2022-01-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Food package"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Post-consumer recycled materials as feedstock for new packaging materials"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

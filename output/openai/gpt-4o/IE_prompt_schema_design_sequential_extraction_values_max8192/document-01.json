@@ -1,0 +1,57 @@
+{
+  "title": {
+    "value": "AN ACT relating to fire prevention"
+  },
+  "location": {
+    "value": "Commonwealth of Kentucky"
+  },
+  "reference": {
+    "value": "CHAPTER 47 ( SB 104 )"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2019-03-22"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2020-07-15"
+      },
+      "who": {
+        "value": [
+          "User"
+        ]
+      },
+      "action": {
+        "value": [
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals",
+          "The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

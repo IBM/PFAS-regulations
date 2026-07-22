@@ -1,0 +1,116 @@
+{
+  "title": {
+    "value": "Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act",
+    "provenance": "SECTION 1. This act shall be known, and may be cited, as the Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state."
+  },
+  "reference": {
+    "value": "Assembly Bill No. 2515",
+    "provenance": "## Assembly Bill N o. 2515"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "[ Approved by Governor  September 30, 2024. Filed with Secretary of State September 30, 2024. ]"
+  },
+  "date": {
+    "value": "2024-09-30",
+    "provenance": "Date Published: 09/30/2024 09:00 PM"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\u00d2Perfluoroalkyl and polyfluoroalkyl substances\u00d3 or \u00d2PFAS\u00d3 means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Entity"
+        ],
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Deliver",
+          "Hold",
+          "Offer for sale"
+        ],
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ],
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill would similarly prohibit any person from manufacturing, distributing, selling, or offering for sale in the state any menstrual products that contain regulated PFAS, as defined."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "This bill would similarly prohibit any person from manufacturing, distributing, selling, or offering for sale in the state any menstrual products that contain regulated PFAS, as defined."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "This bill would similarly prohibit any person from manufacturing, distributing, selling, or offering for sale in the state any menstrual products that contain regulated PFAS, as defined."
+      },
+      "products": {
+        "value": [
+          "menstrual products"
+        ],
+        "provenance": "This bill would similarly prohibit any person from manufacturing, distributing, selling, or offering for sale in the state any menstrual products that contain regulated PFAS, as defined."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "This bill would similarly prohibit any person from manufacturing, distributing, selling, or offering for sale in the state any menstrual products that contain regulated PFAS, as defined."
+      }
+    }
+  ]
+}

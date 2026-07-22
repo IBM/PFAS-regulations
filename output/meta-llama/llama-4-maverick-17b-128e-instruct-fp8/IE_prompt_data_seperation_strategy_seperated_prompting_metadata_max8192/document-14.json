@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health.",
+    "provenance": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 1817, Chapter 762",
+    "provenance": "## Assembly Bill No. 1817\n## CHAPTER 762"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "[Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022.]"
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "[Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(e) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

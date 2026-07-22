@@ -1,0 +1,50 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "This Act takes effect upon becoming law."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "action": {
+        "value": [
+          "Dispose of",
+          "Incinerate"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "products": {
+        "value": [
+          "TRI-PFAS"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "exceptions": {
+        "value": [
+          "Landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill",
+          "Landfill gas in a landfill gas recovery facility that is located at a sanitary landfill",
+          "Waste at a permitted hospital, medical, and infectious waste incinerator",
+          "Sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility"
+        ],
+        "provenance": "Nothing in this Section applies to... (list of exceptions)"
+      },
+      "currently_unavoidable": {
+        "value": "not specified",
+        "provenance": "No mention of 'currently unavoidable' use in the document"
+      },
+      "intentionally_added": {
+        "value": "not specified",
+        "provenance": "No mention of 'intentionally added' in the document"
+      }
+    }
+  ]
+}

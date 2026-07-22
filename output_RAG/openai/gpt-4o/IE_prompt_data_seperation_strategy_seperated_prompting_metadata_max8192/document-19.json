@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS",
+    "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS."
+  },
+  "location": {
+    "value": "General Assembly",
+    "provenance": "Be it enacted by the Senate and House of Representatives in General Assembly convened:"
+  },
+  "reference": {
+    "value": "Substitute Senate Bill No. 292",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS."
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "Section 1. (NEW) ( Effective October 1, 2024 )"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

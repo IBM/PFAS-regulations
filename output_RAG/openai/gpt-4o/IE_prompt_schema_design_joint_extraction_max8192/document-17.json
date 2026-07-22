@@ -1,0 +1,76 @@
+{
+  "title": {
+    "value": "An Act relating to toxic chemicals",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "location": {
+    "value": "State of Nevada",
+    "provenance": "THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:"
+  },
+  "reference": {
+    "value": "BDR 40-141",
+    "provenance": "SUMMARY-Revises provisions governing toxic chemicals. (BDR 40-141)"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State agency",
+          "Local agency"
+        ],
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam"
+        ],
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "exceptions": {
+        "value": [
+          "unless the person testing the foam has ensured that any measures necessary for the proper containment, treatment and disposal of the foam are available at the testing location and such measures will prevent the release of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances to the surrounding environment"
+        ],
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      }
+    }
+  ]
+}

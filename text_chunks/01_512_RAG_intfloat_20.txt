@@ -1,0 +1,14 @@
+
+CHAPTER 47 ( SB 104 )
+AN ACT relating to fire prevention.
+Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+ SECTION 1.   A NEW SECTION OF KRS 227.200 TO 227.410 IS CREATED TO READ AS FOLLOWS:
+(1) As used in this section:
+(a) "Class B firefighting foam" means foams designed for flammable liquid fires;
+(b) "PFAS chemicals" means perfluoroalkyl and polyfluoroalkyl substances which, for the purpose of firefighting  agents,  is  a  class  of  fluorinated  organic  chemicals  containing  at  least  one  (1)  fully fluorinated carbon atom;
+(c) "Testing" means calibration testing, conformance testing, and fixed system testing.
+(2) Beginning on July 15, 2020, class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes unless otherwise required by law, regulation,  or  ordinance,  and  the  testing  facility  has  implemented  best  industry  practices  to  prevent uncontrolled releases of class B firefighting foam in the environment. Violation of this subsection shall be subject to KRS 227.336.
+(3) The restrictions in subsection (2) of this Act shall not apply to:
+(a) The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals; or
+(b) The  discharge  or  other  use  of  class  B  firefighting  foam  that  contains  intentionally  added  PFAS chemicals in emergency firefighting operations.
+Signed by Governor March 22, 2019.

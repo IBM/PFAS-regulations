@@ -1,0 +1,58 @@
+{
+  "title": {
+    "value": "AB-2515 Menstrual products: perfluoroalkyl and polyfluoroalkyl substances (PFAS)",
+    "provenance": "Assembly Bill N o. 2515"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "California Law"
+  },
+  "reference": {
+    "value": "AB-2515",
+    "provenance": "Assembly Bill N o. 2515"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AB-2515"
+  },
+  "date": {
+    "value": "2024-09-30",
+    "provenance": "Date Published: 09/30/2024 09:00 PM"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "25258.4. (a) On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department and provide to the department all of the following..."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Commencing January 1, 2025"
+      },
+      "who": [
+        "Manufacturer"
+      ],
+      "action": [
+        "Manufacture"
+      ],
+      "products": [
+        "Menstrual products"
+      ],
+      "exceptions": [
+        "not specified"
+      ],
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": {
+    "value": "Product safety: textile articles: perfluoroalkyl and polyfluoroalkyl substances (PFAS)",
+    "provenance": "AB  1817,  Ting.  Product  safety:  textile  articles:  perfluoroalkyl  and polyfluoroalkyl substances (PFAS)."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "AB 1817",
+    "provenance": "AB  1817,  Ting.  Product  safety:  textile  articles:  perfluoroalkyl  and polyfluoroalkyl substances (PFAS)."
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile  articles  to  comply  with  these provisions."
+  },
+  "date": {
+    "value": "2023-01-01",
+    "provenance": "Existing  law  prohibits,  beginning  January  1,  2023,  any  person  from distributing, selling, or offering for sale in the state any food packaging that contains regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS, as defined, and requires a manufacturer to use the least toxic alternative when replacing regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS in food packaging to comply with this requirement."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a  class  of  fluorinated  organic  chemicals  containing  at  least  one  fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "products": {
+        "value": [
+          "textile articles"
+        ],
+        "provenance": "commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "outdoor apparel for severe wet conditions until January 1, 2028"
+        ],
+        "provenance": "Paragraph  (1)  does  not  apply  to  outdoor  apparel  for  severe  wet conditions until January 1, 2028."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "The  bill  would  require  a  manufacturer  of  a  textile  article  to provide persons that offer the product for sale or distribution in the state with a certificate of compliance stating that the textile article is in compliance with these provisions and does not contain any regulated PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A manufacturer of a textile article shall provide persons that offer the product for sale or distribution in the state with a certificate of compliance"
+      },
+      "action": {
+        "value": [
+          "Provide"
+        ],
+        "provenance": "A manufacturer of a textile article shall provide persons that offer the product for sale or distribution in the state with a certificate of compliance"
+      },
+      "products": {
+        "value": [
+          "textile articles"
+        ],
+        "provenance": "A manufacturer of a textile article shall provide persons that offer the product for sale or distribution in the state with a certificate of compliance stating that the textile article is in compliance with these provisions and does not contain any regulated PFAS."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

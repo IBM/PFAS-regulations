@@ -1,0 +1,118 @@
+{
+  "title": {
+    "value": "PFAS Consumer Protection Law"
+  },
+  "location": {
+    "value": "State of Illinois"
+  },
+  "reference": {
+    "value": "SB0088"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2023-01-20"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Carpets or rugs",
+          "Fabric treatments",
+          "Food packaging",
+          "Juvenile products",
+          "Oil and gas products",
+          "Apparel",
+          "Cosmetics",
+          "Indoor textile furnishings",
+          "Indoor upholstered furniture",
+          "Outdoor textile furnishings",
+          "Outdoor upholstered furniture",
+          "Cookware"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Products sold or resold before the effective date of this amendatory Act of the 103rd General Assembly",
+          "Drugs, medical devices, biologics, or diagnostics approved or authorized by the United States Food and Drug Administration or the United States Department of Agriculture",
+          "Veterinary pesticide products approved by the United States Environmental Protection Agency for use in animals",
+          "Materials used in the packaging of the materials described above",
+          "Adult mattresses",
+          "Electronic products",
+          "Internal components of juvenile products that do not come into direct contact with a child's skin or mouth"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "PFAS manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "List the presence of PFAS chemicals on the product label"
+        ]
+      },
+      "products": {
+        "value": [
+          "Cookware"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Cookware that meets certain requirements, such as having a surface area that is not large enough for a product label or not having an exterior container or wrapper upon which a product label can appear"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

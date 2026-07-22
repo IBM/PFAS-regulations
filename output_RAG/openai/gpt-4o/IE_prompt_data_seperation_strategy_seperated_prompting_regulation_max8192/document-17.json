@@ -1,0 +1,104 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State agency",
+          "Local government"
+        ],
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam"
+        ],
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "exceptions": {
+        "value": [
+          "The provisions of sections 12 and 13 of this act do not apply to the extent that those provisions are preempted by or conflict with federal law, including, without limitation, any provision of federal law requiring the use of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances pursuant to 14 C.F.R. Part 139 or for military purposes."
+        ],
+        "provenance": "Section 10 of this bill provides an exception to the requirements and prohibitions set forth in sections 12 and 13 to the extent that those provisions are preempted by or conflict with federal law."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 24 of this bill prohibits, with certain exceptions, the knowing manufacture, sale, offering for sale, distribution for sale or distribution for use of a children's product, upholstered residential furniture, residential textile, business textile or mattress containing any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "Section 24 of this bill prohibits, with certain exceptions, the knowing manufacture, sale, offering for sale, distribution for sale or distribution for use of a children's product, upholstered residential furniture, residential textile, business textile or mattress containing any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "Section 24 of this bill prohibits, with certain exceptions, the knowing manufacture, sale, offering for sale, distribution for sale or distribution for use of a children's product, upholstered residential furniture, residential textile, business textile or mattress containing any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "products": {
+        "value": [
+          "Children's product",
+          "Upholstered residential furniture",
+          "Residential textile",
+          "Business textile",
+          "Mattress"
+        ],
+        "provenance": "Section 24 of this bill prohibits, with certain exceptions, the knowing manufacture, sale, offering for sale, distribution for sale or distribution for use of a children's product, upholstered residential furniture, residential textile, business textile or mattress containing any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "exceptions": {
+        "value": [
+          "Section 10 of this bill provides an exception to the requirements and prohibitions set forth in sections 12 and 13 to the extent that those provisions are preempted by or conflict with federal law."
+        ],
+        "provenance": "Section 10 of this bill provides an exception to the requirements and prohibitions set forth in sections 12 and 13 to the extent that those provisions are preempted by or conflict with federal law."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

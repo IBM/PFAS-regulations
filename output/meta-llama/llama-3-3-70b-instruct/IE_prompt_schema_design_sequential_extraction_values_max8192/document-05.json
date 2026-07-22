@@ -1,0 +1,92 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 652"
+  },
+  "location": {
+    "value": "California"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 652"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2021-10-05"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2023-07-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "Juvenile products",
+          "Baby or toddler foam pillow",
+          "Bassinet",
+          "Bedside sleeper",
+          "Booster seat",
+          "Changing pad",
+          "Child restraint system for use in motor vehicles and aircraft",
+          "Co-sleeper",
+          "Crib mattress",
+          "Floor playmat",
+          "Highchair",
+          "Highchair pad",
+          "Infant bouncer",
+          "Infant carrier",
+          "Infant seat",
+          "Infant sleep positioner",
+          "Infant swing",
+          "Infant travel bed",
+          "Infant walker",
+          "Nap cot",
+          "Nursing pad",
+          "Nursing pillow",
+          "Playmat",
+          "Playpen",
+          "Play yard",
+          "Polyurethane foam mat, pad, or pillow",
+          "Portable foam nap mat",
+          "Portable infant sleeper",
+          "Portable hook-on chair",
+          "Soft-sided portable crib",
+          "Stroller",
+          "Toddler mattress"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Children's electronic product",
+          "Medical device",
+          "Internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product",
+          "Adult mattress"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

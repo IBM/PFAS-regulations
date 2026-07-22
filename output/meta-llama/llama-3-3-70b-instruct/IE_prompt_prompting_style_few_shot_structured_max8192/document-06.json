@@ -1,0 +1,74 @@
+{
+  "title": {
+    "value": "AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "in the State"
+  },
+  "reference": {
+    "value": "HOUSE BILL 1147",
+    "provenance": "HOUSE BILL 1147"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Introduced and read first time: February 7, 2024"
+  },
+  "date": {
+    "value": "2024-02-07",
+    "provenance": "Introduced and read first time: February 7, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(C) 'PFAS' MEANS PER- AND POLYFLUOROALKYL SUBSTANCES. ... (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: ... FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ],
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS ... A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Solicit",
+          "Offer for sale",
+          "Distribute for use"
+        ],
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS ... A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS"
+      },
+      "products": {
+        "value": [
+          "Playground surfacing materials"
+        ],
+        "provenance": "PLAYGROUND SURFACING MATERIALS' MEANS PRODUCTS, MATERIALS, OR SUBSTANCES USED OR INSTALLED ON THE GROUND SURFACE OF A PLAYGROUND IN THE STATE."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

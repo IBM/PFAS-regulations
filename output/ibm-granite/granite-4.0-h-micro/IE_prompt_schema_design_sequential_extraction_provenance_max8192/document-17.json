@@ -1,0 +1,87 @@
+{
+  "title": {
+    "value": "An Act relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto.",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "location": {
+    "value": "Nevada",
+    "provenance": "Nevada"
+  },
+  "reference": {
+    "value": "A.B. 97",
+    "provenance": "A.B. 97"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT"
+  },
+  "date": {
+    "value": "2021-02-08",
+    "provenance": "FEBRUARY 8, 2021"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "not specified"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Sec. 7. As used in sections 7 to 14.5, inclusive, of this act, the words and terms defined in sections 8 to 9, inclusive, of this act have the meanings ascribed to them in those sections."
+      },
+      "date": {
+        "value": "2022-07-01",
+        "provenance": "not specified"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Wholesaler",
+          "Retailer"
+        ],
+        "provenance": "Sec. 12.1. Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "Sec. 12.1. Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "products": {
+        "value": [
+          "children's product",
+          "upholstered residential furniture",
+          "residential textile",
+          "business textile",
+          "mattress"
+        ],
+        "provenance": "Sec. 24.1. Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "exceptions": {
+        "value": [
+          "The extent preempted by federal law",
+          "Any flame-retardant organohalogenated chemical that is a polymeric substance in accordance with the criteria set forth in 40 C.F.R. \u00a7 723.250, or is chemically reacted to form a polymer with the materials it is intended to protect",
+          "Has a determination of safety pursuant to 15 U.S.C. \u00a7 2604(a)(3)(C) or 15 U.S.C. \u00a7 2605(b)(4)",
+          "The sale or offer for sale of any previously owned product containing a flame-retardant organohalogenated chemical",
+          "An electronic component of a children's product, mattress, upholstered residential furniture or residential textile or any associated casing",
+          "A children's product, mattress, upholstered residential furniture or residential textile for which there is a federal or national flammability standard",
+          "Thread or fiber for stitching mattress components together",
+          "Components of an adult mattress other than foam"
+        ],
+        "provenance": "Sec. 24.1. Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Sec. 8.5. 'Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances' means Class B firefighting foam containing perfluoroalkyl and polyfluoroalkyl substances that is designed to include at least one fully fluorinated carbon atom that is fully functional in the foam."
+      }
+    }
+  ]
+}

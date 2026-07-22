@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An Act concerning safety",
+    "provenance": "AN ACT concerning safety. (Line 1-2)"
+  },
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "represented in the General Assembly: (Line 3)"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "no formal bill number or citation string provided"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Be it enacted by the People of the State of Illinois: (Line 3)"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "no publication or effective date explicitly mentioned"
+  },
+  "pfas_definition": {
+    "value": "USEPA_2023",
+    "provenance": "\u201cTRI-PFAS\u201d means Toxic Release Inventory Polyfluoroalkyl and Perfluoroalkyl Substances, which is developed in the USEPA's rules under Section 313 of the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants. (Line 6-9)"
+  }
+}

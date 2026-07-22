@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law",
+    "provenance": "Provides that the amendatory Act may be referred to as the Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law."
+  },
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "State of Illinois"
+  },
+  "reference": {
+    "value": "SB0088",
+    "provenance": "SB0088"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Introduced 1/20/2023, by Sen. Laura Fine"
+  },
+  "date": {
+    "value": "2023-01-20",
+    "provenance": "Introduced 1/20/2023, by Sen. Laura Fine"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "\"PFAS chemical\" means any of the perfluoroalkyl substances or polyfluoroalkyl substances included in the United States Environmental Protection Agency's expanded ToxCast chemical inventory."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An Act relating to health and safety -- Toxic Packaging Reduction Act",
+    "provenance": "Introduced By: Representatives Cortvriend, Speakman, Carson, Morales, Marszalkowski, McGaw, Ruggiero, Fogarty, Donovan, and Kislak Date Introduced: February 11, 2022"
+  },
+  "location": {
+    "value": "State of Rhode Island",
+    "provenance": "## S TATE   OF     R H O D E     IS L A N D"
+  },
+  "reference": {
+    "value": "LC004634/SUB A",
+    "provenance": "Referred To: House Environment and Natural Resources"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "It is enacted by the General Assembly as follows:"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "Date not explicitly mentioned in the provided document"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

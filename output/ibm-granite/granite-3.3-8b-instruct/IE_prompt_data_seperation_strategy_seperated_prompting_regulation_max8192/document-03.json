@@ -1,0 +1,46 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "date": {
+        "value": "2025-03-01",
+        "provenance": "This act shall take effect immediately."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "No person that sells or offers for sale any anti-fogging sprays or wipes"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "shall be held in violation of this section if they can show that they relied in good faith on the written assurance of the manufacturer"
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays",
+          "wipes"
+        ],
+        "provenance": "containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No exceptions are mentioned in the document"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The regulation does not mention 'currently unavoidable use'"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "No person shall sell or offer for sale any anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals"
+      }
+    }
+  ]
+}

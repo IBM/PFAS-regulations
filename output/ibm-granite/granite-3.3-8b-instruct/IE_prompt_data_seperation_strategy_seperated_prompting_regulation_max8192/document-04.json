@@ -1,0 +1,48 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Proposed law prohibits the discharge of Class B fire fighting foam that contains intentionally added PFAS chemicals except under certain conditions."
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "On and after January 1, 2022"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person shall discharge or otherwise use Class B fire fighting foam... unless discharged under either of the following conditions: Such discharge or other use occurs in fire prevention or in response to an emergency fire fighting operation."
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ],
+        "provenance": "Prohibits the discharge or other use of Class B fire fighting foam that contains intentionally added PFAS chemicals... except under certain conditions."
+      },
+      "products": {
+        "value": [
+          "Class B fire fighting foam containing fluorinated organic chemicals"
+        ],
+        "provenance": "As used in this Part, the following terms have the meaning ascribed to them... (1) 'Class B fire fighting foam' means any foam designed to extinguish flammable liquid fires."
+      },
+      "exceptions": {
+        "value": [
+          "Fire prevention or in response to an emergency fire fighting operation",
+          "Training or testing purposes at a facility with containment, treatment, and disposal measures"
+        ],
+        "provenance": "Such discharge or other use occurs... (1) Such discharge or other use occurs in fire prevention or in response to an emergency fire fighting operation. (2) Such discharge or other use is for training or testing purposes which occurs at a facility that has implemented containment, treatment, and disposal measures to prevent uncontrolled releases..."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The regulation specifically mentions conditions under which PFAS can be used, implying they are not currently unavoidable."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "no person shall discharge or otherwise use Class B fire fighting foam... unless discharged under either of the following conditions: Such discharge or other use occurs... (2) Such discharge or other use is for training or testing purposes which occurs at a facility that has implemented containment, treatment, and disposal measures to prevent uncontrolled releases of such Class B fire fighting foam into the environment."
+      }
+    }
+  ]
+}

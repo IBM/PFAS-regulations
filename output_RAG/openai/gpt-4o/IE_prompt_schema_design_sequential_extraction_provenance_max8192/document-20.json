@@ -1,0 +1,214 @@
+{
+  "title": {
+    "value": "\u00a71614. Products containing PFAS",
+    "provenance": "\u00a71614. Products containing PFAS"
+  },
+  "location": {
+    "value": "State",
+    "provenance": "A. Except as provided in subsection 3, by January 1, 2025, a The manufacturer of a product for sale in the State that contains intentionally added PFAS shall submit to the department a written notification"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "not specified"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "not specified"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "A. Except as provided in subsection 3, by January 1, 2025, a The manufacturer of a product for sale in the State that contains intentionally added PFAS shall submit to the department a written notification"
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "A. Except as provided in subsection 3, by January 1, 2025, a The manufacturer of a product for sale in the State that contains intentionally added PFAS shall submit to the department a written notification"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A. Except as provided in subsection 3, by January 1, 2025, a The manufacturer of a product for sale in the State that contains intentionally added PFAS shall submit to the department a written notification"
+      },
+      "action": {
+        "value": [
+          "Make"
+        ],
+        "provenance": "A. Except as provided in subsection 3, by January 1, 2025, a The manufacturer of a product for sale in the State that contains intentionally added PFAS shall submit to the department a written notification"
+      },
+      "products": {
+        "value": [
+          "product for sale in the State that contains intentionally added PFAS"
+        ],
+        "provenance": "A. Except as provided in subsection 3, by January 1, 2025, a The manufacturer of a product for sale in the State that contains intentionally added PFAS shall submit to the department a written notification"
+      },
+      "exceptions": {
+        "value": [
+          "manufacturer that employs 25 100 or fewer people"
+        ],
+        "provenance": "D. The requirements of this subsection do not apply to a manufacturer that employs 25 100 or fewer people."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "(4-A) The identification of the applicable determination adopted by the department by rule pursuant to subsection 5, paragraph F that the use of PFAS in the product is a currently unavoidable use"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "A. Except as provided in subsection 3, by January 1, 2025, a The manufacturer of a product for sale in the State that contains intentionally added PFAS shall submit to the department a written notification"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "5. Prohibition on sale of products containing intentionally added PFAS."
+      },
+      "date": {
+        "value": "2023-01-01",
+        "provenance": "A. Effective Except as provided pursuant to paragraph F or G, effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A. Effective Except as provided pursuant to paragraph F or G, effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "A. Effective Except as provided pursuant to paragraph F or G, effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "products": {
+        "value": [
+          "carpet or rug that contains intentionally added PFAS",
+          "fabric treatment that contains intentionally added PFAS"
+        ],
+        "provenance": "A. Effective Except as provided pursuant to paragraph F or G, effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS. B. Effective Except as provided pursuant to paragraph F or G, effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a fabric treatment that contains intentionally added PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "sale, offer for sale or resale distribution for sale of a used any carpet or rug in used condition",
+          "sale or resale of a used fabric treatment"
+        ],
+        "provenance": "A. This The prohibition under this paragraph does not apply to the sale, offer for sale or resale distribution for sale of a used any carpet or rug in used condition. B. This prohibition does not apply to the sale or resale of a used fabric treatment."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "A. Effective Except as provided pursuant to paragraph F or G, effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "5. Prohibition on sale of products containing intentionally added PFAS."
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "B-1. Except as provided pursuant to paragraph F or G, effective January 1, 2026, a person may not sell, offer for sale or distribute for sale in this State"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "B-1. Except as provided pursuant to paragraph F or G, effective January 1, 2026, a person may not sell, offer for sale or distribute for sale in this State"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "B-1. Except as provided pursuant to paragraph F or G, effective January 1, 2026, a person may not sell, offer for sale or distribute for sale in this State"
+      },
+      "products": {
+        "value": [
+          "cleaning product containing intentionally added PFAS",
+          "cookware product containing intentionally added PFAS",
+          "cosmetic product containing intentionally added PFAS",
+          "dental floss containing intentionally added PFAS",
+          "juvenile product containing intentionally added PFAS",
+          "menstruation product containing intentionally added PFAS",
+          "textile article containing intentionally added PFAS",
+          "ski wax containing intentionally added PFAS",
+          "upholstered furniture containing intentionally added PFAS"
+        ],
+        "provenance": "B-1. Except as provided pursuant to paragraph F or G, effective January 1, 2026, a person may not sell, offer for sale or distribute for sale in this State: (1) A cleaning product containing intentionally added PFAS; (2) A cookware product containing intentionally added PFAS; (3) A cosmetic product containing intentionally added PFAS; (4) Dental floss containing intentionally added PFAS; (5) A juvenile product containing intentionally added PFAS; (6) A menstruation product containing intentionally added PFAS; (7) A textile article containing intentionally added PFAS; (8) Ski wax containing intentionally added PFAS; or (9) Upholstered furniture containing intentionally added PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "Outdoor apparel for severe wet conditions",
+          "textile article that is included in or a component part of a watercraft, aircraft or motor vehicle, including an off-highway vehicle"
+        ],
+        "provenance": "(7) A textile article containing intentionally added PFAS. The prohibition under this subparagraph does not include: (a) Outdoor apparel for severe wet conditions; or (b) A textile article that is included in or a component part of a watercraft, aircraft or motor vehicle, including an off-highway vehicle;"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "B-1. Except as provided pursuant to paragraph F or G, effective January 1, 2026, a person may not sell, offer for sale or distribute for sale in this State: (1) A cleaning product containing intentionally added PFAS; (2) A cookware product containing intentionally added PFAS; (3) A cosmetic product containing intentionally added PFAS; (4) Dental floss containing intentionally added PFAS; (5) A juvenile product containing intentionally added PFAS; (6) A menstruation product containing intentionally added PFAS; (7) A textile article containing intentionally added PFAS; (8) Ski wax containing intentionally added PFAS; or (9) Upholstered furniture containing intentionally added PFAS."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "5. Prohibition on sale of products containing intentionally added PFAS."
+      },
+      "date": {
+        "value": "2029-01-01",
+        "provenance": "B-2. Except as provided pursuant to paragraph F or G, effective January 1, 2029, a person may not sell, offer for sale or distribute for sale in this State"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "B-2. Except as provided pursuant to paragraph F or G, effective January 1, 2029, a person may not sell, offer for sale or distribute for sale in this State"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "B-2. Except as provided pursuant to paragraph F or G, effective January 1, 2029, a person may not sell, offer for sale or distribute for sale in this State"
+      },
+      "products": {
+        "value": [
+          "artificial turf containing intentionally added PFAS",
+          "outdoor apparel for severe wet conditions containing intentionally added PFAS"
+        ],
+        "provenance": "B-2. Except as provided pursuant to paragraph F or G, effective January 1, 2029, a person may not sell, offer for sale or distribute for sale in this State: (1) Artificial turf containing intentionally added PFAS; or (2) Outdoor apparel for severe wet conditions containing intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "products sold, offered for sale or distributed for sale in used condition"
+        ],
+        "provenance": "The prohibition under this paragraph does not apply to any of the products listed in subparagraphs (1) and (2) that are sold, offered for sale or distributed for sale in used condition."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "B-2. Except as provided pursuant to paragraph F or G, effective January 1, 2029, a person may not sell, offer for sale or distribute for sale in this State: (1) Artificial turf containing intentionally added PFAS; or (2) Outdoor apparel for severe wet conditions containing intentionally added PFAS"
+      }
+    }
+  ]
+}

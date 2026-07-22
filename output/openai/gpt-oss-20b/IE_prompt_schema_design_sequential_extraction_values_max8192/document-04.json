@@ -1,0 +1,58 @@
+{
+  "title": {
+    "value": "House Bill No. 389"
+  },
+  "location": {
+    "value": "Louisiana"
+  },
+  "reference": {
+    "value": "House Bill No. 389"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2022-01-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B fire fighting foam"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Discharge or use during fire prevention or in response to an emergency fire fighting operation",
+          "Discharge or use for training or testing at a facility with containment, treatment, and disposal measures to prevent uncontrolled releases"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

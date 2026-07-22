@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION",
+    "provenance": "HOUSE OF REPRESENTATIVES THIRTY-FIRST LEGISLATURE, 2022 STATE OF HAWAII H.B. NO. H.D. 1 1644 S.D. 1 C.D. 1 ## A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION."
+  },
+  "location": {
+    "value": "State of Hawaii",
+    "provenance": "STATE OF HAWAII"
+  },
+  "reference": {
+    "value": "HB1644 CD1",
+    "provenance": "H.B. NO. H.D. 1 1644 S.D. 1 C.D. 1"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "SECTION 3. This Act shall take effect on July 1, 2022."
+  },
+  "date": {
+    "value": "2022-07-01",
+    "provenance": "SECTION 3. This Act shall take effect on July 1, 2022."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

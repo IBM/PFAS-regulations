@@ -1,0 +1,73 @@
+{
+  "title": {
+    "value": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health",
+    "provenance": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The State of California"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 2771",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "prohibits the manufacture, sale, delivery, hold, or offer for sale in commerce"
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Beginning January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller"
+        ],
+        "provenance": "no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce"
+      },
+      "action": {
+        "value": [
+          "manufacture",
+          "sell",
+          "deliver",
+          "hold",
+          "offer for sale"
+        ],
+        "provenance": "prohibits the manufacture, sale, delivery, hold, or offer for sale in commerce"
+      },
+      "products": {
+        "value": [
+          "cosmetic products"
+        ],
+        "provenance": "any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No exceptions are mentioned in the text."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The text does not mention 'currently unavoidable use'."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": {
+    "value": "Toxic Packaging Reduction Act",
+    "provenance": "A N ACT RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "location": {
+    "value": "Rhode Island",
+    "provenance": "STATE OF RHODE ISLAND"
+  },
+  "reference": {
+    "value": "H 7438 SUBSTITUTE A",
+    "provenance": "Referred To: House Environment and Natural Resources. Date Introduced: February 11, 2022"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "It is enacted by the General Assembly as follows:"
+  },
+  "date": {
+    "value": "2022",
+    "provenance": "January Session, A.D. 2022"
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances or 'PFAS' means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "\u00a7 23-18.13-4(d)"
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "No product shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state in a package which includes, in the package itself or in any of its packaging components, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements."
+      },
+      "action": {
+        "value": [
+          "Offer for sale",
+          "Promote for sale"
+        ],
+        "provenance": "No product shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state in a package which includes, in the package itself or in any of its packaging components, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements."
+      },
+      "products": {
+        "value": [
+          "food package"
+        ],
+        "provenance": "Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "No product shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state in a package which includes, in the package itself or in any of its packaging components, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements."
+      }
+    }
+  ]
+}

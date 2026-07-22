@@ -1,0 +1,16 @@
+
+A BILL FOR AN ACT
+RELATING TO ENVIRONMENTAL PROTECTION.
+BE IT E N ACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+HB1644 CD1
+https://www.capitol.hawaii.gov/sessions/session2022/bills/HB1644_CD...
+SECTION 1. The legislature finds that perfluoroalkyl and polyfluoroalkyl substances (PFAS) are chemicals that have been used in many consumer products since the 1940s. PFAS accumulate in the human body, and exposure can lead to adverse health outcomes in humans. The most studied PFAS chemicals are perfluorooctanoic acid (PFOA) and perfluorooctanesulfonic acid (PFOS). Studies indicate that PFOA and PFOS can cause reproductive and developmental, liver and kidney, and immunological effects in laboratory animals, and both PFOA and PFOS have caused tumors in animals. The most consistent findings are increased cholesterol levels among exposed populations, with other findings related to low infant birth rates, effects on the immune system, cancer for PFOA, and thyroid disruption for PFOS.
+/321Definitions. For the purposes of this part:
+"Class B firefighting foam" means foams designed to suppress flammable liquid fires.
+"Food packaging" means a package or packaging component that is applied to or in direct contact with any food or beverage and is comprised, in substantial part, of paper, paperboard, or other materials originally derived from plant fibers.
+"Intentionally introduced" means deliberately utilized PFAS in the formulation of a package or packaging component where the continued presence of the PFAS is desired in the final package or packaging component to provide a specific characteristic, appearance, or quality.
+"Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.
+/321Food packaging; prohibited items. (a)  Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS
+chemicals have been intentionally introduced in any amount.(c)  This section shall not apply to the manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS chemicals is required by federal law or regulations; provided that if applicable federal law or regulations are amended after the effective date of this Act to allow the use of alternative firefighting agents that do not contain PFAS chemicals, the department may adopt rules that restrict PFAS chemicals for the manufacture, sale, and distribution of firefighting foam for uses that are addressed by the federal law or regulation.
+/321-     Manufacturers of class B firefighting foam; prohibitions; certificate of compliance; penalty. (a) A manufacturer of class B firefighting foam prohibited by this part shall notify, in writing and no later than January 1, 2023, persons that sell the manufacturer's products in the State about the
+requirements of this part.

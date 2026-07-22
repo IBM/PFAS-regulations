@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An Act relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto.",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "location": {
+    "value": "State of Nevada",
+    "provenance": "The PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:"
+  },
+  "reference": {
+    "value": "A.B. 97",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS FEBRUARY 8, 2021 Referred to Committee on Natural Resources"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Sec. 27. 1. This section becomes effective upon passage and approval. Sec. 27. 2. Sections 6 to 14.5, inclusive, of this act become effective: (a) Upon passage and approval for the purpose of adopting any regulations and performing any other preparatory administrative tasks that are necessary to carry out the provisions of sections 6 to 14.5, inclusive, of this act; and (b) On January 1, 2022, for all other purposes."
+  },
+  "date": {
+    "value": "2021-02-08",
+    "provenance": "FEBRUARY 8, 2021"
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "Sec. 9. 'Perfluoroalkyl and polyfluoroalkyl substances' means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  }
+}

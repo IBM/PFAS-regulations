@@ -1,0 +1,69 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 652",
+    "provenance": "Assembly Bill No. 652"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "This bill would, on and after July 1, 2023, prohibit a person, including a manufacturer, from selling or distributing in commerce in this state any new,  not  previously  owned,  juvenile  product,  that  contains regulated perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+  },
+  "reference": {
+    "value": "AB 652",
+    "provenance": "AB  652,  Friedman.  Product  safety:  juvenile  products:  chemicals: perfluoroalkyl and polyfluoroalkyl substances."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety."
+  },
+  "date": {
+    "value": "2021-10-05",
+    "provenance": "[Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(e)  'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a  class  of  fluorinated  organic  chemicals  containing  at  least  one  fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "a person, including, but not limited to, a manufacturer"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "shall not sell or distribute in commerce in this state"
+      },
+      "products": {
+        "value": [
+          "juvenile product"
+        ],
+        "provenance": "any new, not previously owned, juvenile product"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(1)  PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product"
+      }
+    }
+  ]
+}

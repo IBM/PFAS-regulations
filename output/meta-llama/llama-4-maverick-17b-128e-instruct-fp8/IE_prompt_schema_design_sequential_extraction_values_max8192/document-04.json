@@ -1,0 +1,58 @@
+{
+  "title": {
+    "value": "HOUSE BILL NO. 389"
+  },
+  "location": {
+    "value": "Louisiana"
+  },
+  "reference": {
+    "value": "R.S. 40:1615"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2022-01-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B fire fighting foam containing PFAS chemicals"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "discharged under emergency fire fighting operation",
+          "discharged for training or testing purposes at a facility with containment, treatment, and disposal measures"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

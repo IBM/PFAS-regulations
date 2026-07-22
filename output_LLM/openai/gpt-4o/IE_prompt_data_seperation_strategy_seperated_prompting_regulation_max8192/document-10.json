@@ -1,0 +1,46 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This act would prohibit the sale or promotional distribution of any food package in Rhode Island which contains perfluoroalkyl and polyfluoroalkyl substances (PFAS), effective January 1, 2024"
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "This act would prohibit the sale or promotional distribution of any food package in Rhode Island which contains perfluoroalkyl and polyfluoroalkyl substances (PFAS), effective January 1, 2024"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "products": {
+        "value": [
+          "food package"
+        ],
+        "provenance": "no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      }
+    }
+  ]
+}

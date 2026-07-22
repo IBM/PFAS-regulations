@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "SUBSTITUTE HOUSE BILL 1047",
+    "provenance": "SUBSTITUTE HOUSE BILL 1047"
+  },
+  "location": {
+    "value": "State of Washington",
+    "provenance": "Governor of the State of Washington\nSUBSTITUTE HOUSE BILL 1047\nAS AMENDED BY THE SENATE\nPassed Legislature - 2023 Regular Session\nState of Washington 68th Legislature 2023 Regular Session"
+  },
+  "reference": {
+    "value": "SUBSTITUTE HOUSE BILL 1047",
+    "provenance": "SUBSTITUTE HOUSE BILL 1047\nAS AMENDED BY THE SENATE\nPassed Legislature - 2023 Regular Session\nState of Washington 68th Legislature 2023 Regular Session"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "SUBSTITUTE HOUSE BILL 1047 AS AMENDED BY THE SENATE Passed Legislature - 2023 Regular Session"
+  },
+  "date": {
+    "value": "2025-01-01",
+    "provenance": "NEW SECTION. Sec. 3. (1) Except as provided in subsection (3) 13 of this section, beginning January 1, 2025, no person may 14 manufacture, knowingly sell, offer for sale, distribute for sale, or 15 distribute for use in this state any cosmetic product that contains 16 any  of  the  following  intentionally  added  chemicals  or  chemical 17 classes: 18 (a) Ortho-phthalates; 19 (b) Perfluoroalkyl and polyfluoroalkyl substances;"
+  },
+  "pfas_definition": {
+    "value": "not specified",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances\" has the same 7 meaning as defined in RCW 70A.350.010."
+  }
+}

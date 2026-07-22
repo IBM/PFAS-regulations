@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety.",
+    "provenance": "CHAPTER 500\nAn act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety."
+  },
+  "location": {
+    "value": "State of California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "AB 652",
+    "provenance": "AB  652,  Friedman.  Product  safety:  juvenile  products:  chemicals: perfluoroalkyl and polyfluoroalkyl substances."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "[Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021.]"
+  },
+  "date": {
+    "value": "2021-10-05",
+    "provenance": "[Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a  class  of  fluorinated  organic  chemicals  containing  at  least  one  fully fluorinated carbon atom."
+  }
+}

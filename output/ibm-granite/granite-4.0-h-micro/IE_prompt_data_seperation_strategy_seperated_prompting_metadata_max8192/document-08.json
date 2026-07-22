@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "location": {
+    "value": "State of New Jersey",
+    "provenance": "STATE OF NEW JERSEY"
+  },
+  "reference": {
+    "value": "A4125",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.",
+    "provenance": "As used in this section: 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

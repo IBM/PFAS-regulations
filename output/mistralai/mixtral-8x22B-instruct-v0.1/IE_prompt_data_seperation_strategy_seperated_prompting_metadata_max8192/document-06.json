@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "House Bill 1147",
+    "provenance": "## HOUSE BILL 1147"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "Annotated Code of Maryland (2013 Replacement Volume and 2023 Supplement)"
+  },
+  "reference": {
+    "value": "House Bill 1147",
+    "provenance": "## HOUSE BILL 1147"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Introduced and read first time: February 7, 2024"
+  },
+  "date": {
+    "value": "2024-02-07",
+    "provenance": "Introduced and read first time: February 7, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(C) 'PFAS' MEANS PER- AND POLYFLUOROALKYL SUBSTANCES."
+  }
+}

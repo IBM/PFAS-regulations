@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "An Act concerning Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "AN ACT concerning 1 Environment - Playground Surfacing Materials - Prohibitions 2"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "By: Delegates Guyton, Lehman, Allen, Ebersole, Forbes, Holmes, Pasteur, Ruth, and Stein Introduced and read first time: February 7, 2024 Assigned to: Environment and Transportation"
+  },
+  "reference": {
+    "value": "House Bill 1147",
+    "provenance": "4lr1508"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "FOR the purpose of prohibiting, on or after a certain date, a person from using, supplying, selling, soliciting, or offering for sale playground surfacing materials that contain certain concentrations of certain chemicals for the construction or renovation of the ground surface of a playground in the State"
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2024."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "PFAS' MEANS PER- AND POLYFLUOROALKYL SUBSTANCES. (C) 'PFAS' MEANS PER- AND POLYFLUOROALKYL SUBSTANCES. - (D) 'PLAYGROUND' MEANS A PUBLIC OUTDOOR RECREATION AREA FOR CHILDREN EQUIPPED WITH ONE OR MORE PLAY STRUCTURES. - (E) 'PLAYGROUND SURFACING MATERIALS' MEANS PRODUCTS, MATERIALS, OR SUBSTANCES USED OR INSTALLED ON THE GROUND SURFACE OF A PLAYGROUND IN THE STATE."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2024."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Solicit",
+          "Offer for sale"
+        ],
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND"
+      },
+      "products": {
+        "value": [
+          "playground surfacing materials"
+        ],
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "HOUSE BILL NO. 389",
+    "provenance": "HOUSE BILL NO. 389"
+  },
+  "location": {
+    "value": "Louisiana",
+    "provenance": "Be it enacted by the Legislature of Louisiana:"
+  },
+  "reference": {
+    "value": "HOUSE BILL NO. 389",
+    "provenance": "HOUSE BILL NO. 389"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "HOUSE BILL NO. 389"
+  },
+  "date": {
+    "value": "2022-01-01",
+    "provenance": "On and after January 1, 2022"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"PFAS chemicals\" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, including perfluoroalkyl and polyfluoroalkyl substances, and designed to be fully functional in Class B fire fighting foam formulations."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": {
+    "value": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "location": {
+    "value": "State of New Jersey",
+    "provenance": "State of New Jersey"
+  },
+  "reference": {
+    "value": "A4125 HAIDER, SWAIN",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes. BE IT ENACTED by the Senate and General Assembly of the State of New Jersey: - 1. a. Beginning two years after the effective date of this act, no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "BE IT ENACTED by the Senate and General Assembly of the State of New Jersey:"
+  },
+  "date": {
+    "value": "immediately",
+    "provenance": "As provided by section 1 of P.L.1966, c.39 (C.56:8-13), an unlawful practice under the Consumer Fraud Act is punishable by a monetary penalty of not more than $10,000 for a first offense and not more than $20,000 for any subsequent offense. In addition, a violation can result in cease and desist orders issued by the Attorney General, the assessment of punitive damages, and the awarding of treble damages and costs to the injured."
+  },
+  "pfas_definition": {
+    "value": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.",
+    "provenance": "PFAS means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Beginning two years after the effective date of this act, no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+      },
+      "date": {
+        "value": "immediately",
+        "provenance": "As provided by section 1 of P.L.1966, c.39 (C.56:8-13), an unlawful practice under the Consumer Fraud Act is punishable by a monetary penalty of not more than $10,000 for a first offense and not more than $20,000 for any subsequent offense. In addition, a violation can result in cease and desist orders issued by the Attorney General, the assessment of punitive damages, and the awarding of treble damages and costs to the injured."
+      },
+      "who": [
+        "Person"
+      ],
+      "action": [
+        "Use",
+        "Sell",
+        "Manufacture",
+        "Distribute"
+      ],
+      "products": [
+        "Class B firefighting foam"
+      ],
+      "exceptions": [
+        "sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law or regulation, including, but not limited to, 14 C.F.R. s.139.317"
+      ],
+      "currently_unavoidable": true,
+      "intentionally_added": true
+    }
+  ]
+}

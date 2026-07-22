@@ -1,0 +1,70 @@
+{
+  "title": {
+    "value": "AN ACT relating to fire prevention",
+    "provenance": "Be it enacted by the General Assembly of the Commonwealth of Kentucky: - \uf0e2 SECTION 1. A NEW SECTION OF KRS 227.200 TO 227.410 IS CREATED TO READ AS FOLLOWS:"
+  },
+  "location": {
+    "value": "Commonwealth of Kentucky",
+    "provenance": "AN ACT relating to fire prevention. Be it enacted by the General Assembly of the Commonwealth of Kentucky:"
+  },
+  "reference": {
+    "value": "SB 104",
+    "provenance": "CHAPTER 47 ( SB 104 )"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Signed by Governor March 22, 2019."
+  },
+  "date": {
+    "value": "2019-03-22",
+    "provenance": "Signed by Governor March 22, 2019."
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "PFAS chemicals means perfluoroalkyl and polyfluoroalkyl substances which, for the purpose of firefighting agents, is a class of fluorinated organic chemicals containing at least one (1) fully fluorinated carbon atom;"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Beginning on July 15, 2020, class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes"
+      },
+      "date": {
+        "value": "2020-07-15",
+        "provenance": "Beginning on July 15, 2020"
+      },
+      "who": {
+        "value": [
+          "Testing facility"
+        ],
+        "provenance": "the testing facility has implemented best industry practices"
+      },
+      "action": {
+        "value": [
+          "use"
+        ],
+        "provenance": "shall not be used"
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam that contains intentionally added PFAS chemicals"
+        ],
+        "provenance": "class B firefighting foam that contains intentionally added PFAS chemicals"
+      },
+      "exceptions": {
+        "value": [
+          "Emergency firefighting operations"
+        ],
+        "provenance": "The restrictions in subsection (2) of this Act shall not apply to ... (b) The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use'"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS chemicals which, for the purpose of firefighting agents, is a class of fluorinated organic chemicals containing at least one (1) fully fluorinated carbon atom; contains intentionally added"
+      }
+    }
+  ]
+}

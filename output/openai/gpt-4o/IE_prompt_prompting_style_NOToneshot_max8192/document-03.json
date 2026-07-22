@@ -1,0 +1,70 @@
+{
+  "title": {
+    "value": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances",
+    "provenance": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+  },
+  "location": {
+    "value": "State of New York",
+    "provenance": "The People of the State of New York, represented in Senate and Assembly, do enact as follows:"
+  },
+  "reference": {
+    "value": "4525--A",
+    "provenance": "4525--A"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "2025-2026 Regular Sessions"
+  },
+  "date": {
+    "value": "2025-02-04",
+    "provenance": "February 4, 2025"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS substances\" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "After December thirty-first, two thousand twenty-six, no person shall sell or offer for sale in this state anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals"
+      },
+      "date": {
+        "value": "2026-12-31",
+        "provenance": "After December thirty-first, two thousand twenty-six"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person shall sell or offer for sale in this state anti-fogging sprays or wipes"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person shall sell or offer for sale in this state anti-fogging sprays or wipes"
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays",
+          "wipes"
+        ],
+        "provenance": "anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals"
+      }
+    }
+  ]
+}

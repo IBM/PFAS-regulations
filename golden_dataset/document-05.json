@@ -1,0 +1,71 @@
+{
+    "title": {
+        "value": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety.",
+        "provenance": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety."
+    },
+    "location": {
+        "value": "California",
+        "provenance": "The people of the State of California do enact as follows:"
+    },
+    "reference": {
+        "value": "Assembly Bill No. 652",
+        "provenance": "Assembly Bill No. 652"
+    },
+    "status": {
+        "value": "Bill",
+        "provenance": "Assembly Bill No. 652"
+    },
+    "date": {
+        "value": "2021-10-05",
+        "provenance": "Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021."
+    },
+    "pfas_definition": {
+        "value": "single_fluorinated_carbon",
+        "provenance": "(e) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+    },
+    "regulations": [
+        {
+            "type": {
+                "value": "Ban/Restrict",
+                "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+            },
+            "date": {
+                "value": "2023-07-01",
+                "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+            },
+            "who": {
+                "value": [
+                    "person"
+                ],
+                "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+            },
+            "action": {
+                "value": [
+                    "sell",
+                    "distribute in commerce"
+                ],
+                "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+            },
+            "products": {
+                "value": [
+                    "juvenile product"
+                ],
+                "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+            },
+            "exceptions": {
+                "value": [
+                    "previously owned"
+                ],
+                "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+            },
+            "currently_unavoidable": {
+                "value": false,
+                "provenance": null
+            },
+            "intentionally_added": {
+                "value": true,
+                "provenance": "(1) PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product, including, but not limited to, the PFAS components of intentionally added chemicals and PFAS that are intentional breakdown products of an added chemical that also have a functional or technical effect in the product."
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill prohibits, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles... A distributor or retailer... shall not be held in violation of this chapter if they relied in good faith on the certificate of compliance provided by the manufacturer"
+      },
+      "action": {
+        "value": [
+          "manufacture",
+          "distribute",
+          "sell",
+          "offer for sale"
+        ],
+        "provenance": "This bill prohibits... any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles... A manufacturer shall use the least toxic alternative... A manufacturer of a textile article shall provide persons that offer the product for sale or distribution in the state with a certificate of compliance"
+      },
+      "products": {
+        "value": [
+          "textile articles"
+        ],
+        "provenance": "no new, not previously owned, textile articles that contain regulated PFAS... Textile articles does not include... single-use paper hygiene products"
+      },
+      "exceptions": {
+        "value": [
+          "outdoor apparel for severe wet conditions until January 1, 2028"
+        ],
+        "provenance": "Paragraph (1) does not apply to outdoor apparel for severe wet conditions until January 1, 2028"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The bill phases out the use of PFAS, with thresholds specified for their presence in products"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS means either of the following: PFAS that a manufacturer has intentionally added to a product..."
+      }
+    }
+  ]
+}

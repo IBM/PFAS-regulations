@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An Act concerning safety",
+    "provenance": "AN ACT concerning safety."
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "by the People of the State of Illinois"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "Toxic Release Inventory (TRI) Polyfluoroalkyl and Perfluoroalkyl Substances (PFAS) that are on the list set forth in rules developed by the USEPA under Section 313 of the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants."
+  }
+}

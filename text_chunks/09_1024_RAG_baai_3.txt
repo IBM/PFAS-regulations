@@ -1,0 +1,40 @@
+
+ANALYSIS
+This bill restricts the use of per and polyfluoroalkyl substances in rugs, carpets, and aftermarket stain and water resistant treatments sold in New Hampshire.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Explanation: Matter added to current law appears in bold italics.
+Matter removed from current law appears [in brackets and struckthrough.]
+Matter which is either (a) all new or (b) repealed and reenacted appears in regular type.
+23-0506
+08/05
+STATE OF NEW HAMPSHIRE
+In the Year of Our Lord Two Thousand Twenty Three
+AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+1  New Section; Consumer Protection; Per and Polyfluoroalkyl Substance Use Restricted.  Amend RSA 149-M by inserting after
+section 63 the following new section:
+149-M:64  Consumer Products; Per and Polyfluoroalkyl Substance Use Restricted.
+I.  In this section:
+(a) 'Aftermarket stain and water resistant treatments' means treatments for textile and leather consumer products used in residential settings that have been treated during the manufacturing process for stain, oil, and water resistance but excludes products marketed or sold exclusively for use at industrial facilities during the manufacture of a carpet, rug, clothing, or shoe.
+(b)  'Department' means the department of environmental services.
+New Hampshire-2024-HB465-Introduced
+(c)  'Intentionally added' means the addition of a chemical in a product that serves an intended function in the product component.
+(d)  'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.
+(e)  'Rug or carpet' means a thick fabric used to cover floors.
+II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount.
+(b)  This paragraph shall not apply to the sale or resale of used products.
+III.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount.
+(b)  This paragraph shall not apply to the sale or resale of used products.
+IV.  The department may request a certificate of compliance from a manufacturer of rugs, carpets, or aftermarket stain and water resistant treatments.  Within 30 days after receipt of the department's request for a certificate of compliance, the manufacturer shall:
+(a)  Provide the department with a certificate attesting that the manufacturer's product or products comply with the requirements of this chapter; or
+(b)  Notify persons who are selling a product of the manufacturer's in this state that the sale is prohibited because the product does not comply with this chapter and submit to the department a list of the names and addresses of those persons notified.
+V. The commissioner of the department of environmental services shall, under RSA 541-A, adopt any rules necessary for the implementation, administration, and enforcement of this section.
+2  Effective Date.  This act shall take effect July 1, 2025.
+LBA 23-0506 1/6/23
+AS INTRODUCED
+AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.
+FISCAL IMPACT:
+[ X ] State
+[ X ] County
+[ X ] Local
+[ ] None

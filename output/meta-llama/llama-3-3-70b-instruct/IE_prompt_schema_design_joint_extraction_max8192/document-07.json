@@ -1,0 +1,75 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 2771",
+    "provenance": "## Assembly Bill No. 2771"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 2771",
+    "provenance": "## Assembly Bill No. 2771"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "[Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022.]"
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "[Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Beginning January 1, 2025, no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Beginning January 1, 2025, no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Person",
+          "Entity"
+        ],
+        "provenance": "no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)"
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)"
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ],
+        "provenance": "any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)"
+      }
+    }
+  ]
+}

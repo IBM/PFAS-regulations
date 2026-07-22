@@ -1,0 +1,148 @@
+{
+  "title": {
+    "value": "Hazardous Products Act"
+  },
+  "location": {
+    "value": "State of Michigan"
+  },
+  "reference": {
+    "value": "HOUSE BILL NO. 5657"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2024-04-24"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Products containing intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Products for which federal law governs the presence of PFAS"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Manufacture"
+        ]
+      },
+      "products": {
+        "value": [
+          "Apparel",
+          "Carpets, rugs, or another similar fabric that is marketed or intended for use as a floor covering",
+          "Cleaning products",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments or other similar substances",
+          "Juvenile products",
+          "Menstruation products",
+          "Textile furnishings",
+          "Ski wax or other similar lubricant",
+          "Upholstered furniture",
+          "Class A or class B firefighting foam"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Personal protective equipment",
+          "Items for use by the United States military",
+          "Used products",
+          "Products for which the department has issued a waiver under section 5(3)",
+          "Class B firefighting foam that is subject to regulation under 14 CFR 139.317 or another federal law"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell"
+        ]
+      },
+      "products": {
+        "value": [
+          "Firefighter personal protective equipment"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

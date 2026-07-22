@@ -1,0 +1,70 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 1817",
+    "provenance": "Assembly Bill No. 1817"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health."
+  },
+  "reference": {
+    "value": "AB 1817",
+    "provenance": "Assembly Bill No. 1817"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) defined as: Any substance that contains at least one fully fluorinated methyl (CF3-) or methylene (-CF2-) carbon atom (without any H/Cl/Br/I attached to it). A substance that only contains the following structural elements is excluded from the scope of the proposed restriction: CF3-X or X-CF2-X', where X = -OR or -NRR' and X' = methyl (-CH3), methylene (-CH2-), an aromatic group, a carbonyl group (-C(O)-), -OR'', -SR'' or \u2013NR''R''', and where R/R'/R''/R''': is a hydrogen (-H), methyl (-CH3), methylene (-CH2-), an aromatic group or a carbonyl group (-C(O)-).",
+    "provenance": "108970. For purposes of this article, the following terms have the following definitions: (f) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "108970. (1) Except as provided in paragraph (2), commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "108970. (1) Except as provided in paragraph (2), commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "108970. (a) (1) Except as provided in paragraph (2), commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "action": {
+        "value": [
+          "Manufacture"
+        ],
+        "provenance": "108970. (1) Except as provided in paragraph (2), commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "products": {
+        "value": [
+          "Textile articles"
+        ],
+        "provenance": "108970. (g) 'Textile' means any item made in whole or part from a natural, manmade, or synthetic fiber, yarn, or fabric, and includes, but is not limited to, leather, cotton, silk, jute, hemp, wool, viscose, nylon, or polyester."
+      },
+      "exceptions": {
+        "value": [
+          "Outdoor apparel for severe wet conditions until January 1, 2028"
+        ],
+        "provenance": "108970. (1) Except as provided in paragraph (2), commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No information indicates that the regulation mentions 'currently unavoidable use'."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "108970. (g) (1) PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product."
+      }
+    }
+  ]
+}

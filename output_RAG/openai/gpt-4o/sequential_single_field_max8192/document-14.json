@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AB 1817, Ting. Product safety: textile articles: perfluoroalkyl and polyfluoroalkyl substances (PFAS).",
+    "provenance": "AB  1817,  Ting.  Product  safety:  textile  articles:  perfluoroalkyl  and polyfluoroalkyl substances (PFAS)."
+  },
+  "location": {
+    "value": "State of California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "AB 1817",
+    "provenance": "AB  1817,  Ting.  Product  safety:  textile  articles:  perfluoroalkyl  and polyfluoroalkyl substances (PFAS)."
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+  },
+  "date": {
+    "value": "2025-01-01",
+    "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS, except as specified, and requires a manufacturer to use the least toxic alternative when removing regulated PFAS in textile articles to comply with these provisions."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

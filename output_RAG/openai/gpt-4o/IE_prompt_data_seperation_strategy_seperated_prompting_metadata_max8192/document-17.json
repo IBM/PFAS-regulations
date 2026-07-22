@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An Act relating to toxic chemicals",
+    "provenance": "AN  ACT  relating  to  toxic  chemicals;  prohibiting,  with  certain exceptions, the discharge, use or release of certain Class B  firefighting  foams;  requiring,  with  certain  exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental  Protection  of  the  State  Department  of Conservation and Natural Resources; requiring the Division  to  establish  a  working  group  to  study  issues relating  to  certain  substances;  prohibiting,  with  certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties;  and  providing  other  matters  properly  relating thereto."
+  },
+  "location": {
+    "value": "State of Nevada",
+    "provenance": "THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:"
+  },
+  "reference": {
+    "value": "BDR 40-141",
+    "provenance": "SUMMARY-Revises provisions governing toxic chemicals. (BDR 40-141)"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "SUMMARY-Revises provisions governing toxic chemicals. (BDR 40-141)"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Sec.  9. 'Perfluoroalkyl and polyfluoroalkyl substances' means  a  class  of  fluorinated  organic  chemicals  that  contain  at least one fully fluorinated carbon atom."
+  }
+}

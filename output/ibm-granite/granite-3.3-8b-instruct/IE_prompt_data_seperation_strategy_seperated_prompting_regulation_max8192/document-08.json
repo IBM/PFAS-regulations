@@ -1,0 +1,55 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits sale, manufacture, distribution, and use of firefighting foam containing intentionally added perfluoroalkyl and polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "Beginning two years after the effective date of this act."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller",
+          "User"
+        ],
+        "provenance": "no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Manufacture",
+          "Distribute for sale",
+          "Use",
+          "Distribute for use"
+        ],
+        "provenance": "Prohibits sale, manufacture, distribution, and use of firefighting foam containing intentionally added PFAS."
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam"
+        ],
+        "provenance": "foam containing intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "for which the inclusion of PFAS is required by federal law, or by a rule or regulation adopted pursuant thereto, including, but not limited to, 14 C.F.R. s.139.317"
+        ],
+        "provenance": "Subsection a. of this section shall not apply to the sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law, or by a rule or regulation adopted pursuant thereto, including, but not limited to, 14 C.F.R. s.139.317."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The bill does not mention 'currently unavoidable use'."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "The bill specifically mentions 'intentionally added PFAS'."
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "An ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "date": {
+        "value": "2025-02-04",
+        "provenance": "February 4, 2025"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "no person this state shall sell or offer for sale in containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals or that contain perfluoroalkyl and alkyl substances at or above a level that the department shall establish"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person this state shall sell or offer for sale in containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals or that contain perfluoroalkyl and alkyl substances at or above a level that the department shall establish"
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays",
+          "wipes"
+        ],
+        "provenance": "no person this state anti-fogging sprays or wipes polyfluoroalkyl substances as intentionally added chemicals or that contain perfluoroalkyl and alkyl substances at or above a level that the department shall establish"
+      },
+      "exceptions": {
+        "value": [
+          "if they can show that they relied in good faith on the written assurance of the manufacturer of such product that such product met the requirements of this section"
+        ],
+        "provenance": "No person that sells or offers for sale any anti-fogging sprays or wipes shall be held in violation of this section if they can show that they relied in good faith on the written assurance of the manufacturer of such product that such product met the requirements of this section"
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "Any person who violates any of the provisions of, or who fails to perform any duty imposed by section 37-0125 of this chapter or any rule or regulation promulgated pursuant thereto, shall be liable for a civil penalty not to exceed one thousand dollars for each day during which such violation continues"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "no person this state shall sell or offer for sale in containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals"
+      }
+    }
+  ]
+}

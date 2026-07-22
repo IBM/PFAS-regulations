@@ -1,0 +1,124 @@
+{
+  "title": {
+    "value": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.",
+    "provenance": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products."
+  },
+  "location": {
+    "value": "New Hampshire",
+    "provenance": "STATE OF NEW HAMPSHIRE"
+  },
+  "reference": {
+    "value": "23-0506",
+    "provenance": "23-0506"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "HOUSE BILL 465-FN"
+  },
+  "date": {
+    "value": "2023-08-05",
+    "provenance": "08/05"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(d)  'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount."
+      },
+      "date": {
+        "value": "2025-07-01",
+        "provenance": "This act shall take effect July 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state..."
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state..."
+      },
+      "products": {
+        "value": [
+          "rug or carpet"
+        ],
+        "provenance": "II.(a)  ... a rug or carpet to which PFAS have been intentionally added ..."
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of used products"
+        ],
+        "provenance": "(b)  This paragraph shall not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "II.(a)  ... to which PFAS have been intentionally added in any amount."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "III.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount."
+      },
+      "date": {
+        "value": "2025-07-01",
+        "provenance": "This act shall take effect July 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "III.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state..."
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "III.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state..."
+      },
+      "products": {
+        "value": [
+          "aftermarket stain and water resistant treatments for rugs or carpets"
+        ],
+        "provenance": "III.(a)  ... aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added ..."
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of used products"
+        ],
+        "provenance": "(b)  This paragraph shall not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "III.(a)  ... to which PFAS have been intentionally added in any amount."
+      }
+    }
+  ]
+}

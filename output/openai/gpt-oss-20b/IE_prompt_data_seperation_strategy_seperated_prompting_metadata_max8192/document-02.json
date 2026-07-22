@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT concerning safety.",
+    "provenance": "AN ACT concerning safety."
+  },
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "reference": {
+    "value": "(415 ILCS 5/22.62 new)",
+    "provenance": "(415 ILCS 5/22.62 new)"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT concerning safety."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "Section 99. Effective date. This Act takes effect upon becoming law."
+  },
+  "pfas_definition": {
+    "value": "not specified",
+    "provenance": "Section 5. The Environmental Protection Act is amended by adding Section 22.62 as follows:\n\nSec. 22.62. TRI-PFAS; incineration.\n\n(b) No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS."
+  }
+}

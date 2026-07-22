@@ -1,0 +1,63 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 97"
+  },
+  "location": {
+    "value": "State of Nevada"
+  },
+  "reference": {
+    "value": "A.B. 97"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2021-04-19"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State agency",
+          "Local agency"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Testing with proper containment, treatment, and disposal measures",
+          "Firefighting training"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

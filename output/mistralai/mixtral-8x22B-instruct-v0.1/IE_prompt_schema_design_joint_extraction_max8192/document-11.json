@@ -1,0 +1,136 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION",
+    "provenance": "H.B. NO. H.D. 1, 1644, S.D. 1, C.D. 1"
+  },
+  "location": {
+    "value": "State of Hawaii",
+    "provenance": "HOUSE OF REPRESENTATIVES THIRTY-FIRST LEGISLATURE, 2022 STATE OF HAWAII"
+  },
+  "reference": {
+    "value": "H.B. NO. H.D. 1, 1644, S.D. 1, C.D. 1",
+    "provenance": "H.B. NO. H.D. 1, 1644, S.D. 1, C.D. 1"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2022-07-01",
+    "provenance": "SECTION 3. This Act shall take effect on July 1, 2022."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "/321Definitions. For the purposes of this part: 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 2. Chapter 321, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows: ' PART    . PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES PROHIBITED'"
+      },
+      "date": {
+        "value": "2024-12-31",
+        "provenance": "/321Food packaging; prohibited items. (a)  Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User"
+        ],
+        "provenance": "/321Food packaging; prohibited items. (a)  Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "/321Food packaging; prohibited items. (a)  Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      },
+      "products": {
+        "value": [
+          "wraps and liners",
+          "plates",
+          "food boats",
+          "pizza boxes"
+        ],
+        "provenance": "/321Food packaging; prohibited items. (b)  The prohibition under this section shall apply to wraps and liners, plates, food boats, and pizza boxes."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "Not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "/321Food packaging; prohibited items. (a)  Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 2. Chapter 321, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows: ' PART    . PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES PROHIBITED'"
+      },
+      "date": {
+        "value": "2024-07-01",
+        "provenance": "/321Class B firefighting foam; prohibited items. (a) Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User",
+          "Person",
+          "State agency",
+          "Local government"
+        ],
+        "provenance": "/321Class B firefighting foam; prohibited items. (a) Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use",
+          "Discharge",
+          "Use"
+        ],
+        "provenance": "/321Class B firefighting foam; prohibited items. (a) Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ],
+        "provenance": "/321Class B firefighting foam; prohibited items. (a) Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "exceptions": {
+        "value": [
+          "unless the use is necessary for effective suppression of a petroleum fire"
+        ],
+        "provenance": "/321Class B firefighting foam; prohibited items. (a) Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "/321Class B firefighting foam; prohibited items. (a) Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      }
+    }
+  ]
+}

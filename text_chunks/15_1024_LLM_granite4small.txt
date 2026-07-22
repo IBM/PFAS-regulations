@@ -1,0 +1,240 @@
+
+SYNOPSIS AS INTRODUCED:
+30 ILCS 500/45-26
+415 ILCS 5/52.15 new
+Provides that the amendatory Act may be referred to as the Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law. Amends the Illinois Procurement Code. In provisions regarding environmentally preferable procurement, includes products that do not contain intentionally added PFAS chemicals in the definitions of "environmentally preferable supplies" and "environmentally preferable services". Amends the Environmental Protection Act. Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals. Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements. Contains exemptions from the requirements for specified cookware. On and after January 1, 2025, prohibits manufacturers from making a claim on cookware packaging that the cookware is free of any PFAS chemical, unless no individual PFAS chemical is intentionally added to the cookware. Contains notification requirements. Contains other provisions.
+LRB103 04643 CPF 50348 b
+1
+2
+3
+4
+5
+6
+7
+AN ACT concerning safety.
+Be it enacted by the People of the State of Illinois, represented in the General Assembly:
+Section 1. This Act may be referred to as the PFAS Consumer Protection Law.
+Section 5. The Illinois Procurement Code is amended by changing Section 45-26 as follows:
+- (30 ILCS 500/45-26) 8
+9
+Sec. 45-26. Environmentally preferable procurement.
+10
+- (a) Definitions. For the purposes of this Section:
+- (1) "Supplies" means all personal property, including but not limited to equipment, materials, printing, and insurance, and the financing of those supplies. 11 12 13
+- (2) "Services" means the furnishing of labor, time, or effort by a contractor, not involving the delivery of a specific end product other than reports or supplies that are incidental to the required performance. 14 15 16 17
+- (3) "Environmentally preferable supplies" means supplies that are less harmful to the natural environment and human health than substantially similar supplies for the same purpose. Attributes of environmentally preferable supplies include, but are not limited to, the following: 18 19 20 21 22
+1, 1 = (i) made of recycled materials, to the maximum. 2, 1 = extent feasible;. 3, 1 = (ii) not containing, emitting, or producing. 4, 1 = toxic substances, such as products that do not. 5, 1 = contain intentionally added PFAS chemicals as that. 6, 1 = term is defined in subsection (b) of Section 52.15. 7, 1 = of the Environmental Protection Act;. 8, 1 = (iii) constituted so as to minimize the. 9, 1 = production of waste; and. 10, 1 = (iv) constituted so as to conserve energy and. 11, 1 = water resources over the course of production,. 12, 1 = transport, intended use, and disposal.. 13, 1 = (4) "Environmentally preferable services" means. 14, 1 = services that are less harmful to the natural environment. 15, 1 = and human health than substantially similar services for. 16, 1 = the same purpose. Attributes of "environmentally. 17, 1 = preferable services" include, but are not limited to, the. 18, 1 = following:. 19, 1 = (i) use of supplies made of recycled. 20, 1 = materials, to the maximum extent feasible;. 21, 1 = (ii) use of supplies that do not contain,. 22, 1 = emit, or produce toxic substances, such as. 23, 1 = products that do not contain intentionally added. 24, 1 = PFAS chemicals as that term is defined in. 25, 1 = subsection (b) of Section 52.15 of the. 26, 1 = Environmental Protection Act;
+- (iii) employment of methods that minimize the production of waste; and (iv) employment of methods that conserve energy and water resources or use energy and water resources more efficiently than substantially similar methods. 1 2 3 4 5 6
+- (b) Award of contracts for environmentally preferable supplies or services. Notwithstanding any rule, regulation, statute, order, or policy of any kind, with the exceptions of Sections 45-20 and 45-25 of this Code, State agencies shall contract for supplies and services that are environmentally preferable. 7 8 9 10 11 12
+- If, however, contracting for an environmentally preferable supply or service would impose an undue economic or practical hardship on the contracting State agency, or if an environmentally preferable supply or service cannot be used to meet the requirements of the State agency, then the State agency need not contract for an environmentally preferable supply or service. Specifications for contracts, at the discretion of the contracting State agency, may include a price preference of up to 10% for environmentally preferable 13 14 15 16 17 18 19 20 21
+- supplies or services. 22
+- (Source: P.A. 96-197, eff. 1-1-10.) 23
+- Section 10. The Environmental Protection Act is amended by 24
+- adding Section 52.15 as follows: 251, 1 = (415 ILCS 5/52.15 new). 2, 1 = Sec. 52.15. Intentionally added PFAS chemicals; PFAS. 3, 1 = manufacturers.. 4, 1 = (a) The General Assembly finds:. 5, 1 = (1) Contamination of the soil and water in the State. 6, 1 = by PFAS chemicals poses a significant threat to the. 7, 1 = State's environment and its residents.. 8, 1 = (2) A growing body of scientific research has found. 9, 1 = that exposure to PFAS chemicals may lead to serious and. 10, 1 = harmful health effects.. 11, 1 = (3) The full extent of the contamination of the soil. 12, 1 = and water in the State by PFAS is not currently known and. 13, 1 = additional expenditures will be required to identify and. 14, 1 = remediate existing PFAS contamination.. 15, 1 = (4) PFAS chemicals continue to be used in products. 16, 1 = across a variety of industries and for many different. 17, 1 = purposes.. 18, 1 = (5) PFAS chemicals are not necessary in many products. 19, 1 = and could be replaced with less harmful chemicals and. 20, 1 = technologies.. 21, 1 = (6) If the widespread sale and distribution of. 22, 1 = products that contain intentionally added PFAS chemicals. 23, 1 = continues in the State:. 24, 1 = (A) there is a larger risk of PFAS chemicals. 25, 1 = migrating into the natural environment;
+1, 1 = (B) residents of the State will likely suffer. 2, 1 = adverse health effects from exposure to PFAS chemicals;. 3, 1 = and. 4, 1 = (C) the State and units of local government will. 5, 1 = be burdened with the testing, monitoring, and cleanup. 6, 1 = costs necessary to protect residents from exposure to PFAS. 7, 1 = chemicals.. 8, 1 = (7) The General Assembly, therefore, declares that it. 9, 1 = is imperative for the health and safety of the State's. 10, 1 = residents to phase out, through regulation, the sale and. 11, 1 = distribution of certain product categories in the State. 12, 1 = that contain intentionally added PFAS chemicals.. 13, 1 = (b) In this Section:. 14, 1 = "Adult mattress" means a mattress product that is not a. 15, 1 = crib mattress or toddler mattress.. 16, 1 = "Apparel" means a clothing item intended for regular wear. 17, 1 = or formal occasions, such as an undergarment, shirt, pants,. 18, 1 = skirt, dress, overall, bodysuit, costume, vest, dancewear,. 19, 1 = suit, sari, scarf, top, legging, school uniform, leisurewear,. 20, 1 = athletic wear, sport uniform, everyday swimwear, formal wear,. 21, 1 = onesie, bib, diaper, footwear, and everyday workwear uniform.. 22, 1 = "Apparel" does not include professional uniforms or outerwear. 23, 1 = intended for extreme conditions.. 24, 1 = "Carpet or rug" means a fabric product marketed or. 25, 1 = intended for use as a floor covering in a household or. 26, 1 = business.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+"Consumer" means the end user of a product.
+"Cookware" means a durable houseware product that is used in residences or kitchens to prepare, dispense, or store food or beverages. "Cookware" includes pots, pans, skillets, grills, baking sheets, baking molds, trays, bowls, and cooking utensils.
+"Cosmetic" means a product intended to be rubbed or introduced into, poured, sprinkled, or sprayed on, or otherwise applied to the human body for cleaning, cleansing, beautifying, promoting attractiveness, or altering the appearance of the human body. "Cosmetic" includes a skin moisturizer, perfume, lipstick, nail polish, eye or facial makeup, shampoo, conditioner, permanent wave, hair dye, and deodorant. "Cosmetic" does not include a product that requires a prescription for distribution or dispensation.
+"Drilling fluid" means a fluid that is circulated into the borehole of a well to lubricate and cool a drill bit."Fabric treatment" means a product applied to fabric to give the fabric one or more characteristics, such as stain resistance and water resistance.
+"Food packaging" means a package or packaging component used in direct contact with food and composed in substantial part of paper, paperboard, or any other material originally derived from plant fibers.
+"Hydraulic fracturing fluid" means a fluid, such as a base fluid or a fluid additive, injected into an oil or gas well to 25 26
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+perform a hydraulic fracturing operation.
+"Intentionally added PFAS chemical" means a PFAS chemical that a PFAS manufacturer has intentionally added to a product and that has a functional or technical effect on the product. "Intentionally added PFAS chemical" includes a chemical that is produced through the decomposition of a PFAS chemical that a PFAS manufacturer has intentionally added to a product.
+"Juvenile product" means a product designed for use by infants or children under 12 years of age. "Juvenile product" includes all of the following:
+(1) Bassinets and other bedside sleepers.
+(2) Booster seats, car seats, and other child restraint systems.
+(3) Changing pads.
+(4) Co-sleepers.
+(5) Crib mattresses or toddler mattresses.
+(6) Play mats, such as floor play mats.
+(7) Highchairs and highchair pads.
+(8) Infant bouncers.
+(9) Infant carriers.
+(10) Infant or toddler foam pillows.
+(11) Infant seats.
+(12) Infant sleep positioners.
+(13) Infant swings.
+(14) Infant travel beds.
+(15) Nap cots.
+1, 1 = (16) Nursing pads and pillows.. 2, 1 = (17) Playpens.. 3, 1 = (18) Play yards.. 4, 1 = (19) Polyurethane foam mats, pads, or pillows.. 5, 1 = (20) Portable foam nap mats.. 6, 1 = (21) Portable infant sleepers and hook-on chairs.. 7, 1 = (22) Soft-sided portable cribs.. 8, 1 = (23) Strollers.. 9, 1 = "Juvenile product" does not include any of the following:. 10, 1 = (1) Electronic products, such as any of the following:. 11, 1 = (A) Personal computers and associated equipment.. 12, 1 = (B) Audio and video equipment.. 13, 1 = (C) Calculators.. 14, 1 = (D) Wireless phones.. 15, 1 = (E) Gaming consoles.. 16, 1 = (F) Handheld devices that incorporate a video. 17, 1 = screen.. 18, 1 = (G) Any peripheral device associated with an. 19, 1 = electronic product such as a mouse, keyboard, power. 20, 1 = supply unit, or power cord.. 21, 1 = (2) An internal component of what would otherwise. 22, 1 = constitute a juvenile product but that would not come into. 23, 1 = direct contact with a child's skin or mouth during the. 24, 1 = reasonably foreseeable use or abuse of the juvenile. 25, 1 = product by a child.. 26, 1 = (3) Adult mattresses.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+"Oil and gas product" means a hydraulic fracturing fluid, drilling fluid, or proppant.
+"Package" means a material intended or used to contain, protect, handle, deliver, or present a product.
+"Packaging component" means an individual part of a package, such as interior or exterior blocking, bracing, cushioning, weatherproofing, exterior strapping, coatings, closures, inks, and labels.
+"PFAS chemical" means any of the perfluoroalkyl substances or polyfluoroalkyl substances included in the United States Environmental Protection Agency's expanded ToxCast chemical inventory.
+"PFAS manufacturer" means a person or entity who manufacturers or assembles a product containing PFAS chemicals or whose brand name is affixed to a product containing PFAS chemicals. If the product is imported into the United States and the person or entity who manufacturers or assembles the product or whose brand name is affixed to the product does not have a presence in the United States, the importer or first domestic distributor of the product is a "PFAS manufacturer".
+"Product" means an item that is manufactured, assembled, or otherwise prepared for sale or distribution to consumers and that is sold or distributed for personal, residential, commercial, or industrial use, such as for use in making another item. "Product" includes any component of such an item. "Product" does not include any of the following: 21 22 23 24 25 261, 1 = (1) A drug, medical device, biologic, or diagnostic. 2, 1 = approved or authorized by the United States Food and Drug. 3, 1 = Administration or the United States Department of. 4, 1 = Agriculture.. 5, 1 = (2) Veterinary pesticide products approved by the. 6, 1 = United States Environmental Protection Agency for use in. 7, 1 = animals.. 8, 1 = (3) A material used in the packaging of the materials. 9, 1 = described in paragraphs (1) and (2).. 10, 1 = (4) A product sold or resold before the effective date. 11, 1 = of this amendatory Act of the 103rd General Assembly.. 12, 1 = "Product category" means a class or division of products. 13, 1 = that share related characteristics.. 14, 1 = "Product component" means an identifiable component of a. 15, 1 = product, regardless of whether the product's PFAS manufacturer. 16, 1 = is the component's PFAS manufacturer.. 17, 1 = "Proppant" means a material inserted or injected into an. 18, 1 = underground geologic formation during an oil and gas operation. 19, 1 = to prevent a geologic fracture from closing.. 20, 1 = "Textile" includes leather, cotton, silk, jute, hemp,. 21, 1 = wool, nylon, and polyester.. 22, 1 = "Textile furnishing" means a textile of a type customarily. 23, 1 = used in households and businesses but that are not used in. 24, 1 = medical, professional, or industrial settings. "Textile. 25, 1 = furnishing" includes any drapery, floor covering, furnishing,. 26, 1 = bedding, towel, or tablecloth.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+"Upholstered furniture" means an article of furniture designed for sitting, resting, or reclining and wholly or partially stuffed with a filling material.
+(c) On and after January 1, 2025, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in any of the following product categories if the product contains an intentionally added PFAS chemical:
+(1) Carpets or rugs.
+(2) Fabric treatments.
+(3) Food packaging.
+(4) Juvenile products.
+(5) Oil and gas products.
+(6) Apparel.
+(d) On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical:
+(1) Cosmetics.
+(2) Indoor textile furnishings.
+21
+(3) Indoor upholstered furniture.
+(e) On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: (1) Outdoor textile furnishings. 22 23 24 25 26
+1, 1 = (2) Outdoor upholstered furniture.. 2, 1 = (f) On and after January 1, 2025, a PFAS manufacturer of. 3, 1 = cookware sold in this State that contains an intentionally. 4, 1 = added PFAS chemical in the handle of the cookware or in any. 5, 1 = surface of the cookware that comes into contact with food,. 6, 1 = foodstuffs, or beverages shall list the presence of PFAS. 7, 1 = chemicals on the cookware's product label. The PFAS. 8, 1 = manufacturer shall ensure that the product label is at least 2. 9, 1 = square inches in size and includes a statement on the product. 10, 1 = label in both English and Spanish that reads: "For more. 11, 1 = information about PFAS chemicals in this product, visit". 12, 1 = followed by both of the following:. 13, 1 = (1) The address of a website of the PFAS manufacturer. 14, 1 = that provides information explaining the purpose of the. 15, 1 = intentionally added PFAS chemical.. 16, 1 = (2) A quick response (QR) code, or other. 17, 1 = machine-readable code, consisting of an array of squares. 18, 1 = and that stores information directing consumers to the. 19, 1 = website required under paragraph (1).. 20, 1 = (g) A PFAS manufacturer of cookware sold in this State. 21, 1 = shall ensure that the product label statement required under. 22, 1 = subsection (f) is legible and visible to consumers, such as on. 23, 1 = the PFAS manufacturer's online listing of the cookware.. 24, 1 = (h) Cookware is exempt from this Section if it meets all of. 25, 1 = the following requirements:. 26, 1 = (1) The surface area of the cookware is not large
+1, 1 = enough for a product label that meets the requirements of. 2, 1 = subsection (f) to be affixed to the item.. 3, 1 = (2) The cookware does not have any of the following:. 4, 1 = (A) An exterior container or wrapper upon which a. 5, 1 = product label can appear or be affixed.. 6, 1 = (B) A tag or label to which information about the. 7, 1 = cookware may be attached.. 8, 1 = (i) On and after January 1, 2025, a PFAS manufacturer. 9, 1 = shall not make a claim on a package for cookware that the. 10, 1 = cookware is free of any intentionally added PFAS chemical. 11, 1 = unless the cookware contains no intentionally added PFAS. 12, 1 = chemical.. 13, 1 = (j) Cookware that contains an intentionally added PFAS. 14, 1 = chemical in the handle of the product or in any surface of the. 15, 1 = cookware that comes into contact with food, foodstuffs, or. 16, 1 = beverages shall not be sold, offered for sale, or distributed. 17, 1 = in this State unless the cookware and its PFAS manufacturer. 18, 1 = are in compliance with subsections (f) through (i).. 19, 1 = (k) A PFAS manufacturer that sells or distributes a. 20, 1 = product that contains intentionally added PFAS chemicals for. 21, 1 = use in the State shall submit a written notification to the. 22, 1 = Agency that includes:. 23, 1 = (1) the trade name of the product;. 24, 1 = (2) a description of the purpose that PFAS chemicals. 25, 1 = serve in the product;. 26, 1 = (3) the name and physical address of the PFAS
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+manufacturer;
+(4) the name, physical address, and phone number of a contact person for the PFAS manufacturer; and
+(5) any additional information required by the Agency by rule.
+A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or before December 31, 2024 shall submit the written notification required under this subsection no later than 30 days before January 1, 2025.
+A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or after January 1, 2025 shall submit the written notification required under this subsection at least 30 days after the PFAS manufacturer sells or distributes the product.
+No later than 30 days after the Agency receives a written notification from a PFAS manufacturer under this subsection, the Agency shall publish the trade name of the product and the name of the PFAS manufacturer of the product on the Agency's website.
+If there is a subsequent change in information after being provided in a notification under this subsection, the PFAS manufacturer shall notify the Agency of the change not less than 30 days after the date that the PFAS manufacturer becomes aware of it.
+When submitting
+notification required
+under this
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+subsection, a PFAS manufacturer shall pay a fee in an amount established or adjusted by the Agency by rule to be used by the Agency for costs incurred in the administration or implementation of this Section. The Agency may base the fee on the amount of PFAS chemicals used in a product or product category or the amount of sales of the product or product category in the State.
+(l) The Agency may:
+(1) enter into an agreement with one or more states or political subdivisions of a state to collect notification required under subsection (k); and
+(2) allow PFAS manufacturers to submit notification required under subsection (k) to a system shared with one or more states or political subdivisions of a state.
+(m) The Director of the Agency may waive all or part of the notification requirements in subsection (k) if the Director determines that substantially equivalent information is publicly available.
+The Director may extend the deadline for a notification requirement under subsection (k) if the Director determines that a PFAS manufacturer needs more time to comply with the notification requirement.
+23 24
+(n) Moneys from fees collected under this Section shall be deposited into the Environmental Protection Trust Fund.
+(o) The Agency shall propose, and the Board shall adopt, rules necessary to implement this Section. 25 26
+- (p) A PFAS manufacturer or person who violates this Section is subject to a civil penalty not to exceed $5,000 for a first violation and a civil penalty not to exceed $10,000 for a second or subsequent violation. Penalties collected under this Section must be deposited into the Environmental Protection Trust Fund to be used in accordance with the provisions of this Act. 1 2 3 4 5 6 7
+- (q) The Attorney General has the authority to enforce this Section, conduct civil investigations, and bring a civil action for any violation of this Section. 8 9 10

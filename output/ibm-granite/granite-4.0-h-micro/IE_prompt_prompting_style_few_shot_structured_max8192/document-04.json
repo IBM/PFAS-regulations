@@ -1,0 +1,59 @@
+{
+  "title": {
+    "value": "An Act To Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution",
+    "provenance": "HOUSE BILL NO. 389"
+  },
+  "location": {
+    "value": "Louisiana",
+    "provenance": "2021 Regular Session"
+  },
+  "reference": {
+    "value": "HB 389",
+    "provenance": "HOUSE BILL NO. 389"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An Act"
+  },
+  "date": {
+    "value": "2022-01-01",
+    "provenance": "Effective upon signature by the governor or, if not signed by the governor, upon expiration of the time for bills to become law without signature"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "PFAS chemicals means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, including perfluoroalkyl and polyfluoroalkyl substances"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals"
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "On and after January 1, 2022"
+      },
+      "who": [
+        "Person"
+      ],
+      "action": [
+        "Discharge"
+      ],
+      "products": [
+        "Class B fire fighting foam"
+      ],
+      "exceptions": [
+        "emergency fire fighting operation",
+        "training or testing purposes at a facility with containment, treatment, and disposal measures"
+      ],
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "PFAS chemicals means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals"
+      }
+    }
+  ]
+}

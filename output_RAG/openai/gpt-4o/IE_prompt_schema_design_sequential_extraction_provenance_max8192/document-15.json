@@ -1,0 +1,115 @@
+{
+  "title": {
+    "value": "Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law",
+    "provenance": "Provides that the amendatory Act may be referred to as the Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law."
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "reference": {
+    "value": "Amends the Illinois Procurement Code and the Environmental Protection Act",
+    "provenance": "Amends the Illinois Procurement Code. In provisions regarding environmentally preferable procurement, includes products that do not contain intentionally added PFAS chemicals in the definitions of 'environmentally preferable supplies' and 'environmentally preferable services'. Amends the Environmental Protection Act."
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "SYNOPSIS AS INTRODUCED:"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "\"PFAS chemical\" means any of the perfluoroalkyl substances or polyfluoroalkyl substances included in the United States Environmental Protection Agency's expanded ToxCast chemical inventory."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "products": {
+        "value": [
+          "Cookware"
+        ],
+        "provenance": "Provides that on and after January 1, 2025, a PFAS manufacturer of cookware sold in the State that contains intentionally added PFAS chemicals in the handle of the product or in any product surface that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the product label and comply with other specified requirements."
+      },
+      "exceptions": {
+        "value": [
+          "Specified cookware"
+        ],
+        "provenance": "Contains exemptions from the requirements for specified cookware."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "PFAS chemicals are not necessary in many products."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Provides that on and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after January 1, 2025, prohibits manufacturers from making a claim on cookware packaging that the cookware is free of any PFAS chemical, unless no individual PFAS chemical is intentionally added."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "On and after January 1, 2025, prohibits manufacturers from making a claim on cookware packaging that the cookware is free of any PFAS chemical, unless no individual PFAS chemical is intentionally added."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "On and after January 1, 2025, prohibits manufacturers from making a claim on cookware packaging that the cookware is free of any PFAS chemical, unless no individual PFAS chemical is intentionally added."
+      },
+      "action": {
+        "value": [
+          "Make"
+        ],
+        "provenance": "On and after January 1, 2025, prohibits manufacturers from making a claim on cookware packaging that the cookware is free of any PFAS chemical, unless no individual PFAS chemical is intentionally added."
+      },
+      "products": {
+        "value": [
+          "Cookware"
+        ],
+        "provenance": "On and after January 1, 2025, prohibits manufacturers from making a claim on cookware packaging that the cookware is free of any PFAS chemical, unless no individual PFAS chemical is intentionally added."
+      },
+      "exceptions": {
+        "value": [
+          "Cookware that complies with subsections (f) through (i)"
+        ],
+        "provenance": "Cookware that contains an intentionally added PFAS chemical in the handle of the product or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall not be sold, offered for sale, or distributed in this State unless the cookware and its PFAS manufacturer are in compliance with subsections (f) through (i)."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "PFAS chemicals are not necessary in many products."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "On and after January 1, 2025, prohibits manufacturers from making a claim on cookware packaging that the cookware is free of any PFAS chemical, unless no individual PFAS chemical is intentionally added."
+      }
+    }
+  ]
+}

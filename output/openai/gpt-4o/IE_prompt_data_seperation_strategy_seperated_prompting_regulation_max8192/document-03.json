@@ -1,0 +1,48 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "date": {
+        "value": "2026-12-31",
+        "provenance": "After December thirty-first, two thousand twenty-six"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person this state anti-fogging sprays or wipes polyfluoroalkyl substances"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "shall sell or offer for sale in containing perfluoroalkyl and"
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays",
+          "wipes"
+        ],
+        "provenance": "anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "tionally added chemicals or that contain perfluoroalkyl and"
+      }
+    }
+  ]
+}

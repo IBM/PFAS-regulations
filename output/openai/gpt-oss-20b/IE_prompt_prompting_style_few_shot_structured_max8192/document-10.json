@@ -1,0 +1,69 @@
+{
+  "title": {
+    "value": "Toxic Packaging Reduction Act",
+    "provenance": "\"Toxic Packaging Reduction Act\""
+  },
+  "location": {
+    "value": "Rhode Island",
+    "provenance": "\"State of Rhode Island\""
+  },
+  "reference": {
+    "value": "2022 -- H 7438 SUBSTITUTE A",
+    "provenance": "\"2022 -- H 7438 SUBSTITUTE A\""
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "\"A N   A C T\""
+  },
+  "date": {
+    "value": "2024-01-01",
+    "provenance": "\"effective January 1, 2024\""
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances or PFAS means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.\""
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "\"no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state.\""
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "\"effective January 1, 2024\""
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "\"by its manufacturer or distributor in the state\""
+      },
+      "action": {
+        "value": [
+          "offer for sale"
+        ],
+        "provenance": "\"shall be offered for sale or for promotional purposes\""
+      },
+      "products": {
+        "value": [
+          "food package"
+        ],
+        "provenance": "\"any food package\""
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "\"Intentional introduction of PFAS means deliberately utilizing PFAS in the formulation of a package or packaging component where its continued presence is desired in the final package or packaging component to provide a specific characteristic, appearance, or quality.\""
+      }
+    }
+  ]
+}

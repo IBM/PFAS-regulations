@@ -1,0 +1,73 @@
+{
+    "title": {
+        "value": "Provides relative to the discharge or use of Class B fire fighting foam containing fluorinated organic chemicals",
+        "provenance": "FIRE PROTECT/FIRE MARSHAL: Provides relative to the discharge or use of Class B fire fighting foam containing fluorinated organic chemicals"
+    },
+    "location": {
+        "value": "Louisiana",
+        "provenance": "Prefiled pursuant to Article III, Section 2(A)(4)(b)(i) of the Constitution of Louisiana."
+    },
+    "reference": {
+        "value": "HOUSE BILL NO. 389",
+        "provenance": "HOUSE BILL NO. 389"
+    },
+    "status": {
+        "value": "Bill",
+        "provenance": "HOUSE BILL NO. 389"
+    },
+    "date": {
+        "value": "2022-01-01",
+        "provenance": "2021 Regular Session"
+    },
+    "pfas_definition": {
+        "value": "single_fluorinated_carbon",
+        "provenance": "(3) “PFAS chemicals” means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, including perfluoroalkyl and polyfluoroalkyl substances, and designed to be fully functional in Class B fire fighting foam formulations."
+    },
+    "regulations": [
+        {
+            "type": {
+                "value": "Ban/Restrict",
+                "provenance": "B. On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals unless discharged under either of the following conditions:"
+            },
+            "date": {
+                "value": "2022-01-01",
+                "provenance": "B. On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals unless discharged under either of the following conditions:"
+            },
+            "who": {
+                "value": [
+                    "person"
+                ],
+                "provenance": "B. On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals unless discharged under either of the following conditions:"
+            },
+            "action": {
+                "value": [
+                    "discharge",
+                    "use"
+                ],
+                "provenance": "B. On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals unless discharged under either of the following conditions:"
+            },
+            "products": {
+                "value": [
+                    "Class B fire fighting foam"
+                ],
+                "provenance": "B. On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals unless discharged under either of the following conditions:"
+            },
+            "exceptions": {
+                "value": [
+                    "fire prevention",
+                    "response to an emergency fire fighting operation",
+                    "training or testing purposes"
+                ],
+                "provenance": "B. On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals unless discharged under either of the following conditions: (1) Such discharge or other use occurs in fire prevention or in response to an emergency fire fighting operation. (2) Such discharge or other use is for training or testing purposes which occurs at a facility that has implemented containment, treatment, and disposal measures to prevent uncontrolled releases of such Class B fire fighting foam into the environment."
+            },
+            "currently_unavoidable": {
+                "value": false,
+                "provenance": null
+            },
+            "intentionally_added": {
+                "value": true,
+                "provenance": "B. On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals unless discharged under either of the following conditions:"
+            }
+        }
+    ]
+}

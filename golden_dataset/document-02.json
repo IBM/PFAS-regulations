@@ -1,0 +1,73 @@
+{
+    "title": {
+        "value": "The Environmental Protection Act",
+        "provenance": "Section 5. The Environmental Protection Act is amended by adding Section 22.62 as follows:"
+    },
+    "location": {
+        "value": "Illinois",
+        "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+    },
+    "reference": {
+        "value": "HB4818",
+        "provenance": "HB4818 Enrolled"
+    },
+    "status": {
+        "value": "Law/Statute",
+        "provenance": "AN ACT concerning safety."
+    },
+    "date": {
+        "value": null,
+        "provenance": null
+    },
+    "pfas_definition": {
+        "value": "usepa_2023_list-based",
+        "provenance": "“Toxic Release Inventory Perfluoroalkyl and Polyfluoroalkyl Substances” or “TRI-PFAS” means the chemicals on the list of perfluoroalkyl and polyfluoroalkyl substances set forth in the USEPA's Toxic Release Inventory rules, developed under Section 313 of the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants."
+    },
+    "regulations": [
+        {
+            "type": {
+                "value": "Ban/Restrict",
+                "provenance": "(b) No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS. The Agency may propose, and the Board may adopt, any rules it deems necessary to carry out the provisions of this Section."
+            },
+            "date": {
+                "value": null,
+                "provenance": null
+            },
+            "who": {
+                "value": [
+                    "person"
+                ],
+                "provenance": "(b) No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS. The Agency may propose, and the Board may adopt, any rules it deems necessary to carry out the provisions of this Section."
+            },
+            "action": {
+                "value": [
+                    "dispose of by incineration"
+                ],
+                "provenance": "(b) No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS. The Agency may propose, and the Board may adopt, any rules it deems necessary to carry out the provisions of this Section."
+            },
+            "products": {
+                "value": [
+                    "aqueous film-forming foam"
+                ],
+                "provenance": "(b) No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS. The Agency may propose, and the Board may adopt, any rules it deems necessary to carry out the provisions of this Section."
+            },
+            "exceptions": {
+                "value": [
+                    "landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill",
+                    "landfill gas in a landfill gas recovery facility that is located at a sanitary landfill",
+                    "waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable",
+                    "sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility"
+                ],
+                "provenance": "(c) Nothing in this Section applies to the incineration of (i) landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill, (ii) landfill gas in a landfill gas recovery facility that is located at a sanitary landfill, (iii) waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable, or (iv) sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility."
+            },
+            "currently_unavoidable": {
+                "value": false,
+                "provenance": null
+            },
+            "intentionally_added": {
+                "value": false,
+                "provenance": null
+            }
+        }
+    ]
+}

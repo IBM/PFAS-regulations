@@ -1,0 +1,124 @@
+{
+  "title": {
+    "value": "AN ACT relating to toxic chemicals"
+  },
+  "location": {
+    "value": "Nevada"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 97 (A.B. 97)"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2021-02-08"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "State agency",
+          "Local government"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Testing the foam with ensured containment, treatment and disposal measures",
+          "Firefighting training"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "State agency",
+          "Local government"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "State agency",
+          "Local government"
+        ]
+      },
+      "action": {
+        "value": []
+      },
+      "products": {
+        "value": []
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

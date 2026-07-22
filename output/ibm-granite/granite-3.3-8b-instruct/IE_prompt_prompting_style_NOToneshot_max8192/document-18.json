@@ -1,0 +1,113 @@
+{
+  "title": {
+    "value": "Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act",
+    "provenance": "SEC. 1. This act shall be known, and may be cited, as the Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "California Law"
+  },
+  "reference": {
+    "value": "AB 2515",
+    "provenance": "Assembly Bill N o. 2515"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "approved by Governor  September 30, 2024. Filed with Secretary of State September 30, 2024."
+  },
+  "date": {
+    "value": "2024-09-30",
+    "provenance": "Date Published: 09/30/2024 09:00 PM"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Commencing January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "products": {
+        "value": [
+          "menstrual products"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Commencing January 1, 2025, PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "commencing January 1, 2027, the presence of PFAS in a product or product component at or above a limit determined by the department, as measured in total organic fluorine."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Commencing January 1, 2027"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department"
+      },
+      "action": {
+        "value": [
+          "Manufacture"
+        ],
+        "provenance": "On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department and provide to the department all of the following"
+      },
+      "products": {
+        "value": [
+          "menstrual products"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    }
+  ]
+}

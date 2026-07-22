@@ -1,0 +1,24 @@
+
+2023 SESSION
+23-0506
+08/05
+HOUSE BILL 465-FN
+AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.
+SPONSORS: Rep. Ebel, Merr. 7; Rep. Rung, Hills. 12; Rep. N. Murphy, Hills. 12; Rep. Grote, Rock. 24; Rep. Malloy, Rock. 24; Rep. Mooney, Hills. 12; Rep. Dunn, Rock. 16; Rep. B. Boyd, Hills. 12; Rep. Merner, Coos 1; Sen. Watters, Dist 4; Sen. Chandley, Dist 11; Sen. Ricciardi, Dist 9; Sen. Perkins Kwoka, Dist 21; Sen. Prentiss, Dist 5
+COMMITTEE: Commerce and Consumer Affairs
+-----------------------------------------------------------------
+STATE OF NEW HAMPSHIRE
+(c)  'Intentionally added' means the addition of a chemical in a product that serves an intended function in the product component.
+(d)  'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.
+(e)  'Rug or carpet' means a thick fabric used to cover floors.
+II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount.
+(b)  This paragraph shall not apply to the sale or resale of used products.
+III.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state aftermarket stain and water resistant treatments for rugs or carpets to which PFAS have been intentionally added in any amount.
+(b)  This paragraph shall not apply to the sale or resale of used products.
+AS INTRODUCED
+AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products.
+FISCAL IMPACT:
+[ X ] State
+[ X ] County
+[ X ] Local
+[ ] None

@@ -1,0 +1,50 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A BILL ENTITLED AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions FOR the purpose of prohibiting, on or after a certain date, a person from using, supplying, selling, soliciting, or offering for sale playground surfacing materials that contain certain concentrations of certain chemicals for the construction or renovation of the ground surface of a playground in the State"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN... (B) A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN"
+      },
+      "products": {
+        "value": [
+          "Playground surfacing materials"
+        ],
+        "provenance": "PLAYGROUND SURFACING MATERIALS MEANS PRODUCTS, MATERIALS, OR SUBSTANCES USED OR INSTALLED ON THE GROUND SURFACE OF A PLAYGROUND IN THE STATE"
+      },
+      "exceptions": {
+        "value": [
+          "More stringent requirements by local governments"
+        ],
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE"
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "MORE THAN 90 PARTS PER MILLION OF LEAD; FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "MORE THAN 90 PARTS PER MILLION OF LEAD; FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; AND MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "SUBSTITUTE HOUSE BILL 1047",
+    "provenance": "SUBSTITUTE HOUSE BILL 1047"
+  },
+  "location": {
+    "value": "State of Washington",
+    "provenance": "Governor of the State of Washington"
+  },
+  "reference": {
+    "value": "RCW 70A.350.010",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" has the same 7 meaning as defined in RCW 70A.350.010."
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Passed Legislature - 2023 Regular Session"
+  },
+  "date": {
+    "value": "2023",
+    "provenance": "Passed Legislature - 2023 Regular Session"
+  },
+  "pfas_definition": {
+    "value": "not specified",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" has the same 7 meaning as defined in RCW 70A.350.010."
+  }
+}

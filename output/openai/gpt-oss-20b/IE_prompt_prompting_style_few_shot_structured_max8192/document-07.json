@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health.",
+    "provenance": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 2771",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "Approved by Governor September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 108981.5. Beginning January 1, 2025, no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Beginning January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person or entity"
+      },
+      "action": {
+        "value": [
+          "manufacture",
+          "sell",
+          "deliver",
+          "hold",
+          "offer for sale"
+        ],
+        "provenance": "manufacture, sell, deliver, hold, or offer for sale"
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ],
+        "provenance": "any cosmetic product"
+      },
+      "exceptions": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)"
+      }
+    }
+  ]
+}

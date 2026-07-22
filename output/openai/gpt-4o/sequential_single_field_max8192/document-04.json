@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT To enact R.S. 40:1615, relative to fire fighting foam; to provide for the discharge of Class B fire fighting foam containing fluorinated organic chemicals; to provide for exceptions; to provide for definitions; to provide for applicability; to provide for an effective date; and to provide for related matters.",
+    "provenance": "AN ACT To enact R.S. 40:1615, relative to fire fighting foam; to provide for the discharge of Class B fire fighting foam containing fluorinated organic chemicals; to provide for exceptions; to provide for definitions; to provide for applicability; to provide for an effective date; and to provide for related matters."
+  },
+  "location": {
+    "value": "Louisiana",
+    "provenance": "Be it enacted by the Legislature of Louisiana:"
+  },
+  "reference": {
+    "value": "R.S. 40:1615",
+    "provenance": "Section 1. R.S. 40:1615 is hereby enacted to read as follows:"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "HOUSE BILL NO. 389"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "Section 2. This Act shall become effective upon signature by the governor or, if not signed by the governor, upon expiration of the time for bills to become law without signature by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If vetoed by the governor and subsequently approved by the legislature, this Act shall become effective on the day following such approval."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"PFAS chemicals\" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, including perfluoroalkyl and polyfluoroalkyl substances, and designed to be fully functional in Class B fire fighting foam formulations."
+  }
+}

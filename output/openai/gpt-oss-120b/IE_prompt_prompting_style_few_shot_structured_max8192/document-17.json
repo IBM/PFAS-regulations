@@ -1,0 +1,160 @@
+{
+  "title": {
+    "value": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto.",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "location": {
+    "value": "Nevada",
+    "provenance": "THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:"
+  },
+  "reference": {
+    "value": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS"
+  },
+  "date": {
+    "value": "2021-02-08",
+    "provenance": "FEBRUARY 8, 2021"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 12. 1.    Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government  or  state  or  local  agency  shall  not  discharge,  use  or  release,  or  allow  its  employees  or  independent  contractors  to discharge,  use  or  release,  any  Class  B  firefighting  foam  that contains  intentionally  added  perfluoroalkyl  and  polyfluoroalkyl substances..."
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "On January 1, 2022, for all other purposes."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Local government",
+          "State agency"
+        ],
+        "provenance": "a person, political subdivision, local government or state or local agency"
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "shall not discharge, use or release"
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ],
+        "provenance": "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "exceptions": {
+        "value": [
+          "testing with containment measures",
+          "firefighting training",
+          "preempted by federal law"
+        ],
+        "provenance": "Section 12 (a) Testing the Class B firefighting foam ...; (b) Firefighting training.  Section 10 ... preempted by or conflict with federal law"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "Section 13. ... must report the discharge, use or release to the Division not later than 24 hours after the discharge, use or release."
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "On January 1, 2022, for all other purposes."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Local government",
+          "State agency"
+        ],
+        "provenance": "any person, political subdivision, local government or state or local agency who discharges, uses or releases"
+      },
+      "action": {
+        "value": [
+          "Report"
+        ],
+        "provenance": "must report the discharge, use or release"
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ],
+        "provenance": "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "exceptions": {
+        "value": [
+          "testing with containment measures",
+          "firefighting training",
+          "preempted by federal law"
+        ],
+        "provenance": "Section 12 (a) Testing ...; (b) Firefighting training.  Section 10 ... preempted by or conflict with federal law"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "Section 14.5. 1.    The Division shall establish a working group to study issues relating to environmental contamination resulting from perfluoroalkyl and polyfluoroalkyl substances..."
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "On January 1, 2022, for all other purposes."
+      },
+      "who": {
+        "value": [
+          "State agency"
+        ],
+        "provenance": "The Division shall establish a working group"
+      },
+      "action": {
+        "value": [],
+        "provenance": "The Division shall establish a working group to study issues..."
+      },
+      "products": {
+        "value": [
+          "environmental contamination resulting from perfluoroalkyl and polyfluoroalkyl substances"
+        ],
+        "provenance": "to study issues relating to environmental contamination resulting from perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

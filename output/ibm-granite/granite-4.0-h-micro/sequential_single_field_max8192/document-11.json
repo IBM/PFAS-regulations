@@ -1,0 +1,25 @@
+{
+  "title": "Food Packaging; Firefighting Foam; Perfluoroalkyl and Polyfluoroalkyl Substances; Ban; Fines; Department of Health",
+  "value": "Food Packaging; Firefighting Foam; Perfluoroalkyl and Polyfluoroalkyl Substances; Ban; Fines; Department of Health",
+  "provenance": "Report Title: Food Packaging; Firefighting Foam; Perfluoroalkyl and Polyfluoroalkyl Substances; Ban; Fines; Department of Health",
+  "location": {
+    "value": "State of Hawaii",
+    "provenance": "HOUSE OF REPRESENTATIVES THIRTY-FIRST LEGISLATURE, 2022 STATE OF HAWAII"
+  },
+  "reference": {
+    "value": "H.B. NO. H.D. 1",
+    "provenance": "HOUSE OF REPRESENTATIVES THIRTY-FIRST LEGISLATURE, 2022 STATE OF HAWAII\nH.B. NO. H.D. 1"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:"
+  },
+  "date": {
+    "value": "July 1, 2022",
+    "provenance": "HB1644 CD1\nhttps://www.capitol.hawaii.gov/sessions/session2022/bills/HB1644_CD..."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "The legislature further finds that perfluoroalkyl and polyfluoroalkyl substances (PFASs) defined as: Any substance that contains at least one fully fluorinated methyl (CF3-) or methylene (-CF2-) carbon atom (without any H/Cl/Br/I attached to it)."
+  }
+}

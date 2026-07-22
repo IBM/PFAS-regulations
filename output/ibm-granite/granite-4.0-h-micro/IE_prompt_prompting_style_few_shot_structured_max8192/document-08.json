@@ -1,0 +1,61 @@
+{
+  "title": {
+    "value": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "location": {
+    "value": "State of New Jersey",
+    "provenance": "State of New Jersey"
+  },
+  "reference": {
+    "value": "A4125 HAIDER, SWAIN",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes. - 1. a. Beginning two years after the effective date of this act, no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "date": {
+    "value": "2022-06-02",
+    "provenance": "INTRODUCED JUNE 2, 2022"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances or 'PFAS' means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Beginning two years after the effective date of this act, no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+      },
+      "date": {
+        "value": "2022-06-02",
+        "provenance": "INTRODUCED JUNE 2, 2022"
+      },
+      "who": [
+        "Person"
+      ],
+      "action": [
+        "Use",
+        "Sell",
+        "Manufacture",
+        "Distribute"
+      ],
+      "products": [
+        "class B firefighting foam"
+      ],
+      "exceptions": [
+        "sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law or regulation, including, but not limited to, 14 C.F.R. s.139.317"
+      ],
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "PFAS are man-made chemical compounds that have multiple fluorine atoms bonded to a chain of carbon atoms. There are over 4,700 different types of PFAS, and new types are invented on a nearly daily basis. The carbon-fluorine bond that forms PFAS is one of the strongest chemical bonds found in nature and does not break down under typical environmental conditions."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added PFAS means PFAS added to a product or one of the product's components to provide a specific characteristic, appearance, or quality or to perform a specific function. 'Intentionally added PFAS' also includes any degradation byproducts of PFAS."
+      }
+    }
+  ]
+}

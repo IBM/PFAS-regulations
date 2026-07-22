@@ -1,0 +1,76 @@
+{
+  "title": {
+    "value": "Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "Annotated Code of Maryland"
+  },
+  "reference": {
+    "value": "HOUSE BILL 1147",
+    "provenance": "HOUSE BILL 1147"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL ENTITLED"
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2024."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ],
+        "provenance": "(A) ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS...(B) A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Solicit",
+          "Offer for sale",
+          "Distribute for use"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE...(B) A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE"
+      },
+      "products": {
+        "value": [
+          "playground surfacing materials"
+        ],
+        "provenance": "'PLAYGROUND SURFACING MATERIALS' MEANS PRODUCTS, MATERIALS, OR SUBSTANCES USED OR INSTALLED ON THE GROUND SURFACE OF A PLAYGROUND IN THE STATE."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "title": {
+    "value": "AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "A BILL ENTITLED AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND"
+  },
+  "reference": {
+    "value": "1147",
+    "provenance": "HOUSE BILL 1147"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL ENTITLED"
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "Section 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 24 October 1, 2024."
+  },
+  "pfas_definition": {
+    "value": "not specified",
+    "provenance": "'PFAS' MEANS PER- AND POLYFLUOROALKYL SUBSTANCES."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Solicit",
+          "Offer for sale"
+        ],
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "products": {
+        "value": [
+          "(1) MORE THAN 90 PARTS PER MILLION OF LEAD;",
+          "(2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;",
+          "(3) MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH."
+        ],
+        "provenance": "(1) MORE THAN 90 PARTS PER MILLION OF LEAD; (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES; (3) MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH."
+      },
+      "exceptions": {
+        "value": "not specified",
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "who": {
+        "value": [
+          "County",
+          "Municipality",
+          "Unit of local government"
+        ],
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "action": {
+        "value": [
+          "Adopt ordinance",
+          "Adopt rule",
+          "Adopt regulation"
+        ],
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "products": {
+        "value": [
+          "Playground surfacing materials that contain PAH, PFAS, or lead"
+        ],
+        "provenance": "A COUNTY, MUNICIPALITY, OR UNIT OF LOCAL GOVERNMENT MAY NOT ADOPT ANY ORDINANCE, RULE, OR REGULATION RELATED TO PLAYGROUND SURFACING MATERIALS THAT CONTAIN PAH, PFAS, OR LEAD THAT IS LESS STRINGENT THAN THE REQUIREMENTS OF THIS SUBTITLE."
+      },
+      "exceptions": {
+        "value": "not specified",
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    }
+  ]
+}

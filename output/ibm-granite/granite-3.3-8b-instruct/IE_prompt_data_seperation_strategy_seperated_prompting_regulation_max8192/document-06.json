@@ -1,0 +1,56 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This subtitle does not limit the power of a county, municipality, or unit of local government to adopt ordinances, rules, or regulations related to playground surfacing materials that contain PAH, PFAS, or lead."
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2024."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "County",
+          "Municipality",
+          "Unit of local government"
+        ],
+        "provenance": "A person may not use, supply, sell, solicit, or offer for sale in the State playground surfacing materials... A county, municipality, or unit of local government may not adopt... This subtitle does not affect the authority of a county, municipality, or unit of local government..."
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Solicit",
+          "Offer for sale"
+        ],
+        "provenance": "A person may not use, supply, sell, solicit, or offer for sale... A manufacturer that manufactures, sells, offers for sale, or distributes for use in the State playground surfacing materials shall establish a certificate of compliance..."
+      },
+      "products": {
+        "value": [
+          "Playground surfacing materials",
+          "Containing more than 90 parts per million of lead",
+          "Fluorinated organic chemicals that contain at least 1 fully fluorinated carbon atom, including PFAS substances",
+          "More than 20 milligrams per kilogram of PAH"
+        ],
+        "provenance": "On or after October 1, 2024, a person may not use, supply, sell, solicit, or offer for sale in the State playground surfacing materials that contain... Fluorinated organic chemicals that contain at least 1 fully fluorinated carbon atom, including PFAS substances; and (3) More than 20 milligrams per kilogram of PAH."
+      },
+      "exceptions": {
+        "value": [
+          "Not explicitly mentioned in the document"
+        ],
+        "provenance": "This subtitle does not affect the authority of a county, municipality, or unit of local government to enact and enforce standards or requirements related to playground surfacing materials that contain PAH, PFAS, or lead that are more stringent than the requirements of this subtitle."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The document does not mention 'currently unavoidable use'."
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "The document does not mention 'intentionally added'."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": {
+    "value": "An Act Relating to Health and Safety -- Toxic Packaging Reduction Act",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "location": {
+    "value": "Rhode Island",
+    "provenance": "STATE OF R H O D E     IS L A N D"
+  },
+  "reference": {
+    "value": "2022 -- H 7438 SUBSTITUTE A",
+    "provenance": "2022 -- H 7438 SUBSTITUTE A"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "date": {
+    "value": "2024-01-01",
+    "provenance": "23-18.13-4(d) Effective January 1, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "23-18.13-3(g)(2) The use of PFAS in the formulation of a package or packaging component where its continued presence is desired..."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "23-18.13-4(d) Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "23-18.13-4(d) Effective January 1, 2024"
+      },
+      "who": [
+        "Manufacturer",
+        "Distributor"
+      ],
+      "action": [
+        "distribute for sale"
+      ],
+      "products": [
+        "food package"
+      ],
+      "exceptions": [
+        "post-consumer recycled materials as feedstock for new packaging materials"
+      ],
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "23-18.13-3(g)(2) The use of a regulated chemical as a processing agent, mold intermediate is considered intentional introduction regulated chemical is detected in the final package or packaging component."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "23-18.13-3(g)(2) The use of PFAS in the formulation of a package or packaging component where its continued presence is desired..."
+      }
+    }
+  ]
+}

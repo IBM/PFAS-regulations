@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "hazardous products act",
+    "provenance": "Sec. 1. This act may be cited as the 'hazardous products act'. 1"
+  },
+  "location": {
+    "value": "State of Michigan",
+    "provenance": "The PEOPLE OF THE STATE OF MICHIGAN ENACT:"
+  },
+  "reference": {
+    "value": "House Bill No. 5657",
+    "provenance": "April 24, 2024, Introduced by Reps. Tsernoglou, Byrnes, Rheingans, Arbit, Hope, Hood, Wilson, Price, Conlin, Mentzer, MacDonell, Andrews, Brabec, Wegela, Skaggs, O'Neal, Morgan, Young, Haadsma, Steckloff and Aiyash and referred to the Committee on Natural Resources, Environment, Tourism and Outdoor Recreation."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "A bill to require notices and warnings if certain products contain certain chemicals; to provide for the powers and duties of certain state governmental officers and entities; and to provide for civil sanctions and remedies."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "No specific date provided for enactment beyond the introduction date of April 24, 2024."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Sec. 3(e). 'PFAS' means a perfluoroalkyl or polyfluoroalkyl substance that includes any member of the class of fluorinated organic chemicals containing at least 1 fully fluorinated carbon atom."
+  }
+}

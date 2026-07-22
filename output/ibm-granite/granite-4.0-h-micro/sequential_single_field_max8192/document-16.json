@@ -1,0 +1,24 @@
+{
+  "title": "A BILL FOR AN ACT Relating to PFAS",
+  "provenance": "SECTION 1. As used in sections 1 to 4 of this 2025 Act: ... (title as it appears in the document)",
+  "location": {
+    "value": "State of Oregon",
+    "provenance": "House Bill 3512, sponsored by Representative NERON and Senator PATTERSON"
+  },
+  "reference": {
+    "value": "HB 3512",
+    "provenance": "House Bill 3512"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "This is a bill titled 'A BILL FOR AN ACT Relating to PFAS.'"
+  },
+  "date": {
+    "value": "January 1, 2027",
+    "provenance": "SECTION 4. (1) The Attorney General may bring a civil action in the name of the state in any court of appropriate jurisdiction to: ... SECTION 5. Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "SECTION 7. The amendments to section 1 of this 2025 Act by section 6 of this 2025 Act become operative on January 1, 2028."
+  }
+}

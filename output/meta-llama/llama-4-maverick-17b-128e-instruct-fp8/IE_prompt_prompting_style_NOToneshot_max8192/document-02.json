@@ -1,0 +1,73 @@
+{
+  "title": {
+    "value": "AN ACT concerning safety",
+    "provenance": "AN ACT concerning safety."
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "reference": {
+    "value": "415 ILCS 5/22.62",
+    "provenance": "(415 ILCS 5/22.62 new)"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "Section 99. Effective date. This Act takes effect upon becoming law."
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "\"Toxic Release Inventory Polyfluoroalkyl and Perfluoroalkyl Substances\" or \"TRI-PFAS\" means perfluoroalkyl and polyfluoroalkyl chemicals on the list set forth in rules developed by the USEPA under Section 313 of the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "(b) No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "(b) No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "action": {
+        "value": [
+          "Dispose"
+        ],
+        "provenance": "(b) No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "products": {
+        "value": [
+          "aqueous film-forming foam that contains TRI-PFAS"
+        ],
+        "provenance": "(b) No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill",
+          "landfill gas in a landfill gas recovery facility that is located at a sanitary landfill",
+          "waste at a permitted hospital, medical, and infectious waste incinerator",
+          "sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility"
+        ],
+        "provenance": "(c) Nothing in this Section applies to the incineration of (i) landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill, (ii) landfill gas in a landfill gas recovery facility that is located at a sanitary landfill, (iii) waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable, or (iv) sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

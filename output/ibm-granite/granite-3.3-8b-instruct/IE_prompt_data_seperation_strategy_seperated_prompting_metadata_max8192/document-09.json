@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products",
+    "provenance": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products. Be it Enacted by the Senate and House of Representatives in General Court convened:"
+  },
+  "location": {
+    "value": "New Hampshire",
+    "provenance": "State of New Hampshire"
+  },
+  "reference": {
+    "value": "New Hampshire-2024-HB465-Introduced",
+    "provenance": "New Hampshire-2024-HB465-Introduced"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products. - AS INTRODUCED"
+  },
+  "date": {
+    "value": "2023-08-05",
+    "provenance": "08/05"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

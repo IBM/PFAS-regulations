@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 2771",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "location": {
+    "value": "State of California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "AB 2771",
+    "provenance": "AB 2771"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health."
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "Approved by Governor September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

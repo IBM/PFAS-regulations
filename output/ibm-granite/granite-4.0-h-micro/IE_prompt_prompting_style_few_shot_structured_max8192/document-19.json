@@ -1,0 +1,91 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "location": {
+    "value": "Connecticut",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "reference": {
+    "value": "Public Act No. 24-59",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "date": {
+    "value": "2024-06-05",
+    "provenance": "Approved June 5, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Section 1(a)(11) defines PFAS as 'any chemical that includes at least one of the following three structures: (1) R-(CF2)-CF(R\u2019)R\u2019\u2019, where both the CF2 and CF moieties are saturated carbons; (2) R-CF2OCF2-R\u2019, where R and R\u2019 can either be F, O, or saturated carbons; and (3) CF3C(CF3)R\u2019R\u2019\u2019, where R\u2019 and R\u2019\u2019 can either be F or saturated carbons.'"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 1(b)(1) and (1)(l) prohibit the manufacture, sale, offer for sale, or distribution of certain products containing intentionally added PFAS in Connecticut"
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "Section 1(b) and (1) set effective dates for the ban"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier"
+        ],
+        "provenance": "Section 1(b)(1) and (1)(l) specify that manufacturers and suppliers must comply"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "Section 1(b)(1) and (1)(l) list the actions restricted"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishing",
+          "ski wax",
+          "upholstered furniture",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "Section 1(b)(1) and (1)(l) list the specific products banned"
+      },
+      "exceptions": {
+        "value": [
+          "products regulated under federal law",
+          "products regulated under section 22a-903a or 22a-255i of the general statutes",
+          "sale or resale of a used product",
+          "products made with not less than eighty-five per cent recycled content",
+          "products manufactured prior to the prohibition",
+          "replacement parts for products manufactured prior to the prohibition"
+        ],
+        "provenance": "Section 1(g) lists the exceptions to the ban"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Section 1(h)(1) exempts unavoidable trace quantities of PFAS attributable to impurities"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Section 1(a)(11) defines intentionally added PFAS as 'PFAS deliberately added during the manufacture of a product where the continued presence of PFAS is desired in the final product or one of the product's components to perform a specific function.'"
+      }
+    }
+  ]
+}

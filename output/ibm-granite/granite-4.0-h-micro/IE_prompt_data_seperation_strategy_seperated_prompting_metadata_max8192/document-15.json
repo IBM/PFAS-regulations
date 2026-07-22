@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "PFAS Consumer Protection Law",
+    "provenance": "AN ACT concerning safety."
+  },
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "State of Illinois"
+  },
+  "reference": {
+    "value": "SB0088",
+    "provenance": "SB0088"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT concerning safety."
+  },
+  "date": {
+    "value": "2023-01-20",
+    "provenance": "Introduced 1/20/2023"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "On and after January 1, 2025, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in any of the following product categories if the product contains an intentionally added PFAS chemical: carpets or rugs; fabric treatments; food packaging; juvenile products; oil and gas products; apparel."
+  }
+}

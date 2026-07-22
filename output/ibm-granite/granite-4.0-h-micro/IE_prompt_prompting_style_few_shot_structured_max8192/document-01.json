@@ -1,0 +1,63 @@
+{
+  "title": {
+    "value": "AN ACT relating to fire prevention",
+    "provenance": "AN ACT relating to fire prevention."
+  },
+  "location": {
+    "value": "Commonwealth of Kentucky",
+    "provenance": "AN ACT relating to fire prevention."
+  },
+  "reference": {
+    "value": "SB 104",
+    "provenance": "SB 104"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT relating to fire prevention."
+  },
+  "date": {
+    "value": "2019-03-22",
+    "provenance": "Signed by Governor March 22, 2019."
+  },
+  "pfas_definition": {
+    "value": "PFAS chemicals means perfluoroalkyl and polyfluoroalkyl substances which, for the purpose of firefighting agents, is a class of fluorinated organic chemicals containing at least one (1) fully fluorinated carbon atom",
+    "provenance": "a \"PFAS chemicals\" means perfluoroalkyl and polyfluoroalkyl substances which, for the purpose of firefighting agents, is a class of fluorinated organic chemicals containing at least one (1) fully fluorinated carbon atom"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Beginning on July 15, 2020, class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes unless otherwise required by law, regulation, or ordinance"
+      },
+      "date": {
+        "value": "2020-07-15",
+        "provenance": "Beginning on July 15, 2020"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Importer",
+        "Distributor",
+        "Seller"
+      ],
+      "action": [
+        "Use"
+      ],
+      "products": [
+        "class B firefighting foam"
+      ],
+      "exceptions": [
+        "The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals; or",
+        "The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations."
+      ],
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS chemicals means perfluoroalkyl and polyfluoroalkyl substances which... contains intentionally added PFAS chemicals"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "H.B. NO. H.D. 1",
+    "provenance": "HOUSE OF REPRESENTATIVES THIRTY-FIRST LEGISLATURE, 2022 STATE OF HAWAII\nH.B. NO. H.D. 1"
+  },
+  "location": {
+    "value": "State of Hawaii",
+    "provenance": "HOUSE OF REPRESENTATIVES THIRTY-FIRST LEGISLATURE, 2022 STATE OF HAWAII"
+  },
+  "reference": {
+    "value": "HB1644 CD1",
+    "provenance": "HB1644 CD1"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII"
+  },
+  "date": {
+    "value": "2022-07-01",
+    "provenance": "SECTION 3. This Act shall take effect on July 1, 2022."
+  },
+  "pfas_definition": {
+    "value": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.",
+    "provenance": "Definitions. For the purposes of this part:\n\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

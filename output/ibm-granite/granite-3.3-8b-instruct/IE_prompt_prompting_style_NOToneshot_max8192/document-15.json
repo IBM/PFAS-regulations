@@ -1,0 +1,244 @@
+{
+  "title": {
+    "value": "Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law",
+    "provenance": "Provides that the amendatory Act may be referred to as the Perfluoroalkyl and Polyfluoroalkyl Chemicals Consumer Protection Law."
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "State of Illinois"
+  },
+  "reference": {
+    "value": "SB0088",
+    "provenance": "SB0088"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Amends the Illinois Procurement Code and the Environmental Protection Act."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "No specific date provided in the document, but it mentions effective dates for different sections."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "\u2018PFAS chemical\u2019 means any of the perfluoroalkyl substances or polyfluoroalkyl substances included in the United States Environmental Protection Agency's expanded ToxCast chemical inventory."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 52.15"
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "On and after January 1, 2025, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in the following product categories if the product contains an intentionally added PFAS chemical: Carpets or rugs, Fabric treatments, Food packaging, Juvenile products, Oil and gas products, Apparel."
+      },
+      "who": {
+        "value": [
+          "Supplier",
+          "Distributor",
+          "Manufacturer"
+        ],
+        "provenance": "No person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in the following product categories if the product contains an intentionally added PFAS chemical: Carpets or rugs, Fabric treatments, Food packaging, Juvenile products, Oil and gas products, Apparel."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "No person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in the following product categories if the product contains an intentionally added PFAS chemical: Carpets or rugs, Fabric treatments, Food packaging, Juvenile products, Oil and gas products, Apparel."
+      },
+      "products": {
+        "value": [
+          "Carpets or rugs",
+          "Fabric treatments",
+          "Food packaging",
+          "Juvenile products",
+          "Oil and gas products",
+          "Apparel"
+        ],
+        "provenance": "No person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in the following product categories if the product contains an intentionally added PFAS chemical: Carpets or rugs, Fabric treatments, Food packaging, Juvenile products, Oil and gas products, Apparel."
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of a used product",
+          "pesticide",
+          "fertilizer",
+          "agricultural liming material",
+          "plant amendment",
+          "soil amendment",
+          "prosthetic device",
+          "orthotic device",
+          "medical device",
+          "drug"
+        ],
+        "provenance": "(d) The commissioner may not take action under paragraph (b) or (c) with respect to a pesticide, as defined under chapter 18B, a fertilizer, an agricultural liming material, a plant amendment, or a soil amendment as defined under chapter 18C, unless the commissioner of agriculture approves the action. This section does not apply to: (1) a product for which federal law governs the presence of PFAS in the product in a manner that preempts state authority; (2) a product regulated under section 325F.072 or 325F.075; or (3) the sale or resale of a used product. (b) Subdivisions 4 and 5 do not apply to a prosthetic or orthotic device or to any product that is a medical device or drug or that is otherwise used in a medical setting or in medical applications regulated by the United States Food and Drug Administration."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Beginning January 1, 2025, a person may not sell, offer for sale, or distribute for sale in this state any product that contains intentionally added PFAS, unless the commissioner has determined by rule that the use of PFAS in the product is a currently unavoidable use."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "No person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product that contains intentionally added PFAS chemicals."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 52.15"
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Cosmetics, Indoor textile furnishings, Indoor upholstered furniture."
+      },
+      "who": {
+        "value": [
+          "Supplier",
+          "Distributor",
+          "Manufacturer"
+        ],
+        "provenance": "On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Cosmetics, Indoor textile furnishings, Indoor upholstered furniture."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Cosmetics, Indoor textile furnishings, Indoor upholstered furniture."
+      },
+      "products": {
+        "value": [
+          "Cosmetics",
+          "Indoor textile furnishings",
+          "Indoor upholstered furniture"
+        ],
+        "provenance": "On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Cosmetics, Indoor textile furnishings, Indoor upholstered furniture."
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of a used product",
+          "pesticide",
+          "fertilizer",
+          "agricultural liming material",
+          "plant amendment",
+          "soil amendment",
+          "prosthetic device",
+          "orthotic device",
+          "medical device",
+          "drug"
+        ],
+        "provenance": "(d) The commissioner may not take action under paragraph (b) or (c) with respect to a pesticide, as defined under chapter 18B, a fertilizer, an agricultural liming material, a plant amendment, or a soil amendment as defined under chapter 18C, unless the commissioner of agriculture approves the action. This section does not apply to: (1) a product for which federal law governs the presence of PFAS in the product in a manner that preempts state authority; (2) a product regulated under section 325F.072 or 325F.075; or (3) the sale or resale of a used product. (b) Subdivisions 4 and 5 do not apply to a prosthetic or orthotic device or to any product that is a medical device or drug or that is otherwise used in a medical setting or in medical applications regulated by the United States Food and Drug Administration."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Beginning January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Cosmetics, Indoor textile furnishings, Indoor upholstered furniture, unless the commissioner has determined by rule that the use of PFAS in the product is a currently unavoidable use."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Cosmetics, Indoor textile furnishings, Indoor upholstered furniture."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 52.15"
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Outdoor textile furnishings, Outdoor upholstered furniture."
+      },
+      "who": {
+        "value": [
+          "Supplier",
+          "Distributor",
+          "Manufacturer"
+        ],
+        "provenance": "On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Outdoor textile furnishings, Outdoor upholstered furniture."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute for sale",
+          "Offer for sale",
+          "Distribute for use"
+        ],
+        "provenance": "On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Outdoor textile furnishings, Outdoor upholstered furniture."
+      },
+      "products": {
+        "value": [
+          "Outdoor textile furnishings",
+          "Outdoor upholstered furniture"
+        ],
+        "provenance": "On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Outdoor textile furnishings, Outdoor upholstered furniture."
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of a used product",
+          "pesticide",
+          "fertilizer",
+          "agricultural liming material",
+          "plant amendment",
+          "soil amendment",
+          "prosthetic device",
+          "orthotic device",
+          "medical device",
+          "drug"
+        ],
+        "provenance": "(d) The commissioner may not take action under paragraph (b) or (c) with respect to a pesticide, as defined under chapter 18B, a fertilizer, an agricultural liming material, a plant amendment, or a soil amendment as defined under chapter 18C, unless the commissioner of agriculture approves the action. This section does not apply to: (1) a product for which federal law governs the presence of PFAS in the product in a manner that preempts state authority; (2) a product regulated under section 325F.072 or 325F.075; or (3) the sale or resale of a used product. (b) Subdivisions 4 and 5 do not apply to a prosthetic or orthotic device or to any product that is a medical device or drug or that is otherwise used in a medical setting or in medical applications regulated by the United States Food and Drug Administration."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Beginning January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any product that contains intentionally added PFAS, unless the commissioner has determined by rule that the use of PFAS in the product is a currently unavoidable use."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: Outdoor textile furnishings, Outdoor upholstered furniture."
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "Section 52.15(f)"
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label."
+      },
+      "who": {
+        "value": [
+          "PFAS manufacturer"
+        ],
+        "provenance": "On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label."
+      },
+      "action": {
+        "value": [
+          "List on product label"
+        ],
+        "provenance": "On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label."
+      },
+      "products": {
+        "value": [
+          "Cookware"
+        ],
+        "provenance": "On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label."
+      }
+    }
+  ]
+}

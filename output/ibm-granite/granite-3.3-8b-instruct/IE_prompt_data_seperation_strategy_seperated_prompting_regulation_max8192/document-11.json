@@ -1,0 +1,55 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "The purpose of this Act is to: (1) Prohibit the manufacture, sale, or distribution for sale or use of wraps and liners, plates, food boats, and pizza boxes that contain PFAS; and (2) Prohibit the manufacture, sale, distribution, and use of class B firefighting foams that contain PFAS, with certain exceptions."
+      },
+      "date": {
+        "value": "2024-07-01",
+        "provenance": "SECTION 3. This Act shall take effect on July 1, 2022."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "A manufacturer of class B firefighting foam prohibited by this part shall notify, in writing and no later than January 1, 2023, persons that sell the manufacturer's products in the State... Any manufacturer of class B firefighting foam violating this part or any rule adopted pursuant to this part shall be subject to an administrative fine."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "It shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced... Beginning July 1, 2024, it shall be unlawful for any person or state or county department or agency to discharge or otherwise use for training or testing purposes class B firefighting foam that contains intentionally introduced PFAS chemicals..."
+      },
+      "products": {
+        "value": [
+          "wraps and liners",
+          "plates",
+          "food boats",
+          "pizza boxes",
+          "class B firefighting foam"
+        ],
+        "provenance": "The prohibition under this section shall apply to wraps and liners, plates, food boats, and pizza boxes... Beginning July 1, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for training or testing purposes in the State any class B firefighting foam that contains intentionally introduced PFAS chemicals."
+      },
+      "exceptions": {
+        "value": [
+          "necessary for effective suppression of a petroleum fire"
+        ],
+        "provenance": "This section shall not apply to the manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS chemicals is required by federal law or regulations."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The legislature finds that once PFAS enter the environment, they persist for a very long time, as no natural processes can break down these substances. These forever chemicals can continue to cause exposures long after they are phased out of consumer and other products."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "It shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": {
+    "value": "Toxic Packaging Reduction Act",
+    "provenance": "RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "location": {
+    "value": "Rhode Island",
+    "provenance": "This act would prohibit the sale or promotional distribution of any food package in Rhode Island which contains perfluoroalkyl and polyfluoroalkyl substances (PFAS)"
+  },
+  "reference": {
+    "value": "2022 -- H 7438 SUBSTITUTE A",
+    "provenance": "2022 -- H 7438 SUBSTITUTE A"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "It is enacted by the General Assembly as follows:"
+  },
+  "date": {
+    "value": "2022-02-11",
+    "provenance": "Date Introduced: February 11, 2022"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This act would prohibit the sale or promotional distribution of any food package in Rhode Island which contains perfluoroalkyl and polyfluoroalkyl substances (PFAS), effective January 1, 2024"
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "products": {
+        "value": [
+          "food package"
+        ],
+        "provenance": "no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      }
+    }
+  ]
+}

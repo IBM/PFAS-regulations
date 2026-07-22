@@ -1,0 +1,71 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "location": {
+    "value": "Connecticut",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "reference": {
+    "value": "Public Act No. 24-59",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "date": {
+    "value": "2024-06-05",
+    "provenance": "Approved June 5, 2024"
+  },
+  "pfas_definition": {
+    "value": "Perfluoroalkyl and polyfluoroalkyl substances (PFASs) defined as: Any substance that contains at least one fully fluorinated methyl (CF3-) or methylene (-CF2-) carbon atom (without any H/Cl/Br/I attached to it).",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Substitute Senate Bill No. 292"
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "Substitute Senate Bill No. 292"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Importer",
+        "Distributor",
+        "Seller"
+      ],
+      "action": [
+        "Manufacture",
+        "Sell",
+        "Offer for sale",
+        "Distribute for sale"
+      ],
+      "products": [
+        "apparel",
+        "carpet or rug",
+        "cleaning product",
+        "cookware",
+        "cosmetic product",
+        "dental floss",
+        "fabric treatment",
+        "children's product",
+        "menstruation product",
+        "textile furnishing",
+        "ski wax",
+        "upholstered furniture",
+        "outdoor apparel for severe wet conditions"
+      ],
+      "exceptions": [
+        "Cosmetic product with unavoidable trace quantity of PFAS attributable to impurities of natural or synthetic ingredients"
+      ],
+      "currently_unavoidable": true,
+      "intentionally_added": true
+    }
+  ]
+}

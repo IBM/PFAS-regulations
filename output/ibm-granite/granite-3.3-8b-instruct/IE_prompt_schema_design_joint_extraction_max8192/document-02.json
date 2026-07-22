@@ -1,0 +1,74 @@
+{
+  "title": {
+    "value": "An Act concerning safety",
+    "provenance": "AN ACT concerning safety. \n## Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "People of the State of Illinois, represented in the General Assembly"
+  },
+  "reference": {
+    "value": "not specified",
+    "provenance": "not explicitly provided in the document"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "This Act takes effect upon becoming law."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "The document does not provide a specific effective date, only stating 'This Act takes effect upon becoming law.'"
+  },
+  "pfas_definition": {
+    "value": "USEPA_2023",
+    "provenance": "\u201cTRI-PFAS\u201d means perfluoroalkyl or polyfluoroalkyl substances or polyfluoroalkyl or perfluoroalkyl substances on the list developed in the USEPA's Section 313 of the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "The document does not specify a date for this regulation, it is effective upon becoming law."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "action": {
+        "value": [
+          "Dispose",
+          "Incinerate"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "products": {
+        "value": [
+          "TRI-PFAS"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "exceptions": {
+        "value": [
+          "Landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill",
+          "Landfill gas in a landfill gas recovery facility that is located at a sanitary landfill",
+          "Waste at a permitted hospital, medical, and infectious waste incinerator",
+          "Sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility"
+        ],
+        "provenance": "Nothing in this Section applies to the incineration of (i) to (iv) as listed"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use' in the document"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "No mention of 'intentionally added' in the document"
+      }
+    }
+  ]
+}

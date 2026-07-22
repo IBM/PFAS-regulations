@@ -1,0 +1,35 @@
+{
+  "title": "An Act Relating to prohibitions for certain products; creating new provisions; and amending ORS 459.995",
+  "location": "Oregon",
+  "reference": "Senate Bill 543",
+  "status": "Law/Statute",
+  "date": "2023-01-01",
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "A 'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": "Ban/Restrict",
+      "date": "2025-01-01",
+      "who": [
+        "Food vendor",
+        "Person"
+      ],
+      "action": [
+        "sell",
+        "distribute"
+      ],
+      "products": [
+        "polystyrene foam containers",
+        "polystyrene foam packaging peanuts",
+        "foodware containers containing perfluoroalkyl or polyfluoroalkyl substances"
+      ],
+      "exceptions": [
+        "polystyrene plastic material, other than polystyrene foam packaging peanuts, that is used solely for packing or protecting other items during storage, shipping or other transportation"
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": false
+    }
+  ]
+}

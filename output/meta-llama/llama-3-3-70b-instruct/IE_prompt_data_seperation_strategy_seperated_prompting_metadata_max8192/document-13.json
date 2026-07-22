@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "Senate Bill 543",
+    "provenance": "## Senate Bill 543"
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "Be It Enacted by the People of the State of Oregon:"
+  },
+  "reference": {
+    "value": "Senate Bill 543",
+    "provenance": "## Senate Bill 543"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "## A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2025-01-01",
+    "provenance": "SECTION 9. (1) Sections 1 to 4 of this 2023 Act and the amendments to ORS 459.995 by section 8 of this 2023 Act become operative on January 1, 2025."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(3) 'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

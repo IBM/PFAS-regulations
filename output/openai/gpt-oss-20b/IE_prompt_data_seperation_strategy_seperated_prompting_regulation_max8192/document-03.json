@@ -1,0 +1,50 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "date": {
+        "value": "2025-02-04",
+        "provenance": "This act shall take effect immediately."
+      },
+      "who": {
+        "value": [
+          "Seller",
+          "Person"
+        ],
+        "provenance": "no person shall sell or offer for sale in containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays",
+          "anti-fogging wipes"
+        ],
+        "provenance": "anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "exceptions": {
+        "value": [
+          "No person that sells or offers for sale any anti-fogging sprays or wipes shall be held in violation of this section if they can show that they relied in good faith on the written assurance of the manufacturer of such product that such product met the requirements of this section."
+        ],
+        "provenance": "No person that sells or offers for sale any anti-fogging sprays or wipes shall be held in violation of this section if they can show that they relied in good faith on the written assurance of the manufacturer of such product that such product met the requirements of this section."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill would prohibit, beginning January 1, 2025, a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances PFAS, as defined."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Existing law, beginning January 1, 2025, prohibits the manufacture, sale, delivery, hold, or offer for sale in commerce of any cosmetic product that contains any of several specified intentionally added ingredients, including specified perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Person",
+          "Entity"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances PFAS, as defined."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Deliver",
+          "Hold",
+          "Offer for sale"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances PFAS, as defined."
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances PFAS, as defined."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "This bill would prohibit, beginning January 1, 2025, a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances PFAS, as defined."
+      }
+    }
+  ]
+}

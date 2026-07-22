@@ -1,0 +1,80 @@
+{
+  "title": {
+    "value": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes.",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "location": {
+    "value": "State of New Jersey",
+    "provenance": "STATE OF NEW JERSEY"
+  },
+  "reference": {
+    "value": "ASSEMBLY, No. 4125",
+    "provenance": "ASSEMBLY, No. 4125"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "INTRODUCED JUNE 2, 2022"
+  },
+  "date": {
+    "value": "2022-06-02",
+    "provenance": "INTRODUCED JUNE 2, 2022"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits sale, manufacture, distribution, and use of firefighting foam containing intentionally added perfluoroalkyl and polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "Beginning two years after the effective date of this act, no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer",
+          "Seller",
+          "Distributor",
+          "User"
+        ],
+        "provenance": "Beginning two years after the effective date of this act, no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+      },
+      "action": {
+        "value": [
+          "use",
+          "sell",
+          "offer for sale",
+          "manufacture",
+          "distribute for sale",
+          "distribute for use"
+        ],
+        "provenance": "Beginning two years after the effective date of this act, no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam containing intentionally added PFAS"
+        ],
+        "provenance": "Beginning two years after the effective date of this act, no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "federal law",
+          "federal regulation"
+        ],
+        "provenance": "Subsection a. of this section shall not apply to the sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law, or by a rule or regulation adopted pursuant thereto, including, but not limited to, 14 C.F.R. s.139.317."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "'Intentionally added PFAS' means PFAS added to a product or one of the product's components to provide a specific characteristic, appearance, or quality or to perform a specific function. 'Intentionally added PFAS' also includes any degradation byproducts of PFAS."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Intentionally added PFAS' means PFAS added to a product or one of the product's components to provide a specific characteristic, appearance, or quality or to perform a specific function. 'Intentionally added PFAS' also includes any degradation byproducts of PFAS."
+      }
+    }
+  ]
+}

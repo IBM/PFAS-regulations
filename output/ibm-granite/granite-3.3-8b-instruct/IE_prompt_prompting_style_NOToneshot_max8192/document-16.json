@@ -1,0 +1,90 @@
+{
+  "title": {
+    "value": "An Act relating to PFAS",
+    "provenance": "10 SECTION 1. As used in sections 1 to 4 of this 2025 Act: SECTION 1. As used in sections 1 to 4 of this 2025 Act:"
+  },
+  "location": {
+    "value": "State of Oregon",
+    "provenance": "Be It Enacted by the People of the State of Oregon:"
+  },
+  "reference": {
+    "value": "House Bill 3512",
+    "provenance": "Sponsored by Representative NERON, Senator PATTERSON"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Be It Enacted by the People of the State of Oregon:"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "Becomes operative on January 1, 2027."
+  },
+  "pfas_definition": {
+    "value": "perfluoroalkyl_or_polyfluoroalkyl_substance",
+    "provenance": "means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, also commonly known as PFAS."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 2. (1) A person may not manufacture, sell, offer for sale or distribute in or into this  state  a  new  covered  product  that  contains  an  intentionally  added  perfluoroalkyl  or polyfluoroalkyl substance."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Becomes operative on January 1, 2027."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "A person may not manufacture, sell, offer for sale or distribute in or into this  state  a  new  covered  product  that  contains  an  intentionally  added  perfluoroalkyl  or polyfluoroalkyl substance."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "A person may not manufacture, sell, offer for sale or distribute in or into this  state  a  new  covered  product  that  contains  an  intentionally  added  perfluoroalkyl  or polyfluoroalkyl substance."
+      },
+      "products": {
+        "value": [
+          "aqueous film-forming foam",
+          "artificial turf",
+          "cleaning products",
+          "carpets or rugs",
+          "cookware",
+          "cosmetics",
+          "dental floss",
+          "fabric treatments",
+          "packaging",
+          "juvenile products",
+          "menstrual products",
+          "refrigerators",
+          "textile articles",
+          "ski wax",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "Covered product means any of the following products, including any of the products' components: (a) Aqueous film-forming foam; (b) Artificial turf; (c) Cleaning products; (d) Carpets or rugs; (e) Cookware; (f) Cosmetics; (g) Dental floss; (h) Fabric treatments; (i) Packaging; (j) Juvenile products; (k) Menstrual products; (l) Refrigerators; (m) Textile articles; (n) Ski wax; (o) Outdoor apparel for severe wet conditions."
+      },
+      "exceptions": {
+        "value": [
+          "personal protective equipment",
+          "clothing items for exclusive use by members of the United States military"
+        ],
+        "provenance": "Textile article does not include: (A) Personal protective equipment; or (B) Clothing items for exclusive use by members of the United States military."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "means a perfluoroalkyl or polyfluoroalkyl substance found in or on a covered product: (a) That serves an intended function in the covered product; (b) That is the intended result of a chemical reaction during the manufacture of the covered product; or (c) That is a by-product of a process used to manufacture the covered product, including the use of processing agents, mold release agents or fluorination, if the manufacturer knew or should have known that the process would introduce the perfluoroalkyl or polyfluoroalkyl substance into or on the covered product."
+      }
+    }
+  ]
+}

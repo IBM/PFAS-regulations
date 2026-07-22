@@ -1,0 +1,60 @@
+{
+  "title": {
+    "value": "PFAS Consumer Protection Law"
+  },
+  "location": {
+    "value": "State of Illinois"
+  },
+  "reference": {
+    "value": "SB0088"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2023-01-20"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Importer"
+      ],
+      "action": [
+        "Sell",
+        "Offer for sale",
+        "Distribute for sale",
+        "Distribute for use"
+      ],
+      "products": [
+        "Carpets or rugs",
+        "Fabric treatments",
+        "Food packaging",
+        "Juvenile products",
+        "Oil and gas products",
+        "Cosmetics",
+        "Indoor textile furnishings",
+        "Indoor upholstered furniture"
+      ],
+      "exceptions": [
+        "Cookware that contains an intentionally added PFAS chemical in the handle of the product or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages and meets specific requirements"
+      ],
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

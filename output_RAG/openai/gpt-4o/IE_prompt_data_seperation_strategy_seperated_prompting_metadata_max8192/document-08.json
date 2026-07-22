@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes.",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "location": {
+    "value": "State of New Jersey",
+    "provenance": "BE IT ENACTED by the Senate and General Assembly of the State of New Jersey"
+  },
+  "reference": {
+    "value": "A4125",
+    "provenance": "A4125 HAIDER, SWAIN 4"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "This bill would prohibit, beginning two years after the bill's effective date, the sale, manufacture, distribution, and use of any class B firefighting foam containing intentionally added PFAS within the State."
+  },
+  "date": {
+    "value": "2022-06-13",
+    "provenance": "(Sponsorship Updated As Of: 6/13/2022)"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

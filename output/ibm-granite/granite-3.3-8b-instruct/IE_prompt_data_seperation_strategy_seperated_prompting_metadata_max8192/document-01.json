@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An Act relating to fire prevention",
+    "provenance": "AN ACT relating to fire prevention. Be it enacted by the General Assembly of the Commonwealth of Kentucky:"
+  },
+  "location": {
+    "value": "Commonwealth of Kentucky",
+    "provenance": "Be it enacted by the General Assembly of the Commonwealth of Kentucky:"
+  },
+  "reference": {
+    "value": "SB 104",
+    "provenance": "CHAPTER 47 ( SB 104 )"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An Act relating to fire prevention. Be it enacted by the General Assembly of the Commonwealth of Kentucky:"
+  },
+  "date": {
+    "value": "2019-03-22",
+    "provenance": "Signed by Governor March 22, 2019."
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "PFAS chemicals means perfluoroalkyl and polyfluoroalkyl substances which, for the purpose of firefighting agents, is a class of fluorinated organic chemicals containing at least one (1) fully fluorinated carbon atom;"
+  }
+}

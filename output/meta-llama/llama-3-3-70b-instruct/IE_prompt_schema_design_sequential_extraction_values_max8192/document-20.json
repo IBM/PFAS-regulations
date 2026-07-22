@@ -1,0 +1,246 @@
+{
+  "title": {
+    "value": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution"
+  },
+  "location": {
+    "value": "Maine"
+  },
+  "reference": {
+    "value": "S.P. 610 - L.D. 1537"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2024-04-16"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2023-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Carpet or rug",
+          "Fabric treatment"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Used products",
+          "Products exempted by the department",
+          "Products for which the use of PFAS is a currently unavoidable use"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2026-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Cleaning product",
+          "Cookware product",
+          "Cosmetic product",
+          "Dental floss",
+          "Juvenile product",
+          "Menstruation product",
+          "Textile article",
+          "Ski wax",
+          "Upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Used products",
+          "Products exempted by the department",
+          "Products for which the use of PFAS is a currently unavoidable use",
+          "Outdoor apparel for severe wet conditions"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2029-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Artificial turf",
+          "Outdoor apparel for severe wet conditions"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Used products",
+          "Products exempted by the department",
+          "Products for which the use of PFAS is a currently unavoidable use"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2030-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Any product that contains intentionally added PFAS and is not already prohibited"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Used products",
+          "Products exempted by the department",
+          "Products for which the use of PFAS is a currently unavoidable use",
+          "Cooling, heating, ventilation, air conditioning and refrigeration equipment",
+          "Refrigerants, foams and aerosol propellants"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2040-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Cooling, heating, ventilation, air conditioning or refrigeration equipment",
+          "Refrigerants, foams or aerosol propellants"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Used products",
+          "Products exempted by the department",
+          "Parts and other servicing needs for cooling, heating, ventilation, air conditioning or refrigeration equipment"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

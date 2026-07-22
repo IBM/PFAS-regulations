@@ -1,0 +1,71 @@
+{
+  "title": {
+    "value": "An Act to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances",
+    "provenance": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+  },
+  "location": {
+    "value": "New York",
+    "provenance": "STATE OF NEW YORK"
+  },
+  "reference": {
+    "value": "A. 4525--A",
+    "provenance": "A. 4525--A"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Introduced by M. of A. GALLAGHER, STERN, GONZALEZ-ROJAS, JACOBSON, LEVENBERG, SIMON, SIMONE, ROSENTHAL, COLTON, REYES, SHIMSKY, RAGA, CLARK, SEAWRIGHT, FORREST, OTIS, BURDICK, MAMDANI, MEEKS -- read once and referred to the Committee on Environmental Conservation -- committee discharged, bill amended, ordered reprinted as amended and recommitted to said committee"
+  },
+  "date": {
+    "value": "2025-02-04",
+    "provenance": "February 4, 2025"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS substances\" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "2. After December thirty-first, two thousand twenty-six, no person shall sell or offer for sale in this state anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals or that contain perfluoroalkyl and alkyl substances at or above a level that the department shall establish in regulation."
+      },
+      "date": {
+        "value": "2026-12-31",
+        "provenance": "After December thirty-first, two thousand twenty-six"
+      },
+      "who": {
+        "value": [
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "After December thirty-first, two thousand twenty-six, no person shall sell or offer for sale in this state anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals or that contain perfluoroalkyl and alkyl substances at or above a level that the department shall establish in regulation."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "After December thirty-first, two thousand twenty-six, no person shall sell or offer for sale in this state anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals or that contain perfluoroalkyl and alkyl substances at or above a level that the department shall establish in regulation."
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays",
+          "wipes"
+        ],
+        "provenance": "After December thirty-first, two thousand twenty-six, no person shall sell or offer for sale in this state anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals or that contain perfluoroalkyl and alkyl substances at or above a level that the department shall establish in regulation."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "After December thirty-first, two thousand twenty-six, no person shall sell or offer for sale in this state anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances as intentionally added chemicals or that contain perfluoroalkyl and alkyl substances at or above a level that the department shall establish in regulation."
+      }
+    }
+  ]
+}

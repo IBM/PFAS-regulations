@@ -1,0 +1,132 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 97"
+  },
+  "location": {
+    "value": "State of Nevada"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 97"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2021-02-08"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "State agency",
+          "Local government"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam containing intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Testing the Class B firefighting foam that contains intentionally added PFAS unless the person testing the foam has ensured that any measures necessary for the proper containment, treatment and disposal of the foam are available at the testing location and such measures will prevent the release of Class B firefighting foam that contains intentionally added PFAS to the surrounding environment; or Firefighting training."
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "State agency",
+          "Local government"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam containing intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2022-01-01"
+      },
+      "who": {
+        "value": [
+          "State agency"
+        ]
+      },
+      "action": {
+        "value": [
+          "Establish"
+        ]
+      },
+      "products": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

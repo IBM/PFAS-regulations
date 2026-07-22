@@ -1,0 +1,158 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "date": {
+        "value": "2023-01-01",
+        "provenance": "Effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "a person may not sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "a person may not sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "Carpet or rug"
+        ],
+        "provenance": "a carpet or rug that contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "Used for outdoor use",
+          "Used inside an aircraft, train, watercraft, automobile, light duty truck, van, bus or any other vehicle",
+          "Resilient floor covering",
+          "Artificial turf",
+          "Wall hanging or covering",
+          "Table mat",
+          "Camping sleeping mat"
+        ],
+        "provenance": "(1) A carpet or rug intended solely for outdoor use; (2) A carpet or rug intended solely for use inside an aircraft, train, watercraft, automobile, light duty truck, van, bus or any other vehicle... "
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not mentioned for carpet or rug"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a fabric treatment that contains intentionally added PFAS."
+      },
+      "date": {
+        "value": "2023-01-01",
+        "provenance": "Effective January 1, 2023"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "a person may not sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "a person may not sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "Fabric treatment"
+        ],
+        "provenance": "a fabric treatment that contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "Used fabric treatment"
+        ],
+        "provenance": "This prohibition does not apply to the sale or resale of a used fabric treatment."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not mentioned for fabric treatment"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Effective January 1, 2026, a person may not sell, offer for sale or distribute for sale in this State: (1) A cleaning product containing intentionally added PFAS; (2) A cookware product containing intentionally added PFAS; ..."
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "Effective January 1, 2026"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "a person may not sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "a person may not sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "Cleaning product",
+          "Cookware product",
+          "Cosmetic product",
+          "Dental floss",
+          "Juvenile product",
+          "Menstruation product",
+          "Textile article",
+          "Ski wax",
+          "Upholstered furniture"
+        ],
+        "provenance": "(1) A cleaning product containing intentionally added PFAS; (2) A cookware product containing intentionally added PFAS; (3) A cosmetic product containing intentionally added PFAS; ..."
+      },
+      "exceptions": {
+        "value": [
+          "Outdoor apparel for severe wet conditions",
+          "Textile article included in or a component part of a watercraft, aircraft or motor vehicle",
+          "Used products"
+        ],
+        "provenance": "(a) Outdoor apparel for severe wet conditions; or (b) A textile article that is included in or a component part of a watercraft, aircraft or motor vehicle, including an off-highway vehicle; The prohibition under this paragraph does not apply to any of the products listed in subparagraphs (1) to (9) that are sold, offered for sale or distributed for sale in used condition."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not mentioned for these products"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "containing intentionally added PFAS"
+      }
+    }
+  ]
+}

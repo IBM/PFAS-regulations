@@ -1,0 +1,128 @@
+{
+  "title": {
+    "value": "ASSEMBLY BILL NO. 97",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS"
+  },
+  "location": {
+    "value": "Nevada",
+    "provenance": "THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:"
+  },
+  "reference": {
+    "value": "A.B. 97",
+    "provenance": "(Reprinted with amendments adopted on April 19, 2021) FIRST REPRINT A.B. 97"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "ASSEMBLY BILL NO. 97"
+  },
+  "date": {
+    "value": "2021-02-08",
+    "provenance": "FEBRUARY 8, 2021"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Sec. 9. 'Perfluoroalkyl and polyfluoroalkyl substances' means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of:"
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "2. (a) Upon passage and approval for the purpose of adopting any regulations and performing any other preparatory administrative tasks that are necessary to carry out the provisions of sections 6 to 14.5, inclusive, of this act; and (b) On January 1, 2022, for all other purposes."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State or local agency"
+        ],
+        "provenance": "Section 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of:"
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "Section 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of:"
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam"
+        ],
+        "provenance": "Section 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of:"
+      },
+      "exceptions": {
+        "value": [
+          "To the extent preempted by federal law"
+        ],
+        "provenance": "Section 10. The provisions of sections 12 and 13 of this act do not apply to the extent that those provisions are preempted by or conflict with federal law, including, without limitation, any provision of federal law requiring the use of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances pursuant to 14 C.F.R. Part 139 or for military purposes."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Section 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of:"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Sec. 24. 1. Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "date": {
+        "value": "2022-07-01",
+        "provenance": "3. (a) Upon passage and approval for the purpose of adopting any regulations and performing any other preparatory administrative tasks that are necessary to carry out the provisions of sections 15 to 26, inclusive, of this act; and (b) On July 1, 2022, for all other purposes."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Wholesaler",
+          "Retailer"
+        ],
+        "provenance": "Sec. 24. 1. Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "Sec. 24. 1. Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "products": {
+        "value": [
+          "Children's product",
+          "Upholstered residential furniture",
+          "Residential textile",
+          "Business textile",
+          "Mattress"
+        ],
+        "provenance": "Sec. 24. 1. Except as otherwise provided in subsection 3, a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential textile, business textile or mattress that contains any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "exceptions": {
+        "value": [
+          "To the extent preempted by federal law",
+          "Any flame-retardant organohalogenated chemical that is a polymeric substance in accordance with the criteria set forth in 40 C.F.R. \u00a7 723.250, or is chemically reacted to form a polymer with the materials it is intended to protect"
+        ],
+        "provenance": "Sec. 24. 3. The provisions of this section do not apply to: (a) The extent preempted by federal law; (b) Any flame-retardant organohalogenated chemical that: (1) Is a polymeric substance in accordance with the criteria set forth in 40 C.F.R. \u00a7 723.250, or is chemically reacted to form a polymer with the materials it is intended to protect; or (2) Has a determination of safety pursuant to 15 U.S.C. \u00a7 2604(a)(3)(C) or 15 U.S.C. \u00a7 2605(b)(4);"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Sec. 8.5. 'Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances' means Class B firefighting foam containing perfluoroalkyl and polyfluoroalkyl substances that is designed to include at least one fully fluorinated carbon atom that is fully functional in the foam."
+      }
+    }
+  ]
+}

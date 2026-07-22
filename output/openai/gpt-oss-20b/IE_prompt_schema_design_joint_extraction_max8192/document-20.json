@@ -1,0 +1,430 @@
+{
+  "title": {
+    "value": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution",
+    "provenance": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution"
+  },
+  "location": {
+    "value": "State of Maine",
+    "provenance": "STATE OF MAINE"
+  },
+  "reference": {
+    "value": "S.P. 610 - L.D. 1537",
+    "provenance": "S.P. 610 - L.D. 1537"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution"
+  },
+  "date": {
+    "value": "2024-04-16",
+    "provenance": "APRIL 16, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "A manufacturer of a product for sale in the State that contains intentionally added PFAS and for which the department has determined that the use of PFAS in the product is a currently unavoidable use in accordance with subsection 5, paragraph F shall comply with the requirements of this subsection."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "by January 1, 2025, a The manufacturer of a product for sale in the State that contains intentionally added PFAS shall submit to the department a written notification"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "a manufacturer of a product for sale in the State"
+      },
+      "action": {
+        "value": [
+          "Submit notification"
+        ],
+        "provenance": "shall submit to the department a written notification"
+      },
+      "products": {
+        "value": [
+          "product for sale in the State that contains intentionally added PFAS"
+        ],
+        "provenance": "a product for sale in the State that contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "currently unavoidable use"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "date": {
+        "value": "2023-01-01",
+        "provenance": "effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ],
+        "provenance": "a person"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "may not sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "carpet or rug"
+        ],
+        "provenance": "a carpet or rug that contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "used carpet or rug in used condition"
+        ],
+        "provenance": "used any carpet or rug in used condition"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "a person may not sell, offer for sale or distribute for sale in this State a fabric treatment that contains intentionally added PFAS."
+      },
+      "date": {
+        "value": "2023-01-01",
+        "provenance": "effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a fabric treatment that contains intentionally added PFAS."
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ],
+        "provenance": "a person"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "may not sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "fabric treatment"
+        ],
+        "provenance": "a fabric treatment that contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "used fabric treatment"
+        ],
+        "provenance": "used fabric treatment"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "a person may not sell, offer for sale or distribute for sale in this State a cleaning product that contains intentionally added PFAS; a cookware product that contains intentionally added PFAS; a cosmetic product that contains intentionally added PFAS; a dental floss that contains intentionally added PFAS; a juvenile product that contains intentionally added PFAS; a menstruation product that contains intentionally added PFAS; a textile article that contains intentionally added PFAS."
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "effective January 1, 2026, a person may not sell, offer for sale or distribute for sale in this State:"
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ],
+        "provenance": "a person"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "may not sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "cleaning product",
+          "cookware product",
+          "cosmetic product",
+          "dental floss",
+          "juvenile product",
+          "menstruation product",
+          "textile article"
+        ],
+        "provenance": "a cleaning product that contains intentionally added PFAS; a cookware product that contains intentionally added PFAS; a cosmetic product that contains intentionally added PFAS; a dental floss that contains intentionally added PFAS; a juvenile product that contains intentionally added PFAS; a menstruation product that contains intentionally added PFAS; a textile article that contains intentionally added PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "Outdoor apparel for severe wet conditions",
+          "A textile article that is included in or a component part of a watercraft, aircraft or motor vehicle, including an off\u2011highway vehicle"
+        ],
+        "provenance": "(a) Outdoor apparel for severe wet conditions; (b) A textile article that is included in or a component part of a watercraft, aircraft or motor vehicle, including an off\u2011highway vehicle"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "a person may not sell, offer for sale or distribute for sale in this State: (1) an artificial turf that contains intentionally added PFAS; (2) an outdoor apparel for severe wet conditions that contains intentionally added PFAS."
+      },
+      "date": {
+        "value": "2029-01-01",
+        "provenance": "effective January 1, 2029, a person may not sell, offer for sale or distribute for sale in this State:"
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ],
+        "provenance": "a person"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "may not sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "artificial turf",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "(1) an artificial turf that contains intentionally added PFAS; (2) an outdoor apparel for severe wet conditions that contains intentionally added PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "used condition"
+        ],
+        "provenance": "used condition"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "a person may not sell, offer for sale or distribute for sale in this State any product that contains intentionally added PFAS that is not already prohibited from sale, offer for sale or distribution for sale pursuant to paragraph A, B, B\u20111, B\u20112 or C, unless the department has determined by rule in accordance with paragraph F that the use of PFAS in the product is a currently unavoidable use."
+      },
+      "date": {
+        "value": "2030-01-01",
+        "provenance": "effective January 1, 2030 2032, a person may not sell, offer for sale or distribute for sale in this State any product that contains intentionally added PFAS that is not already prohibited"
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ],
+        "provenance": "a person"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "may not sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "any product that contains intentionally added PFAS that is not already prohibited"
+        ],
+        "provenance": "any product that contains intentionally added PFAS that is not already prohibited"
+      },
+      "exceptions": {
+        "value": [
+          "used products",
+          "Cooling, heating, ventilation, air conditioning and refrigeration equipment",
+          "Refrigerants, foams and aerosol propellants that are listed as acceptable, acceptable subject to use conditions or acceptable subject to narrowed use limits by the United States Environmental Protection Agency pursuant to the Significant New Alternatives Policy program"
+        ],
+        "provenance": "used products; Cooling, heating, ventilation, air conditioning and refrigeration equipment; Refrigerants, foams and aerosol propellants that are listed as acceptable, acceptable subject to use conditions or acceptable subject to narrowed use limits by the United States Environmental Protection Agency pursuant to the Significant New Alternatives Policy program"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "a person may not sell, offer for sale or distribute for sale in this State: (1) Cooling, heating, ventilation, air conditioning or refrigeration equipment that contains intentionally added PFAS; (2) Refrigerants, foams or aerosol propellants that contain intentionally added PFAS."
+      },
+      "date": {
+        "value": "2040-01-01",
+        "provenance": "effective January 1, 2040, a person may not sell, offer for sale or distribute for sale in this State:"
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ],
+        "provenance": "a person"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "may not sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "Cooling, heating, ventilation, air conditioning or refrigeration equipment",
+          "Refrigerants, foams or aerosol propellants"
+        ],
+        "provenance": "(1) Cooling, heating, ventilation, air conditioning or refrigeration equipment that contains intentionally added PFAS; (2) Refrigerants, foams or aerosol propellants that contain intentionally added PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "used condition",
+          "parts and other servicing needs for cooling, heating, ventilation, air conditioning or refrigeration equipment"
+        ],
+        "provenance": "used condition; parts and other servicing needs for cooling, heating, ventilation, air conditioning or refrigeration equipment"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "By January 1, 2026, and biennially thereafter, the department shall submit to the joint standing committee of the Legislature having jurisdiction over environment and natural resources matters a report regarding the implementation of this section and other state and federal laws governing the presence of PFAS in products, including any recommendations for necessary legislative changes to this section."
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "By January 1, 2026, and biennially thereafter, the department shall submit to the joint standing committee of the Legislature having jurisdiction over environment and natural resources matters a report"
+      },
+      "who": {
+        "value": [
+          "Department"
+        ],
+        "provenance": "the department"
+      },
+      "action": {
+        "value": [
+          "Submit report"
+        ],
+        "provenance": "shall submit to the joint standing committee ... a report"
+      },
+      "products": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "If the department has reason to believe that a product contains intentionally added PFAS and is being sold, offered for sale or distributed for sale in violation of subsection 5 or 7, the department may direct the manufacturer of the product to, within 30 days: A. Provide the department with a certificate attesting that the product does not contain intentionally added PFAS."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "the manufacturer of the product"
+      },
+      "action": {
+        "value": [
+          "Provide certificate"
+        ],
+        "provenance": "Provide the department with a certificate attesting that the product does not contain intentionally added PFAS"
+      },
+      "products": {
+        "value": [
+          "product containing intentionally added PFAS"
+        ],
+        "provenance": "product containing intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "intentionally added PFAS"
+      }
+    }
+  ]
+}

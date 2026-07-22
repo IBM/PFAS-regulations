@@ -1,0 +1,65 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION",
+    "provenance": "HOUSE OF REPRESENTATIVES THIRTY-FIRST LEGISLATURE, 2022 STATE OF HAWAII\nH.B. NO. H.D. 1\n1644\nS.D. 1\nC.D. 1\n## A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION."
+  },
+  "location": {
+    "value": "State of Hawaii",
+    "provenance": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:"
+  },
+  "reference": {
+    "value": "HB1644 CD1",
+    "provenance": "HB1644 CD1"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent."
+  },
+  "date": {
+    "value": "2022-07-01",
+    "provenance": "SECTION 3. This Act shall take effect on July 1, 2022."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibit the manufacture, sale, or distribution for sale or use of wraps and liners, plates, food boats, and pizza boxes that contain PFAS; and Prohibit the manufacture, sale, distribution, and use of class B firefighting foams that contain PFAS, with certain exceptions."
+      },
+      "date": {
+        "value": "2024-07-01",
+        "provenance": "Beginning July 1, 2024"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Distributor",
+        "Seller"
+      ],
+      "action": [
+        "Manufacture",
+        "Sell",
+        "Distribute"
+      ],
+      "products": [
+        "wraps and liners",
+        "plates",
+        "food boats",
+        "pizza boxes",
+        "class B firefighting foams"
+      ],
+      "exceptions": [
+        "manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS chemicals is required by federal law or regulations"
+      ],
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

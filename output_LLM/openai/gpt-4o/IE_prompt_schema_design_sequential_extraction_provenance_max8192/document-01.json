@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "AN ACT relating to fire prevention",
+    "provenance": "AN ACT relating to fire prevention."
+  },
+  "location": {
+    "value": "Commonwealth of Kentucky",
+    "provenance": "Be it enacted by the General Assembly of the Commonwealth of Kentucky:"
+  },
+  "reference": {
+    "value": "CHAPTER 47 ( SB 104 )",
+    "provenance": "CHAPTER 47 ( SB 104 )"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Be it enacted by the General Assembly of the Commonwealth of Kentucky:"
+  },
+  "date": {
+    "value": "2019-03-22",
+    "provenance": "Signed by Governor March 22, 2019."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"PFAS chemicals\" means perfluoroalkyl and polyfluoroalkyl substances which, for the purpose of firefighting agents, is a class of fluorinated organic chemicals containing at least one (1) fully fluorinated carbon atom;"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Beginning on July 15, 2020, class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes unless otherwise required by law, regulation, or ordinance, and the testing facility has implemented best industry practices to prevent uncontrolled releases of class B firefighting foam in the environment."
+      },
+      "date": {
+        "value": "2020-07-15",
+        "provenance": "Beginning on July 15, 2020, class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes unless otherwise required by law, regulation, or ordinance, and the testing facility has implemented best industry practices to prevent uncontrolled releases of class B firefighting foam in the environment."
+      },
+      "who": {
+        "value": [
+          "User"
+        ],
+        "provenance": "class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes"
+      },
+      "action": {
+        "value": [
+          "Use"
+        ],
+        "provenance": "class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes"
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ],
+        "provenance": "\"Class B firefighting foam\" means foams designed for flammable liquid fires;"
+      },
+      "exceptions": {
+        "value": [
+          "unless otherwise required by law, regulation, or ordinance, and the testing facility has implemented best industry practices to prevent uncontrolled releases of class B firefighting foam in the environment",
+          "The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals",
+          "The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations"
+        ],
+        "provenance": "unless otherwise required by law, regulation, or ordinance, and the testing facility has implemented best industry practices to prevent uncontrolled releases of class B firefighting foam in the environment. (3) The restrictions in subsection (2) of this Act shall not apply to: (a) The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals; or (b) The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "class B firefighting foam that contains intentionally added PFAS chemicals"
+      }
+    }
+  ]
+}

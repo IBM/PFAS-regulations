@@ -1,0 +1,50 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "This Act takes effect upon becoming law."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "action": {
+        "value": [
+          "Discharge"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration"
+      },
+      "products": {
+        "value": [
+          "TRI-PFAS",
+          "aqueous film-forming foam that contains TRI-PFAS"
+        ],
+        "provenance": "No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill",
+          "landfill gas in a landfill gas recovery facility that is located at a sanitary landfill",
+          "waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable",
+          "sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility"
+        ],
+        "provenance": "Nothing in this Section applies to the incineration of (i) landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill, (ii) landfill gas in a landfill gas recovery facility that is located at a sanitary landfill, (iii) waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable, or (iv) sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health.",
+    "provenance": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 2771",
+    "provenance": "Assembly Bill No. 2771, Friedman. Cosmetic products: safety."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "For purposes of this chapter, the following terms have the following definitions: (b) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

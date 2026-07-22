@@ -1,0 +1,57 @@
+{
+  "title": {
+    "value": "Toxic Packaging Reduction Act",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "location": {
+    "value": "State of Rhode Island",
+    "provenance": "STATE OF R H O D E     IS L A N D"
+  },
+  "reference": {
+    "value": "2022 -- H 7438 SUBSTITUTE A",
+    "provenance": "2022 -- H 7438 SUBSTITUTE A"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "date": {
+    "value": "2022-02-11",
+    "provenance": "Date Introduced: February 11, 2022"
+  },
+  "pfas_definition": {
+    "value": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.",
+    "provenance": "23-18.13-3(g)(1) \"Intentional introduction of PFAS\" means deliberately utilizing PFAS in the formulation of a package or packaging component where its continued presence is desired..."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "23-18.13-4(c) No product shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state in a package which includes, in the package itself or in any of its packaging components, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements."
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "23-18.13-4(d) Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "who": [
+        "Manufacturer",
+        "Distributor"
+      ],
+      "action": [
+        "Sell",
+        "Offer for sale"
+      ],
+      "products": [
+        "Food package"
+      ],
+      "exceptions": [
+        "The use of substitute material used to replace a chemical regulated by this chapter in a package or packaging component may be used in a quantity or manner that creates a hazard as great as or greater than the hazard created by the chemical regulated by this act."
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": {
+        "value": true,
+        "provenance": "23-18.13-3(g)(1) \"Intentional introduction of PFAS\" means deliberately utilizing PFAS in the formulation of a package or packaging component where its continued presence is desired..."
+      }
+    }
+  ]
+}

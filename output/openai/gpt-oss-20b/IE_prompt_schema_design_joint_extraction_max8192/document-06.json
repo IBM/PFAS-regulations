@@ -1,0 +1,77 @@
+{
+  "title": {
+    "value": "A BILL ENTITLED AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "## A BILL ENTITLED\n## AN ACT concerning\n## Environment - Playground Surfacing Materials - Prohibitions"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND"
+  },
+  "reference": {
+    "value": "House Bill 1147",
+    "provenance": "## HOUSE BILL 1147"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "## A BILL ENTITLED"
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 24 October 1, 2024."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\u2018PFAS\u2019 MEANS PER- AND POLYFLUOROALKYL SUBSTANCES."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Seller",
+          "User",
+          "Person"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:\nA MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN:"
+      },
+      "products": {
+        "value": [
+          "playground surfacing materials that contain more than 90 parts per million of lead",
+          "playground surfacing materials that contain fluorinated organic chemicals that contain at least 1 fully fluorinated carbon atom, including PFAS substances",
+          "playground surfacing materials that contain more than 20 milligrams per kilogram of PAH"
+        ],
+        "provenance": "(1) MORE THAN 90 PARTS PER MILLION OF LEAD;\n(2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;\n(3) MORE THAN 20 MILLIGRAMS PER KILOGRAM OF PAH."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

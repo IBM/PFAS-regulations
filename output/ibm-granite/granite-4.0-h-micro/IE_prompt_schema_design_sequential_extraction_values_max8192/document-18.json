@@ -1,0 +1,58 @@
+{
+  "title": {
+    "value": "AB-2515 Menstrual products: perfluoroalkyl and polyfluoroalkyl substances (PFAS)"
+  },
+  "location": {
+    "value": "California"
+  },
+  "reference": {
+    "value": "AB-2515"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2024-09-30"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell"
+        ]
+      },
+      "products": {
+        "value": [
+          "Menstrual products"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

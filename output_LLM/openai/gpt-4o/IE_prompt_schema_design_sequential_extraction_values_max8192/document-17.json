@@ -1,0 +1,63 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 97"
+  },
+  "location": {
+    "value": "State of Nevada"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 97"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2021-02-08"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "not specified"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State agency",
+          "Local agency"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Testing with proper containment, treatment, and disposal measures",
+          "Provisions preempted by or conflict with federal law, including 14 C.F.R. Part 139 or for military purposes"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

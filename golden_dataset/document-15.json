@@ -1,0 +1,244 @@
+{
+  "title": {
+    "value": "PFAS Consumer Protection Law",
+    "provenance": "Section 1. This Act may be referred to as the PFAS Consumer Protection Law."
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "State of Illinois"
+  },
+  "reference": {
+    "value": "SB0088",
+    "provenance": "SB0088"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR"
+  },
+  "date": {
+    "value": "2023-01-20",
+    "provenance": "Introduced 1/20/2023, by Sen. Laura Fine"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": " “PFAS chemical “ means any of the perfluoroalkyl substances or polyfluoroalkyl substances included in the United States Environmental Protection Agency's expanded ToxCast chemical inventory."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "(c) On and after January 1, 2025, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in any of the following product categories if the product contains an intentionally added PFAS chemical: "
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "(c) On and after January 1, 2025, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in any of the following product categories if the product contains an intentionally added PFAS chemical: "
+      },
+      "who": {
+        "value": [
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "(c) On and after January 1, 2025, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in any of the following product categories if the product contains an intentionally added PFAS chemical: "
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "(c) On and after January 1, 2025, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in any of the following product categories if the product contains an intentionally added PFAS chemical: "
+      },
+      "products": {
+        "value": [
+          "Carpets",
+          "Rugs",
+          "Fabric treatments",
+          "Food Packaging",
+          "Juvenile products",
+          "Oil products",
+          "Gas Products",
+          "Apparel"
+        ],
+        "provenance": "(1) Carpets or rugs. (2) Fabric treatments. (3) Food packaging. (4) Juvenile products. (5) Oil and gas products. (6) Apparel. "
+      },
+      "exceptions": {
+        "value": null,
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(c) On and after January 1, 2025, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any product in any of the following product categories if the product contains an intentionally added PFAS chemical: "
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "(d) On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: "
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "(d) On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: "
+      },
+      "who": {
+        "value": [
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "(d) On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: "
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "(d) On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: "
+      },
+      "products": {
+        "value": [
+          "Cosmetics",
+          "Indoor textile furnishings",
+          "Indoor upholstered furniture"
+        ],
+        "provenance": "(1) Cosmetics. (2) Indoor textile furnishings. (3) Indoor upholstered furniture. "
+      },
+      "exceptions": {
+        "value": null,
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(d) On and after January 1, 2026, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: "
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "(e) On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: "
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "(e) On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: "
+      },
+      "who": {
+        "value": [
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "(e) On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: "
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "(e) On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: "
+      },
+      "products": {
+        "value": [
+          "outdoor textile furnishings",
+          "outdoor upholstered furniture"
+        ],
+        "provenance": "(1) Outdoor textile furnishings. (2) Outdoor upholstered furniture. "
+      },
+      "exceptions": {
+        "value": null,
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(e) On and after January 1, 2027, no person shall sell, distribute for sale, offer for sale, or distribute for use in the State any of the following products that contain an intentionally added PFAS chemical: "
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "(f) On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label. The PFAS manufacturer shall ensure that the product label is at least 2 square inches in size and includes a statement on the product label in both English and Spanish that reads:  “For more information about PFAS chemicals in this product, visit “ followed by both of the following: (1) The address of a website of the PFAS manufacturer that provides information explaining the purpose of the intentionally added PFAS chemical. (2) A quick response (QR) code, or other machine-readable code, consisting of an array of squares and that stores information directing consumers to the website required under paragraph (1) "
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "(f) On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label. The PFAS manufacturer shall ensure that the product label is at least 2 square inches in size and includes a statement on the product label in both English and Spanish that reads:  “For more information about PFAS chemicals in this product, visit “ followed by both of the following: (1) The address of a website of the PFAS manufacturer that provides information explaining the purpose of the intentionally added PFAS chemical. (2) A quick response (QR) code, or other machine-readable code, consisting of an array of squares and that stores information directing consumers to the website required under paragraph (1) "
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "(f) On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label. The PFAS manufacturer shall ensure that the product label is at least 2 square inches in size and includes a statement on the product label in both English and Spanish that reads:  “For more information about PFAS chemicals in this product, visit “ followed by both of the following: (1) The address of a website of the PFAS manufacturer that provides information explaining the purpose of the intentionally added PFAS chemical. (2) A quick response (QR) code, or other machine-readable code, consisting of an array of squares and that stores information directing consumers to the website required under paragraph (1) "
+      },
+      "action": {
+        "value": null,
+        "provenance": null
+      },
+      "products": {
+        "value": [
+          "Cookware"
+        ],
+        "provenance": "(f) On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label. The PFAS manufacturer shall ensure that the product label is at least 2 square inches in size and includes a statement on the product label in both English and Spanish that reads:  “For more information about PFAS chemicals in this product, visit “ followed by both of the following: (1) The address of a website of the PFAS manufacturer that provides information explaining the purpose of the intentionally added PFAS chemical. (2) A quick response (QR) code, or other machine-readable code, consisting of an array of squares and that stores information directing consumers to the website required under paragraph (1) "
+      },
+      "exceptions": {
+        "value": null,
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(f) On and after January 1, 2025, a PFAS manufacturer of cookware sold in this State that contains an intentionally added PFAS chemical in the handle of the cookware or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages shall list the presence of PFAS chemicals on the cookware's product label. The PFAS manufacturer shall ensure that the product label is at least 2 square inches in size and includes a statement on the product label in both English and Spanish that reads:  “For more information about PFAS chemicals in this product, visit “ followed by both of the following: (1) The address of a website of the PFAS manufacturer that provides information explaining the purpose of the intentionally added PFAS chemical. (2) A quick response (QR) code, or other machine-readable code, consisting of an array of squares and that stores information directing consumers to the website required under paragraph (1) "
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or before December 31, 2024 shall submit the written notification required under this subsection no later than 30 days before January 1, 2025. A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or after January 1, 2025 shall submit the written notification required under this subsection at least 30 days after the PFAS manufacturer sells or distributes the product."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or before December 31, 2024 shall submit the written notification required under this subsection no later than 30 days before January 1, 2025. A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or after January 1, 2025 shall submit the written notification required under this subsection at least 30 days after the PFAS manufacturer sells or distributes the product."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or before December 31, 2024 shall submit the written notification required under this subsection no later than 30 days before January 1, 2025. A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or after January 1, 2025 shall submit the written notification required under this subsection at least 30 days after the PFAS manufacturer sells or distributes the product."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or before December 31, 2024 shall submit the written notification required under this subsection no later than 30 days before January 1, 2025. A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or after January 1, 2025 shall submit the written notification required under this subsection at least 30 days after the PFAS manufacturer sells or distributes the product."
+      },
+      "products": {
+        "value": null,
+        "provenance": null
+      },
+      "exceptions": {
+        "value": null,
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or before December 31, 2024 shall submit the written notification required under this subsection no later than 30 days before January 1, 2025. A PFAS manufacturer who sells or distributes a product containing intentionally added PFAS chemicals for use in the State on or after January 1, 2025 shall submit the written notification required under this subsection at least 30 days after the PFAS manufacturer sells or distributes the product."
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "title": {
+    "value": "Hazardous Products Act",
+    "provenance": "This act may be cited as the 'hazardous products act'."
+  },
+  "location": {
+    "value": "Michigan",
+    "provenance": "The People of the State of Michigan"
+  },
+  "reference": {
+    "value": "House Bill No. 5657",
+    "provenance": "House Bill No. 5657"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "A bill to require notices and warnings if certain products contain certain chemicals; to provide for the powers and duties of certain state governmental officers and entities; and to provide for civil sanctions and remedies."
+  },
+  "date": {
+    "value": "2024-04-24",
+    "provenance": "April 24, 2024, Introduced by Reps. Tsernoglou, Byrnes, Rheingans, Arbit, Hope, Hood, Wilson, Price, Conlin, Mentzer, MacDonell, Andrews, Brabec, Wegela, Skaggs, O'Neal, Morgan, Young, Haadsma, Steckloff and Aiyash and referred to the Committee on Natural Resources, Environment, Tourism and Outdoor Recreation."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "PFAS means a perfluoroalkyl or polyfluoroalkyl substance that includes any member of the class of fluorinated organic chemicals containing at least 1 fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Sec. 7(1)"
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Beginning January 1, 2027"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Local government",
+          "State agency"
+        ],
+        "provenance": "A person, local government, or state agency shall not discharge or otherwise use class A or class B firefighting foam that contains intentionally added PFAS."
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ],
+        "provenance": "Sec. 9(1)"
+      },
+      "products": {
+        "value": [
+          "Class A or class B firefighting foam"
+        ],
+        "provenance": "Sec. 9(1)"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Sec. 6(c)"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Sec. 7(2)"
+      },
+      "date": {
+        "value": "2032-01-01",
+        "provenance": "Beginning January 1, 2032"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A person shall not sell, or offer or distribute for sale, any product that contains intentionally added PFAS"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "Sec. 7(2)"
+      },
+      "products": {
+        "value": [
+          "Apparel",
+          "Carpets, rugs, or another similar fabric",
+          "Cleaning products",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments or other similar substances",
+          "Juvenile products",
+          "Menstruation products",
+          "Textile furnishings",
+          "Ski wax or other similar lubricant",
+          "Upholstered furniture"
+        ],
+        "provenance": "Sec. 7(1)(a)-(k)"
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of used products",
+          "products for which federal law governs the presence of PFAS",
+          "Class B firefighting foam subject to regulation under 14 CFR 139.317 or another federal law",
+          "Class B firefighting foam if a federal law allowing alternative firefighting agents is amended on or after January 1, 2024"
+        ],
+        "provenance": "Sec. 7(2), (3)"
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "Sec. 7(2)"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": null
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "Sec. 5(1)"
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Beginning January 1, 2027"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A manufacturer of a product sold in this state that contains intentionally added PFAS"
+      },
+      "action": {
+        "value": [
+          "Submit notice"
+        ],
+        "provenance": "Sec. 5(1)"
+      },
+      "products": {
+        "value": [],
+        "provenance": null
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Sec. 5(1)"
+      }
+    }
+  ]
+}

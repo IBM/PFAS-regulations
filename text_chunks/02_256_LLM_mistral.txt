@@ -1,0 +1,8 @@
+
+Be it enacted by the People of the State of Illinois, represented in the General Assembly:
+Section 5. The Environmental Protection Act is amended by adding Section 22.62 as follows:
+(415 ILCS 5/22.62 new)
+Sec. 22.62. TRI-PFAS; incineration.
+(a) As used in this Section:
+the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants.
+(b) No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS. The Agency may propose, and the Board may adopt, any rules it deems necessary to carry out the provisions of this Section.

@@ -1,0 +1,263 @@
+{
+  "title": {
+    "value": "hazardous products act",
+    "provenance": "This act may be cited as the \"hazardous products act\"."
+  },
+  "location": {
+    "value": "Michigan",
+    "provenance": "THE PEOPLE OF THE STATE OF MICHIGAN ENACT:"
+  },
+  "reference": {
+    "value": "HOUSE BILL NO. 5657",
+    "provenance": "## HOUSE BILL NO. 5657"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A bill to require notices and warnings if certain products contain certain chemicals;"
+  },
+  "date": {
+    "value": "2024-04-24",
+    "provenance": "April 24, 2024, Introduced by Reps. Tsernoglou, Byrnes, Rheingans, Arbit, Hope, Hood, Wilson, Price, Conlin, Mentzer, MacDonell, Andrews, Brabec, Wegela, Skaggs, O'Neal, Morgan, Young, Haadsma, Steckloff and Aiyash and referred to the Committee on Natural Resources, Environment, Tourism and Outdoor Recreation."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"PFAS\" means a perfluoroalkyl or polyfluoroalkyl substance that includes any member of the class of fluorinated organic chemicals containing at least 1 fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "Beginning January 1, 2027, a manufacturer of a product sold in this state that contains intentionally added PFAS shall submit to the department and any person that will sell, at wholesale or retail, or offer or distribute for sale, the product a notice that contains all of the following information:"
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Beginning January 1, 2027, a manufacturer of a product sold in this state that contains intentionally added PFAS shall submit to the department and any person that will sell, at wholesale or retail, or offer or distribute for sale, the product a notice that contains all of the following information:"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "Beginning January 1, 2027, a manufacturer of a product sold in this state that contains intentionally added PFAS shall submit to the department and any person that will sell, at wholesale or retail, or offer or distribute for sale, the product a notice that contains all of the following information:"
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "Beginning January 1, 2027, a manufacturer of a product sold in this state that contains intentionally added PFAS shall submit to the department and any person that will sell, at wholesale or retail, or offer or distribute for sale, the product a notice that contains all of the following information:"
+      },
+      "products": {
+        "value": [
+          "product"
+        ],
+        "provenance": "Beginning January 1, 2027, a manufacturer of a product sold in this state that contains intentionally added PFAS shall submit to the department and any person that will sell, at wholesale or retail, or offer or distribute for sale, the product a notice that contains all of the following information:"
+      },
+      "exceptions": {
+        "value": [
+          "federal law governs the presence of PFAS in the product"
+        ],
+        "provenance": "A manufacturer of a product for which federal law governs the presence of PFAS in the product is exempt from subsection (1)."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "The department shall review a notice submitted under subsection (1) and determine whether the use of PFAS is currently unavoidable."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Beginning January 1, 2027, a manufacturer of a product sold in this state that contains intentionally added PFAS shall submit to the department and any person that will sell, at wholesale or retail, or offer or distribute for sale, the product a notice that contains all of the following information:"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Beginning January 1, 2027, a person shall not sell, or offer or distribute for sale, any of the following products, if the product contains intentionally added PFAS, unless the department has issued a waiver for the product under section 5(3) and the person, if not the manufacturer, has obtained a copy of the waiver from the manufacturer:"
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Beginning January 1, 2027, a person shall not sell, or offer or distribute for sale, any of the following products, if the product contains intentionally added PFAS, unless the department has issued a waiver for the product under section 5(3) and the person, if not the manufacturer, has obtained a copy of the waiver from the manufacturer:"
+      },
+      "who": {
+        "value": [
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "Beginning January 1, 2027, a person shall not sell, or offer or distribute for sale, any of the following products, if the product contains intentionally added PFAS, unless the department has issued a waiver for the product under section 5(3) and the person, if not the manufacturer, has obtained a copy of the waiver from the manufacturer:"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "Beginning January 1, 2027, a person shall not sell, or offer or distribute for sale, any of the following products, if the product contains intentionally added PFAS, unless the department has issued a waiver for the product under section 5(3) and the person, if not the manufacturer, has obtained a copy of the waiver from the manufacturer:"
+      },
+      "products": {
+        "value": [
+          "Apparel",
+          "Carpets",
+          "rugs",
+          "Cleaning products",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments",
+          "Juvenile products",
+          "Menstruation products",
+          "Textile furnishings",
+          "Ski wax",
+          "Upholstered furniture"
+        ],
+        "provenance": "(a) Apparel, which includes clothing items intended for regular wear or formal occasions, including, but not limited to, undergarments, shirts, pants, skirts, dresses, overalls, bodysuits, costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school uniforms, leisurewear, athletic wear, sports uniforms, everyday swimwear, formal wear, onesies, bibs, diapers, footwear, outdoor apparel, and everyday uniforms for workwear. Apparel does not include personal protective equipment or items for use by the United States military. (b) Carpets, rugs, or another similar fabric that is marketed or intended for use as a floor covering. (c) Cleaning products, which are used primarily for janitorial, household, or institutional cleaning purposes, such as an air care, automotive, general cleaning, or a polish or floor maintenance product. (d) Cookware, which are durable items that are used in homes and food establishments to prepare, dispense, or store food, and includes, but is not limited to, pots, pans, skillets, grills, baking sheets, baking molds, trays, bowls, and cooking utensils. (e) Cosmetics, which include any item, or component part thereof, that is intended to be rubbed, poured, sprinkled, sprayed on, introduced into, or otherwise applied to the human body or any part of the human body for cleansing, beautifying, promoting attractiveness, or altering the appearance. Cosmetics do not include soap. (f) Dental floss, which is a waxed or unwaxed thread used to remove food particles and plaque from between the teeth and under the gums. (g) Fabric treatments or other similar substances that are applied to fabric to give the fabric 1 or more characteristics, such as stain or water resistance. (h) Juvenile products, which include any product designed for use by infants and children under 12 years of age, such as a baby or toddler foam pillow, bassinet, bedside sleeper, booster seat, changing pad, child restraint system for use in motor vehicles and aircraft, co-sleeper, crib mattress, floor playmat, high chair, high chair pad, infant bouncer, infant carrier, infant seat, infant sleep positioner, infant swing, infant travel bed, infant walker, nap cot, nursing pad, nursing pillow, playmat, playpen, play yard, polyurethane foam mat, pad, or pillow, portable foam nap mat, portable infant sleeper, portable hook-on chair, soft-sided portable crib, stroller, and toddler mattress. (i) Menstruation products, which include any disposable or reusable product used to collect menstruation and vaginal discharge, such as tampons, pads, sponges, menstruation underwear, discs, and menstrual cups. (j) Textile furnishings, which include any type of textile customarily used in households and businesses, such as draperies, floor coverings, furnishings, bedding, towels, and tablecloths. (k) Ski wax or other similar lubricant that is applied to the bottom of snow runners. (l) Upholstered furniture, which includes any article of furniture that is designed to be used for sitting, resting, or reclining and that is wholly or partly stuffed or filled with any filling material."
+      },
+      "exceptions": {
+        "value": [
+          "personal protective equipment",
+          "items for use by the United States military",
+          "sale or resale of used products"
+        ],
+        "provenance": "Apparel does not include personal protective equipment or items for use by the United States military. (3) This section does not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "unless the department has issued a waiver for the product under section 5(3)"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "if the product contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Beginning January 1, 2032, a person shall not sell, or offer or distribute for sale, any product that contains intentionally added PFAS, unless the department has issued a waiver for the product under section 5(3) and the person, if not the manufacturer, has obtained a copy of the waiver from the manufacturer."
+      },
+      "date": {
+        "value": "2032-01-01",
+        "provenance": "Beginning January 1, 2032, a person shall not sell, or offer or distribute for sale, any product that contains intentionally added PFAS, unless the department has issued a waiver for the product under section 5(3) and the person, if not the manufacturer, has obtained a copy of the waiver from the manufacturer."
+      },
+      "who": {
+        "value": [
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "Beginning January 1, 2032, a person shall not sell, or offer or distribute for sale, any product that contains intentionally added PFAS, unless the department has issued a waiver for the product under section 5(3) and the person, if not the manufacturer, has obtained a copy of the waiver from the manufacturer."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "Beginning January 1, 2032, a person shall not sell, or offer or distribute for sale, any product that contains intentionally added PFAS, unless the department has issued a waiver for the product under section 5(3) and the person, if not the manufacturer, has obtained a copy of the waiver from the manufacturer."
+      },
+      "products": {
+        "value": null,
+        "provenance": null
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of used products"
+        ],
+        "provenance": "(3) This section does not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "unless the department has issued a waiver for the product under section 5(3)"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "any product that contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "beginning January 1, 2027, a person, local government, or state agency shall not discharge or otherwise use class A or class B firefighting foam that contains intentionally added PFAS."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "beginning January 1, 2027, a person, local government, or state agency shall not discharge or otherwise use class A or class B firefighting foam that contains intentionally added PFAS."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Local government",
+          "State agency"
+        ],
+        "provenance": "beginning January 1, 2027, a person, local government, or state agency shall not discharge or otherwise use class A or class B firefighting foam that contains intentionally added PFAS."
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ],
+        "provenance": "beginning January 1, 2027, a person, local government, or state agency shall not discharge or otherwise use class A or class B firefighting foam that contains intentionally added PFAS."
+      },
+      "products": {
+        "value": [
+          "class A or class B firefighting foam"
+        ],
+        "provenance": "beginning January 1, 2027, a person, local government, or state agency shall not discharge or otherwise use class A or class B firefighting foam that contains intentionally added PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "class B firefighting foam that contains intentionally added PFAS that is subject to regulation under 14 CFR 139.317 or another federal law"
+        ],
+        "provenance": "The restrictions under subsections (1) and (2) do not apply to the manufacture, sale, distribution, or use of class B firefighting foam that contains intentionally added PFAS that is subject to regulation under 14 CFR 139.317 or another federal law."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "beginning January 1, 2027, a person, local government, or state agency shall not discharge or otherwise use class A or class B firefighting foam that contains intentionally added PFAS."
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "Beginning January 1, 2027, a person that sells firefighter personal protective equipment in this state shall provide a written notice to the purchaser at the time of sale if the firefighter personal protective equipment contains intentionally added PFAS."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Beginning January 1, 2027, a person that sells firefighter personal protective equipment in this state shall provide a written notice to the purchaser at the time of sale if the firefighter personal protective equipment contains intentionally added PFAS."
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ],
+        "provenance": "Beginning January 1, 2027, a person that sells firefighter personal protective equipment in this state shall provide a written notice to the purchaser at the time of sale if the firefighter personal protective equipment contains intentionally added PFAS."
+      },
+      "action": {
+        "value": [
+          "Sell"
+        ],
+        "provenance": "Beginning January 1, 2027, a person that sells firefighter personal protective equipment in this state shall provide a written notice to the purchaser at the time of sale if the firefighter personal protective equipment contains intentionally added PFAS."
+      },
+      "products": {
+        "value": [
+          "firefighter personal protective equipment"
+        ],
+        "provenance": "Beginning January 1, 2027, a person that sells firefighter personal protective equipment in this state shall provide a written notice to the purchaser at the time of sale if the firefighter personal protective equipment contains intentionally added PFAS."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "if the firefighter personal protective equipment contains intentionally added PFAS."
+      }
+    }
+  ]
+}

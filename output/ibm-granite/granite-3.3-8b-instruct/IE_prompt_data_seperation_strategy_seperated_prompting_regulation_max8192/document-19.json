@@ -1,0 +1,195 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any (A) apparel; (B) carpet or rug; (C) cleaning product; (D) cookware; (E) cosmetic product; (F) dental floss; (G) fabric treatment; (H) children's product; (I) menstruation product; (J) textile furnishings; (K) ski wax; or (L) upholstered furniture if such product contains intentionally added PFAS"
+      },
+      "date": {
+        "value": "2026-07-01",
+        "provenance": "On and after July 1, 2026"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishings",
+          "ski wax",
+          "upholstered furniture"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale any ... (L) upholstered furniture if such product contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "products for which federal law governs or requires the presence of PFAS in the product in a manner that preempts state authority",
+          "products regulated under section 22a-903a or 22a-255i of the general statutes",
+          "the sale or resale of a used product",
+          "prosthetic, orthotic device or product that is a medical device or drug or that is otherwise used in a medical setting or in medical applications regulated by the United States Food and Drug Administration",
+          "any product made with not less than eighty-five per cent recycled content",
+          "any product manufactured prior to any prohibition imposed by the provisions of this section",
+          "replacement parts for any product manufactured prior to any prohibition imposed by the provisions of this section"
+        ],
+        "provenance": "The provisions of this section shall not be construed to apply to"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable' use in the document"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "The regulation specifically targets 'intentionally added PFAS'"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale in this state any ... unless such product is labeled in accordance with this subsection"
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "On and after January 1, 2026"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "turnout gear",
+          "carpets or rugs",
+          "cleaning products",
+          "cookware",
+          "cosmetic products",
+          "dental floss",
+          "fabric treatments",
+          "children's products",
+          "menstruation products",
+          "textile furnishings",
+          "ski wax",
+          "upholstered furniture",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale in this state any ... unless such product is labeled in accordance with this subsection"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No specific exceptions mentioned for labeling in the document"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable' use in the document"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "The regulation specifically targets 'intentionally added PFAS'"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after January 1, 2028, no person shall manufacture, sell, offer for sale or distribute for sale in this state any ... if such product contains intentionally added PFAS"
+      },
+      "date": {
+        "value": "2028-01-01",
+        "provenance": "On and after January 1, 2028"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "turnout gear",
+          "carpets or rugs",
+          "cleaning products",
+          "cookware",
+          "cosmetic products",
+          "dental floss",
+          "fabric treatments",
+          "children's products",
+          "menstruation products",
+          "textile furnishings",
+          "ski wax",
+          "upholstered furniture",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "On and after January 1, 2028, no person shall manufacture, sell, offer for sale or distribute for sale in this state any ... if such product contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "products for which federal law governs or requires the presence of PFAS in the product in a manner that preempts state authority",
+          "products regulated under section 22a-903a or 22a-255i of the general statutes",
+          "the sale or resale of a used product",
+          "prosthetic, orthotic device or product that is a medical device or drug or that is otherwise used in a medical setting or in medical applications regulated by the United States Food and Drug Administration",
+          "any product made with not less than eighty-five per cent recycled content",
+          "any product manufactured prior to any prohibition imposed by the provisions of this section",
+          "replacement parts for any product manufactured prior to any prohibition imposed by the provisions of this section"
+        ],
+        "provenance": "The provisions of this section shall not be construed to apply to"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable' use in the document"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "The regulation specifically targets 'intentionally added PFAS'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": {
+    "value": "PFAS Consumer Protection Law",
+    "provenance": "Act concerning safety. Be it enacted by the People of the State of Illinois, represented in the General Assembly: Section 1. This Act may be referred to as the PFAS Consumer Protection Law."
+  },
+  "location": {
+    "value": "State of Illinois",
+    "provenance": "State of Illinois"
+  },
+  "reference": {
+    "value": "SB0088",
+    "provenance": "SB0088"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Be it enacted by the People of the State of Illinois, represented in the General Assembly:"
+  },
+  "date": {
+    "value": "2023-01-20",
+    "provenance": "Introduced 1/20/2023, by Sen. Laura Fine"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "No explicit PFAS definition provided in the document"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "On and after January 1, 2025"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Importer"
+      ],
+      "action": [
+        "Sell",
+        "Distribute for sale",
+        "Distribute for use"
+      ],
+      "products": [
+        "Carpets or rugs",
+        "Fabric treatments",
+        "Food packaging",
+        "Juvenile products",
+        "Oil and gas products",
+        "Cosmetics",
+        "Indoor textile furnishings",
+        "Indoor upholstered furniture"
+      ],
+      "exceptions": [
+        "Cookware that contains an intentionally added PFAS chemical in the handle of the product or in any surface of the cookware that comes into contact with food, foodstuffs, or beverages and meets specific requirements"
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": true
+    }
+  ]
+}

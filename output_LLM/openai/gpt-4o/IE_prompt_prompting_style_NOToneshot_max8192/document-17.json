@@ -1,0 +1,76 @@
+{
+  "title": {
+    "value": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS"
+  },
+  "location": {
+    "value": "Nevada",
+    "provenance": "THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 97",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS"
+  },
+  "date": {
+    "value": "2021-02-08",
+    "provenance": "FEBRUARY 8, 2021"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Sec. 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of: (a) Testing the Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances unless the person testing the foam has ensured that any measures necessary for the proper containment, treatment and disposal of the foam are available at the testing location and such measures will prevent the release of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances to the surrounding environment; or (b) Firefighting training."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "not specified"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State agency",
+          "Local agency"
+        ],
+        "provenance": "Sec. 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of: (a) Testing the Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances unless the person testing the foam has ensured that any measures necessary for the proper containment, treatment and disposal of the foam are available at the testing location and such measures will prevent the release of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances to the surrounding environment; or (b) Firefighting training."
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "Sec. 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of: (a) Testing the Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances unless the person testing the foam has ensured that any measures necessary for the proper containment, treatment and disposal of the foam are available at the testing location and such measures will prevent the release of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances to the surrounding environment; or (b) Firefighting training."
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam"
+        ],
+        "provenance": "Sec. 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of: (a) Testing the Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances unless the person testing the foam has ensured that any measures necessary for the proper containment, treatment and disposal of the foam are available at the testing location and such measures will prevent the release of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances to the surrounding environment; or (b) Firefighting training."
+      },
+      "exceptions": {
+        "value": [
+          "Preempted by or conflict with federal law, including, without limitation, any provision of federal law requiring the use of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances pursuant to 14 C.F.R. Part 139 or for military purposes."
+        ],
+        "provenance": "Sec. 10. The provisions of sections 12 and 13 of this act do not apply to the extent that those provisions are preempted by or conflict with federal law, including, without limitation, any provision of federal law requiring the use of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances pursuant to 14 C.F.R. Part 139 or for military purposes."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Sec. 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of: (a) Testing the Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances unless the person testing the foam has ensured that any measures necessary for the proper containment, treatment and disposal of the foam are available at the testing location and such measures will prevent the release of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances to the surrounding environment; or (b) Firefighting training."
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT Relating to prohibitions for certain products; creating new provisions; and amending ORS 459.995.",
+    "provenance": "A BILL FOR AN ACT Relating to prohibitions for certain products; creating new provisions; and amending ORS 459.995."
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "Be It Enacted by the People of the State of Oregon"
+  },
+  "reference": {
+    "value": "Senate Bill 543",
+    "provenance": "Senate Bill 543"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2023-05-24",
+    "provenance": "05/24/2023   Governor Approval"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Prohibits ... selling or distributing foodware containers containing perfluoroalkyl or polyfluoroalkyl substances."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits ... selling or distributing polystyrene foam containers or polystyrene foam packaging peanuts."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute ..."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute ..."
+      },
+      "products": {
+        "value": [
+          "polystyrene foam containers",
+          "polystyrene foam packaging peanuts"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute polystyrene foam containers or polystyrene foam packaging peanuts."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "None specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "None specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "None specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits ... selling or distributing foodware containers containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute ..."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute ..."
+      },
+      "products": {
+        "value": null,
+        "provenance": "None specified"
+      },
+      "exceptions": {
+        "value": [
+          "sale or resale of a used product",
+          "pesticide",
+          "fertilizer",
+          "agricultural liming material",
+          "plant amendment",
+          "soil amendment",
+          "prosthetic device",
+          "orthotic device",
+          "medical device",
+          "drug"
+        ],
+        "provenance": "The commissioner may not take action under paragraph (b) or (c) with respect to ... unless the commissioner of agriculture approves the action."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "None specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "None specified"
+      }
+    }
+  ]
+}

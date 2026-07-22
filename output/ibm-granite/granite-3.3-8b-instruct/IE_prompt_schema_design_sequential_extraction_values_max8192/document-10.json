@@ -1,0 +1,87 @@
+{
+  "title": {
+    "value": "An Act relating to health and safety -- Toxic Packaging Reduction Act"
+  },
+  "location": {
+    "value": "State of Rhode Island"
+  },
+  "reference": {
+    "value": "LC004634/SUB A"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2022"
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Promote"
+        ]
+      },
+      "products": {
+        "value": [
+          "Food packaging"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2027-07-01"
+      },
+      "who": {
+        "value": []
+      },
+      "action": {
+        "value": []
+      },
+      "products": {
+        "value": [
+          "Post-consumer recycled materials used in packaging"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Use of post-consumer recycled materials where the regulated chemicals are not intentionally introduced"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

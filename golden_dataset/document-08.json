@@ -1,0 +1,72 @@
+{
+    "title": {
+        "value": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes.",
+        "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+    },
+    "location": {
+        "value": "New Jersey",
+        "provenance": "STATE OF NEW JERSEY"
+    },
+    "reference": {
+        "value": "ASSEMBLY, No. 4125",
+        "provenance": "ASSEMBLY, No. 4125"
+    },
+    "status": {
+        "value": "Bill",
+        "provenance": "This bill would prohibit, beginning two years after the bill’s effective date, the sale, manufacture, distribution, and use of any class B firefighting foam containing intentionally added PFAS within the State."
+    },
+    "date": {
+        "value": "2022-06-02",
+        "provenance": "INTRODUCED JUNE 2, 2022"
+    },
+    "pfas_definition": {
+        "value": "single_fluorinated_carbon",
+        "provenance": "“Perfluoroalkyl or polyfluoroalkyl substance”  or “PFAS” means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+    },
+    "regulations": [
+        {
+            "type": {
+                "value": "Ban/Restrict",
+                "provenance": "(1) A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance. "
+            },
+            "date": {
+                "value": "2024-06-02",
+                "provenance": "This act shall take effect immediately. STATEMENT This bill would prohibit, beginning two years after the bill’s effective date, the sale, manufacture, distribution, and use of any class B firefighting foam containing intentionally added PFAS within the State."
+            },
+            "who": {
+                "value": null,
+                "provenance": null
+            },
+            "action": {
+                "value": [
+                    "sale",
+                    "manufacture",
+                    "distribution",
+                    "use"
+                ],
+                "provenance": "This bill would prohibit, beginning two years after the bill’s effective date, the sale, manufacture, distribution, and use of any class B firefighting foam containing intentionally added PFAS within the State."
+            },
+            "products": {
+                "value": [
+                    "class B firefighting foam"
+                ],
+                "provenance": "This bill would prohibit, beginning two years after the bill’s effective date, the sale, manufacture, distribution, and use of any class B firefighting foam containing intentionally added PFAS within the State."
+            },
+            "exceptions": {
+                "value": [
+                    "class B firefighting foam",
+                    "federal law"
+                ],
+                "provenance": "The bill’s provisions would not apply to the sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law or regulation, including, but not limited to, 14 C.F.R. s.139.317. If a federal requirement to include PFAS in class B firefighting foam is revoked, the bill’s provisions would apply one year after the requirement is revoked."
+            },
+            "currently_unavoidable": {
+                "value": false,
+                "provenance": null
+            },
+            "intentionally_added": {
+                "value": true,
+                "provenance": "This bill would prohibit, beginning two years after the bill’s effective date, the sale, manufacture, distribution, and use of any class B firefighting foam containing intentionally added PFAS within the State."
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "ASSEMBLY, No. 4125",
+    "provenance": "## ASSEMBLY, No. 4125"
+  },
+  "location": {
+    "value": "STATE OF NEW JERSEY",
+    "provenance": "## STATE OF NEW JERSEY"
+  },
+  "reference": {
+    "value": "A4125",
+    "provenance": "## A4125 HAIDER, SWAIN 4"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "INTRODUCED JUNE 2, 2022"
+  },
+  "date": {
+    "value": "2022-06-02",
+    "provenance": "INTRODUCED JUNE 2, 2022"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

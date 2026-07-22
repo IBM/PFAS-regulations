@@ -1,0 +1,77 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS",
+    "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS."
+  },
+  "location": {
+    "value": "Connecticut",
+    "provenance": "Connecticut"
+  },
+  "reference": {
+    "value": "Public Act No. 24-59",
+    "provenance": "Public Act No. 24-59"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved June 5, 2024"
+  },
+  "date": {
+    "value": "2024-06-05",
+    "provenance": "Approved June 5, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any ... unless such product is labeled in accordance with this subsection."
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "On and after July 1, 2026"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Distributor",
+        "Seller",
+        "User"
+      ],
+      "action": [
+        "Manufacture",
+        "Sell",
+        "Offer for sale",
+        "Distribute for sale"
+      ],
+      "products": [
+        "apparel",
+        "carpet or rug",
+        "cleaning product",
+        "cookware",
+        "cosmetic product",
+        "dental floss",
+        "fabric treatment",
+        "children's product",
+        "menstruation product",
+        "textile furnishing",
+        "ski wax",
+        "upholstered furniture",
+        "outdoor apparel for severe wet conditions"
+      ],
+      "exceptions": [
+        "cosmetic product with unavoidable trace quantity of PFAS attributable to impurities of natural or synthetic ingredients"
+      ],
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "currently_unavoidable: true"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "intentionally_added: true"
+      }
+    }
+  ]
+}

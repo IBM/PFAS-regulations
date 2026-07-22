@@ -1,0 +1,73 @@
+{
+  "title": {
+    "value": "Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act",
+    "provenance": "SEC. 1. This act shall be known, and may be cited, as the Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "AB-2515 Menstrual products: perfluoroalkyl and polyfluoroalkyl substances (PFAS). (2023-2024)"
+  },
+  "reference": {
+    "value": "AB-2515",
+    "provenance": "AB-2515 Menstrual products: perfluoroalkyl and polyfluoroalkyl substances (PFAS). (2023-2024)"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An act to add Article 15 (commencing with Section 25258) to Chapter 6.5 of Division 20 of the Health and Safety Code, relating to public health."
+  },
+  "date": {
+    "value": "2024-09-30",
+    "provenance": "Date Published: 09/30/2024 09:00 PM"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\u00d2Perfluoroalkyl and polyfluoroalkyl substances\u00d3 or \u00d2PFAS\u00d3 means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Commencing January 1, 2025, PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product, including the PFAS components of intentionally added chemicals and PFAS that are intentional breakdown products of an added chemical that also have a functional or technical effect in the product."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "products": {
+        "value": [
+          "menstrual products"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": ""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": ""
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Commencing January 1, 2025, PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product, including the PFAS components of intentionally added chemicals and PFAS that are intentional breakdown products of an added chemical that also have a functional or technical effect in the product."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+
+§1614. Products containing PFAS
+A. Except as provided in subsection 3, by January 1, 2025, a The manufacturer of a product for sale in the State that contains intentionally added PFAS shall submit to the department a written notification that includes, to the extent known to or reasonably ascertainable by the manufacturer:
+(1) Abrief description of the product, including an estimate of the total number of units of the product sold annually in the State or nationally;
+(2) The purpose for which PFAS are used in the product, including in any product components;
+(3) The amount of each of the PFAS, identified by its chemical abstracts service registry number or in the absence of this number a description approved by the department, in the product, reported as an exact quantity, or as the amount of total organic fluorine if the amount of each of the PFAS compound is not known, determined using commercially available analytical methods or based on information provided by a supplier as falling within a range approved for reporting purposes by the department or, if the manufacturer is unable to provide information regarding the amount of each of the PFAS in the product, the total weight of the product;(4) The name and address of the manufacturer, and the name, address and phone number of a contact person for the manufacturer; and
+(4-A) The identification of the applicable determination adopted by the department by rule pursuant to subsection 5, paragraph F that the use of PFAS in the product is a currently unavoidable use; and
+(5) Any additional information established required by the department by rule as necessary to implement the requirements of this section.
+A-1. At the time the manufacturer submits to the department the written notice required in paragraph A, the manufacturer shall also pay to the department the applicable fee established by the department by rule pursuant to subsection 6.
+B. With the approval of the department, a the manufacturer may supply the information required in paragraph A for a category or type of product rather than for each individual product.
+C. In accordance with rules adopted by the department, a the manufacturer shall update and revise the information in the written notification whenever there is significant change in the information or when requested to do so by the department.
+D. The requirements of this subsection do not apply to a manufacturer that employs 25 100 or fewer people.
+3. Waiver of notification; coordination with other states; extension of deadline.
+F. The department may by rule identify specific products or product categories containing intentionally added PFAS for which it has determined the use of PFAS in the product is a currently unavoidable use. If the department determines by rule that the use of PFAS in a product or product category is a currently unavoidable use:
+(1) The product is exempt from the otherwise applicable prohibition in this subsection, or in the rules adopted pursuant to paragraph C, on the sale, offer for sale or distribution for sale of the product for one of the following periods of time, whichever provides a longer period of exemption:
+(a) Five years from the effective date of the rule determining that the use of PFAS in the product or product category is a currently unavoidable use; or
+(b) Five years from the effective date of the otherwise applicable prohibition in this subsection or in the rules adopted pursuant to paragraph C; and
+(2) A manufacturer of the product that sells, offers for sale or distributes for sale the product in this State shall comply with the notification requirement of subsection 2.

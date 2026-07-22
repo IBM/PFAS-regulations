@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances",
+    "provenance": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+  },
+  "location": {
+    "value": "State of New York",
+    "provenance": "## STATE OF NEW YORK"
+  },
+  "reference": {
+    "value": "4525--A",
+    "provenance": "4525--A"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "AN ACT to amend the environmental conservation law"
+  },
+  "date": {
+    "value": "2025-02-04",
+    "provenance": "February 4, 2025"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "date": {
+        "value": "2025-02-04",
+        "provenance": "This act shall take effect immediately."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "No person that sells or offers for sale any anti-fogging sprays or wipes shall be held in violation of this section"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "No person that sells or offers for sale any anti-fogging sprays or wipes shall be held in violation of this section"
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays or wipes"
+        ],
+        "provenance": "anti-fogging sprays or wipes"
+      },
+      "exceptions": {
+        "value": [
+          "written assurance of the manufacturer",
+          "certificate of compliance"
+        ],
+        "provenance": "No person that sells or offers for sale any anti-fogging sprays or wipes shall be held in violation of this section if they can show that they relied in good faith on the written assurance of the manufacturer of such product that such product met the requirements of this section. Such written assurance shall take the form of a certificate of compliance stating that such product is in compliance with the requirements of this section."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom. (definition includes \"intentionally added chemicals\")"
+      }
+    }
+  ]
+}

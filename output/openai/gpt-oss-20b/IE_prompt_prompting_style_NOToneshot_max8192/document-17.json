@@ -1,0 +1,118 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 97",
+    "provenance": "## (Reprinted with amendments adopted on April 19, 2021) FIRST REPRINT A.B. 97"
+  },
+  "location": {
+    "value": "State of Nevada",
+    "provenance": "THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 97",
+    "provenance": "Assembly Bill No. 97"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Assembly Bill No. 97"
+  },
+  "date": {
+    "value": "2021-02-08",
+    "provenance": "FEBRUARY 8, 2021"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for the purpose of:"
+      },
+      "date": {
+        "value": "2021-02-08",
+        "provenance": "Section 27. 1. This section becomes effective upon passage and approval."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State agency"
+        ],
+        "provenance": "Section 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "Section 12. 1. ... shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release"
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam containing intentionally added PFAS"
+        ],
+        "provenance": "Section 12. 1. ... any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "Section 12. 1. ... with certain exceptions"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Section 12. 1. ... intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "Section 13. Except as otherwise provided in section 10 of this act, any person, political subdivision, local government or state or local agency who discharges, uses or releases, or allows its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances must report the discharge, use or release to the Division not later than 24 hours after the discharge, use or release."
+      },
+      "date": {
+        "value": "2021-02-08",
+        "provenance": "Section 27. 1. This section becomes effective upon passage and approval."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State agency"
+        ],
+        "provenance": "Section 13. ... any person, political subdivision, local government or state or local agency who discharges, uses or releases, or allows its employees or independent contractors to discharge, use or release"
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "Section 13. ... must report the discharge, use or release to the Division not later than 24 hours after the discharge, use or release."
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam containing intentionally added PFAS"
+        ],
+        "provenance": "Section 13. ... Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Section 13. ... intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      }
+    }
+  ]
+}

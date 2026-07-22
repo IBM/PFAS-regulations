@@ -1,0 +1,58 @@
+{
+  "title": {
+    "value": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution",
+    "provenance": "SB0088"
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "State of Illinois"
+  },
+  "reference": {
+    "value": "SB0088",
+    "provenance": "SB0088"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An Act"
+  },
+  "date": {
+    "value": "2023-01-20",
+    "provenance": "Introduced 1/20/2023"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Intentionally added PFAS chemical"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after specified dates, no person shall sell, offer for sale, distribute for sale, or distribute for use in the State specified products that contain intentionally added PFAS chemicals."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "On and after January 1, 2025"
+      },
+      "who": [
+        "PFAS manufacturer",
+        "Cookware seller"
+      ],
+      "action": [
+        "sell",
+        "distribute for sale",
+        "distribute for use"
+      ],
+      "products": [
+        "cookware",
+        "cosmetics",
+        "indoor textile furnishings",
+        "indoor upholstered furniture"
+      ],
+      "exceptions": [
+        "cookware that meets specific surface area and label requirements"
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": true
+    }
+  ]
+}

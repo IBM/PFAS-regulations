@@ -1,0 +1,54 @@
+{
+  "title": "A BILL FOR AN ACT Relating to prohibitions for certain products; creating new provisions; and amending ORS 459.995",
+  "provenance": "SECTION 1. As used in sections 1 to 4 of this 2023 Act: ... Be It Enacted by the People of the State of Oregon:",
+  "location": {
+    "value": "State of Oregon",
+    "provenance": "The Senate Bill 543 is sponsored by Senators SOLLMAN, DEMBROW, Representative DEXTER and is a bill enacted by the People of the State of Oregon."
+  },
+  "reference": {
+    "value": "Senate Bill 543",
+    "provenance": "Sponsored by Senators SOLLMAN, DEMBROW, Representative DEXTER (Presession filed.)"
+  },
+  "sections": [
+    {
+      "value": "A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer.",
+      "provenance": "A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer."
+    },
+    {
+      "value": "A food vendor may not provide to a consumer a foodware container that is intended for a single use unless the foodware container: (a) Is made from fiber-based materials; (b) Has been certified as compostable under section 5 of this 2023 Act; or (c) Is included on the uniform statewide collection list established under ORS 459A.914.",
+      "provenance": "A food vendor may not provide to a consumer a foodware container that is intended for a single use unless the foodware container: (a) Is made from fiber-based materials; (b) Has been certified as compostable under section 5 of this 2023 Act; or (c) Is included on the uniform statewide collection list established under ORS 459A.914."
+    },
+    {
+      "value": "A person may not sell, offer for sale or distribute in or into this state polystyrene foam containers or polystyrene foam packaging peanuts.",
+      "provenance": "A person may not sell, offer for sale, or distribute in or into this state polystyrene foam containers or polystyrene foam packaging peanuts."
+    },
+    {
+      "value": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances.",
+      "provenance": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+    },
+    {
+      "value": "The Department of Environmental Quality shall establish a certification program for compostable products.",
+      "provenance": "The Department of Environmental Quality shall establish a certification program for compostable products."
+    },
+    {
+      "value": "The Environmental Quality Commission may adopt rules necessary to implement sections 1 to 4 of this 2023 Act.",
+      "provenance": "The Environmental Quality Commission may adopt rules necessary to implement sections 1 to 4 of this 2023 Act."
+    },
+    {
+      "value": "The Department of Environmental Quality shall develop and implement a public education and awareness campaign to inform the public about the requirements of sections 1 to 4 of this 2023 Act.",
+      "provenance": "The Department of Environmental Quality shall develop and implement a public education and awareness campaign to inform the public about the requirements of sections 1 to 4 of this 2023 Act."
+    }
+  ],
+  "status": {
+    "value": "Bill",
+    "provenance": "Sponsored by Senators SOLLMAN, DEMBROW, Representative DEXTER (Presession filed.)"
+  },
+  "date": {
+    "value": "January 1, 2025",
+    "provenance": "Prohibitions become operative January 1, 2025."
+  },
+  "pfas_definition": {
+    "value": "a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.",
+    "provenance": "SECTION 3. A person may not sell, offer for sale or distribute in or into this state polystyrene foam containers or polystyrene foam packaging peanuts. SECTION 4. A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+  }
+}

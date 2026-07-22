@@ -1,0 +1,88 @@
+{
+  "title": {
+    "value": "An Act relating to PFAS",
+    "provenance": "SECTION 1. As used in sections 1 to 4 of this 2025 Act: ... SECTION 5. Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+  },
+  "location": {
+    "value": "State of Oregon",
+    "provenance": "Sponsored by Representative NERON, Senator PATTERSON ... Be It Enacted by the People of the State of Oregon:"
+  },
+  "reference": {
+    "value": "House Bill 3512",
+    "provenance": "Sponsored by Representative NERON, Senator PATTERSON"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "SECTION 5. Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+  },
+  "date": {
+    "value": "2025",
+    "provenance": "This 2025 Act"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl or polyfluoroalkyl substance means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, also commonly known as PFAS."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 2. (1) A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "SECTION 5. Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "A person may not manufacture, sell, offer for sale or distribute ... in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A person may not manufacture, sell, offer for sale or distribute ... a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "products": {
+        "value": [
+          "Aqueous film-forming foam",
+          "Artificial turf",
+          "Cleaning products",
+          "Carpets or rugs",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments",
+          "Packaging",
+          "Juvenile products",
+          "Menstrual products",
+          "Refrigerators",
+          "Textile articles",
+          "Ski wax",
+          "Outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "Covered product means any of the following products, including any of the products' components: ... (o) Outdoor apparel for severe wet conditions."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": ""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": ""
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added perfluoroalkyl or polyfluoroalkyl substance means a perfluoroalkyl or polyfluoroalkyl substance found in or on a covered product: ... (c) That is a by-product of a process used to manufacture the covered product, including the use of processing agents, mold release agents or fluorination, if the manufacturer knew or should have known that the process would introduce the perfluoroalkyl or polyfluoroalkyl substance into or on the covered product."
+      }
+    }
+  ]
+}

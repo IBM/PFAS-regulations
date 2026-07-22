@@ -1,0 +1,70 @@
+{
+  "title": {
+    "value": "Senate Bill 543",
+    "provenance": "## Senate Bill 543"
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "Be It Enacted by the People of the State of Oregon:"
+  },
+  "reference": {
+    "value": "Senate Bill 543",
+    "provenance": "## Senate Bill 543"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "## Senate Bill 543"
+  },
+  "date": {
+    "value": "2025-01-01",
+    "provenance": "Prohibitions become operative January 1, 2025."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state..."
+      },
+      "action": {
+        "value": [
+          "sell",
+          "offer for sale",
+          "distribute"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute in or into this state..."
+      },
+      "products": {
+        "value": [
+          "foodware container"
+        ],
+        "provenance": "...a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

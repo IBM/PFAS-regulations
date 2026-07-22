@@ -1,0 +1,80 @@
+{
+  "title": {
+    "value": "Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act",
+    "provenance": "SEC. 1. This act shall be known, and may be cited, as the Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "California Law"
+  },
+  "reference": {
+    "value": "AB-2515",
+    "provenance": "Assembly Bill No. 2515"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor September 30, 2024. Filed with Secretary of State September 30, 2024."
+  },
+  "date": {
+    "value": "2024-09-30",
+    "provenance": "Date Published: 09/30/2024 09:00 PM"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(c) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "(1) Commencing January 1, 2025, PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "products": {
+        "value": [
+          "tampons",
+          "pads",
+          "sponges",
+          "menstruation underwear",
+          "disks",
+          "menstrual cups"
+        ],
+        "provenance": "(b) 'Menstrual product' means a product used to collect menstruation and vaginal discharge, including, but not limited to, tampons, pads, sponges, menstruation underwear, disks, and menstrual cups, whether disposable or reusable."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(1) Commencing January 1, 2025, PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product"
+      }
+    }
+  ]
+}

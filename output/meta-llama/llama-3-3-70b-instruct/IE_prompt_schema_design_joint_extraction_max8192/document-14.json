@@ -1,0 +1,89 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 1817",
+    "provenance": "## Assembly Bill No. 1817"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "AB 1817",
+    "provenance": "AB  1817,  Ting.  Product  safety:  textile  articles:  perfluoroalkyl  and polyfluoroalkyl substances (PFAS)."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "[Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022.]"
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "[Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a  class  of  fluorinated  organic  chemicals  containing  at  least  one  fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state"
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state"
+      },
+      "products": {
+        "value": [
+          "Textile articles",
+          "Apparel",
+          "Outdoor apparel",
+          "Handbags",
+          "Backpacks",
+          "Draperies",
+          "Shower curtains",
+          "Furnishings",
+          "Upholstery",
+          "Beddings",
+          "Towels",
+          "Napkins",
+          "Tablecloths"
+        ],
+        "provenance": "'Textile articles' means textile goods of a type customarily and ordinarily used in households and businesses, and include, but are not limited to, apparel, accessories, handbags, backpacks, draperies, shower curtains, furnishings, upholstery, beddings, towels, napkins, and tablecloths."
+      },
+      "exceptions": {
+        "value": [
+          "Outdoor apparel for severe wet conditions until January 1, 2028",
+          "Personal protective equipment"
+        ],
+        "provenance": "Paragraph  (1)  does  not  apply  to  outdoor  apparel  for  severe  wet conditions until January 1, 2028. ... This act exempts PPE for the time being to ensure that first responders and other workers continue to have protection on the job"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS' means either of the following: ... (1)  PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product"
+      }
+    }
+  ]
+}

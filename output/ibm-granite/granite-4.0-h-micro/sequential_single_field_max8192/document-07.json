@@ -1,0 +1,40 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 2771",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "sections": {
+    "108981": {
+      "value": "The Legislature finds and declares all of the following: ... (f) The European Union has committed in its 'Chemicals Strategy for Sustainability Towards a Toxic-Free Environment' to phasing out PFAS unless a specific use is proven essential for society, ... (h) PFAS chemicals have been found in a wide variety of cosmetics and personal care products, including foundation, mascara, lipstick, and various eye and face products. The Legislature intends to protect the health of Californians and the environment by prohibiting the sale or distribution of any beauty or personal care product containing PFAS chemicals.",
+      "provenance": "SECTION 1. Section 108981 is added to the Health and Safety Code, to read: ... (f) ... (h) ..."
+    },
+    "108981.5": {
+      "value": "Beginning January 1, 2025, no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS).",
+      "provenance": "SEC. 2. Section 108981.5 is added to the Health and Safety Code, to read: ... Beginning January 1, 2025, no person or entity shall manufacture, sell, deliver, hold, or offer for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+    },
+    "108982": {
+      "value": "For purposes of this chapter, the following terms have the following definitions: (a) 'Cosmetic product' means an article for retail sale or professional use intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body for cleansing, beautifying, promoting attractiveness, or altering the appearance. (b) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom. (c) 'Intentionally added PFAS' means either of the following: (1) PFAS chemicals that a manufacturer has intentionally added to a product and that have a functional or technical effect on the product. (2) PFAS chemicals that are intentional breakdown products of an added chemical.",
+      "provenance": "SEC. 3. Section 108982 is added to the Health and Safety Code, to read: ... (a) ... (b) ... (c) ..."
+    }
+  },
+  "location": {
+    "value": "State of California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "AB 2771",
+    "provenance": "Assembly Bill No. 2771"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An act to add Sections 108981, 108981.5, and 108982 to the Health and Safety Code, relating to public health."
+  },
+  "date": {
+    "value": "September 29, 2022",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "108982. For purposes of this chapter, the following terms have the following definitions: (b) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

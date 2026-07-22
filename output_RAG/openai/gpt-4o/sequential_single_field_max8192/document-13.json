@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "location": {
+    "value": "this state",
+    "provenance": "SECTION 4. A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+  },
+  "reference": {
+    "value": "2023 Act",
+    "provenance": "SECTION 9. (1) Sections 1 to 4 of this 2023 Act and the amendments to ORS 459.995 by section 8 of this 2023 Act become operative on January 1, 2025."
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR AN ACT"
+  },
+  "date": {
+    "value": "2025-01-01",
+    "provenance": "Prohibitions become operative January 1, 2025."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

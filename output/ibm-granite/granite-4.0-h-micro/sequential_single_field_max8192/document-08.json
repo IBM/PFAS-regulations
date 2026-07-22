@@ -1,0 +1,37 @@
+{
+  "title": {
+    "value": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "value": "Prohibits sale, manufacture, distribution, and use of firefighting foam containing intentionally added perfluoroalkyl and polyfluoroalkyl substances.",
+  "location": {
+    "value": "State of New Jersey",
+    "provenance": "As introduced. (Sponsorship Updated As Of: 6/13/2022) - An Act concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "reference": {
+    "value": "A4125",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "provisions": {
+    "value": [
+      "Beginning two years after the effective date of this act, no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS.",
+      "Subsection a. of this section shall not apply to the sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law, or by a rule or regulation adopted pursuant thereto, including, but not limited to, 14 C.F.R. s.139.317."
+    ],
+    "provenance": [
+      "- 1. a. Beginning two years after the effective date of this act, no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS.",
+      "- c. A violation of subsection a. of this section shall constitute an unlawful practice for the purposes of P.L.1960, c.39 (C.56:8-1 et seq.), and the violator shall be subject to all remedies and penalties available pursuant to P.L.1960, c.39 (C.56:8-1 et seq.)."
+    ]
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances in firefighting foam and supplementing Title 56 of the Revised Statutes."
+  },
+  "date": {
+    "value": "immediately",
+    "provenance": "This act shall take effect immediately."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "PFAS means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

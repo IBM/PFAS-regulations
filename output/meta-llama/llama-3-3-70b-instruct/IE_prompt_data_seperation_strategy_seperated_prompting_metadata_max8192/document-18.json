@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act",
+    "provenance": "SECTION 1. This act shall be known, and may be cited, as the Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "California Law"
+  },
+  "reference": {
+    "value": "AB-2515",
+    "provenance": "AB-2515 Menstrual products: perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "[ Approved by Governor  September 30, 2024. Filed with Secretary of State September 30, 2024. ]"
+  },
+  "date": {
+    "value": "2024-09-30",
+    "provenance": "Date Published: 09/30/2024 09:00 PM"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(c) \u00d2Perfluoroalkyl and polyfluoroalkyl substances\u00d3 or \u00d2PFAS\u00d3 means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

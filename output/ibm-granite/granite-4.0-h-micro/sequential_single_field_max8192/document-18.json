@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AB 2515 Menstrual products: perfluoroalkyl and polyfluoroalkyl substances (PFAS)",
+    "provenance": "Assembly Bill N o. 2515"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "AB 2515, Papan. Menstrual products: perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+  },
+  "reference": {
+    "value": "AB 2515",
+    "provenance": "Assembly Bill N o. 2515"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AB 2515, Papan. Menstrual products: perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+  },
+  "date": {
+    "value": "2024-09-30",
+    "provenance": "Date Published: 09/30/2024 09:00 PM"
+  },
+  "pfas_definition": {
+    "value": "a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom",
+    "provenance": "25258.1. On or before January 1, 2029, the department shall adopt regulations to implement, interpret, enforce, or make specific this article. 25258.2. On or before January 1, 2027, the department shall publish on its internet website a list of accepted testing methods for testing for the presence of regulated PFAS in menstrual products and appropriate third-party accreditations for laboratories. The department may update the list of accepted testing methods as necessary. 25258.3. A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+  }
+}

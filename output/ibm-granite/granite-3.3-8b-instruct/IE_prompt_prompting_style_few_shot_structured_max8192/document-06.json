@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "An Act concerning Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "A BILL ENTITLED AN ACT concerning 1 Environment - Playground Surfacing Materials - Prohibitions 2"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "BY adding to Article - Environment Section 6-16A-01 through 6-16A-05 to be under the new subtitle 'Subtitle 16A. Playground Surfacing Materials' - Annotated Code of Maryland (2013 Replacement Volume and 2023 Supplement)"
+  },
+  "reference": {
+    "value": "HOUSE BILL 1147",
+    "provenance": "4lr1508 Introduced and read first time: February 7, 2024 Assigned to: Environment and Transportation"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "BY adding to Article - Environment Section 6-16A-01 through 6-16A-05 to be under the new subtitle 'Subtitle 16A. Playground Surfacing Materials' - Annotated Code of Maryland (2013 Replacement Volume and 2023 Supplement)"
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2024."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "PFAS MEANS PER- AND POLYFLUOROALKYL SUBSTANCES."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024, A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;"
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Seller"
+        ],
+        "provenance": "A MANUFACTURER THAT MANUFACTURES, SELLS, OFFERS FOR SALE, OR DISTRIBUTES FOR USE IN THE STATE PLAYGROUND SURFACING MATERIALS SHALL ESTABLISH A CERTIFICATE OF COMPLIANCE"
+      },
+      "action": {
+        "value": [
+          "use",
+          "supply",
+          "sell",
+          "offer for sale"
+        ],
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN: (2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;"
+      },
+      "products": {
+        "value": [
+          "playground surfacing materials"
+        ],
+        "provenance": "PLAYGROUND SURFACING MATERIALS' MEANS PRODUCTS, MATERIALS, OR SUBSTANCES USED OR INSTALLED ON THE GROUND SURFACE OF A PLAYGROUND IN THE STATE."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "N/A"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "N/A"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES"
+      }
+    }
+  ]
+}

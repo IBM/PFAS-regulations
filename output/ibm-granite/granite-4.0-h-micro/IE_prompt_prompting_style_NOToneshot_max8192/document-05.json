@@ -1,0 +1,69 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 652",
+    "provenance": "Assembly Bill No. 652"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "State of California"
+  },
+  "reference": {
+    "value": "AB 652",
+    "provenance": "AB 652"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor October 5, 2021"
+  },
+  "date": {
+    "value": "2023-07-01",
+    "provenance": "On and after July 1, 2023"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "Regulated perfluoroalkyl and polyfluoroalkyl substances (PFAS) means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "108946. On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "a person, including, but not limited to, a manufacturer"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "shall not sell or distribute"
+      },
+      "products": {
+        "value": [
+          "juvenile product"
+        ],
+        "provenance": "any new, not previously owned, juvenile product"
+      },
+      "exceptions": {
+        "value": null,
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Regulated PFAS means either of the following: (1) PFAS that a manufacturer has intentionally added to a product"
+      }
+    }
+  ]
+}

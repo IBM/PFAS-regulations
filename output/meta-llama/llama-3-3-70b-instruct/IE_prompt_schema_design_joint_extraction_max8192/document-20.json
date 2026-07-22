@@ -1,0 +1,85 @@
+{
+  "title": {
+    "value": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution",
+    "provenance": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution"
+  },
+  "location": {
+    "value": "Maine",
+    "provenance": "STATE OF MAINE"
+  },
+  "reference": {
+    "value": "S.P. 610 - L.D. 1537",
+    "provenance": "S.P. 610 - L.D. 1537"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "APPROVED APRIL 16, 2024 BY GOVERNOR CHAPTER 630 PUBLIC LAW"
+  },
+  "date": {
+    "value": "2024-04-16",
+    "provenance": "APPROVED APRIL 16, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "F. \"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means substances that include any member of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "5. Prohibition on sale of products containing intentionally added PFAS."
+      },
+      "date": {
+        "value": "2023-01-01",
+        "provenance": "Effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Person"
+        ],
+        "provenance": "A person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "A person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "products": {
+        "value": [
+          "Carpet or rug",
+          "Fabric treatment",
+          "Cleaning product",
+          "Cookware product",
+          "Cosmetic product",
+          "Juvenile product",
+          "Textile article",
+          "Ski wax",
+          "Upholstered furniture",
+          "Artificial turf",
+          "Outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "5. Prohibition on sale of products containing intentionally added PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "Used products",
+          "Products exempted by the department",
+          "Products for which the department has waived the notification requirement"
+        ],
+        "provenance": "The prohibition under this subsection does not apply to a used carpet or rug in used condition."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "B. \"Currently unavoidable use\" means a use of PFAS that the department has determined by rule under this section to be essential for health, safety or the functioning of society and for which alternatives are not reasonably available."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "D. \"Intentionally added PFAS\" means PFAS added to a product or one of its product components to provide a specific characteristic, appearance or quality or to perform a specific function."
+      }
+    }
+  ]
+}

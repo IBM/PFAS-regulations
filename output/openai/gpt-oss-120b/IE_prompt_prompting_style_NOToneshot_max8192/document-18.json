@@ -1,0 +1,112 @@
+{
+  "title": {
+    "value": "Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act",
+    "provenance": "This act shall be known, and may be cited, as the Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The PEOPLE OF THE STATE OF CALIFORNIA DO ENACT AS FOLLOWS:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 2515",
+    "provenance": "Assembly Bill No. 2515"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Assembly Bill No. 2515"
+  },
+  "date": {
+    "value": "2024-09-30",
+    "provenance": "Date Published: 09/30/2024 09:00 PM"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\u00d2Perfluoroalkyl and polyfluoroalkyl substances\u00d3 or \u00d2PFAS\u00d3 means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "products": {
+        "value": [
+          "menstrual product"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department and provide to the department all of the following..."
+      },
+      "date": {
+        "value": "2029-07-01",
+        "provenance": "On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department..."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department..."
+      },
+      "action": {
+        "value": [],
+        "provenance": "On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department..."
+      },
+      "products": {
+        "value": [
+          "menstrual product"
+        ],
+        "provenance": "On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department..."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

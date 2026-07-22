@@ -1,0 +1,267 @@
+{
+  "title": {
+    "value": "Hazardous Products Act"
+  },
+  "location": {
+    "value": "Michigan"
+  },
+  "reference": {
+    "value": "House Bill No. 5657"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2024-04-24"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture"
+        ]
+      },
+      "products": {
+        "value": [
+          "any product containing intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Products where federal law governs the presence of PFAS (exempt)"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Seller",
+          "Distributor",
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Apparel (clothing items, undergarments, shirts, pants, skirts, dresses, overalls, bodysuits, costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school uniforms, leisurewear, athletic wear, sports uniforms, swimwear, formal wear, onesies, bibs, diapers, footwear, outdoor apparel, workwear uniforms)",
+          "Carpets, rugs, or similar fabric marketed as floor covering",
+          "Cleaning products (air care, automotive, general cleaning, polish, floor maintenance)",
+          "Cookware (pots, pans, skillets, grills, baking sheets, molds, trays, bowls, cooking utensils)",
+          "Cosmetics (items applied to the human body for cleansing, beautifying, etc., excluding soap)",
+          "Dental floss (waxed or unwaxed thread)",
+          "Fabric treatments (stain or water resistance agents)",
+          "Juvenile products (infant/toddler pillows, bassinets, sleepers, booster seats, changing pads, child restraint systems, cribs, playmats, high chairs, etc.)",
+          "Menstruation products (tampons, pads, sponges, underwear, discs, menstrual cups)",
+          "Textile furnishings (draperies, floor coverings, bedding, towels, tablecloths)",
+          "Ski wax or similar lubricants",
+          "Upholstered furniture (furniture with stuffing or filling material)"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Waiver issued by the department under section 5(3)"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2032-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Seller",
+          "Distributor",
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Apparel (clothing items, undergarments, shirts, pants, skirts, dresses, overalls, bodysuits, costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school uniforms, leisurewear, athletic wear, sports uniforms, swimwear, formal wear, onesies, bibs, diapers, footwear, outdoor apparel, workwear uniforms)",
+          "Carpets, rugs, or similar fabric marketed as floor covering",
+          "Cleaning products (air care, automotive, general cleaning, polish, floor maintenance)",
+          "Cookware (pots, pans, skillets, grills, baking sheets, molds, trays, bowls, cooking utensils)",
+          "Cosmetics (items applied to the human body for cleansing, beautifying, etc., excluding soap)",
+          "Dental floss (waxed or unwaxed thread)",
+          "Fabric treatments (stain or water resistance agents)",
+          "Juvenile products (infant/toddler pillows, bassinets, sleepers, booster seats, changing pads, child restraint systems, cribs, playmats, high chairs, etc.)",
+          "Menstruation products (tampons, pads, sponges, underwear, discs, menstrual cups)",
+          "Textile furnishings (draperies, floor coverings, bedding, towels, tablecloths)",
+          "Ski wax or similar lubricants",
+          "Upholstered furniture (furniture with stuffing or filling material)"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Waiver issued by the department under section 5(3)"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Local government",
+          "State agency"
+        ]
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class A firefighting foam",
+          "Class B firefighting foam"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Person",
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "Class A firefighting foam",
+          "Class B firefighting foam"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Exemption for Class B foam subject to regulation under 14 CFR 139.317 or other federal law",
+          "Exemption if federal law requiring PFAS in Class B foam is revoked; restriction lifts one year after revocation"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2027-01-01"
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell"
+        ]
+      },
+      "products": {
+        "value": [
+          "Firefighter personal protective equipment"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

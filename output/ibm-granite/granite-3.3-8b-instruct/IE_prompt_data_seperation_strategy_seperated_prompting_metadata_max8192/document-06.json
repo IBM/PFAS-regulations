@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An Act concerning Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "A BILL ENTITLED AN ACT concerning 1 Environment - Playground Surfacing Materials - Prohibitions 2"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "By: Delegates Guyton, Lehman, Allen, Ebersole, Forbes, Holmes, Pasteur, Ruth, and Stein Introduced and read first time: February 7, 2024 Assigned to: Environment and Transportation"
+  },
+  "reference": {
+    "value": "House Bill 1147",
+    "provenance": "4lr1508"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Introduced and read first time: February 7, 2024 Assigned to: Environment and Transportation"
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2024."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "PFAS MEANS PER- AND POLYFLUOROALKYL SUBSTANCES. (C)"
+  }
+}

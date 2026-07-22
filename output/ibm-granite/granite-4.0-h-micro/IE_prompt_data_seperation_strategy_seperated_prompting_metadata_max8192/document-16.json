@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT Relating to PFAS",
+    "provenance": "SECTION 1. As used in sections 1 to 4 of this 2025 Act: ..."
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "SECTION 1. As used in sections 1 to 4 of this 2025 Act: ..."
+  },
+  "reference": {
+    "value": "HB 3512",
+    "provenance": "SECTION 1. As used in sections 1 to 4 of this 2025 Act: ..."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "SECTION 5. The amendments to section 1 of this 2025 Act by section 6 of this 2025 Act become operative on January 1, 2028."
+  },
+  "date": {
+    "value": "January 1, 2027",
+    "provenance": "SECTION 4. (1) The Attorney General may bring a civil action in the name of the state in any court of appropriate jurisdiction to: ... SECTION 5. Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+  },
+  "pfas_definition": {
+    "value": "a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, also commonly known as PFAS.",
+    "provenance": "SECTION 16 (17) 'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, also commonly known as PFAS."
+  }
+}

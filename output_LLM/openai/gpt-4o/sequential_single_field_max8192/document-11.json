@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION.",
+    "provenance": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION."
+  },
+  "location": {
+    "value": "State of Hawaii",
+    "provenance": "BE IT E N ACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:"
+  },
+  "reference": {
+    "value": "HB1644 CD1",
+    "provenance": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION. BE IT E N ACTED BY THE LEGISLATURE OF THE STATE OF HAWAII: HB1644 CD1 https://www.capitol.hawaii.gov/sessions/session2022/bills/HB1644_CD..."
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

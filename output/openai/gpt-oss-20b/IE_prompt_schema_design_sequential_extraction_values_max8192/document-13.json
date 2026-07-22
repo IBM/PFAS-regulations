@@ -1,0 +1,204 @@
+{
+  "title": {
+    "value": "Senate Bill 543"
+  },
+  "location": {
+    "value": "Oregon"
+  },
+  "reference": {
+    "value": "Senate Bill 543"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2025-01-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Food vendor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "polystyrene foam container"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Food vendor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Provide"
+        ]
+      },
+      "products": {
+        "value": [
+          "single-use foodware container"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "fiber-based materials",
+          "certified compostable",
+          "included on uniform statewide collection list"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "polystyrene foam container",
+          "polystyrene foam packaging peanuts"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "foodware container containing perfluoroalkyl or polyfluoroalkyl substances"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "compostable products"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

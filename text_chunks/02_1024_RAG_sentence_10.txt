@@ -1,0 +1,108 @@
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+AN ACT concerning safety.
+Be it enacted by the People of the State of Illinois, represented in the General Assembly:
+Section 5. The Environmental Protection Act is amended by adding Section 22.62 as follows:
+(415 ILCS 5/22.62 new)
+Sec. 22.62. TRI-PFAS; incineration.
+(a) As used in this Section:
+"Incineration"
+includes, burning,
+combustion, of
+an acid
+cement but
+pyrolysis, recovery
+is not
+limited gasification,
+furnace kiln,
+furnace, or
+lightweight boiler,
+not include
+control or
+to, the
+oxidizer, ore
+aggregate or
+process the
+use use
+roaster, kiln,
+heater.
+of
+a
+thermal or
+resource recovery
+using perfluoroalkyl
+chemicals industrial
+"Incineration"
+oxidizer does
+as
+a
+pollution device
+at
+a
+facility or
+polyfluoroalkyl containing
+substances.
+"Toxic
+Release
+Polyfluoroalkyl perfluoroalkyl
+that is
+substances or
+or
+Inventory
+Substances"
+chemicals on
+polyfluoroalkyl or
+the list
+substances
+Release
+Inventory polyfluoroalkyl
+Perfluoroalkyl and
+"TRI-PFAS"
+of means
+perfluoroalkyl set
+forth rules,
+developed in
+the
+USEPA's under
+Section the
+and
+Toxic
+313
+of
+1
+2
+3
+4
+5
+6
+7
+8
+9
+the federal Emergency Planning and Community Right-To-Know Act (EPCRA) and codified in 40 CFR 372.65, excluding liquid or gaseous fluorocarbon or chlorofluorocarbon products used chiefly as refrigerants.
+(b) No person shall dispose of any TRI-PFAS by incineration, including, but not limited to, aqueous film-forming foam that contains TRI-PFAS. The Agency may propose, and the Board may adopt, any rules it deems necessary to carry out the provisions of this Section.
+(c) Nothing in this Section applies to the incineration of (i) landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill, (ii) landfill gas in a landfill gas recovery facility that is located at a sanitary landfill, (iii) waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators, as applicable, or (iv) sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility. 10 11 12 13 14 15 16 17 18 19 20 21
+22
+23
+Section 99. Effective date. This Act takes effect upon becoming law.

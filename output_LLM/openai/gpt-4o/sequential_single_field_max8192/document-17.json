@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS"
+  },
+  "location": {
+    "value": "State of Nevada",
+    "provenance": "THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:"
+  },
+  "reference": {
+    "value": "ASSEMBLY BILL NO. 97",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS FEBRUARY 8, 2021"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS FEBRUARY 8, 2021"
+  },
+  "date": {
+    "value": "2021-02-08",
+    "provenance": "FEBRUARY 8, 2021"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  }
+}

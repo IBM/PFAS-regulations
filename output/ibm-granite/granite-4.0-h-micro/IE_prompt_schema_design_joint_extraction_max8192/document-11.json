@@ -1,0 +1,87 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION",
+    "provenance": "HOUSE OF REPRESENTATIVES THIRTY-FIRST LEGISLATURE, 2022 STATE OF HAWAII H.B. NO. H.D. 1 1644 S.D. 1 C.D. 1"
+  },
+  "location": {
+    "value": "State of Hawaii",
+    "provenance": "HOUSE OF REPRESENTATIVES THIRTY-FIRST LEGISLATURE, 2022 STATE OF HAWAII"
+  },
+  "reference": {
+    "value": "HB1644 CD1",
+    "provenance": "HB1644 CD1 https://www.capitol.hawaii.gov/sessions/session2022/bills/HB1644_CD..."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII"
+  },
+  "date": {
+    "value": "2022-07-01",
+    "provenance": "SECTION 3. This Act shall take effect on July 1, 2022."
+  },
+  "pfas_definition": {
+    "value": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) defined as any substance that contains at least one fully fluorinated methyl (CF3-) or methylene (-CF2-) carbon atom (without any H/Cl/Br/I attached to it).",
+    "provenance": "/321Definitions. For the purposes of this part: \"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 2. Chapter 321, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows: ... (a) Beginning December 31, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for use in the State any food packaging specified in subsection (b) to which PFAS chemicals have been intentionally introduced in any amount."
+      },
+      "date": {
+        "value": "2024-12-31",
+        "provenance": "Beginning December 31, 2024"
+      },
+      "who": [
+        "Manufacturer",
+        "Seller",
+        "Distributor"
+      ],
+      "action": [
+        "Manufacture",
+        "Sell",
+        "Distribute"
+      ],
+      "products": [
+        "wraps and liners",
+        "plates",
+        "food boats",
+        "pizza boxes"
+      ],
+      "exceptions": [
+        "manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS chemicals is required by federal law or regulations"
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": true
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 2. Chapter 321, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows: ... (a) Beginning July 1, 2024, it shall be unlawful to manufacture, sell, offer for sale, distribute for sale, or distribute for training or testing purposes in the State any class B firefighting foam that contains intentionally introduced PFAS chemicals, unless the use is necessary for effective suppression of a petroleum fire."
+      },
+      "date": {
+        "value": "2024-07-01",
+        "provenance": "Beginning July 1, 2024"
+      },
+      "who": [
+        "Manufacturer",
+        "State or county department or agency"
+      ],
+      "action": [
+        "Manufacture",
+        "Sell",
+        "Distribute",
+        "Use"
+      ],
+      "products": [
+        "class B firefighting foam"
+      ],
+      "exceptions": [
+        "manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS chemicals is required by federal law or regulations"
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": true
+    }
+  ]
+}

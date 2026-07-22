@@ -1,0 +1,100 @@
+{
+  "title": {
+    "value": "House Bill 3512",
+    "provenance": "House Bill 3512"
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "State of Oregon"
+  },
+  "reference": {
+    "value": "H.B. 3512",
+    "provenance": "H.B. 3512"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A bill for an act relating to PFAS."
+  },
+  "date": {
+    "value": "2025",
+    "provenance": "2025 Act"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, also commonly known as PFAS."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 2. (1) A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "SECTION 2. (1) A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "SECTION 2. (1) A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "products": {
+        "value": [
+          "aqueous film-forming foam",
+          "artificial turf",
+          "cleaning products",
+          "carpets or rugs",
+          "cookware",
+          "cosmetics",
+          "dental floss",
+          "fabric treatments",
+          "packaging",
+          "juvenile products",
+          "menstrual products",
+          "refrigerators",
+          "textile articles",
+          "ski wax",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "(7) 'Covered product' means any of the following products, including any of the products' components: (a) Aqueous film-forming foam; (b) Artificial turf; (c) Cleaning products; (d) Carpets or rugs; (e) Cookware; (f) Cosmetics; (g) Dental floss; (h) Fabric treatments; (i) Packaging; (j) Juvenile products; (k) Menstrual products; (L) Refrigerators; (m) Textile articles; [ or ] (n) Ski wax[ . ] ; or (o) Outdoor apparel for severe wet conditions."
+      },
+      "exceptions": {
+        "value": [
+          "personal computer",
+          "audio and video equipment",
+          "calculator",
+          "wireless phone",
+          "game console",
+          "handheld device incorporating a video screen",
+          "any associated peripheral such as a mouse, keyboard, power supply unit or power cord",
+          "automotive paint",
+          "automotive paint repair products",
+          "medical device",
+          "mattress designed for use by an adult",
+          "clothing items for exclusive use by members of the United States military"
+        ],
+        "provenance": "(11)(b) 'Juvenile product' does not include: (A) A consumer electronic product, including but not limited to a personal computer, audio and video equipment, calculator, wireless phone, game console, handheld device incorporating a video screen or any associated peripheral such as a mouse, keyboard, power supply unit or power cord. (B) A medical device. (C) A mattress designed for use by an adult. (20)(b) 'Textile article' does not include: (A) Personal protective equipment; or (B) Clothing items for exclusive use by members of the United States military."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "SECTION 2. (1) A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      }
+    }
+  ]
+}

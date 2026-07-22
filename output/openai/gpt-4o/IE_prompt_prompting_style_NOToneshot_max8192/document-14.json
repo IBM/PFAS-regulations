@@ -1,0 +1,119 @@
+{
+  "title": {
+    "value": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health.",
+    "provenance": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 1817",
+    "provenance": "Assembly Bill No. 1817"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "[Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022.]"
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "[Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS."
+      },
+      "products": {
+        "value": [
+          "textile articles"
+        ],
+        "provenance": "This bill would prohibit, beginning January 1, 2025, any person from manufacturing, distributing, selling, or offering for sale in the state any new, not previously owned, textile articles that contain regulated PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "outdoor apparel for severe wet conditions until January 1, 2028"
+        ],
+        "provenance": "Paragraph (1) does not apply to outdoor apparel for severe wet conditions until January 1, 2028."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product."
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "The bill would require a manufacturer of a textile article to provide persons that offer the product for sale or distribution in the state with a certificate of compliance."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025, no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals,'"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "The bill would require a manufacturer of a textile article to provide persons that offer the product for sale or distribution in the state with a certificate of compliance."
+      },
+      "action": {
+        "value": [
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "commencing January 1, 2025, no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals,'"
+      },
+      "products": {
+        "value": [
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "commencing January 1, 2025, no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals,'"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product."
+      }
+    }
+  ]
+}

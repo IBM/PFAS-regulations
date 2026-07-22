@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "toxic-free cosmetics act",
+    "provenance": "NEW SECTION. Sec. 7. This chapter may be known and cited as the toxic-free cosmetics act."
+  },
+  "location": {
+    "value": "State of Washington",
+    "provenance": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:"
+  },
+  "reference": {
+    "value": "RCW 70A",
+    "provenance": "amending RCW 43.21B.110 and 43.21B.300; adding a new chapter to Title 70A RCW;"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT Relating to the use of toxic chemicals in cosmetic products;"
+  },
+  "date": {
+    "value": "2023",
+    "provenance": "State of Washington 68th Legislature 2023 Regular Session"
+  },
+  "pfas_definition": {
+    "value": "not specified",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances\" has the same meaning as defined in RCW 70A.350.010."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "\"no person shall sell or offer for sale ... anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances at or above a level that the department shall establish in regulation.\""
+      },
+      "date": {
+        "value": "2026-12-31",
+        "provenance": "\"After December thirty-first, two thousand twenty-six, no person shall sell or offer for sale ...\""
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "\"no person shall sell or offer for sale ...\""
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "\"no person shall sell or offer for sale ...\""
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays",
+          "anti-fogging wipes"
+        ],
+        "provenance": "\"anti-fogging sprays or wipes\""
+      },
+      "exceptions": {
+        "value": [
+          "No person that sells or offers for sale any anti-fogging sprays or wipes shall be held in violation of this section if they can show that they relied in good faith on the written assurance of the manufacturer of such product that such product met the requirements of this section."
+        ],
+        "provenance": "\"No person that sells or offers for sale any anti-fogging sprays or wipes shall be held in violation of this section if they can show that they relied in good faith on the written assurance of the manufacturer of such product that such product met the requirements of this section.\""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "\"Such written assurance shall take the form of a certificate of compliance ... The certificate of compliance shall be signed by an authorized official of the manufacturer.\""
+      },
+      "date": {
+        "value": "2025-02-04",
+        "provenance": "\"This act shall take effect immediately.\""
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "\"The certificate of compliance shall be signed by an authorized official of the manufacturer.\""
+      },
+      "action": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "products": {
+        "value": [
+          "anti-fogging sprays",
+          "anti-fogging wipes"
+        ],
+        "provenance": "\"anti-fogging sprays or wipes\""
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

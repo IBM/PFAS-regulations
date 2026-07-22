@@ -1,0 +1,47 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "\"class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes unless otherwise required by law, regulation, or ordinance...\""
+      },
+      "date": {
+        "value": "2020-07-15",
+        "provenance": "\"Beginning on July 15, 2020, class B firefighting foam that contains intentionally added PFAS chemicals shall not be used...\""
+      },
+      "who": {
+        "value": [
+          "User"
+        ],
+        "provenance": "\"class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes...\""
+      },
+      "action": {
+        "value": [
+          "Use"
+        ],
+        "provenance": "\"shall not be used for firefighting training purposes or testing purposes\""
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ],
+        "provenance": "\"class B firefighting foam that contains intentionally added PFAS chemicals\""
+      },
+      "exceptions": {
+        "value": [
+          "The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals;",
+          "The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations."
+        ],
+        "provenance": "\"The restrictions in subsection (2) of this Act shall not apply to: (a) The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals; (b) The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations.\""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "\"class B firefighting foam that contains intentionally added PFAS chemicals\""
+      }
+    }
+  ]
+}

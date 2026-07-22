@@ -1,0 +1,56 @@
+{
+  "title": {
+    "value": "Toxic Packaging Reduction Act"
+  },
+  "location": {
+    "value": "Rhode Island"
+  },
+  "reference": {
+    "value": "2022 -- H 7438 SUBSTITUTE A"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2022-02-11"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "food package"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

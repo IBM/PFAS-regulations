@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS",
+    "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS."
+  },
+  "location": {
+    "value": "Connecticut",
+    "provenance": "Be it enacted by the Senate and House of Representatives in General Assembly convened:"
+  },
+  "reference": {
+    "value": "Substitute Senate Bill No. 292, Public Act No. 24-59",
+    "provenance": "## Substitute Senate Bill No. 292 ## Public Act No. 24-59"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved June 5, 2024"
+  },
+  "date": {
+    "value": "2024-06-05",
+    "provenance": "Approved June 5, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(20) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

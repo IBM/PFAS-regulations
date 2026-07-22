@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "\u00a71614. Products containing PFAS",
+    "provenance": "\u00a71614. Products containing PFAS"
+  },
+  "location": {
+    "value": "State",
+    "provenance": "A. Except as provided in subsection 3, by January 1, 2025, a The manufacturer of a product for sale in the State that contains intentionally added PFAS shall submit to the department a written notification..."
+  },
+  "reference": {
+    "value": "\u00a71614",
+    "provenance": "\u00a71614. Products containing PFAS"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "\u00a71614. Products containing PFAS"
+  },
+  "date": {
+    "value": "2023-01-01",
+    "provenance": "Effective Except as provided pursuant to paragraph F or G, effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+  },
+  "pfas_definition": {
+    "value": "not specified",
+    "provenance": "not specified"
+  }
+}

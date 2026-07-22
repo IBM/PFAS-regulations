@@ -1,0 +1,248 @@
+{
+  "title": {
+    "value": "Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act",
+    "provenance": "SECTION 1. This act shall be known, and may be cited, as the Take All Menstrual Product-PFAS Out Now (T.A.M.P.O.N.) Act."
+  },
+  "location": {
+    "value": "California",
+    "provenance": "California Law"
+  },
+  "reference": {
+    "value": "AB-2515",
+    "provenance": "Assembly Bill N o. 2515"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "AB-2515 Menstrual products: perfluoroalkyl and polyfluoroalkyl substances (PFAS)."
+  },
+  "date": {
+    "value": "2024-09-30",
+    "provenance": "Date Published: 09/30/2024 09:00 PM"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "c) \u201cPerfluoroalkyl and polyfluoroalkyl substances\u201d or \u201cPFAS\u201d means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "25258.3. A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Commencing January 1, 2025, PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product..."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "25258.3. A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "25258.3. A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "products": {
+        "value": [
+          "tampons",
+          "pads",
+          "sponges",
+          "menstruation underwear",
+          "disks",
+          "menstrual cups"
+        ],
+        "provenance": "b) \u201cMenstrual product\u201d means a product used to collect menstruation and vaginal discharge, including, but not limited to, tampons, pads, sponges, menstruation underwear, disks, and menstrual cups, whether disposable or reusable."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "c) \u201cRegulated perfluoroalkyl and polyfluoroalkyl substances\u201d or \u201cregulated PFAS\u201d means the following: (1) Commencing January 1, 2025, PFAS that a manufacturer has intentionally added to a product..."
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "25258.4. On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department..."
+      },
+      "date": {
+        "value": "2029-07-01",
+        "provenance": "25258.4. On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department..."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "25258.4. On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department..."
+      },
+      "action": {
+        "value": [
+          "Register"
+        ],
+        "provenance": "25258.4. On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department..."
+      },
+      "products": {
+        "value": [
+          "menstrual product"
+        ],
+        "provenance": "25258.4. On or before July 1, 2029, a manufacturer of a menstrual product, as defined in this article, shall register with the department..."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "25258.2. On or before January 1, 2027, the department shall publish on its internet website a list of accepted testing methods for testing for the presence of regulated PFAS in menstrual products..."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "25258.2. On or before January 1, 2027, the department shall publish on its internet website a list of accepted testing methods for testing for the presence of regulated PFAS in menstrual products..."
+      },
+      "who": {
+        "value": [
+          "Department of Toxic Substances Control"
+        ],
+        "provenance": "25258.2. On or before January 1, 2027, the department shall publish on its internet website a list of accepted testing methods for testing for the presence of regulated PFAS in menstrual products..."
+      },
+      "action": {
+        "value": [
+          "Publish"
+        ],
+        "provenance": "25258.2. On or before January 1, 2027, the department shall publish on its internet website a list of accepted testing methods for testing for the presence of regulated PFAS in menstrual products..."
+      },
+      "products": {
+        "value": [
+          "testing methods for regulated PFAS in menstrual products"
+        ],
+        "provenance": "25258.2. On or before January 1, 2027, the department shall publish on its internet website a list of accepted testing methods for testing for the presence of regulated PFAS in menstrual products..."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "25258.1. On or before January 1, 2029, the department shall adopt regulations to implement, interpret, enforce, or make specific this article."
+      },
+      "date": {
+        "value": "2029-01-01",
+        "provenance": "25258.1. On or before January 1, 2029, the department shall adopt regulations to implement, interpret, enforce, or make specific this article."
+      },
+      "who": {
+        "value": [
+          "Department of Toxic Substances Control"
+        ],
+        "provenance": "25258.1. On or before January 1, 2029, the department shall adopt regulations to implement, interpret, enforce, or make specific this article."
+      },
+      "action": {
+        "value": [
+          "Adopt regulations"
+        ],
+        "provenance": "25258.1. On or before January 1, 2029, the department shall adopt regulations to implement, interpret, enforce, or make specific this article."
+      },
+      "products": {
+        "value": [
+          "menstrual product"
+        ],
+        "provenance": "25258.1. On or before January 1, 2029, the department shall adopt regulations to implement, interpret, enforce, or make specific this article."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "25258.5. The department shall issue a notice of violation to a person or entity in violation of this article if any of the following occurs..."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "25258.3. A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "who": {
+        "value": [
+          "Department of Toxic Substances Control"
+        ],
+        "provenance": "25258.5. The department shall issue a notice of violation to a person or entity in violation of this article if any of the following occurs..."
+      },
+      "action": {
+        "value": [
+          "Issue notice of violation"
+        ],
+        "provenance": "25258.5. The department shall issue a notice of violation to a person or entity in violation of this article if any of the following occurs..."
+      },
+      "products": {
+        "value": [
+          "menstrual product"
+        ],
+        "provenance": "25258.5. The department shall issue a notice of violation to a person or entity in violation of this article if any of the following occurs..."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

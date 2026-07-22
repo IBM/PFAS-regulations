@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "House Bill 3512",
+    "provenance": "House Bill 3512"
+  },
+  "location": {
+    "value": "State of Oregon",
+    "provenance": "Be It Enacted by the People of the State of Oregon:"
+  },
+  "reference": {
+    "value": "House Bill 3512",
+    "provenance": "House Bill 3512"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "House Bill 3512"
+  },
+  "date": {
+    "value": "2027-01-01",
+    "provenance": "Becomes operative on January 1, 2027."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, also commonly known as PFAS."
+  }
+}

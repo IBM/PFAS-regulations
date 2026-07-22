@@ -1,0 +1,61 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution"
+      },
+      "date": {
+        "value": "2024-04-16",
+        "provenance": "APPROVED APRIL 16, 2024"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A Except as provided pursuant to paragraph D or subsection 3, a manufacturer of a product for sale in the State that contains intentionally added PFAS and for which the department has determined that the use of PFAS in the product is a currently unavoidable use in accordance with subsection 5, paragraph F shall comply with the requirements of this subsection."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "B. Effective Except as provided pursuant to paragraph F or G, effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS."
+      },
+      "products": {
+        "value": [
+          "Carpet or rug",
+          "Fabric treatment",
+          "Cleaning product",
+          "Cookware product",
+          "Cosmetic product",
+          "Juvenile product",
+          "Textile article",
+          "Artificial turf",
+          "Outdoor apparel for severe wet conditions",
+          "Ski wax",
+          "Upholstered furniture"
+        ],
+        "provenance": "B. Effective Except as provided pursuant to paragraph F or G, effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS. B-1. Effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a fabric treatment that contains intentionally added PFAS. B-2. Effective January 1, 2026, a person may not sell, offer for sale or distribute for sale in this State: a cleaning product containing intentionally added PFAS; a cookware product containing intentionally added PFAS; a cosmetic product containing intentionally added PFAS; dental floss containing intentionally added PFAS; a juvenile product containing intentionally added PFAS; a menstruation product containing intentionally added PFAS; a textile article containing intentionally added PFAS. B-2. Effective January 1, 2029, a person may not sell, offer for sale or distribute for sale in this State: artificial turf containing intentionally added PFAS. B-2. Effective January 1, 2029, a person may not sell, offer for sale or distribute for sale in this State: outdoor apparel for severe wet conditions containing intentionally added PFAS, unless the apparel is accompanied by a legible, easily discernable disclosure that includes the following statement: 'Made with PFAS chemicals.'"
+      },
+      "exceptions": {
+        "value": [
+          "Used product or used product component",
+          "Used product",
+          "Cooling, heating, ventilation, air conditioning and refrigeration equipment, including parts and other servicing needs for such equipment",
+          "Refrigerants, foams and aerosol propellants that are listed as acceptable, acceptable subject to use conditions or acceptable subject to narrowed use limits by the United States Environmental Protection Agency pursuant to the Significant New Alternatives Policy program"
+        ],
+        "provenance": "C. The department may by rule identify products by category or use that may not be sold, offered for sale or distributed for sale in this State if they contain intentionally added PFAS. The department shall prioritize the prohibition of the sale of product categories that, in the department's judgment, are most likely to cause contamination of the State's land or water resources if they contain intentionally added PFAS. Products in which the use of PFAS is a currently unavoidable use as determined by the department may be exempted by the department by rule. The department may not prohibit by rule pursuant to this paragraph the sale, offer for sale or resale distribution for sale of used products in used condition. C. Effective Except as otherwise provided in this paragraph or pursuant to paragraph F or G, effective January 1, 2030 2032, a person may not sell, offer for sale or distribute for sale in this State any product that contains intentionally added PFAS that is not already prohibited from sale, offer for sale or distribution for sale pursuant to paragraph A, B, B-1, B-2 or C, unless the department has determined by rule in accordance with paragraph F that the use of PFAS in the product is a currently unavoidable use. The prohibition under this paragraph applies to any such products that do not contain intentionally added PFAS but that are sold, offered for sale or distributed for sale in a fluorinated container or in a container that otherwise contains intentionally added PFAS. The prohibition under this paragraph does not apply to: parts and other servicing needs for cooling, heating, ventilation, air conditioning or refrigeration equipment, including refrigerants used in the servicing of such equipment, as long as the refrigerant is listed as acceptable, acceptable subject to use conditions or acceptable subject to narrowed use limits by the United States Environmental Protection Agency pursuant to the Significant New Alternatives Policy program."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The document does not mention 'currently unavoidable use'"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "B. Effective Except as provided pursuant to paragraph F or G, effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a carpet or rug that contains intentionally added PFAS. B-1. Effective January 1, 2023, a person may not sell, offer for sale or distribute for sale in this State a fabric treatment that contains intentionally added PFAS. B-2. Effective January 1, 2026, a person may not sell, offer for sale or distribute for sale in this State: a cleaning product containing intentionally added PFAS; a cookware product containing intentionally added PFAS; a cosmetic product containing intentionally added PFAS; dental floss containing intentionally added PFAS; a juvenile product containing intentionally added PFAS; a menstruation product containing intentionally added PFAS; a textile article containing intentionally added PFAS. B-2. Effective January 1, 2029, a person may not sell, offer for sale or distribute for sale in this State: artificial turf containing intentionally added PFAS. B-2. Effective January 1, 2029, a person may not sell, offer for sale or distribute for sale in this State: outdoor apparel for severe wet conditions containing intentionally added PFAS, unless the apparel is accompanied by a legible, easily discernable disclosure that includes the following statement: 'Made with PFAS chemicals.'"
+      }
+    }
+  ]
+}

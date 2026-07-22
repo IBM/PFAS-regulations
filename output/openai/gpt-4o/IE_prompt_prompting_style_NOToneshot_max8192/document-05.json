@@ -1,0 +1,75 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 652",
+    "provenance": "Assembly Bill No. 652"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "CHAPTER 500",
+    "provenance": "CHAPTER 500"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety."
+  },
+  "date": {
+    "value": "2021-10-05",
+    "provenance": "[Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill would, on and after July 1, 2023, prohibit a person, including a manufacturer, from selling or distributing in commerce in this state any new, not previously owned, juvenile product, as defined, that contains regulated perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "This bill would, on and after July 1, 2023, prohibit a person, including a manufacturer, from selling or distributing in commerce in this state any new, not previously owned, juvenile product, as defined, that contains regulated perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Person"
+        ],
+        "provenance": "This bill would, on and after July 1, 2023, prohibit a person, including a manufacturer, from selling or distributing in commerce in this state any new, not previously owned, juvenile product, as defined, that contains regulated perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "This bill would, on and after July 1, 2023, prohibit a person, including a manufacturer, from selling or distributing in commerce in this state any new, not previously owned, juvenile product, as defined, that contains regulated perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "products": {
+        "value": [
+          "juvenile product"
+        ],
+        "provenance": "'Juvenile product' means a product designed for use by infants and children under 12 years of age, including, but not limited to, a baby or toddler foam pillow, bassinet, bedside sleeper, booster seat, changing pad, child restraint system for use in motor vehicles and aircraft, co-sleeper, crib mattress, floor playmat, highchair, highchair pad, infant bouncer, infant carrier, infant seat, infant sleep positioner, infant swing, infant travel bed, infant walker, nap cot, nursing pad, nursing pillow, playmat, playpen, play yard, polyurethane foam mat, pad, or pillow, portable foam nap mat, portable infant sleeper, portable hook-on chair, soft-sided portable crib, stroller, and toddler mattress."
+      },
+      "exceptions": {
+        "value": [
+          "children's electronic product",
+          "medical device",
+          "internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product",
+          "adult mattress"
+        ],
+        "provenance": "'Juvenile product' does not include any of the following: (A) A children's electronic product, including, but not limited to, a personal computer, audio and video equipment, calculator, wireless phone, game console, handheld device incorporating a video screen, or any associated peripheral such as a mouse, keyboard, power supply unit, or power cord. (B) A medical device. (C) An internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product. (D) An adult mattress."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Regulated perfluoroalkyl and polyfluoroalkyl substances' or 'regulated PFAS' means either of the following: (1) PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product, including, but not limited to, the PFAS components of intentionally added chemicals and PFAS that are intentional breakdown products of an added chemical that also have a functional or technical effect in the product."
+      }
+    }
+  ]
+}

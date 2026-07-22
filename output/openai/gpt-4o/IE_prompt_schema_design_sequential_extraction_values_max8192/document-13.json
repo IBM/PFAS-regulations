@@ -1,0 +1,56 @@
+{
+  "title": {
+    "value": "Senate Bill 543"
+  },
+  "location": {
+    "value": "State of Oregon"
+  },
+  "reference": {
+    "value": "2023 Act"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2023-01-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "foodware container containing perfluoroalkyl or polyfluoroalkyl substances"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

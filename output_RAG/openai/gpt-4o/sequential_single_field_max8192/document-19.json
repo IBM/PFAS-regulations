@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS",
+    "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS."
+  },
+  "location": {
+    "value": "this state",
+    "provenance": "offer for sale or distribute for sale in this state any (A) apparel; (B) carpet or rug; (C) cleaning product; (D) cookware; (E) cosmetic product; (F) dental floss; (G) fabric treatment; (H) children's product; (I) menstruation product; (J) textile furnishing; (K) ski wax; or (L) upholstered furniture if such product contains intentionally added PFAS, unless the manufacturer of the product provides prior notification in writing to the department in accordance with the requirements of this subsection."
+  },
+  "reference": {
+    "value": "Substitute Senate Bill No. 292",
+    "provenance": "Substitute Senate Bill No. 292"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS. Be it enacted by the Senate and House of Representatives in General Assembly convened: Section 1. (NEW) ( Effective October 1, 2024 )"
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "Section 1. (NEW) ( Effective October 1, 2024 )"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  }
+}

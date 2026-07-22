@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "HOUSE BILL NO. 389",
+    "provenance": "HOUSE BILL NO. 389"
+  },
+  "location": {
+    "value": "Louisiana",
+    "provenance": "Prefiled pursuant to Article III, Section 2(A)(4)(b)(i) of the Constitution of Louisiana."
+  },
+  "reference": {
+    "value": "R.S. 40:1615",
+    "provenance": "To enact R.S. 40:1615, relative to fire fighting foam;"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Be it enacted by the Legislature of Louisiana:"
+  },
+  "date": {
+    "value": "2022-01-01",
+    "provenance": "On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"PFAS chemicals\" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, including perfluoroalkyl and polyfluoroalkyl substances, and designed to be fully functional in Class B fire fighting foam formulations."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "prohibits the discharge or use of Class B fire fighting foam that contains intentionally added PFAS chemicals"
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "On and after January 1, 2022, no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "\"Person\" means an individual, association, joint venture, partnership, corporation, limited liability company, political subdivision, municipality, or public or private organization of any character"
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ],
+        "provenance": "no person shall discharge or otherwise use Class B fire fighting foam that contains intentionally added PFAS chemicals"
+      },
+      "products": {
+        "value": [
+          "Class B fire fighting foam that contains intentionally added PFAS chemicals"
+        ],
+        "provenance": "Class B fire fighting foam that contains intentionally added PFAS chemicals"
+      },
+      "exceptions": {
+        "value": [
+          "emergency fire fighting operation",
+          "training or testing purposes at a facility with containment, treatment, and disposal measures"
+        ],
+        "provenance": "unless discharged under either of the following conditions: (1) Such discharge or other use occurs in fire prevention or in response to an emergency fire fighting operation. (2) Such discharge or other use is for training or testing purposes which occurs at a facility that has implemented containment, treatment, and disposal measures to prevent uncontrolled releases of such Class B fire fighting foam into the environment."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not mentioned"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Class B fire fighting foam that contains intentionally added PFAS chemicals"
+      }
+    }
+  ]
+}

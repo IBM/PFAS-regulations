@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "SUBSTITUTE HOUSE BILL 1047",
+    "provenance": "SUBSTITUTE HOUSE BILL 1047\nAS AMENDED BY THE SENATE\nPassed Legislature - 2023 Regular Session"
+  },
+  "location": {
+    "value": "State of Washington",
+    "provenance": "Governor of the State of Washington\nState of Washington 68th Legislature 2023 Regular Session"
+  },
+  "reference": {
+    "value": "RCW 70A.350.010",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" has the same 7 meaning as defined in RCW 70A.350.010."
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "SUBSTITUTE HOUSE BILL 1047\nAS AMENDED BY THE SENATE\nPassed Legislature - 2023 Regular Session"
+  },
+  "date": {
+    "value": "2023",
+    "provenance": "Passed Legislature - 2023 Regular Session"
+  },
+  "pfas_definition": {
+    "value": "not specified",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" has the same 7 meaning as defined in RCW 70A.350.010."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "beginning January 1, 2025, no person may 14 manufacture, knowingly sell, offer for sale, distribute for sale, or 15 distribute for use in this state any cosmetic product that contains 16 any  of  the  following  intentionally  added  chemicals  or  chemical 17 classes: 18\n(b) Perfluoroalkyl and polyfluoroalkyl substances;"
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "beginning January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person may 14 manufacture, knowingly sell, offer for sale, distribute for sale, or 15 distribute for use in this state"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "no person may 14 manufacture, knowingly sell, offer for sale, distribute for sale, or 15 distribute for use in this state"
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ],
+        "provenance": "any cosmetic product that contains 16 any  of  the  following  intentionally  added  chemicals  or  chemical 17 classes: 18\n(b) Perfluoroalkyl and polyfluoroalkyl substances;"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "Except as provided in subsection (3) 13 of this section"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "any cosmetic product that contains 16 any  of  the  following  intentionally  added  chemicals"
+      }
+    }
+  ]
+}

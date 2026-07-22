@@ -1,0 +1,176 @@
+{
+  "title": {
+    "value": "\u00a71614. Products containing PFAS"
+  },
+  "location": {
+    "value": "State"
+  },
+  "reference": {
+    "value": "not specified"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "not specified"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make"
+        ]
+      },
+      "products": {
+        "value": [
+          "product for sale in the State that contains intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "manufacturer that employs 25 100 or fewer people"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2023-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "carpet or rug that contains intentionally added PFAS",
+          "fabric treatment that contains intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "sale, offer for sale or resale distribution for sale of a used any carpet or rug in used condition",
+          "sale or resale of a used fabric treatment"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2026-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "cleaning product containing intentionally added PFAS",
+          "cookware product containing intentionally added PFAS",
+          "cosmetic product containing intentionally added PFAS",
+          "dental floss containing intentionally added PFAS",
+          "juvenile product containing intentionally added PFAS",
+          "menstruation product containing intentionally added PFAS",
+          "textile article containing intentionally added PFAS",
+          "ski wax containing intentionally added PFAS",
+          "upholstered furniture containing intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Outdoor apparel for severe wet conditions",
+          "textile article that is included in or a component part of a watercraft, aircraft or motor vehicle, including an off-highway vehicle"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2029-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "artificial turf containing intentionally added PFAS",
+          "outdoor apparel for severe wet conditions containing intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "products sold, offered for sale or distributed for sale in used condition"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

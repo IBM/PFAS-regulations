@@ -1,0 +1,96 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Entity"
+        ],
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Deliver",
+          "Hold",
+          "Offer for sale"
+        ],
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ],
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Existing law, beginning January 1, 2025, prohibits a person or entity from manufacturing, selling, delivering, holding, or offering for sale in commerce any cosmetic product that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances (PFAS), as defined."
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill would similarly prohibit any person from manufacturing, distributing, selling, or offering for sale in the state any menstrual products that contain regulated PFAS, as defined."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "25258.3. A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "This bill would similarly prohibit any person from manufacturing, distributing, selling, or offering for sale in the state any menstrual products that contain regulated PFAS, as defined."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "This bill would similarly prohibit any person from manufacturing, distributing, selling, or offering for sale in the state any menstrual products that contain regulated PFAS, as defined."
+      },
+      "products": {
+        "value": [
+          "menstrual products"
+        ],
+        "provenance": "This bill would similarly prohibit any person from manufacturing, distributing, selling, or offering for sale in the state any menstrual products that contain regulated PFAS, as defined."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Commencing January 1, 2025, PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product, including the PFAS components of intentionally added chemicals and PFAS that are intentional breakdown products of an added chemical that also have a functional or technical effect in the product."
+      }
+    }
+  ]
+}

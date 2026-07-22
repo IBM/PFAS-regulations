@@ -1,0 +1,80 @@
+{
+  "title": {
+    "value": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products",
+    "provenance": "HOUSE BILL 465-FN - AS INTRODUCED\nAN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products."
+  },
+  "location": {
+    "value": "New Hampshire",
+    "provenance": "New Hampshire-2024-HB465-Introduced"
+  },
+  "reference": {
+    "value": "HB 465-FN",
+    "provenance": "HOUSE BILL 465-FN - AS INTRODUCED"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "New Hampshire-2024-HB465-Introduced"
+  },
+  "date": {
+    "value": "2023-01-06",
+    "provenance": "LBA 23-0506 1/6/23"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(d)  'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "AN ACT restricting use of perfluoroalkyl and polyfluoroalkyl substances in certain consumer products."
+      },
+      "date": {
+        "value": "2025-07-01",
+        "provenance": "2  Effective Date.  This act shall take effect July 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor"
+        ],
+        "provenance": "II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount."
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "II.(a)  A manufacturer, supplier, or distributor shall not manufacture, sell, offer for sale, distribute for sale, or distribute for use in this state a rug or carpet to which PFAS have been intentionally added in any amount."
+      },
+      "products": {
+        "value": [
+          "Rug",
+          "Carpet",
+          "Aftermarket stain and water resistant treatments"
+        ],
+        "provenance": "This bill restricts the use of per and polyfluoroalkyl substances in rugs, carpets, and aftermarket stain and water resistant treatments sold in New Hampshire."
+      },
+      "exceptions": {
+        "value": [
+          "The sale or resale of used products"
+        ],
+        "provenance": "II.(b)  This paragraph shall not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(c)  'Intentionally added' means the addition of a chemical in a product that serves an intended function in the product component."
+      }
+    }
+  ]
+}

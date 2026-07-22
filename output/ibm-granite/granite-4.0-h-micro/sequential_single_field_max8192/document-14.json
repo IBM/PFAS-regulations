@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 1817",
+    "provenance": "Assembly Bill No. 1817"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health."
+  },
+  "reference": {
+    "value": "AB 1817",
+    "provenance": "Assembly Bill No. 1817"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health."
+  },
+  "date": {
+    "value": "September 29, 2022",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "For purposes of this subdivision, 'textile articles' means textile goods of a type customarily and ordinarily used in households and businesses, and include, but are not limited to, apparel, accessories, handbags, backpacks, draperies, shower curtains, furnishings, upholstery, beddings, towels, napkins, and tablecloths. 'Regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS' means either of the following: (1) PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product. (2) The presence of PFAS in a product or product component at or above the following thresholds, as measured in total organic fluorine: (A) Commencing January 1, 2025, 100 parts per million. (B) Commencing January 1, 2027, 50 parts per million."
+  }
+}

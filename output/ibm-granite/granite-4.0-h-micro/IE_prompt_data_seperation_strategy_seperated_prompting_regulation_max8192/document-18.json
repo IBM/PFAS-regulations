@@ -1,0 +1,50 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This bill would similarly prohibit any person from manufacturing, distributing, selling, or offering for sale in the state any menstrual products that contain regulated PFAS"
+      },
+      "date": {
+        "value": "2024-09-30",
+        "provenance": "Date Published: 09/30/2024 09:00 PM"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A person shall not manufacture, distribute, sell, or offer for sale in the state a menstrual product that contains regulated PFAS"
+      },
+      "products": {
+        "value": [
+          "Menstrual product"
+        ],
+        "provenance": "Menstrual product means a product used to collect menstruation and vaginal discharge"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Regulated perfluoroalkyl and polyfluoroalkyl substances or regulated PFAS means the following: (1) Commencing January 1, 2025, PFAS that a manufacturer has intentionally added to a product"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "No package or packaging component shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state, which includes, in the package itself or in any packaging component, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements."
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "No product shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state in a package which includes, in the package itself or in any of its packaging components, inks, dyes, pigments, adhesives, stabilizers, or any other additives, any lead, cadmium, mercury or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution as opposed to the incidental presence of any of these elements."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "No package or packaging component shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "No product shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state"
+      },
+      "products": {
+        "value": [
+          "Food package"
+        ],
+        "provenance": "No food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state"
+      },
+      "exceptions": {
+        "value": [
+          "Intentional introduction of PFAS",
+          "Incidental presence of regulated metals"
+        ],
+        "provenance": "The use of PFAS or other regulated chemicals as a processing agent, mold intermediate, or in post-consumer recycled materials is not considered intentional introduction"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The regulation does not mention that PFAS is currently unavoidable in the product"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "The regulation specifies that intentional introduction of PFAS is prohibited"
+      }
+    }
+  ]
+}

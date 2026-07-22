@@ -1,0 +1,46 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This act would prohibit the sale or promotional distribution of any food package in Rhode Island which contains perfluoroalkyl and polyfluoroalkyl substances (PFAS), effective January 1, 2024."
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "effective January 1, 2024"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "No package or packaging component shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "prohibited from selling or offering for sale food packages containing PFAS"
+      },
+      "products": {
+        "value": [
+          "food package"
+        ],
+        "provenance": "which contains perfluoroalkyl and polyfluoroalkyl substances (PFAS)"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No exceptions are mentioned for the ban on PFAS in food packaging"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The text explicitly bans PFAS, implying it's not currently unavoidable"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "The ban applies to PFAS 'intentionally introduced during manufacturing or distribution'"
+      }
+    }
+  ]
+}

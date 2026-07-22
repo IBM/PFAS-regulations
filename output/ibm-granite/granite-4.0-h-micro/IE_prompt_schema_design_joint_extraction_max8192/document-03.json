@@ -1,0 +1,55 @@
+{
+  "title": {
+    "value": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances",
+    "provenance": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+  },
+  "location": {
+    "value": "State of New York",
+    "provenance": "The State of New York"
+  },
+  "reference": {
+    "value": "4525--A",
+    "provenance": "4525--A"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT"
+  },
+  "date": {
+    "value": "2025-02-04",
+    "provenance": "February 4, 2025"
+  },
+  "pfas_definition": {
+    "value": "a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances or PFAS substances means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "no person this state shall sell or offer for sale in containing perfluoroalkyl and polyfluoroalkyl substances at or above a level that the department shall establish"
+      },
+      "date": {
+        "value": "2025-12-31",
+        "provenance": "no person shall sell or offer for sale in containing perfluoroalkyl and polyfluoroalkyl substances at or above a level that the department shall establish"
+      },
+      "who": [
+        "Supplier",
+        "Manufacturer"
+      ],
+      "action": [
+        "Sell",
+        "Offer for sale"
+      ],
+      "products": [
+        "anti-fogging sprays",
+        "wipes"
+      ],
+      "exceptions": [
+        "if they can show that they relied in good faith on the written assurance of the manufacturer of such product that such product met the requirements of this section"
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": true
+    }
+  ]
+}

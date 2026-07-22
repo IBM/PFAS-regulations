@@ -1,0 +1,68 @@
+{
+  "title": {
+    "value": "ASSEMBLY, No. 4125"
+  },
+  "location": {
+    "value": "STATE OF NEW JERSEY"
+  },
+  "reference": {
+    "value": "ASSEMBLY, No. 4125"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2022-06-02"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-06-02"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Use"
+        ]
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "the sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law or regulation"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

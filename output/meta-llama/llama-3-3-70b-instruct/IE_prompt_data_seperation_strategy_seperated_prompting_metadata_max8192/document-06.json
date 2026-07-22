@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "HOUSE BILL 1147",
+    "provenance": "## HOUSE BILL 1147"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "Assigned to: Environment and Transportation ... in the State; Annotated Code of Maryland"
+  },
+  "reference": {
+    "value": "4lr1508",
+    "provenance": "4lr1508"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "A BILL ENTITLED"
+  },
+  "date": {
+    "value": "2024-02-07",
+    "provenance": "Introduced and read first time: February 7, 2024"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(2) FLUORINATED ORGANIC CHEMICALS THAT CONTAIN AT LEAST 1 FULLY FLUORINATED CARBON ATOM, INCLUDING PFAS SUBSTANCES;"
+  }
+}

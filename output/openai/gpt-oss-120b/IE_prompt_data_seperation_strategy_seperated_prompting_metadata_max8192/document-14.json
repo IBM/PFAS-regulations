@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AB 1817, Ting. Product safety: textile articles: perfluoroalkyl and polyfluoroalkyl substances (PFAS).",
+    "provenance": "AB  1817,  Ting.  Product  safety:  textile  articles:  perfluoroalkyl  and polyfluoroalkyl substances (PFAS)."
+  },
+  "location": {
+    "value": "State of California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 1817",
+    "provenance": "Assembly Bill No. 1817"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Assembly Bill No. 1817"
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "Approved by Governor September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a  class  of  fluorinated  organic  chemicals  containing  at  least  one  fully  fluorinated carbon atom."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "\"prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams\""
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "\"On January 1, 2022, for all other purposes.\""
+      },
+      "who": {
+        "value": [
+          "Person",
+          "State agency",
+          "Local government"
+        ],
+        "provenance": "\"a person, political subdivision, local government or state or local agency\""
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "\"shall not discharge, use or release\""
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ],
+        "provenance": "\"Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances\""
+      },
+      "exceptions": {
+        "value": [
+          "Testing the Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances unless the person testing the foam has ensured that any measures necessary for the proper containment, treatment and disposal of the foam are available at the testing location and such measures will prevent the release of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances to the surrounding environment",
+          "Firefighting training"
+        ],
+        "provenance": "\"(a) Testing the Class B firefighting foam ... unless the person testing the foam has ensured that any measures necessary for the proper containment, treatment and disposal of the foam are available at the testing location and such measures will prevent the release ...; or (b) Firefighting training.\""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "\"contains intentionally added perfluoroalkyl and polyfluoroalkyl substances\""
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "\"must report the discharge, use or release to the Division not later than 24 hours after the discharge, use or release\""
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "\"On January 1, 2022, for all other purposes.\""
+      },
+      "who": {
+        "value": [
+          "Person",
+          "State agency",
+          "Local government"
+        ],
+        "provenance": "\"any person, political subdivision, local government or state or local agency who discharges, uses or releases\""
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "\"discharges, uses or releases\""
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ],
+        "provenance": "\"Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances\""
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "\"contains intentionally added perfluoroalkyl and polyfluoroalkyl substances\""
+      }
+    }
+  ]
+}

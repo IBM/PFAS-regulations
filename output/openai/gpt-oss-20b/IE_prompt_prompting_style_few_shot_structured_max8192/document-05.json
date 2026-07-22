@@ -1,0 +1,110 @@
+{
+  "title": {
+    "value": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety.",
+    "provenance": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety."
+  },
+  "location": {
+    "value": "State of California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 652",
+    "provenance": "Assembly Bill No. 652"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Assembly Bill No. 652"
+  },
+  "date": {
+    "value": "2021-10-05",
+    "provenance": "Approved by Governor October 5, 2021."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Person"
+        ],
+        "provenance": "a person, including, but not limited to, a manufacturer"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "shall not sell or distribute"
+      },
+      "products": {
+        "value": [
+          "juvenile product"
+        ],
+        "provenance": "juvenile product"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A manufacturer shall use the least toxic alternative when replacing PFAS chemicals in a juvenile product in accordance with this chapter."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "A manufacturer shall use the least toxic alternative when replacing PFAS chemicals in a juvenile product in accordance with this chapter."
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A manufacturer"
+      },
+      "action": {
+        "value": [
+          "Use"
+        ],
+        "provenance": "shall use the least toxic alternative when replacing PFAS chemicals"
+      },
+      "products": {
+        "value": [
+          "juvenile product"
+        ],
+        "provenance": "juvenile product"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

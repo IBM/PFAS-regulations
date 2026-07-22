@@ -1,0 +1,60 @@
+{
+  "title": {
+    "value": "AN ACT concerning safety."
+  },
+  "location": {
+    "value": "State of Illinois"
+  },
+  "reference": {
+    "value": "415 ILCS 5/22.62"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "not specified"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "not specified"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Dispose"
+        ]
+      },
+      "products": {
+        "value": [
+          "TRI-PFAS",
+          "aqueous film-forming foam that contains TRI-PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "incineration of landfill gas from the decomposition of waste that may contain any perfluoroalkyl or polyfluoroalkyl substances at a permitted sanitary landfill",
+          "landfill gas in a landfill gas recovery facility that is located at a sanitary landfill",
+          "waste at a permitted hospital, medical, and infectious waste incinerator that meets the requirements of Subpart HHH of 40 CFR Part 62, Subpart Ec of 40 CFR Part 60, or the Board-adopted State Plan requirements for hospital, medical, and infectious waste incinerators",
+          "sludges, biosolids, or other solids or by-products generated at or by a municipal wastewater treatment plant or facility"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

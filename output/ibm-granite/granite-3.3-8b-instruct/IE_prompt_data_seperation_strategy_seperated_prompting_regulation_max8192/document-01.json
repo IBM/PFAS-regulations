@@ -1,0 +1,48 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A NEW SECTION OF KRS 227.200 TO 227.410 IS CREATED TO READ AS FOLLOWS: (2) Beginning on July 15, 2020, class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for firefighting training purposes or testing purposes unless otherwise required by law, regulation, or ordinance"
+      },
+      "date": {
+        "value": "2020-07-15",
+        "provenance": "Beginning on July 15, 2020"
+      },
+      "who": {
+        "value": [
+          "Testing facility"
+        ],
+        "provenance": "unless the testing facility has implemented best industry practices to prevent uncontrolled releases of class B firefighting foam in the environment"
+      },
+      "action": {
+        "value": [
+          "use",
+          "firefighting training purposes",
+          "testing purposes"
+        ],
+        "provenance": "class B firefighting foam that contains intentionally added PFAS chemicals shall not be used for ... or testing purposes"
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam that contains intentionally added PFAS chemicals"
+        ],
+        "provenance": "shall not be used ... unless otherwise required by law, regulation, or ordinance"
+      },
+      "exceptions": {
+        "value": [
+          "The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals; or The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations"
+        ],
+        "provenance": "(3) The restrictions in subsection (2) of this Act shall not apply to: (a) The manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals; or (b) The discharge or other use of class B firefighting foam that contains intentionally added PFAS chemicals in emergency firefighting operations."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use' in the document"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS chemicals means perfluoroalkyl and polyfluoroalkyl substances which, for the purpose of firefighting agents, is a class of fluorinated organic chemicals containing at least one (1) fully fluorinated carbon atom"
+      }
+    }
+  ]
+}

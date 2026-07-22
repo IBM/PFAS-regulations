@@ -1,0 +1,191 @@
+{
+  "title": {
+    "value": "HOUSE BILL NO. 5657",
+    "provenance": "HOUSE BILL NO. 5657"
+  },
+  "location": {
+    "value": "Michigan",
+    "provenance": "THE PEOPLE OF THE STATE OF MICHIGAN ENACT"
+  },
+  "reference": {
+    "value": "HOUSE BILL NO. 5657",
+    "provenance": "HOUSE BILL NO. 5657"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "Introduced by Reps. Tsernoglou, Byrnes, Rheingans, Arbit, Hope, Hood, Wilson, Price, Conlin,  Mentzer,  MacDonell,  Andrews,  Brabec,  Wegela,  Skaggs,  O'Neal,  Morgan, Young, Haadsma, Steckloff and Aiyash and referred to the Committee on Natural Resources, Environment, Tourism and Outdoor Recreation."
+  },
+  "date": {
+    "value": "2024-04-24",
+    "provenance": "April 24, 2024, Introduced by Reps. Tsernoglou, Byrnes, Rheingans, Arbit, Hope, Hood, Wilson, Price, Conlin,  Mentzer,  MacDonell,  Andrews,  Brabec,  Wegela,  Skaggs,  O'Neal,  Morgan, Young, Haadsma, Steckloff and Aiyash and referred to the Committee on Natural Resources, Environment, Tourism and Outdoor Recreation."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(e) \"PFAS\" means a perfluoroalkyl or polyfluoroalkyl substance that includes any member of the class of fluorinated organic chemicals containing at least 1 fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "Sec. 5. (1) Beginning January 1, 2027, a manufacturer of a product sold in this state that contains intentionally added PFAS shall submit to the department and any person that will sell, at wholesale or retail, or offer or distribute for sale, the product a notice that contains all of the following information:"
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Beginning January 1, 2027"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "a manufacturer of a product sold in this state"
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "a manufacturer of a product sold in this state that contains intentionally added PFAS shall submit to the department and any person that will sell, at wholesale or retail, or offer or distribute for sale, the product a notice"
+      },
+      "products": {
+        "value": [
+          "Apparel",
+          "Carpets",
+          "Cleaning products",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments",
+          "Juvenile products",
+          "Menstruation products",
+          "Textile furnishings",
+          "Ski wax",
+          "Upholstered furniture"
+        ],
+        "provenance": "Sec. 7. (1) Beginning January 1, 2027, a person shall not sell, or offer or distribute for sale, any of the following products, if the product contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "Personal protective equipment",
+          "Items for use by the United States military",
+          "Used products"
+        ],
+        "provenance": "Apparel does not include personal protective equipment or items for use by the United States military. (3) This section does not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "(a) \"Currently unavoidable\" means a use of PFAS that the department has determined by rule to be temporarily essential"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(c) \"Intentionally added PFAS\" means PFAS that a manufacturer intentionally added to and that has a functional or technical effect on a product"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Sec. 7. (1) Beginning January 1, 2027, a person shall not sell, or offer or distribute for sale, any of the following products, if the product contains intentionally added PFAS"
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Beginning January 1, 2027"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "a person shall not sell, or offer or distribute for sale, any of the following products"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "a person shall not sell, or offer or distribute for sale, any of the following products"
+      },
+      "products": {
+        "value": [
+          "Apparel",
+          "Carpets",
+          "Cleaning products",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments",
+          "Juvenile products",
+          "Menstruation products",
+          "Textile furnishings",
+          "Ski wax",
+          "Upholstered furniture"
+        ],
+        "provenance": "Sec. 7. (1) Beginning January 1, 2027, a person shall not sell, or offer or distribute for sale, any of the following products, if the product contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "Personal protective equipment",
+          "Items for use by the United States military",
+          "Used products"
+        ],
+        "provenance": "Apparel does not include personal protective equipment or items for use by the United States military. (3) This section does not apply to the sale or resale of used products."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "(a) \"Currently unavoidable\" means a use of PFAS that the department has determined by rule to be temporarily essential"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(c) \"Intentionally added PFAS\" means PFAS that a manufacturer intentionally added to and that has a functional or technical effect on a product"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Sec. 9. (1) Except as otherwise provided in subsection (3), beginning January 1, 2027, a person, local government, or state agency shall not discharge or otherwise use class A or class B firefighting foam that contains intentionally added PFAS."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Beginning January 1, 2027"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Local government",
+          "State agency"
+        ],
+        "provenance": "a person, local government, or state agency shall not discharge or otherwise use class A or class B firefighting foam"
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use"
+        ],
+        "provenance": "shall not discharge or otherwise use class A or class B firefighting foam"
+      },
+      "products": {
+        "value": [
+          "Class A firefighting foam",
+          "Class B firefighting foam"
+        ],
+        "provenance": "class A or class B firefighting foam that contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "Federal law regulation"
+        ],
+        "provenance": "The restrictions under subsections (1) and (2) do not apply to the manufacture, sale, distribution, or use of class B firefighting foam that contains intentionally added PFAS that is subject to regulation under 14 CFR 139.317 or another federal law."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "(a) \"Currently unavoidable\" means a use of PFAS that the department has determined by rule to be temporarily essential"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(c) \"Intentionally added PFAS\" means PFAS that a manufacturer intentionally added to and that has a functional or technical effect on a product"
+      }
+    }
+  ]
+}

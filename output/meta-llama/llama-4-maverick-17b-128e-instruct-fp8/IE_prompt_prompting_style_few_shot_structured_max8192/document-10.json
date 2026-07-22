@@ -1,0 +1,72 @@
+{
+  "title": {
+    "value": "An Act Relating to Health and Safety -- Toxic Packaging Reduction Act",
+    "provenance": "A N   A C T RELATING TO HEALTH AND SAFETY -- TOXIC PACKAGING REDUCTION ACT"
+  },
+  "location": {
+    "value": "Rhode Island",
+    "provenance": "S TATE   OF     R H O D E     IS L A N D"
+  },
+  "reference": {
+    "value": "LC004634/SUB A",
+    "provenance": "LC004634/SUB A"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "It is enacted by the General Assembly as follows:"
+  },
+  "date": {
+    "value": "2022-01-01",
+    "provenance": "JANUARY SESSION, A.D. 2022"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "\"Perfluoroalkyl and polyfluoroalkyl substances\" or \"PFAS\" means all members of the class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "(d) Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "date": {
+        "value": "2024-01-01",
+        "provenance": "(d) Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor"
+        ],
+        "provenance": "(d) Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "action": {
+        "value": [
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "(d) Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "products": {
+        "value": [
+          "Food package"
+        ],
+        "provenance": "(d) Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      },
+      "exceptions": {
+        "value": [
+          "Post-consumer recycled materials"
+        ],
+        "provenance": "(3) The use of post-consumer recycled materials as feedstock for the manufacture of new packaging materials, where some portion of the post-consumer package or packaging component may contain amounts of the regulated chemicals but is neither desired nor deliberate, is not considered intentional introduction for the purposes of this chapter where said final package or packaging component is in compliance with \u00a7 23-18.13-4(d)."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(d) Effective January 1, 2024, no food package to which PFAS have been intentionally introduced during manufacturing or distribution in any amount shall be offered for sale or for promotional purposes by its manufacturer or distributor in the state."
+      }
+    }
+  ]
+}

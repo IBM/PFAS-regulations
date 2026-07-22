@@ -1,0 +1,380 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any (A) apparel; (B) carpet or rug; (C) cleaning product; (D) cookware; (E) cosmetic product; (F) dental floss; (G) fabric treatment; (H) children's product; (I) menstruation product; (J) textile furnishing; (K) ski wax; or (L) upholstered furniture if such product contains intentionally added PFAS, unless the manufacturer of the product provides prior notification in writing to the department in accordance with the requirements of this subsection."
+      },
+      "date": {
+        "value": "2026-07-01",
+        "provenance": "On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any (A) apparel; (B) carpet or rug; (C) cleaning product; (D) cookware; (E) cosmetic product; (F) dental floss; (G) fabric treatment; (H) children's product; (I) menstruation product; (J) textile furnishing; (K) ski wax; or (L) upholstered furniture if such product contains intentionally added PFAS, unless the manufacturer of the product provides prior notification in writing to the department in accordance with the requirements of this subsection."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishing",
+          "ski wax",
+          "upholstered furniture"
+        ],
+        "provenance": "any (A) apparel; (B) carpet or rug; (C) cleaning product; (D) cookware; (E) cosmetic product; (F) dental floss; (G) fabric treatment; (H) children's product; (I) menstruation product; (J) textile furnishing; (K) ski wax; or (L) upholstered furniture"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "No person shall sell, offer for sale or distribute for sale in this state any of the products listed in subdivision (1) of this subsection if the product contains intentionally added PFAS, and the manufacturer has failed to submit notification pursuant to this subsection."
+      },
+      "date": {
+        "value": "2026-07-01",
+        "provenance": "On and after July 1, 2026, no person shall manufacture, sell, offer for sale or distribute for sale in this state any (A) apparel; (B) carpet or rug; (C) cleaning product; (D) cookware; (E) cosmetic product; (F) dental floss; (G) fabric treatment; (H) children's product; (I) menstruation product; (J) textile furnishing; (K) ski wax; or (L) upholstered furniture if such product contains intentionally added PFAS, unless the manufacturer of the product provides prior notification in writing to the department in accordance with the requirements of this subsection."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "no person shall sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "no person shall sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "carpet or rug",
+          "cleaning product",
+          "cookware",
+          "cosmetic product",
+          "dental floss",
+          "fabric treatment",
+          "children's product",
+          "menstruation product",
+          "textile furnishing",
+          "ski wax",
+          "upholstered furniture"
+        ],
+        "provenance": "any of the products listed in subdivision (1) of this subsection"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "On and after January 1, 2026, no person shall distribute, sell or offer for sale in this state any new or not-previously-used outdoor apparel for severe wet conditions that contains PFAS unless such product is accompanied by a legible and easily discernable disclosure with the statement \"Made with PFAS chemicals\", including for any online listing of such products for sale."
+      },
+      "date": {
+        "value": "2026-01-01",
+        "provenance": "On and after January 1, 2026, no person shall distribute, sell or offer for sale in this state any new or not-previously-used outdoor apparel for severe wet conditions that contains PFAS unless such product is accompanied by a legible and easily discernable disclosure with the statement \"Made with PFAS chemicals\", including for any online listing of such products for sale."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "no person shall distribute, sell or offer for sale"
+      },
+      "action": {
+        "value": [
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person shall distribute, sell or offer for sale"
+      },
+      "products": {
+        "value": [
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "any new or not-previously-used outdoor apparel for severe wet conditions that contains PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "contains PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after January 1, 2028, no person shall manufacture, sell, offer for sale or distribute for sale in this state any of the following products if the product contains intentionally added PFAS: (1) Apparel; (2) turnout gear; (3) carpets or rugs; (4) cleaning products; (5) cookware; (6) cosmetic products; (7) dental floss; (8) fabric treatments; (9) children's products; (10) menstruation products; (11) textile furnishings; (12) ski wax; (13) upholstered furniture; or (14) outdoor apparel for severe wet conditions."
+      },
+      "date": {
+        "value": "2028-01-01",
+        "provenance": "On and after January 1, 2028, no person shall manufacture, sell, offer for sale or distribute for sale in this state any of the following products if the product contains intentionally added PFAS: (1) Apparel; (2) turnout gear; (3) carpets or rugs; (4) cleaning products; (5) cookware; (6) cosmetic products; (7) dental floss; (8) fabric treatments; (9) children's products; (10) menstruation products; (11) textile furnishings; (12) ski wax; (13) upholstered furniture; or (14) outdoor apparel for severe wet conditions."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "apparel",
+          "turnout gear",
+          "carpets or rugs",
+          "cleaning products",
+          "cookware",
+          "cosmetic products",
+          "dental floss",
+          "fabric treatments",
+          "children's products",
+          "menstruation products",
+          "textile furnishings",
+          "ski wax",
+          "upholstered furniture",
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "any of the following products if the product contains intentionally added PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "contains intentionally added PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Notwithstanding any provision of this section, if a cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS that is attributable to impurities of natural or synthetic ingredients, the manufacturing process, storage or migration from packaging, such unavoidable trace quantity shall not cause the cosmetic product to be in violation of this section."
+      },
+      "date": {
+        "value": "2026-07-01",
+        "provenance": "Notwithstanding any provision of this section, if a cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS that is attributable to impurities of natural or synthetic ingredients, the manufacturing process, storage or migration from packaging, such unavoidable trace quantity shall not cause the cosmetic product to be in violation of this section."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "no person shall manufacture, sell, offer for sale or distribute for sale"
+      },
+      "products": {
+        "value": [
+          "cosmetic product"
+        ],
+        "provenance": "if a cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "unavoidable trace quantity of PFAS attributable to impurities of natural or synthetic ingredients, manufacturing process, storage or migration from packaging"
+        ],
+        "provenance": "if a cosmetic product made through manufacturing processes intended to comply with this section contains an unavoidable trace quantity of PFAS that is attributable to impurities of natural or synthetic ingredients, the manufacturing process, storage or migration from packaging, such unavoidable trace quantity shall not cause the cosmetic product to be in violation of this section."
+      },
+      "currently_unavoidable": {
+        "value": true,
+        "provenance": "unavoidable trace quantity of PFAS"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "No person shall use, sell or offer for sale in this state as a soil amendment any biosolids or wastewater sludge that contain PFAS."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "No person shall use, sell or offer for sale in this state as a soil amendment any biosolids or wastewater sludge that contain PFAS."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "no person shall use, sell or offer for sale"
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person shall use, sell or offer for sale"
+      },
+      "products": {
+        "value": [
+          "biosolids",
+          "wastewater sludge"
+        ],
+        "provenance": "any biosolids or wastewater sludge that contain PFAS"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "Upon written request by the department, a certificate of compliance, or copies thereof, stating that a product is in compliance with the requirements of this section shall be furnished by the product's manufacturer or supplier to the department."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "Upon written request by the department, a certificate of compliance, or copies thereof, stating that a product is in compliance with the requirements of this section shall be furnished by the product's manufacturer or supplier to the department."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier"
+        ],
+        "provenance": "furnished by the product's manufacturer or supplier to the department"
+      },
+      "action": {
+        "value": [
+          "Furnish certificate of compliance"
+        ],
+        "provenance": "a certificate of compliance, or copies thereof, stating that a product is in compliance with the requirements of this section shall be furnished by the product's manufacturer or supplier to the department"
+      },
+      "products": {
+        "value": [
+          "any product"
+        ],
+        "provenance": "a product is in compliance with the requirements of this section"
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "not specified"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "not specified"
+      }
+    }
+  ]
+}

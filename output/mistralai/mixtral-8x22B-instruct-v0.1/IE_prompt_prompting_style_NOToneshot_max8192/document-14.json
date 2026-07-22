@@ -1,0 +1,118 @@
+{
+  "title": {
+    "value": "Assembly Bill No. 1817",
+    "provenance": "Assembly Bill No. 1817"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "AB 1817",
+    "provenance": "AB  1817,  Ting."
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health."
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "[Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "108971. (a) (1) Except as provided in paragraph (2), commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "products": {
+        "value": [
+          "textile articles"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "exceptions": {
+        "value": [
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "(2) Paragraph (1) does not apply to outdoor apparel for severe wet conditions until January 1, 2028."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "However, commencing January 1, 2025, no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals,' including for online listings of products for sale."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025"
+      },
+      "who": {
+        "value": [
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS"
+      },
+      "action": {
+        "value": [
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS"
+      },
+      "products": {
+        "value": [
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": null
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS"
+      }
+    }
+  ]
+}

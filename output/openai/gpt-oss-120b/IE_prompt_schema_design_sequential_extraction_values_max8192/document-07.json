@@ -1,0 +1,64 @@
+{
+  "title": {
+    "value": "AB 2771, Friedman. Cosmetic products: safety."
+  },
+  "location": {
+    "value": "California"
+  },
+  "reference": {
+    "value": "AB 2771"
+  },
+  "status": {
+    "value": "Bill"
+  },
+  "date": {
+    "value": "2022-09-29"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller",
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "cosmetic product",
+          "beauty or personal care product"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

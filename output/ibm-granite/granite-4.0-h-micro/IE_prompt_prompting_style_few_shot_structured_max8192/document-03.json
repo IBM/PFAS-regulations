@@ -1,0 +1,61 @@
+{
+  "title": {
+    "value": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances",
+    "provenance": "AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+  },
+  "location": {
+    "value": "State of New York",
+    "provenance": "The People of the State of New York, represented in Senate and Assembly, do enact as follows:"
+  },
+  "reference": {
+    "value": "4525--A",
+    "provenance": "4525--A"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT to amend the environmental conservation law"
+  },
+  "date": {
+    "value": "2025-02-04",
+    "provenance": "February 4, 2025"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "date": {
+        "value": "2025-12-31",
+        "provenance": "After December thirty-first, two thousand twenty-six"
+      },
+      "who": [
+        "Manufacturer",
+        "Seller"
+      ],
+      "action": [
+        "Sell",
+        "Offer for sale"
+      ],
+      "products": [
+        "anti-fogging sprays",
+        "anti-fogging wipes"
+      ],
+      "exceptions": [
+        "if they can show that they relied in good faith on the written assurance of the manufacturer"
+      ],
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not mentioned"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "intentionally added chemicals"
+      }
+    }
+  ]
+}

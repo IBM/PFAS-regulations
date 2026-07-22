@@ -1,0 +1,48 @@
+{
+  "title": "An Act relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto",
+  "location": "Nevada",
+  "reference": "ASSEMBLY BILL NO. 97",
+  "status": "Law/Statute",
+  "date": "2021-02-08",
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Sec. 8.5. 'Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances' means Class B firefighting foam containing perfluoroalkyl and polyfluoroalkyl substances that is designed to include at least one fully fluorinated carbon atom that is fully functional in the foam."
+  },
+  "regulations": [
+    {
+      "type": "Ban/Restrict",
+      "date": "2022-07-01",
+      "who": [
+        "Manufacturer",
+        "Wholesaler",
+        "Retailer"
+      ],
+      "action": [
+        "manufacture",
+        "sell",
+        "offer for sale",
+        "distribute for sale",
+        "distribute for use"
+      ],
+      "products": [
+        "children's product",
+        "upholstered residential furniture",
+        "residential textile",
+        "business textile",
+        "mattress"
+      ],
+      "exceptions": [
+        "preempted by federal law",
+        "polymeric substance in accordance with 40 C.F.R. \u00a7 723.250",
+        "has a determination of safety pursuant to 15 U.S.C. \u00a7 2604(a)(3)(C) or 15 U.S.C. \u00a7 2605(b)(4)",
+        "sale or offer for sale of any previously owned product",
+        "an electronic component of a children's product, mattress, upholstered residential furniture or residential textile or any associated casing",
+        "children's product, mattress, upholstered residential furniture or residential textile for which there is a federal or national flammability standard",
+        "thread or fiber for stitching mattress components together",
+        "components of an adult mattress other than foam"
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution",
+    "provenance": "S.P. 610 - L.D. 1537"
+  },
+  "location": {
+    "value": "State of Maine",
+    "provenance": "State of Maine"
+  },
+  "reference": {
+    "value": "S.P. 610 - L.D. 1537",
+    "provenance": "S.P. 610 - L.D. 1537"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved APRIL 16, 2024"
+  },
+  "date": {
+    "value": "2024-04-16",
+    "provenance": "Approved APRIL 16, 2024"
+  },
+  "pfas_definition": {
+    "value": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) defined as: Any substance that contains at least one fully fluorinated methyl (CF3-) or methylene (-CF2-) carbon atom (without any H/Cl/Br/I attached to it).",
+    "provenance": "Sec. 1, E"
+  }
+}

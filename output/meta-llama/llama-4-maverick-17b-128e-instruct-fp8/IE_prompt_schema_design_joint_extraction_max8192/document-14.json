@@ -1,0 +1,144 @@
+{
+  "title": {
+    "value": "An act to add Chapter 13.5 (commencing with Section 108970) to Part 3 of Division 104 of the Health and Safety Code, relating to public health.",
+    "provenance": "Assembly Bill No. 1817, CHAPTER 762"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 1817, CHAPTER 762",
+    "provenance": "Assembly Bill No. 1817, CHAPTER 762"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "date": {
+    "value": "2022-09-29",
+    "provenance": "Approved by Governor September 29, 2022. Filed with Secretary of State September 29, 2022."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "(e) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS"
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS"
+      },
+      "products": {
+        "value": [
+          "textile articles",
+          "apparel",
+          "outdoor apparel",
+          "accessories",
+          "handbags",
+          "backpacks",
+          "draperies",
+          "shower curtains",
+          "furnishings",
+          "upholstery",
+          "beddings",
+          "towels",
+          "napkins",
+          "tablecloths"
+        ],
+        "provenance": "(i) (1) 'Textile articles' means textile goods of a type customarily and ordinarily used in households and businesses, and include, but are not limited to, apparel, accessories, handbags, backpacks, draperies, shower curtains, furnishings, upholstery, beddings, towels, napkins, and tablecloths."
+      },
+      "exceptions": {
+        "value": [
+          "outdoor apparel for severe wet conditions until January 1, 2028",
+          "personal protective equipment",
+          "clothing items for exclusive use by the United States military",
+          "carpets and rugs",
+          "treatments containing PFAS for use on converted textiles or leathers",
+          "vehicles",
+          "vessels",
+          "filtration media and filter products used in industrial applications",
+          "textile articles used in or for laboratory analysis and testing",
+          "aircraft",
+          "stadium shades or other architectural fabric structures"
+        ],
+        "provenance": "(2) Paragraph (1) does not apply to outdoor apparel for severe wet conditions until January 1, 2028. (A) Any of the following items regulated under the Safer Consumer Products Program... "
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not mentioned"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(g) (1) 'Regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS' means PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product"
+      }
+    },
+    {
+      "type": {
+        "value": "Label",
+        "provenance": "it is accompanied by a legible and easily discernable disclosure with the statement 'Made with PFAS chemicals,' including for online listings of products for sale."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025, no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure"
+      },
+      "who": {
+        "value": [
+          "Seller",
+          "Distributor"
+        ],
+        "provenance": "no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ],
+        "provenance": "no person shall distribute, sell, or offer for sale in the state any new, not previously used, outdoor apparel for severe wet conditions that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS unless it is accompanied by a legible and easily discernable disclosure"
+      },
+      "products": {
+        "value": [
+          "outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "(d) 'Outdoor apparel for severe wet conditions' means outdoor apparel that are extreme and extended use products designed for outdoor sports experts for applications that provide protection against extended exposure to extreme rain conditions or against extended immersion in water or wet conditions"
+      },
+      "exceptions": {
+        "value": [
+          "not mentioned for this regulation"
+        ],
+        "provenance": "not mentioned"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not mentioned"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "(g) (1) 'Regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS' means PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product"
+      }
+    }
+  ]
+}

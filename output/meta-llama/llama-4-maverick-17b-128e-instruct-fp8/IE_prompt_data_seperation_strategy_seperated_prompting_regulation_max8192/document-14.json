@@ -1,0 +1,76 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "commencing January 1, 2025, no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Distributor",
+          "Seller",
+          "Person"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "no person shall manufacture, distribute, sell, or offer for sale in the state any new, not previously used, textile articles that contain regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS."
+      },
+      "products": {
+        "value": [
+          "textile articles",
+          "apparel",
+          "accessories",
+          "handbags",
+          "backpacks",
+          "draperies",
+          "shower curtains",
+          "furnishings",
+          "upholstery",
+          "beddings",
+          "towels",
+          "napkins",
+          "tablecloths"
+        ],
+        "provenance": "'Textile articles' means textile goods of a type customarily and ordinarily used in households and businesses, and include, but are not limited to, apparel, accessories, handbags, backpacks, draperies, shower curtains, furnishings, upholstery, beddings, towels, napkins, and tablecloths."
+      },
+      "exceptions": {
+        "value": [
+          "outdoor apparel for severe wet conditions",
+          "personal protective equipment",
+          "carpets and rugs",
+          "treatments containing PFAS for use on converted textiles or leathers",
+          "vehicles",
+          "vessels",
+          "filtration media",
+          "textile articles used in laboratory analysis",
+          "single-use paper hygiene products",
+          "single-use absorbent hygiene products",
+          "aircraft",
+          "stadium shades or other architectural fabric structures"
+        ],
+        "provenance": "Various sections, including 'Paragraph (1) does not apply to outdoor apparel for severe wet conditions until January 1, 2028' and ''Textile articles' does not include any of the following: ...'"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not found"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "'Regulated perfluoroalkyl and polyfluoroalkyl substances or PFAS' means either of the following: (1) PFAS that a manufacturer has intentionally added to a product..."
+      }
+    }
+  ]
+}

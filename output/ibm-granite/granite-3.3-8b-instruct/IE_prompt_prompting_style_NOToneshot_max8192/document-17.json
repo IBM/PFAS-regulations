@@ -1,0 +1,127 @@
+{
+  "title": {
+    "value": "An Act relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto.",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto."
+  },
+  "location": {
+    "value": "Nevada",
+    "provenance": "The People Of The State Of Nevada, Represented In Senate And Assembly"
+  },
+  "reference": {
+    "value": "A.B. 97",
+    "provenance": "Assembly Bill No. 97-Assemblyman Watts"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Chapter 459 of NRS is hereby amended by adding thereto the provisions set forth as sections 7 to 14.5, inclusive, of this act."
+  },
+  "date": {
+    "value": "2022-07-01",
+    "provenance": "Sections 1 to 5, inclusive, and 15 to 26, inclusive, of this act become effective: (b) On July 1, 2022, for all other purposes."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances' means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "date": {
+        "value": "2022-07-01",
+        "provenance": "Sections 1 to 5, inclusive, and 15 to 26, inclusive, of this act become effective: (b) On July 1, 2022, for all other purposes."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State or local agency"
+        ],
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ],
+        "provenance": "Section 12 of this bill prohibits, with certain exceptions, a person, political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes."
+      },
+      "exceptions": {
+        "value": [
+          "Preempted by or in conflict with federal law, including without limitation any provision of federal law requiring the use of Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances pursuant to 14 C.F.R. Part 139 or for military purposes"
+        ],
+        "provenance": "Section 10 of this bill provides an exception to the requirements and prohibitions set forth in sections 12 and 13 to the extent that those provisions are preempted by or conflict with federal law."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The term does not include: (a) Food, beverage, dietary supplement, pharmaceutical product or biologic; (b) A children's toy that meets the requirements of the most recent version of the ASTM International Standard F963, 'Standard Consumer Safety Specification for Toy Safety;' (c) A device, as defined in the Federal Food, Drug and Cosmetic Act, 21 U.S.C. \u00a7 321(h); (d) Consumer electronics products and electronic components, including, without limitation, personal computers, audio and video equipment, calculators, digital displays, wireless phones, cameras, game consoles, printers, handheld electronic and electrical devices used to access interactive software or associated peripherals or products that comply with the provisions of Directive 2002/95/EC of the European Union, adopted by the European Parliament and Council of the European Union; (e) Outdoor sports equipment, including, without limitation, snowmobiles, all-terrain vehicles, personal watercraft, watercraft and off-highway vehicles, and all attachments and repair parts of such equipment; or (f) A tent or sleeping bag."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Section 24 of this bill prohibits, with certain exceptions, the knowing manufacture, sale, offering for sale, distribution for sale or distribution for use of a children's product, upholstered residential furniture, residential textile, business textile or mattress containing any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "date": {
+        "value": "2022-07-01",
+        "provenance": "Sections 1 to 5, inclusive, and 15 to 26, inclusive, of this act become effective: (b) On July 1, 2022, for all other purposes."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Wholesaler",
+          "Retailer"
+        ],
+        "provenance": "Section 24 of this bill prohibits, with certain exceptions, the knowing manufacture, sale, offering for sale, distribution for sale or distribution for use of a children's product, upholstered residential furniture, residential textile, business textile or mattress containing any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "Section 24 of this bill prohibits, with certain exceptions, the knowing manufacture, sale, offering for sale, distribution for sale or distribution for use of a children's product, upholstered residential furniture, residential textile, business textile or mattress containing any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "products": {
+        "value": [
+          "Children's product",
+          "Upholstered residential furniture",
+          "Residential textile",
+          "Business textile",
+          "Mattress"
+        ],
+        "provenance": "Section 24 of this bill prohibits, with certain exceptions, the knowing manufacture, sale, offering for sale, distribution for sale or distribution for use of a children's product, upholstered residential furniture, residential textile, business textile or mattress containing any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million."
+      },
+      "exceptions": {
+        "value": [
+          "Preempted by federal law; Any flame-retardant organohalogenated chemical that: (1) Is a polymeric substance in accordance with the criteria set forth in 40 C.F.R. \u00a7 723.250, or is chemically reacted to form a polymer with the materials it is intended to protect; or (2) Has a determination of safety pursuant to 15 U.S.C. \u00a7 2604(a)(3)(C) or 15 U.S.C. \u00a7 2605(b)(4); (c) The sale or offer for sale of any previously owned product containing a flame-retardant organohalogenated chemical; (d) An electronic component of a children's product, mattress, upholstered residential furniture or residential textile or any associated casing; (e) A children's product, mattress, upholstered residential furniture or residential textile for which there is a federal or national flammability standard; (f) Thread or fiber for stitching mattress components together; or (g) Components of an adult mattress other than foam."
+        ],
+        "provenance": "Section 23 of this act defines exceptions to the provisions of section 24."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": null
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "containing any flame-retardant organohalogenated chemical in any product component"
+      }
+    }
+  ]
+}

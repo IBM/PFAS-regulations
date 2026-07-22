@@ -1,0 +1,106 @@
+{
+  "title": {
+    "value": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety",
+    "provenance": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "in this state"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 652",
+    "provenance": "## Assembly Bill No. 652"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "[Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021.]"
+  },
+  "date": {
+    "value": "2021-10-05",
+    "provenance": "[Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021.]"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals"
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Person"
+        ],
+        "provenance": "a person, including, but not limited to, a manufacturer"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "shall not sell or distribute in commerce in this state"
+      },
+      "products": {
+        "value": [
+          "Juvenile products",
+          "Baby or toddler foam pillow",
+          "Bassinet",
+          "Bedside sleeper",
+          "Booster seat",
+          "Changing pad",
+          "Child restraint system for use in motor vehicles and aircraft",
+          "Co-sleeper",
+          "Crib mattress",
+          "Floor playmat",
+          "Highchair",
+          "Highchair pad",
+          "Infant bouncer",
+          "Infant carrier",
+          "Infant seat",
+          "Infant sleep positioner",
+          "Infant swing",
+          "Infant travel bed",
+          "Infant walker",
+          "Nap cot",
+          "Nursing pad",
+          "Nursing pillow",
+          "Playmat",
+          "Playpen",
+          "Play yard",
+          "Polyurethane foam mat, pad, or pillow",
+          "Portable foam nap mat",
+          "Portable infant sleeper",
+          "Portable hook-on chair",
+          "Soft-sided portable crib",
+          "Stroller",
+          "Toddler mattress"
+        ],
+        "provenance": "'Juvenile product' means a product designed for use by infants and children under 12 years of age, including, but not limited to, a baby or toddler foam pillow, bassinet, bedside sleeper, booster seat, changing pad, child restraint system for use in motor vehicles and aircraft, co-sleeper, crib mattress, floor playmat, highchair, highchair pad, infant bouncer, infant carrier, infant seat, infant sleep positioner, infant swing, infant travel bed, infant walker, nap cot, nursing pad, nursing pillow, playmat, playpen, play yard, polyurethane foam mat, pad, or pillow, portable foam nap mat, portable infant sleeper, portable hook-on chair, soft-sided portable crib, stroller, and toddler mattress"
+      },
+      "exceptions": {
+        "value": [
+          "Children's electronic product",
+          "Medical device",
+          "Internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product",
+          "Adult mattress"
+        ],
+        "provenance": "'Juvenile product' does not include any of the following: (A) A children's electronic product, including, but not limited to, a personal computer, audio and video equipment, calculator, wireless phone, game console, handheld device incorporating a video screen, or any associated peripheral such as a mouse, keyboard, power supply unit, or power cord. (B) A medical device. (C) An internal component of a juvenile product that would not come into direct contact with a child's skin or mouth during reasonably foreseeable use and abuse of the product. (D) An adult mattress"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "PFAS that a manufacturer has intentionally added to a product and that have a functional or technical effect in the product"
+      }
+    }
+  ]
+}

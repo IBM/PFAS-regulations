@@ -1,0 +1,110 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams"
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "Sections 6 to 14.5, inclusive, of this act become effective on January 1, 2022"
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Political subdivision",
+          "Local government",
+          "State or local agency"
+        ],
+        "provenance": "any person, political subdivision, local government or state or local agency"
+      },
+      "action": {
+        "value": [
+          "Discharge",
+          "Use",
+          "Release"
+        ],
+        "provenance": "shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release"
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+        ],
+        "provenance": "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "exceptions": {
+        "value": [
+          "Preempted by or in conflict with federal law, including 14 C.F.R. Part 139 or for military purposes"
+        ],
+        "provenance": "The provisions of sections 12 and 13 of this act do not apply to the extent that those provisions are preempted by or conflict with federal law"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use' in the document"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "prohibiting, with certain exceptions, the knowing manufacture, sale, offering for sale, distribution for sale or distribution for use of a children's product, upholstered residential furniture, residential textile, business textile or mattress containing any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million"
+      },
+      "date": {
+        "value": "2022-07-01",
+        "provenance": "Sections 1 to 5, inclusive, and 15 to 26, inclusive, of this act become effective on July 1, 2022"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Wholesaler",
+          "Retailer"
+        ],
+        "provenance": "a manufacturer or wholesaler shall not knowingly manufacture, sell, offer for sale, distribute for sale or distribute for use; a retailer shall not sell or offer for sale or use"
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "shall not manufacture, sell, offer for sale, distribute for sale or distribute for use"
+      },
+      "products": {
+        "value": [
+          "children's product",
+          "upholstered residential furniture",
+          "residential textile",
+          "business textile",
+          "mattress"
+        ],
+        "provenance": "children's product, upholstered residential furniture, residential textile, business textile or mattress"
+      },
+      "exceptions": {
+        "value": [
+          "Preempted by federal law",
+          "Flame-retardant organohalogenated chemical that is a polymeric substance or chemically reacted to form a polymer",
+          "Flame-retardant organohalogenated chemical with a determination of safety",
+          "Sale or offer for sale of any previously owned product",
+          "Electronic component of a children's product, mattress, upholstered residential furniture or residential textile",
+          "Children's product, mattress, upholstered residential furniture or residential textile for which there is a federal or national flammability standard",
+          "Thread or fiber for stitching mattress components together",
+          "Components of an adult mattress other than foam"
+        ],
+        "provenance": "The provisions of this section do not apply to... the extent preempted by federal law;... any flame-retardant organohalogenated chemical that...;... the sale or offer for sale of any previously owned product;... an electronic component of a children's product, mattress, upholstered residential furniture or residential textile;... a children's product, mattress, upholstered residential furniture or residential textile for which there is a federal or national flammability standard;... thread or fiber for stitching mattress components together;... components of an adult mattress other than foam"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use' in the document"
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "The document refers to 'containing any flame-retardant organohalogenated chemical' rather than intentionally added"
+      }
+    }
+  ]
+}

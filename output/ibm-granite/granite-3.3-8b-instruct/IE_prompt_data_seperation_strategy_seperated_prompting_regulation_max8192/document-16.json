@@ -1,0 +1,64 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "This Act prohibits the sale of certain products that contain PFAS."
+      },
+      "date": {
+        "value": "2027-01-01",
+        "provenance": "Becomes operative on January 1, 2027."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Distributor",
+          "Seller"
+        ],
+        "provenance": "A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "action": {
+        "value": [
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ],
+        "provenance": "A person may not manufacture, sell, offer for sale or distribute in or into this state a new covered product that contains an intentionally added perfluoroalkyl or polyfluoroalkyl substance."
+      },
+      "products": {
+        "value": [
+          "Aqueous film-forming foam",
+          "Artificial turf",
+          "Cleaning products",
+          "Carpets or rugs",
+          "Cookware",
+          "Cosmetics",
+          "Dental floss",
+          "Fabric treatments",
+          "Packaging",
+          "Juvenile products",
+          "Menstrual products",
+          "Refrigerators",
+          "Textile articles",
+          "Ski wax",
+          "Outdoor apparel for severe wet conditions"
+        ],
+        "provenance": "Covered product means any of the following products, including any of the products' components: Aqueous film-forming foam; Artificial turf; Cleaning products; Carpets or rugs; Cookware; Cosmetics; Dental floss; Fabric treatments; Packaging; Juvenile products; Menstrual products; Refrigerators; Textile articles; Ski wax; Outdoor apparel for severe wet conditions."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No specific exceptions are mentioned in the document."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The document does not mention 'currently unavoidable use'."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Intentionally added perfluoroalkyl or polyfluoroalkyl substance is defined as a perfluoroalkyl or polyfluoroalkyl substance found in or on a covered product that serves an intended function in the covered product, is the intended result of a chemical reaction during the manufacture of the covered product, or is a by-product of a process used to manufacture the covered product."
+      }
+    }
+  ]
+}

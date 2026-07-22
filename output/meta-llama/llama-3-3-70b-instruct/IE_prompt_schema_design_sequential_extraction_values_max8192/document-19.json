@@ -1,0 +1,120 @@
+{
+  "title": {
+    "value": "AN ACT CONCERNING THE USE OF PFAS IN CERTAIN PRODUCTS"
+  },
+  "location": {
+    "value": "Connecticut"
+  },
+  "reference": {
+    "value": "Public Act No. 24-59"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2024-06-05"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2026-07-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Apparel",
+          "Carpet or rug",
+          "Cleaning product",
+          "Cookware",
+          "Cosmetic product",
+          "Dental floss",
+          "Fabric treatment",
+          "Children's product",
+          "Menstruation product",
+          "Textile furnishing",
+          "Ski wax",
+          "Upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Any product for which federal law governs or requires the presence of PFAS in the product",
+          "Any product regulated under section 22a-903a or 22a-255i of the general statutes",
+          "The sale or resale of a used product",
+          "Any prosthetic, orthotic device or product that is a medical device or drug",
+          "Any product made with not less than eighty-five per cent recycled content",
+          "Any product manufactured prior to any prohibition imposed by the provisions of this section",
+          "Replacement parts for any product manufactured prior to any prohibition imposed by the provisions of this section"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": true
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2026-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "Outdoor apparel for severe wet conditions",
+          "Turnout gear"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

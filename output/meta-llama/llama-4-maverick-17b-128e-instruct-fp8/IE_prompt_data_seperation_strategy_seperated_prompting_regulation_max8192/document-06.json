@@ -1,0 +1,52 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On or after October 1, 2024, a person may not use, supply, sell, solicit, or offer for sale in the State playground surfacing materials that contain: (1) more than 90 parts per million of lead; (2) fluorinated organic chemicals that contain at least 1 fully fluorinated carbon atom, including PFAS substances; and (3) more than 20 milligrams per kilogram of PAH."
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2024."
+      },
+      "who": {
+        "value": [
+          "Person",
+          "Manufacturer"
+        ],
+        "provenance": "(A) On or after October 1, 2024, a person may not use, supply, sell, solicit, or offer for sale in the State playground surfacing materials... (B) A manufacturer that manufactures, sells, offers for sale, or distributes for use in the State playground surfacing materials shall establish a certificate of compliance..."
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Supply",
+          "Sell",
+          "Solicit",
+          "Offer for sale",
+          "Distribute for use"
+        ],
+        "provenance": "(A) On or after October 1, 2024, a person may not use, supply, sell, solicit, or offer for sale in the State playground surfacing materials... (B) A manufacturer that manufactures, sells, offers for sale, or distributes for use in the State playground surfacing materials..."
+      },
+      "products": {
+        "value": [
+          "playground surfacing materials"
+        ],
+        "provenance": "(E) 'Playground surfacing materials' means products, materials, or substances used or installed on the ground surface of a playground in the State."
+      },
+      "exceptions": {
+        "value": [
+          "not specified"
+        ],
+        "provenance": "No exceptions mentioned in the provided text related to PFAS."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable use' in the document."
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "No mention of 'intentionally added' in the document."
+      }
+    }
+  ]
+}

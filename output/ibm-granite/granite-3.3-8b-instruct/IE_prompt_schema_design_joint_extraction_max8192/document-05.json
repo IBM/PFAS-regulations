@@ -1,0 +1,109 @@
+{
+  "title": {
+    "value": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety. Juvenile Products",
+    "provenance": "An act to add Chapter 12.5 (commencing with Section 108945) to Part 3 of Division 104 of the Health and Safety Code, relating to product safety. Juvenile Products"
+  },
+  "location": {
+    "value": "California",
+    "provenance": "The people of the State of California do enact as follows:"
+  },
+  "reference": {
+    "value": "Assembly Bill No. 652",
+    "provenance": "Assembly Bill No. 652"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021."
+  },
+  "date": {
+    "value": "2021-10-05",
+    "provenance": "Approved by Governor October 5, 2021. Filed with Secretary of State October 5, 2021."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "On and after July 1, 2023, a person, including, but not limited to, a manufacturer, shall not sell or distribute in commerce in this state any new, not previously owned, juvenile product that contains regulated PFAS chemicals."
+      },
+      "date": {
+        "value": "2023-07-01",
+        "provenance": "On and after July 1, 2023"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A person, including, but not limited to, a manufacturer"
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Distribute"
+        ],
+        "provenance": "shall not sell or distribute in commerce"
+      },
+      "products": {
+        "value": [
+          "Juvenile product"
+        ],
+        "provenance": "any new, not previously owned, juvenile product"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": ""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "The bill specifies concentrations (up to 100 parts per million) at which PFAS are regulated, implying that uses below this level are not considered currently unavoidable."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Regulated PFAS includes those that a manufacturer has intentionally added to a product."
+      }
+    },
+    {
+      "type": {
+        "value": "Report",
+        "provenance": "A manufacturer shall use the least toxic alternative when replacing PFAS chemicals in a juvenile product."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": ""
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ],
+        "provenance": "A manufacturer shall"
+      },
+      "action": {
+        "value": [
+          "Replace"
+        ],
+        "provenance": "use the least toxic alternative when replacing PFAS chemicals"
+      },
+      "products": {
+        "value": [
+          "Juvenile product"
+        ],
+        "provenance": "in a juvenile product"
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": ""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "This regulation pertains to the replacement of PFAS, implying that their use is not currently unavoidable."
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "The regulation pertains to replacing intentionally added PFAS."
+      }
+    }
+  ]
+}

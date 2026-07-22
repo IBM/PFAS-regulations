@@ -1,0 +1,201 @@
+{
+  "title": {
+    "value": "Senate Bill 543"
+  },
+  "location": {
+    "value": "Oregon"
+  },
+  "reference": {
+    "value": "SB 543"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2025-01-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "polystyrene foam container"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "A cooler or other container that is made of a polystyrene foam, that is intended for more than one use and that is enclosed by a solid shell",
+          "A tray or container used solely to store, ship or otherwise transport an ingredient or food product that is not prepared food",
+          "Polystyrene plastic material, other than polystyrene foam packaging peanuts, that is used solely for packing or protecting other items during storage, shipping or other transportation"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Seller"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "foodware container"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Made from fiber\u2011based materials",
+          "Certified as compostable under section 5 of this 2023 Act",
+          "Included on the uniform statewide collection list established under ORS 459A.914"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "polystyrene foam containers",
+          "polystyrene foam packaging peanuts"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Seller",
+          "Distributor"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute"
+        ]
+      },
+      "products": {
+        "value": [
+          "foodware container containing perfluoroalkyl or polyfluoroalkyl substances"
+        ]
+      },
+      "exceptions": {
+        "value": []
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    },
+    {
+      "type": {
+        "value": "Label"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell"
+        ]
+      },
+      "products": {
+        "value": [
+          "compostable products"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "The department may not authorize a person to certify a product as compostable if the product is produced by the person, a parent company, subsidiary, or a similarly related entity"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": false
+      }
+    }
+  ]
+}

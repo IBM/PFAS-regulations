@@ -1,0 +1,31 @@
+{
+  "title": "A BILL FOR AN ACT Relating to prohibitions for certain products; creating new provisions; and amending ORS 459.995",
+  "location": "Oregon",
+  "reference": "Senate Bill 543",
+  "status": "Law/Statute",
+  "date": "2025-01-01",
+  "pfas_definition": "usepa_2023_list-based",
+  "regulations": [
+    {
+      "type": "Ban/Restrict",
+      "date": "2025-01-01",
+      "who": [
+        "Person"
+      ],
+      "action": [
+        "Sell",
+        "Distribute"
+      ],
+      "products": [
+        "polystyrene foam containers",
+        "polystyrene foam packaging peanuts",
+        "foodware containers containing perfluoroalkyl or polyfluoroalkyl substances"
+      ],
+      "exceptions": [
+        "Polystyrene plastic material, other than polystyrene foam packaging peanuts, that is used solely for packing or protecting other items during storage, shipping or other transportation"
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": false
+    }
+  ]
+}

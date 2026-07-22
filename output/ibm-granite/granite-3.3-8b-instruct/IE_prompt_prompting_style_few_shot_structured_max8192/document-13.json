@@ -1,0 +1,153 @@
+{
+  "title": {
+    "value": "An Act Relating to Prohibitions for Certain Products; Creating New Provisions; and Amending ORS 459.995",
+    "provenance": "SECTION 1. As used in sections 1 to 4 of this 2023 Act: 'A Bill For An Act'"
+  },
+  "location": {
+    "value": "Oregon",
+    "provenance": "People of the State of Oregon"
+  },
+  "reference": {
+    "value": "Senate Bill 543",
+    "provenance": "Sponsored by Senators SOLLMAN, DEMBROW, Representative DEXTER (Presession filed.)"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "Be It Enacted by the People of the State of Oregon:"
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "Presession filed."
+  },
+  "pfas_definition": {
+    "value": "echa_2021_structure-based",
+    "provenance": "Perfluoroalkyl or polyfluoroalkyl substance means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 2. (1) A food vendor may not use a polystyrene foam container in selling, offering for sale, serving or dispensing prepared food to a consumer."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Food vendor"
+        ],
+        "provenance": "A food vendor may not use a polystyrene foam container..."
+      },
+      "action": {
+        "value": [
+          "use"
+        ],
+        "provenance": "may not use a polystyrene foam container"
+      },
+      "products": {
+        "value": [
+          "polystyrene foam container"
+        ],
+        "provenance": "A food vendor may not use a polystyrene foam container..."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": ""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": ""
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": ""
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 3. A person may not sell, offer for sale or distribute in or into this state polystyrene foam containers or polystyrene foam packaging peanuts."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A person may not sell, offer for sale or distribute..."
+      },
+      "action": {
+        "value": [
+          "sell",
+          "offer for sale",
+          "distribute"
+        ],
+        "provenance": "may not sell, offer for sale or distribute..."
+      },
+      "products": {
+        "value": [
+          "polystyrene foam containers",
+          "polystyrene foam packaging peanuts"
+        ],
+        "provenance": "A person may not sell, offer for sale or distribute..."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": ""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": ""
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": ""
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "SECTION 4. A person may not sell, offer for sale, or distribute in or into this state a foodware container containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute..."
+      },
+      "action": {
+        "value": [
+          "sell",
+          "offer for sale",
+          "distribute"
+        ],
+        "provenance": "may not sell, offer for sale or distribute..."
+      },
+      "products": {
+        "value": [
+          "foodware container containing perfluoroalkyl or polyfluoroalkyl substances"
+        ],
+        "provenance": "A person may not sell, offer for sale, or distribute..."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": ""
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": ""
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": ""
+      }
+    }
+  ]
+}

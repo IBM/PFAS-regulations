@@ -1,0 +1,56 @@
+{
+  "title": {
+    "value": "AN ACT concerning Environment - Playground Surfacing Materials - Prohibitions",
+    "provenance": "HOUSE BILL 1147"
+  },
+  "location": {
+    "value": "Maryland",
+    "provenance": "Maryland"
+  },
+  "reference": {
+    "value": "HOUSE BILL 1147",
+    "provenance": "HOUSE BILL 1147"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT"
+  },
+  "date": {
+    "value": "2024-10-01",
+    "provenance": "ON OR AFTER OCTOBER 1, 2024"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "PFAS MEANS PER- AND POLYFLUOROALKYL SUBSTANCES."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "A PERSON MAY NOT USE, SUPPLY, SELL, SOLICIT, OR OFFER FOR SALE IN THE STATE PLAYGROUND SURFACING MATERIALS THAT CONTAIN..."
+      },
+      "date": {
+        "value": "2024-10-01",
+        "provenance": "ON OR AFTER OCTOBER 1, 2024"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Seller"
+      ],
+      "action": [
+        "Use",
+        "Supply",
+        "Sell"
+      ],
+      "products": [
+        "playground surfacing materials"
+      ],
+      "exceptions": [
+        "playground surfacing materials that contain PAH, PFAS, or lead that are more stringent than the requirements of this subtitle"
+      ],
+      "currently_unavoidable": false,
+      "intentionally_added": false
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits food vendor from using polystyrene foam container in sales of prepared food. Prohibits food vendor from providing single-use foodware containers to consumer unless foodware containers meet certain criteria. Prohibits person from selling or distributing polystyrene foam containers or polystyrene foam packaging peanuts. Prohibits person from selling or distributing foodware containers containing perfluoroalkyl or polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "2025-01-01",
+        "provenance": "Prohibitions become operative January 1, 2025."
+      },
+      "who": {
+        "value": [
+          "Food vendor",
+          "Person"
+        ],
+        "provenance": "A food vendor may not... A person may not sell, offer for sale or distribute... A person may not sell, offer for sale, or distribute... A person may not sell, offer for sale, or distribute..."
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Provide",
+          "Sell",
+          "Distribute",
+          "Offer for sale",
+          "Distribute for sale"
+        ],
+        "provenance": "Prohibits food vendor from using... Prohibits food vendor from providing... Prohibits person from selling or distributing... Prohibits person from selling or distributing..."
+      },
+      "products": {
+        "value": [
+          "Polystyrene foam containers",
+          "Single-use foodware containers",
+          "Polystyrene foam packaging peanuts",
+          "Foodware containers containing perfluoroalkyl or polyfluoroalkyl substances"
+        ],
+        "provenance": "Prohibits food vendor from using a polystyrene foam container... Prohibits food vendor from providing... Prohibits person from selling or distributing... Prohibits person from selling or distributing..."
+      },
+      "exceptions": {
+        "value": [],
+        "provenance": "No exceptions are explicitly mentioned in the document."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "No mention of 'currently unavoidable' use in the document."
+      },
+      "intentionally_added": {
+        "value": false,
+        "provenance": "No mention of 'intentionally added' in the document."
+      }
+    }
+  ]
+}

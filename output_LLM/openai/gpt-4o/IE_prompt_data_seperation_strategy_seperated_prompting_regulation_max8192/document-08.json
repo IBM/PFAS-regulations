@@ -1,0 +1,51 @@
+{
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Prohibits sale, manufacture, distribution, and use of firefighting foam containing intentionally added perfluoroalkyl and polyfluoroalkyl substances."
+      },
+      "date": {
+        "value": "not specified",
+        "provenance": "Beginning two years after the effective date of this act"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ],
+        "provenance": "no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+      },
+      "action": {
+        "value": [
+          "Use",
+          "Sell",
+          "Offer for sale",
+          "Manufacture",
+          "Distribute for sale",
+          "Distribute for use"
+        ],
+        "provenance": "no person shall use, or shall sell, offer for sale, manufacture, or distribute for sale or use in the State any class B firefighting foam containing intentionally added PFAS."
+      },
+      "products": {
+        "value": [
+          "class B firefighting foam"
+        ],
+        "provenance": "'Class B firefighting foam' means foam designed to prevent or extinguish a fire in flammable liquids, combustible liquids, petroleum greases, tars, oils, oil-based paints, solvents, lacquers, alcohols, and flammable gases."
+      },
+      "exceptions": {
+        "value": [
+          "the sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law, or by a rule or regulation adopted pursuant thereto, including, but not limited to, 14 C.F.R. s.139.317."
+        ],
+        "provenance": "Subsection a. of this section shall not apply to the sale, manufacture, distribution, or use of class B firefighting foam for which the inclusion of PFAS is required by federal law, or by a rule or regulation adopted pursuant thereto, including, but not limited to, 14 C.F.R. s.139.317."
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "containing intentionally added perfluoroalkyl and polyfluoroalkyl substances."
+      }
+    }
+  ]
+}

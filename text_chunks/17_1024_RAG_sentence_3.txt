@@ -1,0 +1,67 @@
+
+Referred to Committee on Natural Resources
+SUMMARY-Revises provisions governing toxic chemicals. (BDR 40-141)
+FISCAL NOTE:  Effect on Local Government: Increases or Newly Provides for Term of Imprisonment in County or City Jail or Detention Facility.
+Effect on the State: Yes.
+~
+EXPLANATION - Matter in bolded italics is new; matter between brackets  omitted material  is material to be omitted. [ ]
+AN  ACT  relating  to  toxic  chemicals;  prohibiting,  with  certain exceptions, the discharge, use or release of certain Class B  firefighting  foams;  requiring,  with  certain  exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental  Protection  of  the  State  Department  of Conservation and Natural Resources; requiring the Division  to  establish  a  working  group  to  study  issues relating  to  certain  substances;  prohibiting,  with  certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties;  and  providing  other  matters  properly  relating thereto.
+Legislative Counsel's Digest:
+Existing  law  establishes  various  requirements  for  the  regulation of  hazardous waste,  hazardous  materials  and  hazardous  substances.  (Chapter  459  of  NRS) Section  12 of  this  bill prohibits,  with  certain  exceptions,  a  person,  political subdivision, local government or state or local agency from discharging, using or releasing, or allowing its employees or independent contractors to discharge, use or release, Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances for testing or firefighting training purposes.
+Section  13 of this bill requires any  person, political subdivision, local government or state or local agency who discharges, uses or releases, or allows its employees  or  independent  contractors  to  discharge,  use  or  release,  Class  B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl  substances  to  notify  the  Division  of  Environmental  Protection  of
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+the State Department of Conservation and Natural Resources within 24 hours after the discharge, use or release.
+Section 14.5 of  this bill requires the Division to establish a working group to study issues relating to environmental contamination resulting from perfluoroalkyl and polyfluoroalkyl substances.
+Sections  8 9 -of  this  bill  define  various  terms  relating  to  the  provisions  of sections 7-14.5 of this bill.
+Section 10 of this bill provides an exception to the requirements and prohibitions set forth in sections 12 and 13 to the extent that those provisions are preempted by or conflict with federal law.
+Section 24 of this bill prohibits, with certain exceptions, the knowing manufacture, sale, offering for sale, distribution for sale or distribution for use of a children's  product,  upholstered  residential  furniture,  residential  textile,  business textile  or  mattress  containing  any  flame-retardant  organohalogenated  chemical  in any product component in amounts greater than 1,000 parts per million. Section 25 of this bill prohibits, with certain exceptions, a manufacturer from replacing such a flame-retardant organohalogenated chemical with any other chemical that is known or suspected with a high degree of probability to: (1) harm the normal development of  a  fetus  or  child;  (2)  cause  cancer,  genetic  damage  or  reproductive  harm;  (3) disrupt the endocrine system; or (4) damage the nervous system, immune system or organs or cause other systemic toxicity. Section 26 of this bill makes a person who willfully  and  knowingly  violates section  24  or 25 subject  to  a  maximum  civil penalty of $1,000. Sections 17-23 of  this bill define certain terms related to these prohibitions.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+2.    The  working  group  established  pursuant  to  subsection  1 shall, without limitation:
+(a)  Evaluate the potential for environmental contamination in this State resulting from perfluoroalkyl and polyfluoroalkyl substances;
+(b)  Determine the location of potentially significant discharges or releases of perfluoroalkyl and polyfluoroalkyl substances in this State;
+(c)  Determine the potential sources of exposure to perfluoroalkyl and polyfluoroalkyl substances for residents of this State;
+(d)  Compile information relating to existing federal, state and local  actions  to  monitor,  contain  and  clean  up  environmental contamination  resulting  from  perfluoroalkyl  and  polyfluoroalkyl substances; and
+(e)  Develop  recommendations  for  state  and  local  action  to monitor, contain and  clean  up environmental  contamination resulting from perfluoroalkyl and polyfluoroalkyl substances.
+3.    The members of the working group serve without compensation.
+4.    As used in this section, 'public agency' means an agency, bureau, board, commission, department or division of the State of Nevada or a political subdivision of the State of Nevada.
+Sec.  15. Chapter  597  of  NRS  is  hereby  amended  by  adding thereto the provisions set forth as sections 16 to 26, inclusive, of this act.
+Sec.  16. As used in sections  16  to  26,  inclusive,  of  this  act, unless the context otherwise requires, the words and terms defined in  sections  17  to  23,  inclusive,  of  this  act  have  the  meanings ascribed to them in those sections.
+Sec.  17. 'Business textile' means a textile  designed  for  use in a business or commercial setting as a covering on windows or walls.
+Sec.  18. 'Child' means a person under 12 years of age.
+Sec.  19. 1.    'Children's product' means a product primarily designed  or  intended  by  a  manufacturer  to  be  used  by  or  for  a
+child, including, without limitation, any article used as a component of such a product.
+2.    The term does not include:
+(a)  Food, beverage, dietary supplement, pharmaceutical product or biologic;
+(b)  A  children's  toy  that  meets  the  requirements  of  the  most recent version of the ASTM  International Standard F963, 'Standard Consumer Safety Specification for Toy Safety;'
+(c)  A device,  as defined  in  the  Federal  Food,  Drug  and Cosmetic Act, 21 U.S.C. § 321(h);
+(d)  Consumer electronics products and electronic components, including, without limitation, personal computers, audio and video equipment, calculators, digital displays, wireless phones, cameras, game consoles, printers, handheld electronic and electrical devices used  to  access  interactive  software  or  associated  peripherals  or products that comply with the provisions of Directive 2002/95/EC of the European Union, adopted by the European Parliament and Council of the European Union;
+(e)  Outdoor  sports  equipment,  including,  without  limitation, snowmobiles,  all-terrain  vehicles,  personal  watercraft,  watercraft and off-highway vehicles, and all attachments and repair parts of such equipment; or
+(f)  A tent or sleeping bag.
+Sec.  20. 'Mattress'  has  the  meaning  ascribed  to  it  in  16 C.F.R. § 1632.1.
+Sec.  21. 'Organohalogenated chemical' means any chemical that contains one or more carbon elements and one or more  halogen  elements,  including,  without  limitation,  fluorine, chlorine, bromine or iodine.
+Sec.  22. 'Residential  textile'  means  a  textile  designed  for residential use as a covering on windows or walls.
+Sec.  23. 'Upholstered residential furniture' means furniture with padding, coverings and cushions intended and sold for use in a residence.
+Sec.  24. 1.    Except as otherwise provided in subsection 3, a manufacturer  or  wholesaler  shall  not  knowingly  manufacture, sell,  offer  for  sale,  distribute for sale or distribute for use in this State a children's product, upholstered residential furniture, residential  textile,  business  textile  or  mattress  that  contains  any flame-retardant organohalogenated chemical in any product component in amounts greater than 1,000 parts per million.
+2.    Except  as  otherwise  provided  in  subsection  3,  a  retailer shall  not  sell  or  offer  for  sale  or  use  in  this  State,  a  children's product, upholstered residential furniture, residential textile, business  textile  or  mattress  that  contains  any  flame-retardant
+organohalogenated chemical in any product component in amounts greater than 1,000 parts per million.
+3.    The provisions of this section do not apply to:
+(a)  The extent preempted by federal law;
+(b)  Any flame-retardant organohalogenated chemical that:

@@ -1,0 +1,254 @@
+{
+  "title": {
+    "value": "An Act to Amend the Laws Relating to the Prevention of Perfluoroalkyl and Polyfluoroalkyl Substances Pollution"
+  },
+  "location": {
+    "value": "State of Maine"
+  },
+  "reference": {
+    "value": "S.P. 610 - L.D. 1537"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2024-04-16"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Report"
+      },
+      "date": {
+        "value": "2025-01-01"
+      },
+      "who": {
+        "value": [
+          "Manufacturer"
+        ]
+      },
+      "action": {
+        "value": [
+          "not specified"
+        ]
+      },
+      "products": {
+        "value": [
+          "all products containing intentionally added PFAS"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Manufacturers that employ 25,100 or fewer people are exempt from the notification requirement"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2023-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "carpet or rug"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Sale, offer for sale or distribution for sale of a used carpet or rug in used condition is exempt"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2023-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "fabric treatment"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Sale, offer for sale or distribution for sale of a used fabric treatment in used condition is exempt",
+          "Sale of a fabric treatment that does not contain intentionally added PFAS but is sold in a fluorinated container or a container that otherwise contains intentionally added PFAS is prohibited"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2026-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "cleaning product",
+          "cookware product",
+          "cosmetic product",
+          "dental floss",
+          "juvenile product",
+          "menstruation product",
+          "textile article",
+          "ski wax",
+          "upholstered furniture"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Outdoor apparel for severe wet conditions is exempt from the prohibition on textile articles",
+          "A textile article that is included in or a component part of a watercraft, aircraft or motor vehicle (including off\u2011highway vehicles) is exempt",
+          "Sale, offer for sale or distribution for sale of any of the listed products in used condition is exempt"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2029-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "artificial turf",
+          "outdoor apparel for severe wet conditions"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Sale, offer for sale or distribution for sale of the listed products in used condition is exempt",
+          "Outdoor apparel for severe wet conditions must carry a legible disclosure stating \u201cMade with PFAS chemicals\u201d when sold"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    },
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2040-01-01"
+      },
+      "who": {
+        "value": [
+          "Person"
+        ]
+      },
+      "action": {
+        "value": [
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale"
+        ]
+      },
+      "products": {
+        "value": [
+          "cooling, heating, ventilation, air conditioning or refrigeration equipment",
+          "refrigerants",
+          "foams",
+          "aerosol propellants"
+        ]
+      },
+      "exceptions": {
+        "value": [
+          "Sale, offer for sale or distribution for sale of the listed products in used condition is exempt",
+          "Parts and servicing needs for cooling, heating, ventilation, air conditioning or refrigeration equipment are exempt",
+          "Refrigerants, foams or aerosol propellants that are listed as acceptable (or acceptable with use conditions or narrowed use limits) by the U.S. EPA under the Significant New Alternatives Policy program are exempt when sold for the listed use"
+        ]
+      },
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}

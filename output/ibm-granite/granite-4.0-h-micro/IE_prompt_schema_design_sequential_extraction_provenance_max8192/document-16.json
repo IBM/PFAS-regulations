@@ -1,0 +1,46 @@
+{
+  "title": "A BILL FOR AN ACT Relating to PFAS",
+  "location": "Oregon",
+  "reference": "HB 3512",
+  "status": "Law/Statute",
+  "date": "2027-01-01",
+  "pfas_definition": "single_fluorinated_carbon",
+  "regulations": [
+    {
+      "type": "Ban/Restrict",
+      "date": "2027-01-01",
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Importer",
+        "Distributor",
+        "Seller"
+      ],
+      "action": [
+        "Manufacture",
+        "Sell",
+        "Offer for sale",
+        "Distribute"
+      ],
+      "products": [
+        "Aqueous film-forming foam",
+        "Artificial turf",
+        "Cleaning products",
+        "Carpets or rugs",
+        "Cookware",
+        "Cosmetics",
+        "Dental floss",
+        "Fabric treatments",
+        "Packaging",
+        "Juvenile products",
+        "Menstrual products",
+        "Refrigerators",
+        "Textile articles",
+        "Ski wax"
+      ],
+      "exceptions": [],
+      "currently_unavoidable": false,
+      "intentionally_added": true
+    }
+  ]
+}

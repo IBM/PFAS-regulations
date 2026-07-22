@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "An Act relating to PFAS",
+    "provenance": "SECTION 1. As used in sections 1 to 4 of this 2025 Act: ... SECTION 5. Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+  },
+  "location": {
+    "value": "State of Oregon",
+    "provenance": "Sponsored by Representative NERON, Senator PATTERSON ... Be It Enacted by the People of the State of Oregon:"
+  },
+  "reference": {
+    "value": "House Bill 3512",
+    "provenance": "## House Bill 3512 ... Sponsored by Representative NERON, Senator PATTERSON"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "SECTION 5. Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+  },
+  "date": {
+    "value": "2025",
+    "provenance": "SECTION 5. Sections 1 to 4 of this 2025 Act become operative on January 1, 2027."
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "SECTION 1 (16) 'Perfluoroalkyl or polyfluoroalkyl substance' means a substance included in a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom, also commonly known as PFAS."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "value": "AN ACT concerning safety",
+    "provenance": "AN ACT concerning safety."
+  },
+  "location": {
+    "value": "Illinois",
+    "provenance": "The Environmental Protection Act is amended by the People of the State of Illinois"
+  },
+  "reference": {
+    "value": "ILCS 5/22.62",
+    "provenance": "Sec. 22.62"
+  },
+  "status": {
+    "value": "Law/Statute",
+    "provenance": "AN ACT concerning safety."
+  },
+  "date": {
+    "value": "not specified",
+    "provenance": "not specified"
+  },
+  "pfas_definition": {
+    "value": "usepa_2023_list-based",
+    "provenance": "No specific PFAS definition is provided in the given text."
+  }
+}

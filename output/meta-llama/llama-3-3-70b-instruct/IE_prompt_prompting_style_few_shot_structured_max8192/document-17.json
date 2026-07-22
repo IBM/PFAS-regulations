@@ -1,0 +1,94 @@
+{
+  "title": {
+    "value": "AN ACT relating to toxic chemicals",
+    "provenance": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams;"
+  },
+  "location": {
+    "value": "Nevada",
+    "provenance": "THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:"
+  },
+  "reference": {
+    "value": "ASSEMBLY BILL NO. 97",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS"
+  },
+  "status": {
+    "value": "Bill",
+    "provenance": "ASSEMBLY BILL NO. 97-ASSEMBLYMAN WATTS"
+  },
+  "date": {
+    "value": "2021-02-08",
+    "provenance": "FEBRUARY 8, 2021"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon",
+    "provenance": "Sec. 9. 'Perfluoroalkyl and polyfluoroalkyl substances' means a class of fluorinated organic chemicals that contain at least one fully fluorinated carbon atom."
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict",
+        "provenance": "Sec. 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      },
+      "date": {
+        "value": "2022-01-01",
+        "provenance": "Sec. 27. 2. (b) On January 1, 2022, for all other purposes."
+      },
+      "who": {
+        "value": [
+          "Manufacturer",
+          "Supplier",
+          "Importer",
+          "Distributor",
+          "Seller",
+          "User",
+          "Person",
+          "State agency",
+          "Local government"
+        ],
+        "provenance": "Sec. 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency"
+      },
+      "action": {
+        "value": [
+          "Make",
+          "Manufacture",
+          "Distribute",
+          "All",
+          "Sell",
+          "Offer for sale",
+          "Distribute for sale",
+          "Discharge",
+          "Use",
+          "Distribute for use"
+        ],
+        "provenance": "Sec. 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release"
+      },
+      "products": {
+        "value": [
+          "Class B firefighting foam",
+          "children's product",
+          "upholstered residential furniture",
+          "residential textile",
+          "business textile",
+          "mattress"
+        ],
+        "provenance": "Sec. 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam"
+      },
+      "exceptions": {
+        "value": [
+          "federal law",
+          "medical devices",
+          "military use"
+        ],
+        "provenance": "Sec. 10. The provisions of sections 12 and 13 of this act do not apply to the extent that those provisions are preempted by or conflict with federal law"
+      },
+      "currently_unavoidable": {
+        "value": false,
+        "provenance": "Not specified"
+      },
+      "intentionally_added": {
+        "value": true,
+        "provenance": "Sec. 12. 1. Except as otherwise provided in this section and section 10 of this act, a person, political subdivision, local government or state or local agency shall not discharge, use or release, or allow its employees or independent contractors to discharge, use or release, any Class B firefighting foam that contains intentionally added perfluoroalkyl and polyfluoroalkyl substances"
+      }
+    }
+  ]
+}

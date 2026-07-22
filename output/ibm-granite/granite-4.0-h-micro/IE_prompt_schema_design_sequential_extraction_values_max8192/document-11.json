@@ -1,0 +1,57 @@
+{
+  "title": {
+    "value": "A BILL FOR AN ACT RELATING TO ENVIRONMENTAL PROTECTION"
+  },
+  "location": {
+    "value": "State of Hawaii"
+  },
+  "reference": {
+    "value": "HB1644 CD1"
+  },
+  "status": {
+    "value": "Law/Statute"
+  },
+  "date": {
+    "value": "2022-07-01"
+  },
+  "pfas_definition": {
+    "value": "single_fluorinated_carbon"
+  },
+  "regulations": [
+    {
+      "type": {
+        "value": "Ban/Restrict"
+      },
+      "date": {
+        "value": "2024-07-01"
+      },
+      "who": [
+        "Manufacturer",
+        "Supplier",
+        "Distributor",
+        "Seller"
+      ],
+      "action": [
+        "Manufacture",
+        "Sell",
+        "Distribute"
+      ],
+      "products": [
+        "wraps and liners",
+        "plates",
+        "food boats",
+        "pizza boxes",
+        "class B firefighting foams"
+      ],
+      "exceptions": [
+        "manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS chemicals is required by federal law or regulations"
+      ],
+      "currently_unavoidable": {
+        "value": false
+      },
+      "intentionally_added": {
+        "value": true
+      }
+    }
+  ]
+}
