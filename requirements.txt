@@ -1,0 +1,11 @@
+ibm-watsonx-ai
+python-dotenv
+rouge-score
+docling
+docling-core
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-embeddings-nvidia
+transformers
+openai
+numpy

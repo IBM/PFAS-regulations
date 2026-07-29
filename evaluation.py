@@ -312,7 +312,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Evaluate model output against the golden dataset.")
     parser.add_argument("pred_folder", help="Path to a model output subfolder containing document-NN.json files.")
-    parser.add_argument("--gt_folder", default="golden_dataset", help="Path to the golden dataset folder (default: golden_dataset).")
+    parser.add_argument("--gt_folder", default="golden_dataset_json", help="Path to the golden dataset folder (default: golden_dataset_json).")
     parser.add_argument("--output", default=None, help="Path for the results .txt file (optional).")
     args = parser.parse_args()
 
